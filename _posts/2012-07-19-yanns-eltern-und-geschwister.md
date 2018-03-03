@@ -3,7 +3,7 @@ id: 757
 title: 'Yann&#8217;s Eltern und Geschwister'
 date: 2012-07-19T21:42:12+00:00
 author: Yann
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=757
 permalink: /yanns-eltern-und-geschwister/
 categories:

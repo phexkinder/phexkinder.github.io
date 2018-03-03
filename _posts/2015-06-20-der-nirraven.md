@@ -3,7 +3,7 @@ id: 1209
 title: Der Nirraven
 date: 2015-06-20T13:12:16+00:00
 author: Taran
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=1209
 permalink: /der-nirraven/
 categories:

@@ -3,7 +3,7 @@ id: 749
 title: 'Geschichten  mit Wolfhart und Coran'
 date: 2012-07-19T21:13:52+00:00
 author: Wolfhart
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=749
 permalink: /geschichten-mit-wolfhart-und-coran/
 categories:

@@ -3,7 +3,7 @@ id: 745
 title: Es ist nicht einfach zu breschreiben
 date: 2012-07-19T21:10:04+00:00
 author: Wolfhart
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=745
 permalink: /es-ist-nicht-einfach-zu-breschreiben/
 categories:

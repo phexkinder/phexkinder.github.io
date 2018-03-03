@@ -3,7 +3,7 @@ id: 184
 title: Von den Orken
 date: 2012-05-03T11:52:43+00:00
 author: Taran
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=184
 permalink: /von-den-orken/
 categories:

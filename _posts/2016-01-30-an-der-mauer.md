@@ -3,7 +3,7 @@ id: 1229
 title: An der Mauer
 date: 2016-01-30T01:03:20+00:00
 author: Wolfhart
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=1229
 permalink: /an-der-mauer/
 categories:

@@ -3,7 +3,7 @@ id: 752
 title: Gedanken eynes Kriegers (in Überarbeitung)
 date: 2012-07-19T21:22:47+00:00
 author: Wolfhart
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=752
 permalink: /erinnerungen-eynes-kriegers/
 categories:

@@ -3,7 +3,7 @@ id: 738
 title: Brief an Wolfhart
 date: 2012-07-19T21:00:47+00:00
 author: Yann
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=738
 permalink: /brief-an-wolfhart/
 categories:

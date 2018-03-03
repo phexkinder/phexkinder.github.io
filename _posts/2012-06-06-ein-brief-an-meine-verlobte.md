@@ -3,7 +3,7 @@ id: 601
 title: Ein Brief an meine Verlobte
 date: 2012-06-06T21:47:45+00:00
 author: Durin
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=601
 permalink: /ein-brief-an-meine-verlobte/
 categories:

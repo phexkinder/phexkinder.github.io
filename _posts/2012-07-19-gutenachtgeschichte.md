@@ -3,7 +3,7 @@ id: 708
 title: Gutenachtgeschichte
 date: 2012-07-19T20:19:16+00:00
 author: Wolfhart
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=708
 permalink: /gutenachtgeschichte/
 categories:

@@ -3,7 +3,7 @@ id: 1197
 title: Brief an die drei Kirchen
 date: 2015-03-17T19:44:22+00:00
 author: Taran
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=1197
 permalink: /brief-an-die-drei-kirchen/
 categories:

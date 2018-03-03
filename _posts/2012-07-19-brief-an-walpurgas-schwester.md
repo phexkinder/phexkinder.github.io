@@ -3,7 +3,7 @@ id: 730
 title: Brief an Walpurgas Schwester
 date: 2012-07-19T20:55:18+00:00
 author: Wolfhart
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=730
 permalink: /brief-an-walpurgas-schwester/
 categories:

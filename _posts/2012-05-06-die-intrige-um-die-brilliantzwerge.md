@@ -3,7 +3,7 @@ id: 385
 title: Die Intrige um die Brilliantzwerge
 date: 2012-05-06T12:50:02+00:00
 author: Taran
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=385
 permalink: /die-intrige-um-die-brilliantzwerge/
 categories:

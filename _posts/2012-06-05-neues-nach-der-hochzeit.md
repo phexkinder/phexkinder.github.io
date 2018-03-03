@@ -3,7 +3,7 @@ id: 525
 title: Neues nach der Hochzeit
 date: 2012-06-05T00:27:31+00:00
 author: Matthias
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=525
 permalink: /neues-nach-der-hochzeit/
 categories:

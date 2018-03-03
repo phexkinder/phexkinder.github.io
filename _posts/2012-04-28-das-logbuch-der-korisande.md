@@ -3,7 +3,7 @@ id: 127
 title: Das Logbuch der Korisande
 date: 2012-04-28T20:42:55+00:00
 author: Brin
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=127
 permalink: /das-logbuch-der-korisande/
 image: /wp-content/uploads/Brin_richtig_gut-600x288.jpg

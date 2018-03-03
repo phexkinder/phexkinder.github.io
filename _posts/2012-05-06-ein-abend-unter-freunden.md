@@ -3,7 +3,7 @@ id: 399
 title: Ein Abend unter Freunden
 date: 2012-05-06T13:22:10+00:00
 author: Taran
-layout: post
+layout: single
 guid: http://www.phexkinder.de/?p=399
 permalink: /ein-abend-unter-freunden/
 categories:
