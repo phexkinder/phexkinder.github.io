@@ -1,0 +1,31 @@
+---
+id: 682
+title: Hintergrund
+date: 2012-07-05T22:50:07+00:00
+author: Wolfhart
+layout: page
+guid: http://www.phexkinder.de/?page_id=682
+---
+<p style="text-align: justify;">
+  Irion Angbarar, der Sohn eines Senners, war neunzehn Jahre alt als sein Vater starb und es an ihm war seine kranke Mutter zu versorgen. Alleine  konnte er das nicht und musste zusehen wie Haus und Hof immer mehr verkamen. Auch die Krankheit seiner Muter besserte sich nicht und sie starb wenige Monate nach ihrem Mann. Hilflos und völlig überfordert suchte Irion Unterstützung bei der Dorfgemeinschaft. Brongar der Dorfälteste rat ihm er solle in die Stadt und sich eine Arbeit suchen, sich eine treue Frau suchen und eine eigene Familie gründen. Doch viele der Dorfbewohner sahen darin die Machenschaften Brongars, mit dem Ziel sich das Land von Irions Vater zu erschleichen. Irion so gewarnt versuchte also das Land seines Vaters zu bearbeiten und allein Haus und hof wieder aufzubauen. Doch kam ihm das Ringen der Fürsten um Macht in die Quere. Das Reich war in dieser Zeit ohne Kaiser und seine Nachfolge wurde umkämpft. Nicht das die einfache Bevölkerung mit den Steuern schon zu genüge Belastet gewesen wäre, nein, es kam zur offenen, kriegerischen Auseinandersetzung zwischen den Fürsten, so das die Büttel Männer im kriegsfähigen Alter zum Kriegsdienst holten. Irion war einer der ersten die dem eisernem Griff des Fürsten folge leisten mussten. Hatte er doch weder Weib noch Kind. So ging schon während der ersten Kriegsmonate sein Besitz an Brongar über. Und im Kriegshaufen des Fürsten war das Leben für Irion auch nicht das einfachste. Aber Irion war noch jung und sein wille zu Leben war groß und als die Schlachthörner riefen, Signale über die Felder schallten und die Kriegsmänner sich entgegenrannten, brach sich seine Bitterkeit bis zu seinen Feinden frei. Er kämpfte wie ein Berserker, lies keine Klinge an sich heran, wie er sonst nur wenige Menschen zu sich heran lies, mähte fast wie eine Sense durch trockenes Gras und schien ein gottgegebenes Talent für die Schlacht zu haben. Nach jeder Schlacht wussten alle seine Kameraden sich Geschichten über das Glück, das Können und die übermäßige Gefahr zu berichten, die von Irion ausging. Zu neuen Männern im Schlachthaufen sagte Mann bereits: “Bleibt in der Nähe von Irion, dann passiert euch nichts.“ Er fiel seinem Fürsten schon beim ersten Angriff auf, aber erst nach der letzten Schlacht, and der Irion auch teilnahm und nur leicht verletzt herausging, rief er seinen treuen Krieger zu sich. Irion, dessen Kette in fetzen hing und sein Schild müde von sich warf, erhob sich voller stolz und trat seinem Fürsten, dem neuen Kaiser entgegen. Vor den überlebenden Kameraden und den besiegten Feinden, vor den Weibern, die sich um die Verletzten kümmerten und den Geweihten, die den toten den letzten Segen brachten, sprach der Fürst Irion den lebenslangen Adelstitel und ein Lehen des Kaisers in der Grafschaft Winhall zu.
+</p>
+
+<p style="text-align: justify;">
+  Das Lehen war nicht groß und auch nicht in bestem Zustand, aber Irion war nicht als adeliger geboren und schwere Arbeit gewohnt. Er arbeitet viel mit den eigenen Händen und war wegen seiner Unkompliziertheit schnell beliebt beim einfachen Volk. Sein können in der Kunst des Kampfes stellte er in einer Kämpferschule zur Verfügung, doch merkte er bald, das er wohl zum guten Kämpfer taugt, aber nicht zum geduldigen Lehrer. Also entlies er die Schule in die Eigenständigkeit und hatte lediglich darauf Einfluss wenn es um die Rekrutierung von Freiwilligen für eine Landwehr ging.
+</p>
+
+<p style="text-align: justify;">
+  Mit zunehmendem Alter wurde der Wunsch nach einer Familie größer und so fand Irion auch Livia, die Tochter eines Hesindegeweihten. Ein Bericht, wahrscheinlich aus ihrem Tagebuch, beschreibt, wie sich beide nach einer unwichtigen Streiterei trennten. Irion zog mit seiner alten Axt gen Norden in die Berge. Livia wartete mit den Kindern, die schon fast im Mannesalter waren, vergebens auf seine Rückkehr.
+</p>
+
+<p style="text-align: justify;">
+  Irion legte den Grundstein für die relativ junge Baronie in Winhall, deren kriegerische Tradition und Kaisertreue über Generationen hinweg gelebt wurde. Vor allem Conar und Wolfharts Vater Rodergon waren diejenigen, die nach immer stärkeren Verzweigungen des Hauses sich auf Irion und dessen gute Werte zurückbesinnten, um den ihnen angemessenen Platz in der reichischen Gesellschaft einzunehmen. In diesem Sinne wurde auch Wolfhart erzogen. Er besuchte seit seinem sechsten Lebensjahr mit seinem ältesten Bruder Elbrecht, die Kriegerakademie. Sein jüngerer Bruder Vitus kam in das Kloster der Rondra. Wolfhart erfuhr eine vollwertige Ausbildung zum Krieger und erhielt entsprechend nach den absolvierten Tests seinen Kriegerbrief. Als zweitgeborner stand es ihm jedoch nicht zu die Geschicke der Familie lenken zu dürfen, was Wolfhart auch gar nicht wollte. Staatsgeschäfte waren ihm schon als er das erste Mal zu Hofe mitgenommen wurde unangenehm und er wollte auch die nötige Verantwortung nicht erkennen. Dennoch liebt Wolfhart sein Land und das Reich mit all seinen unliebsamen Staatsangelegenheiten.
+</p>
+
+<p style="text-align: justify;">
+  In Liebe trennte Wolfhart sich von seiner Familie um das Kaiserreich kennen zulernen und vielleicht auch, so war es zumindest sein Traum, um gefährliche Abenteuer zu bestehen und ein im ganzen Land geachteter Held zu werden. Sein Weg führte ihn zunächst nach Havena und nach allem was Wolfhart seit dem erlebte müsste er sich vielleicht eingestehen, das einwenig ungefährlichere Träume auch genügt hätten. Doch klagen wird Wolfhart wohl nie, solange es einen anderen gibt der schon dabei ist. Außerdem bringen nur viele Feinde viel Ehre, und in Zeiten großer Gefahren sind so auch große Freundschaften gewachsen.
+</p>
+
+<p style="text-align: justify;">
+  Bei allem kriegerischem können, wofür es sich zu Leben lohnt, ist Wolfhart kein guter Schlachtenführer. Vielleicht Entwickelt er sich ja noch zum Heerführer vielleicht aber bleibt er auch für immer ein guter aber einfacher Krieger. Weder das eine noch das Andere strebt er an, eher ist abzuwarten in welchen der Gewässer er  zu schwimmen lernen muß.
+</p>
