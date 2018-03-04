@@ -161,8 +161,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-#remote-theme: "mmiskates/minimal-mistakes"
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+#theme: minimal-mistakes-jekyll
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
