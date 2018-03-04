@@ -3,7 +3,7 @@ id: 1215
 title: Requiem
 date: 2016-01-02T21:32:22+00:00
 author: Yann
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=1215
 ---
 Iudex ergo cum sedebit,

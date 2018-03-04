@@ -3,7 +3,7 @@ id: 1010
 title: Madakrieger
 date: 2014-09-19T14:43:52+00:00
 author: Wolfhart
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=1010
 image: /wp-content/uploads/Wald-459x288.jpg
 ---

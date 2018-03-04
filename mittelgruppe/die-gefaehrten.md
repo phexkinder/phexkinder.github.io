@@ -3,7 +3,7 @@ id: 981
 title: Die Gefährten
 date: 2014-09-13T18:03:21+00:00
 author: Wolfhart
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=981
 ---
 Nachdem der Sphärenschänder in die Ewigkeit verbannt wurde, nachdem das Schicksal nach uns gegriffen hat und das Geheimnis des Erzes den Dienern des Geschädelten verborgen geblieben ist, ist es an der Zeit die letzten Waffen zu sammeln, um auch dieses Zeitalter vor dem Weltenbrand zu retten.

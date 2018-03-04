@@ -3,7 +3,7 @@ id: 672
 title: Erinnerungen eines Kriegers
 date: 2012-07-05T22:15:47+00:00
 author: Wolfhart
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=672
 ---
 ## erster Eyntrag

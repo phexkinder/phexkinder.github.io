@@ -3,7 +3,7 @@ id: 427
 title: Mittelgruppe
 date: 2012-06-03T16:54:34+00:00
 author: Matthias
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=427
 ---
 **Die Mittelgruppe** &#8211; Streiter für die alte Welt, die Zwölfe und das Kaiserreich. Und bei Gelegenheit auch für Hexen und Zwerge. Feinde allem Namenlosen und Heptsphärischen und Helden des neuen Zeitalters:

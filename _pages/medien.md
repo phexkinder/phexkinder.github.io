@@ -3,7 +3,7 @@ id: 326
 title: Medien
 date: 2012-05-04T23:37:00+00:00
 author: Matthias
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=326
 ---
 Die offiziellen DSA-Karten unterliegen diesen <a href="http://www.dasschwarzeauge.de/index.php?id=1021" target="_blank">Nutzungsbedingungen</a>.

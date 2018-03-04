@@ -3,7 +3,7 @@ id: 539
 title: Yann
 date: 2012-06-05T20:30:33+00:00
 author: Yann
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=539
 ---
 [<img class="size-medium wp-image-74  alignleft" title="Yann" src="http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625-213x300.jpg" alt="" width="213" height="300" srcset="http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625-213x300.jpg 213w, http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625.jpg 500w" sizes="(max-width: 213px) 100vw, 213px" />](http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625.jpg)

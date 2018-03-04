@@ -3,7 +3,7 @@ id: 662
 title: Persönliches Logbuch
 date: 2012-06-30T17:39:21+00:00
 author: Brin
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=662
 ---
 <p align="center">

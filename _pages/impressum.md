@@ -3,7 +3,7 @@ id: 493
 title: Impressum
 date: 2012-06-04T23:22:47+00:00
 author: Matthias
-layout: page
+layout: single
 guid: http://www.phexkinder.de/?page_id=493
 ---
 Phexkinder.de ist eine private, nicht-kommerzielle Seite von DSA-Rollenspielern, die ihre Charaktere und Abenteuer vorstellen möchten.
