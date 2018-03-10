@@ -4,7 +4,7 @@ title: Von Musik und Spitzenpferden
 date: 2014-09-20T22:04:19+00:00
 author: Yann
 layout: single
-guid: http://www.phexkinder.de/?page_id=1051
+
 ---
 Die Stadt verschwand langsam hinter Yann, als Frinkor ihn über die große Reichsstraße gen Rahja trug. Der Belemann wehte beständig in seinem Rücken und der Gegenwind des schnellen Rittes tat sein Übriges dazu, Haare zu zerzausen und an Kleidern zu zerren. Etwa zwei große Sanduhren lang folgte er der Straße, die um diese Jahreszeit von Kauf- und Fuhrleuten stark befahren wurde und das ein oder andere Mal brachte ihm ein knappes Ausweichmanöver ärgerliche und mitunter unflätige Rufe ein. Ein Lächeln zeichnete sich auf Yanns Gesicht ab und kurz nach der Herberge „Weg zum Tor“, welche die letzte Übernachtungsmöglichkeit vor der Stadt am großen Fluss war, lenkte er Frinkor abseits der Straße und die beiden preschten, matschigen Schlamm aufwühlend, in beinahe ungehindertem Galopp in Richtung eines kleinen Wäldchens.
   

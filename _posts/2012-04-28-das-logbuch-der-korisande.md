@@ -4,7 +4,7 @@ title: Das Logbuch der Korisande
 date: 2012-04-28T20:42:55+00:00
 author: Brin
 layout: single
-guid: http://www.phexkinder.de/?p=127
+
 permalink: /das-logbuch-der-korisande/
 image: /wp-content/uploads/Brin_richtig_gut-600x288.jpg
 categories:
@@ -15,25 +15,25 @@ tags:
 Höre Wissenssuchender,
 
 und wisse, dass wenn Du diese Seiten öffnest und deren Inhalt liest, Du mehr erfahren könntest als einem göttergefälligen Manne zum Wohl gereichet.
-  
+
 [<img class="alignleft size-medium wp-image-132" title="Brin von Andergast" src="http://www.phexkinder.de/wp-content/uploads/Brin_richtig_gut-300x230.jpg" alt="" width="300" height="230" srcset="http://www.phexkinder.de/wp-content/uploads/Brin_richtig_gut-300x230.jpg 300w, http://www.phexkinder.de/wp-content/uploads/Brin_richtig_gut-391x300.jpg 391w, http://www.phexkinder.de/wp-content/uploads/Brin_richtig_gut.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.phexkinder.de/wp-content/uploads/Brin_richtig_gut.jpg)
 
 Denn nicht nur die Weltlichkeit wird Dich ob Deines Wissens mit Adlersaugen mustern, denn mehr als nur ein großes Politikum bergen die Worte die auf all diesen Seiten niedergelegt;
-  
+
 nein, auch die Geistlichkeit wirst von nun an Du fürchten müssen, denn auch was ans Lich gespühlt ward von den tiefsten Gründen der See erschüttert die Sicht der Zwölf Priester wohl mehr, als jeder Magierphilosoph je zu träumen gewagt;
-  
+
 die Magierschaft als letzte wird Dich mit Neid und schmeichlerischem Gebahren um das ersuchen, was in diesen Zeilen Du gefunden.<!--more-->
 
 Wenn all das Du bedacht und dennoch der Durst nach Wissen Dich auszutrocknen erscheint, dann öffne diesen Umschlag und lies was geschehen in den Jahren 1024 und 1025 nach Bosperans Fall weit jenseits des Südmeers.
-  
+
 Denn ein jeder muss selbst entscheiden, was er tut. Dies ist sowohl der Namensgeber grösstes Geschenk als auch unser grösster Fluch; denn eine jede Entscheidung hat ihre Auswirkung. Und meine nicht, dass diese immer unbemerkt bleibt&#8230;
 
 _Drei Götter des Meeres stritten einst um die Herrschaft über das von ihnen beanspruchte Element:_
 
 **_Einer obsiegte._**
-  
+
 **_Einer ward unterlegen._**
-  
+
 **_Einer wurde vergessen&#8230;_**
 
 &nbsp;

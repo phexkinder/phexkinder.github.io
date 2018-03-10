@@ -4,7 +4,7 @@ title: Durin
 date: 2012-06-05T20:29:30+00:00
 author: Durin
 layout: single
-guid: http://www.phexkinder.de/?page_id=536
+
 ---
 **Durin von den Eisenfäusten**
 

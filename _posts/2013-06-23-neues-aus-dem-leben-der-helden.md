@@ -4,7 +4,7 @@ title: 'Neues aus dem Leben der Helden&#8230;'
 date: 2013-06-23T22:27:13+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=882
+
 permalink: /neues-aus-dem-leben-der-helden/
 categories:
   - Allgemein

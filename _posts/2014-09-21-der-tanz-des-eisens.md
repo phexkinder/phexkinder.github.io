@@ -4,7 +4,7 @@ title: Der Tanz des Eisens
 date: 2014-09-21T17:54:52+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=1087
+
 permalink: /der-tanz-des-eisens/
 categories:
   - Schriftstücke

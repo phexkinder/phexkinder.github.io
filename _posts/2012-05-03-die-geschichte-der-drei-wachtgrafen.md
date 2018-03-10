@@ -4,7 +4,7 @@ title: Die Geschichte der drei Wachtgrafen
 date: 2012-05-03T11:41:43+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=176
+
 permalink: /die-geschichte-der-drei-wachtgrafen/
 categories:
   - Schriftstücke

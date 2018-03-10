@@ -4,7 +4,7 @@ title: 'Prolog &#8211; Der Ungläubige und das Geschenk des Kalifen'
 date: 2015-01-02T22:12:03+00:00
 author: Brin
 layout: single
-guid: http://www.phexkinder.de/?page_id=1158
+
 ---
 Die Sonne brannte heiß glühend auf die Stadt inmitten der Wüste.
   

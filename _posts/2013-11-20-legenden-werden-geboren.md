@@ -4,7 +4,7 @@ title: Legenden werden geboren
 date: 2013-11-20T21:08:01+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=942
+
 permalink: /legenden-werden-geboren/
 categories:
   - Allgemein

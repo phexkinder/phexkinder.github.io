@@ -4,7 +4,7 @@ title: Das Leben nach dem Heldentum
 date: 2014-11-18T17:39:07+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=1149
+
 permalink: /das-leben-nach-dem-heldentum/
 categories:
   - Allgemein

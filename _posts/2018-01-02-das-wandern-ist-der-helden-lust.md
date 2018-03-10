@@ -4,7 +4,7 @@ title: Das Wandern ist der Helden Lust
 date: 2018-01-02T21:08:49+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=1279
+
 permalink: /das-wandern-ist-der-helden-lust/
 categories:
   - Allgemein

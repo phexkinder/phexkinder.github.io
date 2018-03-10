@@ -4,7 +4,7 @@ title: Kurzbeschreibung
 date: 2013-07-07T18:30:36+00:00
 author: Brin
 layout: single
-guid: http://www.phexkinder.de/?page_id=898
+
 ---
 **Kurzbeschreibung**
 

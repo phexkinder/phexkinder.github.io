@@ -4,7 +4,7 @@ title: Madakrieger
 date: 2014-09-19T14:43:52+00:00
 author: Wolfhart
 layout: single
-guid: http://www.phexkinder.de/?page_id=1010
+
 image: /wp-content/uploads/Wald-459x288.jpg
 ---
 Mein gesamtes Leben lang habe ich meinen Körper gestählt, meine Ausdauer, Schnelligkeit und vor allem meine Kraft immer wieder aufs Neue herausgefordert. Dabei habe ich nicht gemerkt oder es auch gar nicht wahr haben wollen, dass in einem starken Körper auch ein starker Geist wohnen muss.

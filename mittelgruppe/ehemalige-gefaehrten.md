@@ -4,7 +4,7 @@ title: ehemalige Gefährten
 date: 2014-09-13T18:03:09+00:00
 author: Wolfhart
 layout: single
-guid: http://www.phexkinder.de/?page_id=983
+
 ---
 **Mehrfach haben sich Gefährten neu gefunden oder auch für immer trennen müssen.**
 

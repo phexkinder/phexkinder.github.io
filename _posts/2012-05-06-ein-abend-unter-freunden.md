@@ -4,7 +4,7 @@ title: Ein Abend unter Freunden
 date: 2012-05-06T13:22:10+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=399
+
 permalink: /ein-abend-unter-freunden/
 categories:
   - Schriftstücke
@@ -14,17 +14,17 @@ tags:
 Wie lang waren wir heut schon wieder unterwegs&#8230; ich weiß es nicht genau, aber es sind sicherlich schon wieder 8 Stunden reine Marschzeit. Wolfhart ist ein ausdauernder Marschierer und als so etwas wie unser Führer auf dem Weg zur Trollfaust verlangt er dasselbe Tempo auch von uns&#8230;<!--more-->
 
 Uns, ja wir die wir schon so lange durch die Lande ziehen und den zwölfgöttlichen Landen unsere Dienste anbieten. Mal mehr Mal weniger aber doch meist derselbe Kern&#8230;
-  
+
 Wolfhart, unser Schwert und Schild
-  
+
 Durin, der Zwerg und Träger der Axt
-  
+
 Yann, unsere Stimme, Hand und göttlicher Beistand
-  
+
 ich, Taran, der Magier und Apothekarius
-  
+
 und weiterhin noch Lilu, Hexe und längere Begleiterin, sowie
-  
+
 Coran, Ehrenmann und Geweihter der Leyin, auch er hat uns von Zeit zu Zeit begleitet&#8230;verflixt, der Ast hätte mir beinahe das Gesicht zerkratzt. Wo ist Cianthai wenn man ihn braucht&#8230;
 
 Ahh ich spüre ihn noch, er muss immer noch im Flussbett sein und dort den Aufstieg vornehmen. Ich muss mehr auf den Weg achten, aber bald werden wir uns sowieso ein Nachlager suchen, es dämmert schon langsam und hier im Wald kommt die Dunkelheit schneller als unter freiem Himmel. Wolfhart hält auch schon die ganze Zeit nach einem Plätzchen Ausschau&#8230;

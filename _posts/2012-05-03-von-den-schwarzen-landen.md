@@ -4,7 +4,7 @@ title: Von den schwarzen Landen
 date: 2012-05-03T12:01:11+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=193
+
 permalink: /von-den-schwarzen-landen/
 categories:
   - Schriftstücke

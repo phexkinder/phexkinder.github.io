@@ -4,7 +4,7 @@ title: Die Anrufung der Elemente
 date: 2012-05-05T11:07:07+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=310
+
 permalink: /die-anrufung-der-elemente/
 categories:
   - Schriftstücke

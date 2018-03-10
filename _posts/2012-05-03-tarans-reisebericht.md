@@ -4,7 +4,7 @@ title: Tarans Reisebericht
 date: 2012-05-03T12:27:14+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=201
+
 permalink: /tarans-reisebericht/
 categories:
   - Schriftstücke
@@ -12,7 +12,7 @@ tags:
   - Taran
 ---
 Reisebericht des Magus Taran ibn Muhammed ibn Ayabun ai Orkhiander
-  
+
 Beginn der Aufzeichnung: Mitte HESinde 31 Hal / 1024 Bosparans Fall
 
 [<img class="alignleft size-full wp-image-226" title="Pergament und Feder" alt="" src="http://www.phexkinder.de/wp-content/uploads/Pergament-und-Feder.jpg" width="276" height="182" />](http://www.phexkinder.de/wp-content/uploads/Pergament-und-Feder.jpg)Viel ist geschehen seit ich meinen Weg aus den geschützten Hallen der Akademie vom Ei des Drachen zu Yash´Hualay in die Weite Deres fand. Nun nach annähernd 6 Götterläufen will ich versuchen die Erlebnisse vergangener Tage zu dokumentieren und das aktuelle nicht vergessen. Vielerlei Lücken wird es sicherlich dabei geben, da auch das Gedächtnis eines jungen Magus so manche Lücken aufweisen kann, wenn nur die Dichte der Erfahrungen groß genug ist. So will ich nicht länger zögern und mit den Aufzeichnungen beginnen. Eine Ordnung ist in chronologischer Reihenfolge vorgenommen.
@@ -20,93 +20,93 @@ Beginn der Aufzeichnung: Mitte HESinde 31 Hal / 1024 Bosparans Fall
 **<!--more-->**
 
 **Verzeichnis der Einträge:******
-  
+
 **Eine Nacht unter Wölfen**
-  
+
 [Das Band der Schönen](#DasBandderSchoenen)
-  
+
 [Auf der Spur der Wölfe](#AufderSpurderWoelfe)
-  
+
 [In der Höhle der Wölfe](#InderHoehlederWoelfe)
-  
+
 **Einmal Paavi und zurück**
-  
+
 [Ein alter Nivese sagte einst](#EinAlterNivese)
-  
+
 [Der Zug der Herde](#DerZugderHerde)
-  
+
 [Ein böses Erwachen](#EinboesesErwachen)
-  
+
 [Ein bitterer Sieg](#EinbittererSieg)
-  
+
 **Der Treck des dicken Stover**
-  
+
 [Von Havena nach Festum](#VonHavenanachFestum)
-  
+
 [Durch Wald und Berg nach Gareth](#DurchWaldundBergnachGareth)
-  
+
 [Die Spiele des Dicken und ein Nachspiel](#DieSpieledesDicken)
-  
+
 **Die Wacht wider den Drachen**
-  
+
 [Die große Turney](#DiegrosseTurney)
-  
+
 [Aus der Zivilisation zu den Barbaren](#AusderZivilisationzudenBarbaren)
-  
+
 [Die Festung der Toten](#DieFestungderToten)
-  
+
 [Der schwarze Okupator und sein Ende](#DerschwarzeOkupator)
-  
+
 [Zurück in die Zivilisation](#ZurueckindieZivilisation)
-  
+
 **Die Königin der Brilliantzwerge**
-  
+
 [Die Prüfung Durins](#DiePruefungDurins)
-  
+
 [Die Reise gen Praios](#DieReisegenPraios)
-  
+
 [In den Fängen der Seuche](#IndenFaengenderSeuche)
-  
+
 [Im Schoß der Altehrwürdigen](#ImSchossderAltehrwuerdigen)
-  
+
 **Albernia am Scheideweg**
-  
+
 [Eine brisante Turney](#EinebrisanteTurney)
-  
+
 [Von Kirschen, Schnappes und alten Schulden](#VonKirschenSchnappesundaltenSchulden)
-  
+
 [Mohr, Nebel, ein guter Handel und eine gewitzte Gräfin](#MohrNebeleinguterHandelundeinegewitzteGraefin)
-  
+
 [Einmal Bredenhag und zurück](#EinmalBredenhagundzurueck)
-  
+
 [Das Alberniafest](#DasAlberniafest)
-  
+
 **Eine Kapelle für die Niederhöllen**
-  
+
 [Auf zum falschen Kaiser](#AufzumfalschenKaiser)
-  
+
 [Blut für ein kupfernes Herz](#BlutfuereinkupfernesHerz)
-  
+
 [Pfad in den Abgrund](#PfadindenAbgrund)
-  
+
 [Die Dämonenschmiede](#DieDaemonenschmiede)
-  
+
 [Auszugsmarsch](#Auszugsmarsch)
-  
+
 **Alte Feinde, alte Lasten**
-  
+
 [Der Weg durch den Schleier](#DerWegdurchdenSchleier)
 
 **Eine Nacht unter Wölfen******
 
 **<a name="DasBandderSchoenen"></a>Das Band der Schönen**
-  
+
 aufgezeichnet: 17. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: ca. 26 Hal / 1019 Bosparans Fall
-  
+
 Ort: Tiefhusen
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Westdragon, Silia
 
 Einst reiste ich mit meinen Gefährten nach Tiefhusen. Wir waren schon eine Weile im Norden Aventuriens und auch schon etwas länger in der Nähe der Orklande, so dass es uns auch nicht überraschte diese dort in Besitz einer Stadt zu finden, gleichwohl dieser Abschaum es nicht verdient hätte über zwölfgöttliche Menschen zu herrschen. Als Schutz einer kleinen Gruppe Reisender konnten wir dabei auch noch etwas Klingendes verdienen und so unsere Reisekasse aufbessern. Der Weg dorthin ist mir als ruhig in Erinnerung geblieben, bloß einmal, so glaube ich mich zu erinnern, gab es einen Zwischenfall mit einem Rudel Sumpfranzen, die aber schnell die Flucht ergriffen, nachdem sie unseren kalten Stahl zu schmecken bekamen.
@@ -122,13 +122,13 @@ Solcherart Schuld auf uns geladen hatten wir natürlich keine andere Wahl als un
 &nbsp;
 
 **<a name="AufderSpurderWoelfe"></a>Auf der Spur der Wölfe**
-  
+
 aufgezeichnet: 17. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: ca. 26 Hal / 1019 Bosparans Fall
-  
+
 Ort: Rorwhed
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Westdragon, Silia
 
 Schnell hatten wir uns an die Verfolgung gemacht gelangten so immer tiefer ins Gebirge. Oftmals trafen wir auf kleine Siedlungen oder einzelne Gehöfte aber niemand schien etwas von dieser Hexe zu wissen noch sie jemals gesehen zu haben. So hatten wir keine Hinweise und marschierten immer weiter bis wir schließlich am Rand einer Siedlung auf ein unheimliches Weib trafen, dass sich der Hexe in den Weg gestellt hatte und dafür mit einem bösen Fluch belegt worden war. Als sie uns die Tür öffnete stockte mir der Atem. Ganz blass war sie, so dass man ihre Adern durch die Haut schimmern sah, Kälte strahlte von ihr ab und Reif hatte sich in ihren Haaren gebildet. Es schien ihr Schicksal zu sein vor einem warmen Feuer in Decken gehüllt zu erfrieren. Nichts konnten wir für sie tun und so mussten wir schließlich wieder abziehen, nur mit dem vagen Hinweis einer Gruppe von Einsiedlern noch tiefer im Rorwhed, die mehr über die Berge wissen und uns eventuell helfen könnten.
@@ -140,13 +140,13 @@ So verbrachten wir die Nacht mit diesen um ein großes Feuer und wunderten uns n
 &nbsp;
 
 **<a name="InderHoehlederWoelfe"></a>In der Höhle der Wölfe**
-  
+
 aufgezeichnet: 17. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: ca. 26 Hal / 1019 Bosparans Fall
-  
+
 Ort: Rorwhed
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Westdragon, Silia
 
 Überall vor und im Eingang der Höhle lagerten kleinere Gruppen von Wölfen. Woran es lag, dass wir unbehelligt in die Höhle gelangten weiß ich nicht sicher. Jedoch waren die Tiere wie toll und mit sich selbst beschäftigt, so dass man überall Kämpfe sehen konnte in der sich Junge gegen Alte zu behaupten versuchten und dunkles Blut färbte vielfach den Boden.
@@ -164,13 +164,13 @@ So endete dieses Abenteuer und wir konnten ein wenig Frieden in den Nordlanden s
 **Einmal Paavi und zurück******
 
 **<a name="EinalterNivese"></a>Ein alter Nivese sagte einst**
-  
+
 aufgezeichnet: 16. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: ca. 26 Hal / 1019 Bosparans Fall
-  
+
 Ort: Ouvenmaas und nördlicheres Aventurien
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Westdragon, Zurbaran, Chesus, Ragnar, Durin
 
 Lange Zeit ist vergangen und an nicht viel erinnere ich mich von dieser Zeit. Noch dazu ist das Verbliebene ein einziger Zusammenschluss von Wahn, undenkbaren Strapazen, Enttäuschungen, Wut, unmenschlichem Leid und nicht zu vergessen niederhöllischem Verrat. So versuche ich nun, vielleicht 5 Jahre nach den Ereignissen zu Papier zu bringen was sich einst im ewigen Eis zugetragen hat.
@@ -182,13 +182,13 @@ So folgten wir diesem Rat und trafen ihn bald darauf in einer Schwitzjute (dies 
 &nbsp;
 
 **<a name="DerZugderHerde"></a>Der Zug der Herde**
-  
+
 aufgezeichnet: 16. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: ca. 26 Hal / 1019 Bosparans Fall
-  
+
 Ort: nördliches Aventurien
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Westdragon, Zurbaran, Chesus, Ragnar
 
 Glücklicherweise wurden wir von diesem Volk, das sich als sehr gastfreundlich und aufgeschlossen erwies, mit allem Notwendigen versorgt, dass zum Überleben in der Eiswüste vonnöten ist. Denn kaum etwas kann den eisigen Temperaturen trotzen und es ist kaum genug Nahrung für einen Menschen zu finden, geschweige denn für einen ganzen Stamm und seine Herde. So erhielten wir auch Einblick in die tiefe Bedeutung und Abhängigkeit der Nivesen, welche sie an die Karene bindet. Diese sind sowohl Transportmittel, Nahrungs- und Milchlieferant, als auch Rohstoff für Kleidung, Unterkunft und Werkzeug zugleich. So zogen wir los und schon bald hatte uns die eisige Einöde mit seinen Schrecken in ihren Bann gezogen. Fast täglich verendete eins der sicherlich über tausend Karene durch den Sturz in eine Spalte im Eis oder Erfrierung in der Nacht. Auch den Menschen ging es nicht viel besser, jedoch konnten wir uns in der Nacht am Feuer wärmen, da genug Brennholz transportiert und wurde und ein stärkender Tee der Nivesen vertrieb bei der Rast die Kälte aus den Gliedern.
@@ -202,13 +202,13 @@ Im Nachhinein war uns klar, dass alle folgenden Schrecken nur ein Trugbild eines
 &nbsp;
 
 **<a name="EinboesesErwachen"></a>Ein böses Erwachen**
-  
+
 aufgezeichnet: 16. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: ca. 26 Hal / 1019 Bosparans Fall
-  
+
 Ort: nördliches Aventurien
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Westdragon, Zurbaran, Chesus, Ragnar
 
 So willigten wir ein des Dämons Beschwörer zu vernichten und uns selbst sowie den Nivesen dadurch die Freiheit zu erkaufen.
@@ -222,13 +222,13 @@ Schnell waren die überraschten Wachen überwältigt und das brackige Wasser fä
 Dieser Winzling lieferte uns jedoch einen guten Kampf, gestärkt durch die Macht aus dem Pakt mit den Dämonen. Jedoch konnte er unserer geballten Kraft nicht dauerhaft widerstehen und so verging er in einer ekligen Pfütze schwarzer Schlacke.
 
 **<a name="EinbittererSieg"></a>Ein bitterer Sieg**
-  
+
 aufgezeichnet: 16. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: ca. 26 Hal / 1019 Bosparans Fall
-  
+
 Ort: nördliches Aventurien
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Zurbaran, Ragnar
 
 Noch aber waren wir noch lang nicht von allen Schrecken befreit, denn durch den Kampflärm aufgescheucht verließen die restlichen Wachen ihre Hütten und erkannten was geschehen war. So versuchten sie die Höhlen zu stürmen, jedoch konnten wir uns mit einer dort gefunden Armbrust und in den engen Gängen gut verteidigen, so dass sie sich schnell zurückzogen und ein Patt zwischen uns und ihnen entstand.
@@ -248,13 +248,13 @@ Irgendwann jedoch kamen wir wieder in Ouvenmaas an, der Schleier welcher sich um
 **Der Treck des dicken Stover**
 
 **<a name="VonHavenanachFestum"></a>Von Havena nach Festum**
-  
+
 aufgezeichnet: 12. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Praios 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Schiffsroute Havena nach Festum
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Durin, Lilu, Lariel
 
 Begonnen hat eigentlich alles, als Yann uns nach Havena eingeladen hat. Dort angekommen musste ich feststellen, dass er in der Zwischenzeit einen gewaltigen Sprung nach vorne in der Hierarchie seiner Kirche gemacht hatte und nun Vogtvikar von Albernia geworden ist, womit er auch in den Genuss kommt ein eigenes Anwesen mit Hausverwalter mitten in Havena zu bewohnen (vielleicht ist es auch sein eigenes, dass weiß ich nicht). Nach einigen Wiedersehensfreuden und einem guten Mahl hat er uns eingeladen am nächsten Tag mit ihm zu Speisen und auch das Angebot eines Bekannten zu überdenken, der uns in Bezug auf ein bestimmtes Thema sicher einige hilfreiche Kontakte verschaffen könnte. Dieser Bekannte stellte sich mit dem Namen Taelock vor und scheint in der Kirche des Fuchses wohl einiges an Ansehen zu genießen oder aber in einer Organisation, die sich in selbigen Geschäften tummelt. Nun jedenfalls bot er uns an im Gegenzug zu unserer Reise nach Festum und dem Anhören eines Angebotes von Stover Stoerrebrandt einen Kontakt mit der sagenumwobenen Nahema herzustellen, die uns sicher einige hilfreiche Antworten geben könnte, so sie dies nur wolle. So entschieden wir uns dieses Angebot anzunehmen und nach Festum zu reisen. Die Reise selber um den halben Kontinent verlief sehr ereignislos und neben einem kurzen Aufenthalt in Brabak ging es ungehindert weiter bis nach Khunchom. Von dort aus begleitete uns die Sulman Al-Nasori, das, wie ich nicht ohne Stolz behaupten kann, wohl einzigartigste Schiff und gleichzeitig auch Artefakt der Dracheneiakademie von Khunchom, welches die Schrecken der Blutigen See das Fürchten lehrt. So ging auch der Weg nach Festum ohne Zwischenfälle von statten.
@@ -264,13 +264,13 @@ Dort angekommen unterbreitete uns Stover, dass er nach Gareth mit Sack und Pack 
 &nbsp;
 
 **<a name="DurchBergundWaldnachGareth"></a>Durch Wald und Berg nach Gareth**
-  
+
 aufgezeichnet: 12. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Rondra 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Landweg Festum nach Gareth
-  
+
 Gefährten: Wolfhardt, Wahnfried, Yann, Durin, Lilu, Lariel
 
 So waren wir also voll mit in den Aufbruch des Trecks integriert und jeder hat das getan was er am besten kann. So hat Wolfhardt die Truppen zum Schutz trainiert und aufeinander eingespielt. Das waren die Uhdenberger Äxte (50 Mann), die Fasarer Reiter unter Hauptmann Sharuk (50 Mann) und noch ein Kontingent auf Festum, deren Namen ich nicht mehr weiß. Durin hat bei den Schmieden geholfen, Lilu weiß ich nicht, Yann und Lariel waren mit Informationen beschaffen beschäftigt und ich habe versucht mir eine schöne Zeit zu machen. Interessant war noch die Begegnung Wolfhardts mit einem Kämpfer des Diskus von Boran, einer maraskanischen Rebellengruppe, die in Festum ansässig ist. Dabei hat er sich sein Schwert beschädigt und wohl unter Kräutern und Magie die Pläne des Dicken ausgeplaudert soweit er sie wusste. Es gab jedoch keine nennenswerten Begegnungen mehr mit diesen Leuten, interessant ist jedoch, dass dort wohl ein nicht unerfahrener Magier und eben jener Kämpfer, wahrscheinlich mit einer Enduriumklinge bewaffnet, Mitglied sind.
@@ -282,13 +282,13 @@ So zogen wir los durch Straßensperren von Armen Bauern, den Angriff eines Baumd
 &nbsp;
 
 **<a name="DieSpieledesDicken"></a>Die Spiele des Dicken und ein Nachspiel**
-  
+
 aufgezeichnet: 12. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Ende Efferd, Anfang Travia 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Gareth
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Lariel
 
 Die Spiele des Dicken waren alle sehr phexischer Natur und so mussten die Erben aus einem Ei den größtmöglichen Gewinn erhandeln, einen Tag lang auf den Strassen Gareths betteln, an einem nahezu unmöglichen Ort Waren feil bieten (so z.B. Waffen im TSA-Tempel, Kunst im Meilersgrund etc.), eine Diebestat planen und durchführen, sowie eine halbgöttliche Schnitzeljagd (sogar mit der notwendigen Entschlüsselung einer geheimen Schrift, die aber nichts anderes als das im Land der ersten [<img class="size-medium wp-image-209 alignleft" title="Amulhastra" alt="" src="http://www.phexkinder.de/wp-content/uploads/Amulhastra-300x251.jpg" width="300" height="251" srcset="http://www.phexkinder.de/wp-content/uploads/Amulhastra-300x251.jpg 300w, http://www.phexkinder.de/wp-content/uploads/Amulhastra-357x300.jpg 357w, http://www.phexkinder.de/wp-content/uploads/Amulhastra.jpg 605w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.phexkinder.de/wp-content/uploads/Amulhastra.jpg)Sonne weit verbreitete Amulashtra war) spielen, an deren Ende sich der Wahre Charakter Kalmans offenbarte. Er hatte eine Allianz mit den Tobriern geschlossen und wollte sich gewaltsam das Erbe des Dicken verschaffen. Leider starb er in diesem letzten Gefecht und alle Nachkommen Stovers überlebten, dank des beherzten Eingreifens unserer Gruppe.
@@ -306,13 +306,13 @@ Wichtig zu den Spielen zu erwähnen ist der von uns ausgerufene Tag des Eises, d
 **Die Wacht wider den Drachen******
 
 **<a name="DiegrosseTurney"></a>Die große Turney**
-  
+
 aufgezeichnet: 13. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: 15.Travia und folgende 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Burg Silz bei Gräfin Nahaniel Quellentanz
-  
+
 Gefährten: Wolfhardt, Yann, Lilu, Oron
 
 Die Gräfin Nahaniel Quellentanz hat zur großen Turney gerufen und auch Wolfhardt ist eingeladen, so sind wir dem Ruf gefolgt, aufgeputzt wie horasische Gecken, einen guten Eindruck als Wolfhardts Gefährten und Berater zu machen. Durin ist in Gareth geblieben und kaputte Schwerter und Rüstungen zu reparieren. Hätte er gewusst wen wir dort treffen hätte er sich dies wohl anders überlegt. Alles Begann recht harmlos und am ersten Tag gab es ein großes Gelage bei welchem auch gleich die ersten Konkurrenten positiv wie negativ auffielen. Vor allem Throndwig der Graf von Ochsenwasser machte sich keine Freunde, als er zu der erschreckenden Nachricht eines Angriffs auf die Trollpforte nur Kommentierte: jetzt stehen nur noch die guten Soldaten auf Reichsseite. Später lernte ich diesen spröden und unwirschen Mann jedoch schätzen, wenn auch nie kennen.
@@ -324,13 +324,13 @@ Nachdem wir als diesen Auftrag angenommen hatten reisten wir zurück nach Gareth
 &nbsp;
 
 **<a name="AusderZivilisationzudenBarbaren"></a>Aus der Zivilisation zu den Barbaren**
-  
+
 aufgezeichnet: 13. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Ende Travia 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Perricum und die Trollzacken
-  
+
 Gefährten: Wolfhardt, Yann, Lilu, Durin, Coran
 
 Die Reise nach Perricum verlief angenehm und so kamen wir gut dort an. Dort trafen wir auch unseren alten Begleiter Coran Drachenblut wieder, inzwischen ein Ritter der Leyin, der sich nach einigen Überlegungen uns Anschloss. Weiterhin erfuhren wir, dass die Zwerge wohl den direkten Weg mit vielen Zwergenponies und unglaublich viel Ausrüstung in die Trollzacken nahmen sowie aus einer sehr beeindruckenden Predigt von Ayla von Schattengrund auf der Löwenburg, dass die Zwerge wohl schon einen bestimmten Ort in den Trollzacken suchten. Leider war uns nicht klar welcher dies sein könnte, jedoch hatten wir unsere Vermutungen bei den drei hohen Bergen in den Trollzacken, wobei jedoch eigentlich nur die Purpurspitze und die Trollfaust in Frage kamen. Da die Trollfaust näher lag beschlossen wir uns dorthin auf den Weg zu machen und gegebenenfalls den Weg weiter zur Purpurspitze zu nehmen. Wir rüsteten uns also für den Winter, der uns wohl in den Höhen der Trollzacken heimsuchen würde und auch mit einigen stählernen Axtblättern um sie den barbarischen Stämmen der Trollzacker als Tauschware anzubieten, sowie Proviant für einige Wochen und einem enormen Vorrat an Kräutern und Verbandsmaterial für alle Fälle. Vor unserer Abreise gelang es mir noch einen enorm großen Erzdjinn zu beschwören und für meine Reise als Schutz zu gewinnen. Wie sich später herausstellte ist der Name dieses Wesens, das sich in männlicher Gestalt präsentiert Cianthai und sollte für einige Zeit mein Begleiter werden.
@@ -348,13 +348,13 @@ Der Stamm behelligte uns nicht weiter und so konnten wir ohne Probleme den Wald 
 &nbsp;
 
 **<a name="DieFestungderToten"></a>Die Festung der Toten**
-  
+
 aufgezeichnet: 13. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Ende Travia Anfang Boron 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Trollfeste nahe der Trollfaust in den Trollzacken
-  
+
 Gefährten: Wolfhardt, Yann, Lilu, Durin, Coran
 
 Der Aufstieg ging zügig und ohne Zwischenfälle von statten, jedoch schickte Firun seine weise Pracht in stürmischen Böen uns entgegen, so dass wir kaum ein dutzend Schritt Sicht hatten als wir das Plateau erreichten. In zwei Meilen Entfernung hob sich eine gigantische Wand als Trollfaust empor, was unser nächster Anlaufpunkt sein sollte und welcher uns Schutz für die Nacht in dem niederhöllischen Schneesturm geben sollte.
@@ -378,13 +378,13 @@ Mit diesen Worten machten wir uns weiter auf den Weg die Zwerge zu suchen, da wi
 &nbsp;
 
 **<a name="DerschwarzeOkupator"></a>Der schwarze Okupator und sein Ende**
-  
+
 aufgezeichnet: 14. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Ende Travia Anfang Boron 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Trollfeste nahe der Trollfaust in den Trollzacken
-  
+
 Gefährten: Wolfhardt, Yann, Lilu, Durin, Coran, Gamborax mit seinen Mannen
 
 Nachdem wir einige Zeit bei den Zwergen waren konnten wir uns ein Bild von der Situation machen. Die Zwerge waren schon eine Weile hier und hatten diesen Ort als ideal für den Bau ihres Oktragosch befunden. Leider war dieses noch von einem Lakaien des schwarzen Drachen besetzt gehalten der über viele Untote verfügte und die Zwerge auszuhungern versuchte. Diesen ging auch langsam der Proviant aus. Der Grund dass der Drache noch lebte lag in der Anwesenheit einer Onyxsphäre, die dem Drachen unglaubliche Kräfte verlieh und seine Wunden nahezu sofort wieder schließen lies. Diese Sphäre verwahrte er auf dem höchsten Turm der Feste, an welchem er auch seinen Hort angelegt hatte. Wann immer die Zwerge versuchten einen der ihren zurück nach Perricum zu schicken nahm der Drache dies wahr und sorgte für das Ableben des Zwerges.
@@ -400,13 +400,13 @@ Dann jedoch war dieser Augenblick vorbei und ich eilte Yann zu Hilfe, den ich mi
 ** **
 
 **<a name="ZurueckindieZivilsation"></a>Zurück in die Zivilisation**
-  
+
 aufgezeichnet: 15. HESinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Mitte Boron 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Trollfeste nahe der Trollfaust in den Trollzacken bis nach Perricum
-  
+
 Gefährten: Wolfhardt, Yann, Lilu, Durin, Coran, Gamborax mit seinen Mannen
 
 Nach unserem grandiosen Sieg, der aber leider auch das Leben des Altmeisters der Zwerge kostete, kehrten wir auf demselben Weg zurück, den wir gekommen waren. Aufgehalten von Witterung wurden uns schon bald die Vorräte knapp und so lagerten wir einige Tage in einem Waldstück um uns zu versorgen und einen günstigen Zeitpunkt für die Überquerung des Bergsattels abzupassen. Nachdem dies geschehen war trafen wir wieder auf einen Stamm Trollzacker geführt von einem wahrhaft hünenhaften Krieger, den wir zu einem „Palaver“ überreden konnten. Nachdem er gehört hatte, dass wir die Trollburg von dem untoten Schrecken befreit hatten konnten wir unbehelligt an ihm vorbeiziehen und er gab uns noch den Hinweis, dass in der Nähe ein altes Kloster zu finden sei, scheinbar der gütigen Göttin Travia geweiht. Scheinbar gab es auch eine zweite Reisegruppe die sich dorthin auf den Weg gemacht hatte. Dies scherte uns erst nicht weiter, da wir dringenderes zu tun hatten, jedoch überlegten wir es uns anders, als wir immer wieder auf getötete Orks trafen und uns der Proviant ein weiteres Mal Ausging. Am Kloster angekommen, trafen wir auf eine unglaublich alte Traviageweihte, die ihre Sinne nicht mehr beisammen hatte und von einer Welt voll Borbaradianern sprach und ihrem Beschützer, der sie dagegen verteidigte. Als kurz darauf ein grau berobter Mann in das Kloster trat versteinerte ich diesen kurzerhand als er fliehen wollte und wir nahmen in fest um herauszufinden was tatsächlich geschehen war. Nachdem wir uns gegenseitig vertrauen konnten erschien die Situation schon eine ganz andere. Der junge Mann war ein Adeptus und Mitglied des ODL der mit 4 weiteren Magiern auf einer geheimen Mission unterwegs war, über die er nicht sprechen durfte und scheinbar auch nicht konnte. Die alte Traviageweihte hatte ihnen Obdach gewährt, sie aber vergiftet, da sie die 5 Reisenden für Borbaradianer hielt. Nur er und sein Meister waren dem Gift und der folgenden Attacke durch den Troll entkommen, seine drei anderen Kollegen sind jedoch umgekommen und lagen im Stall des Klosters. Der Beschützer der alten Damen schien derselbe Troll zu sein, der für sie sorgte. Gewarnt durch diese neuen Informationen stellten wir Wachen für die Nacht sowohl im Kloster als auch vor der Bettstatt der Geweihten. In dieser Nacht jedoch konnte der Troll unbemerkt das Tor eines Stalls ausreißen, die drei Leichen der gestorbenen Magier stehlen und ungehört durch die Pallisadenmauer brechen.
@@ -436,13 +436,13 @@ Uns blieb also nichts anderes übrig als ihm zu folgen und so waren wir sehr sch
 **Die Königin der Brilliantzwerge******
 
 **<a name="DiePruefungDurins"></a>Die Prüfung Durins**
-  
+
 aufgezeichnet: 12. Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Anfang Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Angroschheiligtum am Schlund im Raschtullswall
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Coran
 
 Ohne Zwischenfälle sind wir am Schlund angekommen und haben dort mit den Brilliantzwergen geredet. Alles Wichtige werde ich in einem anderen Teil des Reiseberichts verfassen. Hier soll es nur um die Prüfung von Durin gehen, welche ihm von den Trollen prophezeit wurde.
@@ -452,13 +452,13 @@ Als wir zum alten Angroschheiligtum am Schlund gingen hat uns schon ein alter Pr
 &nbsp;
 
 **<a name="EineDiplomatininNoeten"></a>Eine Diplomatin in Nöten**
-  
+
 aufgezeichnet: 12. Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Anfang Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Wegstrecke vom Schlund im Raschtullswall bis nach Aranien und Fasar
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran
 
 Unser erster Anlaufpunkt war wieder Perricum, da es uns dort gelingen sollte uns neu auszurüsten und für die Tücken Fasars zu wappnen. Besonders die dort erworbenen Antidote könnten uns sehr von Nutzen sein in einer Stadt die für 9 Marawedi einen Meuchler stellt. Danach soll es über die Reichstraße Richtung Zorgan und per Schiff und dann Querfeldein ein schneller Weg nach Fasar werden. Vorausgesetzt die Zwerge, auf deren Spuren wir uns setzen haben auch diesen Weg gewählt. Mit uns gehen diplomatische Pässe, die von König Kendrasch ausgestellt sind und uns den Übertritt und Zoll an den Grenzen erleichtern sollte sowie je ein Wechsel über umgerechnet 75 Gold der Mada Basari, die Gerade in Aranien und auch noch im Land der ersten Sonne verbreiteter sind als das Handelshaus Stoerrebrandt. Die wertvollste Fracht aber ist wohl eine der Flammen der Elemente, präziser die Flamme der Luft, welche von uns nach Fasar gebracht werden soll. Diese hat die Hohepriesterin der Simia in einer Art göttlicher Telepathie von ihrem Stellvertreter am Schlund verlangt zu ihr zu bringen.
@@ -472,13 +472,13 @@ Seit einigen Tagen sind wir nun schon auf dem Weg von Perricum nach Fasar. Unser
 ** **
 
 **<a name="DieReisegenPraios"></a>Die Reise gen Praios**
-  
+
 aufgezeichnet: 12. Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Anfang  und Mitte Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Wegstrecke vom Schlund im Raschtullswall bis nach Flöszern und Umgebung
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran, Trautmann, ein Haufen Söldner
 
 Nichts konnte uns bisher aufhalten und so schreibe ich diesen Teil in aller Kürze. Weder Ferkinas noch der Grolm mit Listen und seinem Baumdrachen weder die wenig aussagekräftigen Warnungen einer Boroni noch die unkooperativen Torwachen einer nicht weiter erwähnenswerten Stadt Araniens konnten uns wirklich von unserem Ziel abbringen. Interessant anzusehen, jedoch nur von außen, war das Kloster Awallakand bei Dorgulawend, in dem die Rosenkrieger und Gläubiger Rhajas vom Stamm der Sidi Awalla leben. Ungehindert wanderten wir bis, ja bis wir in die Nähe Flöszerns kamen und uns dort, unter Hilfe von Wort und Tat in Phexens Zeichen, eine Spur zum Emir von Flöszern errangen. Dieser lebt in seinem Landsitz bei Zedrakim, zwei Tagesmärsche nördlich der Stadt und hält vermutlich die diplomatischen Abgesandten gefangen. Auch er war kein Hindernis und das Urteil der Götter wurde über ihn gesprochen, als er sich als Anhänger dessen ohne Namen zeigte und alle Gastfreundschaft Travias Hohn lachte. Der Grolm war auch  bei ihm, nun wussten wir ob seiner wahren Natur, und wurde gerichtet. Leider wurden wir auch hier nicht fündig, nur ein Abgesandter der zwergischen Delegation war noch auf dem Landsitz, jedoch konnten wir feststellen, dass das Licht der Simia den Fluch, bzw. den Segen den die Hochgeweihte Ingrascha über die Zwerge legte rückgängig machen konnte. Der Emir nun tot, die Emira Miriana eine schwache Frau, konnten wir sie nicht zurück lassen und so schickten wir sie mit ihrer Leibgarde (unter der Führung des erfahrenen Bashar Amud) und den von uns angeheuerten Söldnern zurück nach Baburin um dort Asyl zu finden. Den inzwischen wahnsinnigen Zwerg Shobrax Silberblick, den wir noch in Flöszern entdeckten beließen wir in der Obhut eines Tavernenbesitzers, der ihn versorgte und mit ihm als Attraktion gute Kundschaft anlockte. Wir können uns nicht um alles kümmern und uns mit von Hesinde verlassenen belasten, jetzt wo die Zeit immer mehr drängte. Später wird immer noch die Gelegenheit sein dieses Opfer in die Hände seines Clans zurück zu geleiten. Die Spur führte uns nun wieder von Fasar weg nach Zorgan auf die Fersen eines Kutschers namens Fasir Thorenmacher, der die Zwerge weggebracht hatte. Auch der Weg nach  Zorgan war leicht beschritten und der Grolm konnte uns des Nachts ja nicht mehr den Schlaf rauben.
@@ -488,13 +488,13 @@ Nichts konnte uns bisher aufhalten und so schreibe ich diesen Teil in aller Kür
 &nbsp;
 
 **<a name="IndenFaengenderSeuche"></a>In den Fängen der Seuche**
-  
+
 aufgezeichnet: 12. Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Mitte bis Ende Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Zorgan
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran, Trautmann, später ein Haufen Söldner
 
 Doch Zorgan war schon das zweite Mal in seiner Geschichte, das sollten wir bald lernen, in den Fängen der nach ihr benannten Pocken und so mussten wir gegen die Epidemie, die von dem Wagenlenker verbreitet wurde auch noch bekämpfen. Nicht leicht wurde dies, doch erhielten wir Hilfe der Fürstin Sybia und des Ordenshochmeisters des ODL Tarlisin von Borbra. Wie eine Schnitzeljagd führte uns die Suche nach dem Kutscher durch ganz Zorgan und so begegneten wir noch dazu einigen wichtigen maraskanischen Personen, die uns das Adlerbanner anvertrauten, um ein Friedensangebot an das Kaiserreich dadurch zu unterstreichen. Weiter Hilfe, aber auch verwirrende Visionen schenkte uns eine etwas nekrophile Seherin namens Tamura, die sich jedoch nach der Seance erholen musste und aufgrund des Gesehenen das Weite suchte. Der fleißige (aber dennoch seltsame, weil maraskanische) Geschäftemacher Adraf Rankan (der eine lange Zeit in Khunchom lebte) mit seiner Tochter Elia versprach den Gesuchten für uns zu finden, wenn wir seine Einladung annahmen um mit oben erwähnten Maraskanern zu sprechen. Bei diesen rauen Gesellen handelte es sich um einige Rebellen, die uns später das genannte Banner überreichten. Sie hießen im
@@ -504,13 +504,13 @@ einzelnen Perschin v. Lowangen (ein Magier mit sehr kurzem Zauberstab), Kaidaran
 &nbsp;
 
 **<a name="ImSchossderAltehrwuerdigen"></a>Im Schoß der Altehrwührdigen**
-  
+
 aufgezeichnet: 12. Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Anfang Tsa 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Fasar
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran, Trautmann
 
 Fasar ist schön anzusehen, im Kessel gelegen mit den hohen Türmen der Erhabenen. In Fasar kann man alles kaufen was man will. Fasar birgt viel Wissen. Das ist schon alles Gute was man über Fasar sagen kann. Tatsächlich haben uns die Antidote einige Male das Leben gerettet. Nach dem 3.Überfall bzw. Anschlag auf unser Leben habe ich aufgehört zu zählen. Sie waren anfangs dilettantisch und steigerten sich immer mehr, bis auch die schwarzen Hadjinim es auf unser Leben abgesehen hatten. Kein einziger hatte Erfolg, nicht mal bei einem einzigen von uns. Allerdings muss ich zugeben, einmal hätte nicht viel gefehlt, hatten sie doch Unterstützung durch einen Zant, vortreffliche Gifte und einen Magier der Feuerbälle warf. Er ist tot, sein Genick habe ich wie einen Strohhalm gebrochen. Viel ist passiert und viele Leute haben wir getroffen. Gut ausgekommen sind wir mit Habled, dem Vorsteher der Mada Basari in Fasar und seinem Diener Mohammed. Bei ihm kamen wir unter und hatten einen sicheren Schlaf. Karshid ben Fasid, der Fürst von Fasar (und Besitzer der erwähnten Fibel) und sein Magier Abu Djenna waren die ersten die Verhandlungen mit Ingrascha anstellten. Jedoch kam eine schon in Flöszern erwähnte Maga namens Marmonidas in die Quere und störte die Verhandlungen. Sie stahl die Fibel und damit die Basis der Verhandlungen. Dieser Umstand war jedoch sehr glücklich, hatte doch der Fürst einen ziemlichen Vorteil bei der unerfahrenen und naiven Zwergin herausgehandelt. Nun, die Spange musste gefunden werden und der geizige Fürst wollte dies nicht selber tun. Wir selbst hatten genug andere Dinge zu tun und so stand dies erst einmal hinten an. Über die erzzwergische Gemeinde in Keshal Angra lernten wir auch Gerbolosch kennen, den Vorsteher des Tempels und ein verschlagener Bursche. Dies erkannten wir jedoch erst ganz zuletzt. Durch ihn kamen wir auf die Spur einer Bande, die sich einem Anführer untergeordnet hatte, der sich selbstherrlich Sultan des Diamantenen nannte. Sein Name war Reakil und schon immer ein wütiger und brutaler Zwerg gewesen. Diese Bande wurde ursprünglich von Marmonidas aufgebaut, die sich das Geld dazu von einem Agenten Hasrabals (der Rashduler Magier Alarech, Zweig unbekannt, wahrscheinlich Elementarbeschwörer) erschlich. Kurz war Fasar noch dem Bürgerkrieg nahe, da die Novadis unter Sultan Malik Bey in die Stadt kamen um sich zum Krieg zu sammeln. Diese insgesamt 10000 Novadi sind schon ein beeindruckender Anblick und nur die Aufrufe des Mawdlis den Frieden zu wahren um die Kräfte zu schonen verhinderten Schlimmeres. Der Krieg galt indes nicht den Menschen, also allen die nicht rastullahgläubig sind, sondern dem sich sammelnden Echsenheer in den Sümpfen von Selem unter einem Magier, der sich selbst Al´Gorton nennt und auf den gleichnamigen Magier zu Zeiten der Mogule vom Gadang beruft. Alles in allem war nach einigen Tagen unsere Kasse fast leer, der Zwerg Reakil und seine Bande zu tote gebracht wegen Paktiererei und rütteln an den Grundfesten Deres, wir waren im Bunde mit Thomeg Artherion und weitere Zusammenhänge waren klar. Es schien so, als wollten Agenten der schwarzen Lande ein Heiligtum des Erzes zwingen (um die Asuanthi zu rufen und die Zwerge endlich zu vernichten), gleichzeitig musste Fasar fallen wozu die Novadis abgezogen werden sollten. Diese sollten mit gefährlicher Nekromantie auf dem alten Schlachtfeld von Wadi Djenna auf das Echsenheer treffen. Mit im Bunde dieser Intrige waren die Kräfte des schwarzen Drachen aus Warunk und unbekannte Kräfte aus Maraskan, die jedoch nichts mit den Rebellen zu tun hatten. Einige Interessante Gestalten und Personen lernten wir noch kennen, so den riesigen, fast 3 Schritt großen, etwas unbedarften Rashid, einen Diener Thomeg Artherions und einen hohen Geweihten des Phex namens Marbul Al´Tosra, genannt der Mondschatten. Am Ende war uns klar, wir mussten in die Tiefen, oder besser die Höhen des Raschtullswalles aufbrechen um dem Treiben ein Ende zu setzen. Also machten wir uns schnell auf den Weg mit einer eilig zusammengestellten Expedition, den Djer Angrawash zu erreichen.
@@ -518,13 +518,13 @@ Fasar ist schön anzusehen, im Kessel gelegen mit den hohen Türmen der Erhabene
 &nbsp;
 
 **<a name="DieHoehenundTiefendesRaschtullswalles"></a>Die Höhen und Tiefen des Raschtulsswalles**
-  
+
 aufgezeichnet: 12. Hesinde 31 Hal / 1024 Bosparans Fall
-  
+
 Tag: Anfang bis Ende  Tsa 31 Hal / 1024 Bosparans Fall
-  
+
 Ort: Raschtullswall nähe Fasar
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran, Trautmann
 
 Die Reise in den Raschtullswall ist zwar kein Spaziergang über die Promenaden der Neunarmigen, aber sehr viel schwerer ist es auch nicht. Gut vorbereitet hatten wir nicht viele Tage bis in die Ausläufer der Berge und schon die ersten Kontakte mit den Ferkinas. Primitives Volk, mehr kann man nicht sagen und so mussten wir auch etwas näher der Gipfel zwei entführte Rhaja-Geweihte aus ihren Fängen befreien. Wie der Zufall wollte mussten wir auch einer Truppe Bewaffneter gegen die Ferkinas helfen, so dass Wolfhardt kurzerhand den Anführer im Zweikampf besiegte und die Tempeldiener mit den Bewaffneten in das sicherere Tiefland schickte. Die Sklavenkarawane, die in Richtung des Djer Angrawash unterwegs war, und nur die Aufgabe hatte, den Sturz des Erzheiligtums zu beschleunigen wurde kurzerhand aufgebracht. Nicht viel Interessantes ist bis dahin geschehen und wir erreichten schnell die Höhlen, die uns in die Tiefe der Felsen führten. Konnten wir ahnen, dass dort ein Volk seltsam aussehender Elfen lebte. Diese wollten uns bei der ersten Begegnung gleich bluten sehen uns so zahlten wir ihnen dies mit gleicher Münze heim. Hatten wir doch nicht einmal die Gelegenheit mit ihnen zu verhandeln. Wir gelangten bis in die Tiefen und machten die Begegnung eines sehr alten Geoden, der uns mehr über die Vorgänge unter Tage erzählen konnte. Ein seltsamerweise schwarzer Elf, wie der Scharfrichter Dolguruk, hatte ein Luftheiligtum errichtet um das Erz zu bekämpfen. Dieser herrschte auch über die Stämme der Elfen, die sich uns später tapfer aber erfolglos in den Weg stellten. Bei ihm war auch die Magierin Marmonidas, die durch den Verrat des schwarzen Elfen Nimrod getötet wurde. Er selbst wurde von uns zum Tode befördert, nicht jedoch ohne bevor auch seinen metallenen Golem zu vernichten. Trautmann fiel bedauerlicherweise in dem anstrengenden Kampf. Wir selbst wurden zum Schluss von einem Trupp Söldner Thomeg Artherions in den Bergen abgeholt und sicher nach Fasar zurück gebracht.
@@ -534,13 +534,13 @@ Die Reise in den Raschtullswall ist zwar kein Spaziergang über die Promenaden d
 **Albernia am Scheideweg******
 
 **<a name="EinebrisanteTurney"></a>Eine brisante Turney**
-  
+
 aufgezeichnet: 10. Ingerimm 1024 Bosparans Fall
-  
+
 Tag: Anfang Peraine 1024 Bosparans Fall
-  
+
 Ort: Albernia, Feste Wairingen
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran
 
 Fast ein Jahr ist vergangen seit unserer Trennung im Land der ersten Sonne und es freute mich sehr meine alten Gefährten wieder zu sehen. Wie vereinbart reiste ich Gut Wetterfels an, doch traf ich dort keinen der erwarteten. Bei der Feste Wairingen sei der Ritter Wolfhardt, zu streiten für seine Gräfin Rhianna Conchobair (welchselbige eine Tochter Raidris mit Isora von Elenvina ist). Das Land sei geschüttelt von politischen Intrigen Ihrer Mutter den Thron Inver ni Benains zu entreißen und an sich selbst zu raffen. Nun, dachte ich bei mir selbst, falls ihre Ansprüche gerechtfertigt sind, so steht es ihr zu. Wichtiger war jedoch das Wiedersehen mit den mir so bekannten Haudegen und so machte ich mich auf die Reise zur Turney. Albernia, ja der ganze Norden begrüßt den fremden Reisenden immer mit seinem besten Wetter. Das ist in diesem Landstrich ein kalter, durchdringender Regen, der dem Wanderer die Kraft aus den Knochen zieht. Gut hat es da wer wenigstens schnell und in einen dicken Mantel gehüllt von einem Mächtigen getragen wird.
@@ -554,13 +554,13 @@ Schlussendlich war das Turnier aber ohne weitere Zwischenfälle zu einem Ende ge
 &nbsp;
 
 **<a name="VonKirschenSchnappesundaltenSchulden"></a>Von Kirschen, Schnappes und alten Schulden**
-  
+
 aufgezeichnet: 10. Ingerimm 1024 Bosparans Fall
-  
+
 Tag: Anfang Peraine 1024 Bosparans Fall
-  
+
 Ort: Albernia, Baronie Rodegrund, Lehen derer von Arnd
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran
 
 So kam es, das nach 3 Wochen Ritt durch das matschig, nasse Albernia wir durch die Baronie Rodegrund ritten und aus der Richtung des Waldes Waffengeklirr hörten. Aufgeschreckt davon gingen wir der Sache auf den Grund und schon bald hatten wir den Ursprung gefunden. Der Baron von Rodegrund (wie sich später herausstellte) wurde von 5 Bewaffneten angegangen und so griffen Coran und Wolfhardt ein, nicht ohne, dass noch ein vergifteter Bolzen den Baron in die Brust traf. Zwei der Söldner konnten wir noch in Gewähr nehmen, die restlichen flohen in die Wälder.
@@ -574,27 +574,27 @@ Eins sei jedoch noch erwähnt über das Rodengrundsche: Nie sah ich mehr alte M�
 &nbsp;
 
 **<a name="MohrNebeleinguterHandelundeinegewitzteGraefin"></a>Mohr, Nebel, ein guter Handel und eine gewitzte Gräfin**
-  
+
 aufgezeichnet: 10. Ingerimm 1024 Bosparans Fall
-  
+
 Tag: Mitte Peraine 1024 Bosparans Fall
-  
+
 Ort: Albernia, Stadtmark Havena, Havena
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran**
-  
-** 
+
+**
 
 In Havena haben wir viel erlebt, doch einiges hat sich schon wieder meinem Gedächtnis entzogen. Wir gingen nach Havena um dir Doppelsichel zu finden und Edin aufzuspüren. Kurz zusammengefasst haben wir genau das gemacht. Edin stellte sich als ein Neureicher Emporkömmling aus, der jedoch schnell auspackte. Durch ihn sind wir auch auf die Spur der Nebelgeister gekommen, eine Bande von Schmugglern, die über die Muhrsape Waren nach und aus der Stadtmark schiffen. Diese haben einen Handel angenommen, nachdem sie in der Nähe zu Havena Versorgungslager anzulegen hatten für eine Invasionsarmee aus den Nordmarken. Die Soldaten sollten dann nach dem Winter ins Land sickern und zur Verfügung stehen. Letztendlich konnte Yann den Anführer der Bande dazu überreden wie viel gottgefälliger das Werk für die Kirche des Phex ist und in einem feinen Handel würde sich eben jene Kirche der Lager annehmen und in den albernischen Wirtschaftskreislauf integrieren. Leider erfuhren wir auch, dass die Grenzbaronien von Winhall und Bredenhag immer unruhiger wurden und so beschlossen wir uns über den Umweg Honingen (um Gräfin Franka Salva von Galahan um eine Audienz zu bitten) in die Grafschaft Winhall zu begeben. Vor Honingen angekommen konnte man sogleich einen gewaltigen Tross um die Stadt Lager bezogen haben sehen. Ungefähr 2 Regimenter müsste man mit einem solchen Tross versorgen rechneten unsere Krieger. Unerkannt gingen wir in die Stadt um dort Informationen einzuholen, die nicht aufgrund unserer Person schon vorgefiltert waren. So erfuhren wir einige Neuigkeiten. Dankwart stünde mit 3000 Mann an der Honinger Grenze, würde aber den Turnierfrieden des Alberniafestes halten, welches Gräfin Franka Salva ausgerufen hatte. Dafür hatte sie auch Festpreise auf den Kauf von Eschenholz ausgesetzt um die Tribünen für die Immanspiele des Festes zu bauen. Dies hatte zur Folge, dass etliche Holzhändler gute Gewinne machten und ihren kompletten Bestand in Honingen an die Frau brachten. So blieb natürlich auch der Markt in den anderen Baronien für das (gut für Kriegsgerät brauchbare) Eschenholz leer. Gleichzeitig (dies erfuhren wir allerdings erst später) zwang sie die Barone Albernias Farbe zu bekennen, denn das hochtraditionelle Alberniafest sollte eigentlich alle 2 Jahre gehalten werden. Nun musste also jeder Baron in Honingen erscheinen oder aber sich des Vorwurfs erwehren (aufgrund des Fernbleibens dieser „Pflichtveranstaltung“) an einer friedlichen Lösung des inneralbernischen Grenz- und Thronkonfliktes nicht interessiert zu sein. Weiterhin besänftigte die (als erfahrene Politikerin bekannte) Gräfin ihr Volk mit einigen Tausend Maß billigem Ferdoker, welche Ihr Hz. Blasius (der einst ihr Knappe war und zu dem sie eine sehr persönliche Beziehung unterhält) zum Geschenk gemacht hatte. Durin entschied sich in Honingen zu bleiben um den Verbleib des Eschenholzes zu klären (und dem Hz. Für sein Geschenk zu danken), kamen uns die Mengen die aufgekauft wurden im Vergleich zu den notwendigen Balken für die Tribünen gelinde gesagt etwas horasisch vor. Leider konnten wir auch später nicht abschließend klären wofür jeder Meter gebraucht wurde, nur für Tribünen wurde nicht alles verwendet. Da es für uns in Honingen nichts mehr zu erfahren gab reisten wir nun auch weiter in Richtung Firun.
 
 **<a name="EinmalBredenhagundzurueck"></a>Einmal Bredenhag und zurück**
-  
+
 aufgezeichnet: 10. Ingerimm 1024 Bosparans Fall
-  
+
 Tag: Ende Peraine bis Anfang Ingerimm, 1024 Bosparans Fall
-  
+
 Ort: Albernia, Baronie Winhall, Honingen und Bredenhag, verschiedene Lehen
-  
+
 Gefährten: Wolfhardt, Yann, Durin (zeitweise), Lilu, Coran
 
 An der Grenze zu Winhall wurden wir als erstes von einer gut ausgerüsteten Truppe Soldaten in Empfang genommen, aber da der Herr von Wetterfels, in dessen Gefolge wir reisten, in Albernia wohl kaum einen Schritt tun kann ohne erkannt zu werden, wurden wir sogleich in den kärglichen Grenzposten eingeladen um uns kurz aufzuwärmen. Gegen späten Nachmittag erreichten wir das kleine aber befestigte Oertchen Aran in welchem wir für die Nacht zu bleiben uns einrichteten. Interessanterweise erfuhren wir auch Neuigkeiten aus den Orklanden. Marduk Orkhan sei tot und sein Neffe habe das Kommando übernommen. Dieser ist loyal dem Aikhar Brazoragh und Khezzara gegenüber, was bedeutet, dass in absehbarer Zeit wieder mit Kriegszügen der Orks in mittelreichische Lande gerechnet werden muss. Lange hatten wir aber keine Ruhe, denn schon kurz nach unserer Ankunft preschte ein Reiter durch die Tore, der sich als der Praetor der Kirch von Wind und Wogen, namentlich Perval Steen herausstellte, und von einem Angriff auf seine Reisegruppe berichtete. Der temperamentvolle Mann koordinierte sogleich das Geschehen um die Verletzten möglichst gut zu versorgen, selbst noch verletzt auf dem Pferd sitzend. Kurzerhand nahmen wir ihm diese Aufgabe ab und kümmerten uns um die gleich danach mit etlichen Pfeil- und Stichwunden ankommende Reisegruppe. Von Meirings Haufen seien sie angegriffen worden, auf Winhaller Grund, was zum ersten eine Grenzverletzung bedeutet (Meirings Haufen ist in Bredenhag unter Sold), schlimmer jedoch der Angriff auf einen zwölfgöttlichen Geweihten bedeutete. Und das willentlich. Nach langer Diskussion erklärten wir uns bereit diesem Vorkommnis auf den Grund zu gehen, nahmen jedoch seine Hochwürden in die Pflicht eine dringende Botschaft an Gräfin Rhianna Conchobair zu überbringen, die ich sicherheitshalber noch gegen unbefugten Zugriff siegelte. Gleich zu Beginn kam uns dieser Überfall seltsam vor, denn schien der Baron von Bredenhag in Vergangenheit nicht solche dummen Fehler zu machen seine Truppen einen offenen Angriff auf die Nachbarsprovinz zu starten. Noch dazu berichtete die Söldnerführerin Tohalla (aus Pervals Bedeckung) von einem seltsam schwarzen Amulett um den Hals des überaus großen, starken und bleichen Anführers des Haufens. Versehen soll es gewesen sein mit einer Rune, die wir uns aufmalen ließen und die sich als Zeichen der Herrin der verfaulten Leiber herausstellte. Mit schlimmen Befürchtungen machten wir uns also tags drauf auf den Weg zum Kampfplatz und entdeckten dort leicht die Spuren, den Corpus des einzigen Todesopfers sowie einen vergifteten Pfeil. Letzterer wurde auf große Höhe abgeschossen, so dass wir nicht mehr von einem Überfall sondern von einem Attentat ausgehen mussten. Der Bande war leicht zu folgen, hinterließen sie doch eine Schneise im Wald, die auch ein Einäugiger im Rausche erkennen konnte. So gelangten wir schließlich an einen Köhlerhof der bis auf die steinernen Grundmauern niedergebrannt war. Von den ehemals 15 Familienmitgliedern hatte nur eine junge Frau von vielleicht 17 Götterläufen überlebt, die sich im Schuppen versteckt hielt und beinahe einer Rauchvergiftung erlegen ist. Wir begruben also die verstorbenen in allen Ehren und schlugen unser Nachtlager ein gutes Stück entfernt auf. Mittels meiner Gabe entfernte ich die hässlichen Brandnarben im Gesicht der Frau um Ihr zukünftiges Gespött zu ersparen. Tags drauf schickten wir sie mit Lilu und den Pferden zurück nach Aran, erkannten wir doch, dass es kaum möglich sei großes Gepäck mit durch die Wälder zu schleifen.
@@ -608,13 +608,13 @@ Da mit diesem keine Einigung zu erzielen ist, beschließen Lilu und ich dem auf 
 &nbsp;
 
 **<a name="DasAlberniafest"></a>Das Alberniafest**
-  
+
 aufgezeichnet: 23. Rahja 1024 Bosparans Fall
-  
+
 Tag: Mitte Ingerimm bis Ende Rahja, 1024 Bosparans Fall
-  
+
 Ort: Albernia, Baronie Honingen, Honingen und Umgebung
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Coran, Dunkar
 
 Die Angelegenheit mit Baron Giselher und seinem Neffen konnte zu einem guten Ende geführt werden. Vorerst war die gespannte politische Lage wieder etwas entschärft. Inzwischen ward es Zeit für das Alberniafest und dort vermuteten wir auch wieder Lucran von Ibenburg, der unser offensichtlichster und gefährlichster Gegenspieler ist. Diesen in seinem Treiben einzuschränken haben wir uns vorgenommen und so Reisen wir also dorthin. In Honingen machen wir noch eine interessante Bekanntschaft. Ein Mann Namens Dunkar, der ein Gefolgsmann eines befreundeten bornschen Adligen ist verfolgte einen Verbrecher über den halben Kontinent der unvermittelt von einem Mann Namens Freyja ermordet wurde. Um die Hintergründe zu ermitteln verfolgte er Freyja weiter und landete so schließlich in Honingen. Er schloss sich uns an und auch wir haben ein Interesse daran zu erfahren, was dieser Mörder in Honingen im Schilde führt.
@@ -652,13 +652,13 @@ Dies war für unsere kleine Gruppe göttergefälliger Streiter fast schon das En
 **Eine Kapelle für die Niederhöllen******
 
 **<a name="AufzumfalschenKaiser"></a>Auf zum falschen Kaiser**
-  
+
 aufgezeichnet: Phex 1025 Bosparans Fall
-  
+
 Tag: Tsa und Phex, 1025 Bosparans Fall
-  
+
 Ort: von Gareth über den Sichelstieg nach Transysilien
-  
+
 Gefährten: Hagen Flammenschlag, Lucrian Sturmfels, Gandugar Hammerschlag, Isara die Rauschende, Wobran, Yassafer ben Ahmed ben Rushtem
 
 Sieben Monate sind vergangen, in denen ich viel unterwegs war, Land und Leute bereist, alte Bekannte getroffen und Neue gewonnen habe. Viel gelernt habe ich und Gareth ist so etwas wie eine zweite Heimat geworden.
@@ -676,13 +676,13 @@ Zur vormittäglichen Stunde passierten wir oben genanntes verlassenes Dorf und k
 &nbsp;
 
 **<a name="BlutfuereinkupfernesHerz"></a>Blut für ein kupfernes Herz**
-  
+
 aufgezeichnet: Phex 1025 Bosparans Fall
-  
+
 Tag: Tsa und Phex, 1025 Bosparans Fall
-  
+
 Ort: Knochensteig
-  
+
 Gefährten: Wolfhardt, Yann, Durin, Lilu, Dunkar, Saltatio Mortis
 
 … wir wollten gerade zu Bett gehen, aber irgendetwas hielt uns davon ab. Unser Zimmer, bzw. die Kammer im Keller war für unsere Übernachtung mit Betten zugestellt worden und es war schon dunkel. Etwas verwirrt, hatten wir doch heute die jährliche Abgabe an den Herrn von Asperg, Tankred, geliefert und der aufziehende Sturm unsere Rückreise ins Dorf Leienhausen verhindert. Dabei war doch gerade erst ein Sturm, der uns mit Nägeln in den Keller einer Ruine zwang… Aus diesem, die Betten hinter uns lassend, stiegen wir in die Stube, wo wir Nevara begegneten. Sie sah noch nicht wieder erholt aus, hatte sie der Tod von Arumeda, der Botenreiterin Tankreds doch etwas mitgenommen. Zum Glück waren wir etwas robuster, als wir sie erschlagen von eingestürztem Gebälk auf halbem Weg nach Hohenasperg in der Scheune fanden. Die versiegelten Briefe eines Noionitenklosters brachten wir sicher an unseren Herrn und Boron vertrauten wir den Körper der guten Arumeda an. Der Herr hatte uns an seiner Tafel essen lassen und war dann sehr schnell in seine Schreibstube verschwunden, die Nachrichten hatten ihn wohl etwas in Erregung versetzt. Er war sich, im Gehen, allerdings noch sicher, dass ES heute Nacht passieren würde. Nedime, eine Tochter der Suledas, saß noch mit am Tisch und hielt ihr Neugeborenes fest in den Armen. Sie würde uns in dieser Nacht keine Hilfe mehr sein. Nach dem Essen gingen wir auch relativ schnell wieder und quartierten uns in den Wirtschaftsgebäuden, etwas unterhalb des trutzigen Herrenhauses ein. Als wir wieder aus dem Keller stiegen fragte Nevara uns, ob noch etwas fehlte. Hier merkten wir, dass wir langsam zwar, aber stetig schwächer wurden. Etwas stimmte nicht. Glücklicherweise konnte Lilu etwas Licht ins Dunkel bringen.
@@ -694,11 +694,11 @@ Im Nachhinein muss man den Zwölfen danken, dass wir lebendig, wenn auch nur ger
 &nbsp;
 
 **<a name="PfadindenAbgrund"></a>Pfad in den Abgrund**
-  
+
 aufgezeichnet: Phex 1025 Bosparans Fall
-  
+
 Tag: Phex, 1025 Bosparans Fall
-  
+
 Ort: Schwarztobrien, Knochensteig, Einöde, der schwarze WaldGefährten: Hagen Flammenschlag, Lucrian Sturmfels, Gandugar Hammerschlag, Isara die Rauschende, Wobran, Yassafer ben Ahmed ben Rushtem, Saltatio Mortis
 
 Dem Alp mit letzter Kraft entkommen, so dachten wir jedenfalls, brachen wir zusammen. Nur dem schnellen eingreifen von Isara und dem durch pure Willenskraft angetriebene Hagen ist es zu verdanken, dass wir keine Seelen nach der Flucht verloren. Doch die wunderwirksamen Tränke von Magister Yassafer halfen schnell und schon bald waren wieder alle auf den Beinen. Doch noch hatten wir uns zu früh gefreut, denn erst jetzt erkannten wir, dass wir dem Alp nur unter Praios Scheibe entkommen waren. Doch diese senkte sich gerade hinter dem Horizont und wir konnte förmlich spüren wie sich seine kalten Finger nach uns streckten. So hatten wir denn ausreichend Motivation um im Laufschritt gen Sonnenuntergang zu hetzen. Doch nicht lange und wir waren uns sicher entkommen zu sein. Jedoch nur dem einen Schrecken, denn sobald wir dessen Einflusssphäre verließen nahmen wir Witterung eines anderen Jägers auf. Vermutlich eines Wolfes, doch dieser war ein Einzelgänger und gefährlich obendrein. Die Fragen nach dessen Identität wurden aber sehr schnell gelöst, denn schon stand dieser auf einem der hier wild verteilten Schieferblöcke und blickte uns aus zwei Augenpaaren an. Pure Chimäre konnte dies schon nicht mehr sein, jedenfalls verriet mir das ein eilig gesprochener Odem. Purer Dämon war es jedoch auch nicht, sondern ein Daimonid. Von unheimlichen Fähigkeiten war er, denn auf ein Heulen von ihm versagte Gandugars Körper seinem Geist den Dienst und Wobran war so schockiert, dass er Fersengeld gab. Doch den vereinten Kräften von Hagens blitzender Klinge und Yassafers Zauberkunst konnte er nur kurze Gegenwehr entgegenbringen und zeigte dann außerordentlich tierisches oder menschliches Verhalten und suchte sein Heil in der Flucht. Der Abend war schon eingebrochen und wir erahnten mehr denn wir es sehen konnten einen Lichtschein am Horizont, den wir eilig anstrebten. Hofften wir doch unsere Kameraden der Kapelle wiederzusehen.
@@ -710,13 +710,13 @@ Da wir nicht erwarteten durch die Patrouillen nur unwesentlich aufgehalten zu we
 &nbsp;
 
 **<a name="DieDaemonenschmiede"></a>Die Dämonenschmiede**
-  
+
 aufgezeichnet: Phex 1025 Bosparans Fall
-  
+
 Tag: Peraine, 1025 Bosparans Fall
-  
+
 Ort: Schwarztobrien, Liliengrund, Yol´Ghurmak
-  
+
 Gefährten: Hagen Flammenschlag, Lucrian Sturmfels, Gandugar Hammerschlag, Isara die Rauschende, Wobran, Yassafer ben Ahmed ben Rushtem, Saltatio Mortis
 
 Unsere Ausweise wurden sofort als Fälschungen erkannt worauf im Reich des Imerators die Todesstrafe steht. Allein das wir Saltatio Mortis sind hat uns vor diesem Schicksal bewahrt, denn wir werden schon bei Hofe erwartet. So war unsere Auflage lediglich im kleinen Örtchen Liliengrund uns neue Pässe bei der Brigade des gesplitterten Berges zu besorgen. Interessanterweise ist dieser Ort so gar nicht von den erzdämonischen Pervertierungen heimgesucht wie der Rest des Landes, was vermutlich an der direkten Lage am Yslisee liegt. Dort wird vermutlich auch die Masse an Korn gewonnen, die Schwarztobrien ernährt. Die Bewohner haben sich mit den Besatzern arrangiert und können ein recht beschauliches Leben führen, wenn sie auch die Gesellschaft der Bewaffneten nicht suchen. Die Brigade des gesplitterten Berges ist die „Kirche“ der Agrimoth-Verehrer und der zugehörige „Tempel“ war eine seltsam verdrehte Spirale, die sich in den Himmel wand und um zu deren Innerstes zu kommen man eine immer breiter werdende Rampe in die Tiefe nehmen musste. Dort war die Macht des Erzdämons deutlich zu spüren und die Nähe zu der sechsten oder siebten Sphäre, oder auch nur des Limbus sorgte dafür, dass ich in unglaublicher Zeit große Mengen an Kraft aufnehmen konnte. Lucrian fühlte sich dort sehr unwohl und musste schnell fortgebracht werden. Ich gehe allerdings davon aus, dass zumindest Ungemach diese Reaktion schon erwartet hatte und nur herausfinden wollte wen von uns es trifft. Dort fanden wir auch den echten Namen von Ihm heraus, denn der Paktierer nannte ihn Quintilius  von Bosparan. Ein Name den man sich merken sollte, denn Saltatio Mortis waren auf Seiten Borbarads hoch angesehen und werden auch jetzt noch verehrt. Unter anderem wurden sie die „Öffner der Pforten“ genannt und ihr Lied „Die Toten des Winters“ solle das Magnum Opus von Ungemach sein. Die Pässe selbst waren schnell besorgt und so konnten wir alsbald weiter Richtung Yol´Ghurmak ziehen. Zu diesen muss man allerdings noch erwähnen, dass wir nun wohl „im System“ des Dämonenkaisers registriert wurden und dass man bei astraler Betrachtung ein Simulacrum unserer selbst erkennen kann. Dies, bzw. das fehlen eben dessen hatte wohl auch so schnell für das Auffliegen der falschen Pässe  gesorgt. Leider ist mir nur noch nicht klar ob die Verbindung, die zwischen den Pässen und uns besteht nun auch schon nach Yol´Ghurmak weitergegeben wurde. Das wäre mehr als beängstigend.
@@ -736,13 +736,13 @@ Kuriose Orte gibt es im Palast, einer hiervon ist das Spiegelkabinett. Dieses be
 &nbsp;
 
 **<a name="Auszugsmarsch"></a>Auszugsmarsch**
-  
+
 aufgezeichnet: Phex 1025 Bosparans Fall
-  
+
 Tag: Peraine, 1025 Bosparans Fall
-  
+
 Ort: Transysilien, Yol´Ghurmak, Xeranien, Mittelreich
-  
+
 Gefährten: Hagen Flammenschlag, Lucrian Sturmfels, Gandugar Hammerschlag, Isara die Rauschende, Wobran, Yassafer ben Ahmed ben Rushtem, Saltatio Mortis
 
 Ein Tag vor dem Bardenwettbewerb wurde die Große Turney zu Yol´Ghurmak gehalten im Thronsaal des Imperators. Skurril war anzusehen, wie das Bogenschießen ohne Abgrenzung der Menge durchgeführt wurde, wenngleich die größte Verletzung ein verstauchter Fuß eines betrunkenen Gastes war. Gleichermaßen wurde ein Lanzengang begangen, der nach pervalschen Regeln durchgeführt wurde. Gute Reiter gab es, denn auf dem gepflasterten Boden hatten es die Pferde schwer. Noch dazu später, als schon einiges Blut geflossen war und der Boden enorm rutschig wurde. Hier lässt  sich Transysilien selbst zur Ader, denn eine Forderung darf nicht ausgeschlagen werden und es endet immer mit dem Tod mindestens eines Kombattanten. Bisweilen machte sich Torxes auch den morbiden Spaß die Waffen der Duellisten weich und biegsam zu zaubern, so dass nach einiger Zeit die Golems Galottas einfach beide in das Loch warfen. So kam es, dass an diesem Turnier ich kaum Spaß finden konnte und ich mich schon bald verabschiedete.
@@ -758,17 +758,17 @@ Letztendlich ging dann alles sehr schnell. Von Burg Kleinwardstein wurden wir me
 &nbsp;
 
 **Alte Feinde, alte Lasten
-  
-** 
+
+**
 
 **<a name="DerWegdurchdenSchleier"></a>Der Weg durch den Schleier**
-  
+
 aufgezeichnet: Ingerimm 1025 Bosparans Fall
-  
+
 Tag: Beginn Ingerimm, 1025 Bosparans Fall
-  
+
 Ort: Trallop und das Nebelmoor
-  
+
 Gefährten: Lilu, Durin, Dunkar, Yann, Taran
 
 Noch sollten wir dem Schatten Yol´Ghurmaks nicht entkommen sein. So geschah es, dass ich in der dritten Nacht auf der Bärenburg in Trallop von Aufregung in der Burg geweckt wurde. Schnell ließ sich herausfinden, dass es einen Angriff im Tempel gab und so begab auch ich mich mit meinen schon wachen Gefährten dorthin. Dort musste ich mit Entsetzen feststellen, dass Durin und Yann schon vor Ort waren und Durin schwer am Bein verletzt wurde. Im Nachhinein ließ sich das Geschehen recht einfach herausfinden.

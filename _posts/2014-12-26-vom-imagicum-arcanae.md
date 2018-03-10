@@ -4,7 +4,7 @@ title: Vom Imagicum Arcanae
 date: 2014-12-26T02:22:17+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=1154
+
 permalink: /vom-imagicum-arcanae/
 categories:
   - Schriftstücke

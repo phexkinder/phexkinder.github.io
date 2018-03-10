@@ -4,7 +4,7 @@ title: Krieg schreitet voran
 date: 2015-06-08T16:49:56+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=1206
+
 permalink: /krieg-schreitet-voran/
 categories:
   - Allgemein

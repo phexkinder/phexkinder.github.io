@@ -4,7 +4,7 @@ title: Yanns Reisebericht
 date: 2012-06-30T16:17:48+00:00
 author: Yann
 layout: single
-guid: http://www.phexkinder.de/?page_id=649
+
 ---
 ## Die Anfänge
 

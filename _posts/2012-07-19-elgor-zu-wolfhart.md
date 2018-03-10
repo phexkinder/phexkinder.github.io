@@ -4,7 +4,7 @@ title: Elgor zu Wolfhart
 date: 2012-07-19T21:07:18+00:00
 author: Wolfhart
 layout: single
-guid: http://www.phexkinder.de/?p=741
+
 permalink: /elgor-zu-wolfhart/
 categories:
   - Berichte

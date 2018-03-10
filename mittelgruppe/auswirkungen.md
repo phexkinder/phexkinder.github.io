@@ -4,7 +4,7 @@ title: Auswirkungen
 date: 2014-10-26T21:04:20+00:00
 author: Yann
 layout: single
-guid: http://www.phexkinder.de/?page_id=1138
+
 ---
 Beruhigend knistert das Feuer im Kamin meines Arbeitszimmers. Mollige Wärme erfüllt den ganzen Raum. Schatten tanzen munter über die umstehenden Regale, die mit den Büchern in ihren verschiedensten Größen ein wahrhaft schweres Gewicht zu tragen haben.
   

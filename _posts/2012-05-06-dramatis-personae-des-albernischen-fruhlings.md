@@ -4,7 +4,7 @@ title: Dramatis Personae des Albernischen Frühlings
 date: 2012-05-06T23:40:10+00:00
 author: Yann
 layout: single
-guid: http://www.phexkinder.de/?p=407
+
 permalink: /dramatis-personae-des-albernischen-fruhlings/
 categories:
   - Schriftstücke

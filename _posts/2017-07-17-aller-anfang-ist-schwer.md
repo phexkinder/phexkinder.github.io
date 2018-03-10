@@ -4,7 +4,7 @@ title: Aller Anfang ist schwer
 date: 2017-07-17T09:21:29+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=1261
+
 permalink: /aller-anfang-ist-schwer/
 categories:
   - Allgemein

@@ -4,7 +4,7 @@ title: Die Intrige um die Brilliantzwerge
 date: 2012-05-06T12:50:02+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=385
+
 permalink: /die-intrige-um-die-brilliantzwerge/
 categories:
   - Schriftstücke
@@ -14,7 +14,7 @@ tags:
 Viel ist geschehen seit wir (Wolfhart, Yann, Durin, Coran, Lilu und ich) den Schlund erreichten und von dort aufbrachen um Ingrascha zu finden. Angriffe von namenlosen Kreaturen und Überfälle der Ferkinas vom Stamm der Ban Agracha haben wir überstanden und noch immer wissen wir nicht warum all dies geschieht. Das es aus keinem, mit unseren Vorstellungen und Idealen, einvernehmlichen Bild geschieht ist uns allen klar und bedarf keiner weiteren Beweise. Da es jedoch so viel zu beachten gibt und ich nicht alles beisammen halten kann werde ich dies schriftlich niederlegen um meine Gedanken zu ordnen. <!--more-->
 
 
-  
+
 Es ist nicht eindeutig welches Ziel die Intrige hat. Viel haben wir gemutmaßt doch nichts Entscheidendes ist uns offenbar geworden. Was wissen wir? Diese Frage allein reicht nicht, sie muss spezifiziert werden, außerdem müssen wir feststellen, was alles Teil der Intrige ist und was auf diese Einfluss hat oder hatte. Diese sind im Folgenden aufgezählt:
 
   * Der Gnom
@@ -199,7 +199,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
       Der Gnom scheint in Auftrag eines anderen zu handeln. Vielleicht ist es Marmonidas, aber ich vermute, dass diese nur Partner (freiwillig oder unfreiwillig) in dieser Intrige sind und einem anderen dienen.
     </li>
   </ul>
-  
+
   <li>
     Was ist das Ziel des Gnoms?
   </li>
@@ -208,7 +208,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
       Es hat sich die Frage aufgetan, ob der Gnom den Schlüssel des Erzes an sich bringen will, da er verbissen versucht die Flamme der Luft zu erlangen, um damit eine contraelementare Macht zu Brandan zu haben, der am Ort der Entstehung Xiandrus im Raschtullswall sich befindet. Die anderen Flammen, hauptsächlich die blaue, wären sehr viel leichter zu bekommen. Allerdings scheint er erst versucht zu haben an die Flamme zu gelangen, nachdem die Verwandlung Ingraschas nicht rückgängig gemacht werden konnte. Als vordringliches Ziel des Gnoms muss gesehen werden an die Flamme zu gelangen.
     </li>
   </ul>
-  
+
   <li>
     Ist der Gnom nun handlungsunfähig?
   </li>
@@ -217,7 +217,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
       Kann nicht mit Sicherheit beantwortet werden. Der Gnom hat sich laut Aussage Durins in dem Kammern des Emirs relativ bereitwillig erschlagen lassen und auch noch Tipps zu seiner „Entleibung“ gegeben. Momentan ist der Geist oder die Essenz des Gnoms in Xiandru (der Gnom hatte keine Seele [mehr?]), wobei Xiandru jetzt vermutlich auf die Fähigkeiten des Gnoms zurückgreifen kann.
     </li>
   </ul>
-  
+
   <li>
     Ist es Teil des Plans sich von Xiandru erschlagen zu lassen?
   </li>
@@ -239,7 +239,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
       Sie ist auf jeden Fall Teil der Intrige, entweder als Partnerin oder Auftraggeberin für den Gnom. Evtl. ist auch sie, wie der Emir, nur ein Teil der Intrige und eine Bäuerin, doch das Gefühl in mir bestreitet das.
     </li>
   </ul>
-  
+
   <li>
     Welchen Geschäften geht die Fasarerin nach?
   </li>
@@ -300,7 +300,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
       Wolfhart hat spekuliert, dass er sie evtl. erst zu einer Hexe gemacht hat, dies erscheint bei näherer Betrachtung aber unwahrscheinlich, denn es hieße, dass er sich zauberkundige schaffen könnte. Diese Frage ist wohl momentan nicht zu beantworten, jedoch konnte der Gnom erkennen, dass sie etwas von ihm hatte. Vorsicht ist aber geboten, bei den Informationen, die der Gnom uns gegeben hat, da sie zwar immer sehr wissend klangen, aber vielleicht nur den Zweck hatten einen Keil zwischen uns zu treiben und Misstrauen zu sähen.
     </li>
   </ul>
-  
+
   <li>
     Was hat der Eine der drei Großen Lilu genommen?
   </li>
@@ -309,7 +309,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
       Auch dies ist nicht offensichtlich, aber es äußert sich in dem Verlust eines Teils ihres Schattens. Ich vermute er hat ihr einen Teil ihrer selbst genommen. Vielleicht kann er auch beliebig mit Lilu in Verbindung treten, bzw. hat Einblick in ihre Gedanken und Erkenntnisse.
     </li>
   </ul>
-  
+
   <li>
     Hat Lilus Verbindung einen Einfluss auf die Queste, die uns momentan auferliegt?
   </li>
@@ -318,7 +318,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
       Ist nicht zu beantworten.
     </li>
   </ul>
-  
+
   <li>
     Warum hat der Eine der drei Großen das getan?
   </li>
@@ -346,5 +346,5 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
 </ol>
 
 _geschrieben von_
-  
+
  _Taran ibn Muhammed ibn Ayabun ai Orkhiander, Magus_

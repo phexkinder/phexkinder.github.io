@@ -4,7 +4,7 @@ title: Coran
 date: 2012-06-10T11:47:21+00:00
 author: Coran
 layout: single
-guid: http://www.phexkinder.de/?page_id=621
+
 ---
 [<img class="alignleft size-medium wp-image-629" title="coran" src="http://www.phexkinder.de/wp-content/uploads/coran3-300x268.jpg" alt="" width="300" height="268" srcset="http://www.phexkinder.de/wp-content/uploads/coran3-300x268.jpg 300w, http://www.phexkinder.de/wp-content/uploads/coran3.jpg 384w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.phexkinder.de/wp-content/uploads/coran3.jpg)
 

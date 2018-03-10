@@ -4,7 +4,7 @@ title: Lilu
 date: 2012-06-03T21:28:10+00:00
 author: Lilu
 layout: single
-guid: http://www.phexkinder.de/?page_id=458
+
 ---
 ## Heike über Lilu
 

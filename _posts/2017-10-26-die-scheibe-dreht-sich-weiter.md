@@ -4,7 +4,7 @@ title: Die Scheibe dreht sich weiter
 date: 2017-10-26T18:23:24+00:00
 author: Taran
 layout: single
-guid: http://www.phexkinder.de/?p=1267
+
 permalink: /die-scheibe-dreht-sich-weiter/
 categories:
   - Allgemein
