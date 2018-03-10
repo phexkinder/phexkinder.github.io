@@ -1,5 +1,5 @@
 ---
-id: 399
+
 title: Ein Abend unter Freunden
 date: 2012-05-06T13:22:10+00:00
 author: Taran

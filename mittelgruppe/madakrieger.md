@@ -1,5 +1,5 @@
 ---
-id: 1010
+
 title: Madakrieger
 date: 2014-09-19T14:43:52+00:00
 author: Wolfhart

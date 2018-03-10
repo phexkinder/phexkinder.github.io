@@ -1,5 +1,5 @@
 ---
-id: 1154
+
 title: Vom Imagicum Arcanae
 date: 2014-12-26T02:22:17+00:00
 author: Taran

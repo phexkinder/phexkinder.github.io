@@ -1,5 +1,5 @@
 ---
-id: 1087
+
 title: Der Tanz des Eisens
 date: 2014-09-21T17:54:52+00:00
 author: Taran

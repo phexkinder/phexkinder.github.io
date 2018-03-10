@@ -1,5 +1,5 @@
 ---
-id: 430
+
 title: Südgruppe
 date: 2012-06-03T16:51:02+00:00
 author: Matthias

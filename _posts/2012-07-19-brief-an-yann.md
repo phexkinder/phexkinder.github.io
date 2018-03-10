@@ -1,5 +1,5 @@
 ---
-id: 735
+
 title: Brief an Yann
 date: 2012-07-19T20:58:18+00:00
 author: Wolfhart

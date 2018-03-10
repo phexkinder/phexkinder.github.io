@@ -1,5 +1,5 @@
 ---
-id: 1229
+
 title: An der Mauer
 date: 2016-01-30T01:03:20+00:00
 author: Wolfhart

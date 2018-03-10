@@ -1,5 +1,5 @@
 ---
-id: 493
+
 title: Impressum
 date: 2012-06-04T23:22:47+00:00
 author: Matthias

@@ -1,5 +1,5 @@
 ---
-id: 716
+
 title: Bei Praios!
 date: 2012-07-19T20:27:57+00:00
 author: Wolfhart

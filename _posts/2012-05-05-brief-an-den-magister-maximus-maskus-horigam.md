@@ -1,5 +1,5 @@
 ---
-id: 314
+
 title: Brief an den Magister Maximus Maskus Horigam
 date: 2012-05-05T11:09:30+00:00
 author: Taran

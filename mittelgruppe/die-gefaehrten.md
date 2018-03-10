@@ -1,5 +1,5 @@
 ---
-id: 981
+
 title: Die Gefährten
 date: 2014-09-13T18:03:21+00:00
 author: Wolfhart

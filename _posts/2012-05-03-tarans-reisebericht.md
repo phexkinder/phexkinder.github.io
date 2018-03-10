@@ -1,5 +1,5 @@
 ---
-id: 201
+
 title: Tarans Reisebericht
 date: 2012-05-03T12:27:14+00:00
 author: Taran

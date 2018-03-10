@@ -1,5 +1,5 @@
 ---
-id: 127
+
 title: Das Logbuch der Korisande
 date: 2012-04-28T20:42:55+00:00
 author: Brin

@@ -1,5 +1,5 @@
 ---
-id: 983
+
 title: ehemalige Gefährten
 date: 2014-09-13T18:03:09+00:00
 author: Wolfhart

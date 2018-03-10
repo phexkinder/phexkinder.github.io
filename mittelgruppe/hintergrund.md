@@ -1,5 +1,5 @@
 ---
-id: 682
+
 title: Hintergrund
 date: 2012-07-05T22:50:07+00:00
 author: Wolfhart

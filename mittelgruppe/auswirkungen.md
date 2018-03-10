@@ -1,5 +1,5 @@
 ---
-id: 1138
+
 title: Auswirkungen
 date: 2014-10-26T21:04:20+00:00
 author: Yann

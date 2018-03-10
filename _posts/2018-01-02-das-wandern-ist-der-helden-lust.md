@@ -1,5 +1,5 @@
 ---
-id: 1279
+
 title: Das Wandern ist der Helden Lust
 date: 2018-01-02T21:08:49+00:00
 author: Taran

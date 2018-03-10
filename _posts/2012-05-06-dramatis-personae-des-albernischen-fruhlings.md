@@ -1,5 +1,5 @@
 ---
-id: 407
+
 title: Dramatis Personae des Albernischen Frühlings
 date: 2012-05-06T23:40:10+00:00
 author: Yann

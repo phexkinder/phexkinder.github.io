@@ -1,5 +1,5 @@
 ---
-id: 845
+
 title: Der Sommer nach dem Frühling
 date: 2013-05-15T23:17:02+00:00
 author: Yann

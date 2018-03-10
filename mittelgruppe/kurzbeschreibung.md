@@ -1,5 +1,5 @@
 ---
-id: 898
+
 title: Kurzbeschreibung
 date: 2013-07-07T18:30:36+00:00
 author: Brin

@@ -1,5 +1,5 @@
 ---
-id: 539
+
 title: Yann
 date: 2012-06-05T20:30:33+00:00
 author: Yann

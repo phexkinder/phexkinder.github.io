@@ -1,5 +1,5 @@
 ---
-id: 1197
+
 title: Brief an die drei Kirchen
 date: 2015-03-17T19:44:22+00:00
 author: Taran

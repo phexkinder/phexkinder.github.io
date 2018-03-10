@@ -1,5 +1,5 @@
 ---
-id: 749
+
 title: 'Geschichten  mit Wolfhart und Coran'
 date: 2012-07-19T21:13:52+00:00
 author: Wolfhart

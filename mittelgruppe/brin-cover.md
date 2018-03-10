@@ -1,5 +1,5 @@
 ---
-id: 659
+
 title: Brin Cover
 date: 2012-06-30T17:34:44+00:00
 author: Brin

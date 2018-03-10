@@ -1,5 +1,5 @@
 ---
-id: 427
+
 title: Mittelgruppe
 date: 2012-06-03T16:54:34+00:00
 author: Matthias

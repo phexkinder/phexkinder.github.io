@@ -1,5 +1,5 @@
 ---
-id: 1051
+
 title: Von Musik und Spitzenpferden
 date: 2014-09-20T22:04:19+00:00
 author: Yann

@@ -1,5 +1,5 @@
 ---
-id: 1158
+
 title: 'Prolog &#8211; Der Ungläubige und das Geschenk des Kalifen'
 date: 2015-01-02T22:12:03+00:00
 author: Brin

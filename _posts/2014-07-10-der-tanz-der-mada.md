@@ -1,5 +1,5 @@
 ---
-id: 952
+
 title: Der Tanz der Mada
 date: 2014-07-10T22:32:04+00:00
 author: Taran
