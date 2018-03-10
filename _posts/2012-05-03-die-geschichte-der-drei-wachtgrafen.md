@@ -5,7 +5,7 @@ date: 2012-05-03T11:41:43+00:00
 author: Taran
 
 
-permalink: /die-geschichte-der-drei-wachtgrafen/
+
 categories:
   - Schriftstücke
 tags:

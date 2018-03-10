@@ -5,7 +5,7 @@ date: 2012-07-19T21:22:47+00:00
 author: Wolfhart
 
 
-permalink: /erinnerungen-eynes-kriegers/
+
 categories:
   - Schriftstücke
 tags:

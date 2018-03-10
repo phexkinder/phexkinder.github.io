@@ -5,7 +5,7 @@ date: 2014-09-21T17:54:52+00:00
 author: Taran
 
 
-permalink: /der-tanz-des-eisens/
+
 categories:
   - Schriftstücke
 tags:

@@ -5,7 +5,7 @@ date: 2012-07-19T21:00:47+00:00
 author: Yann
 
 
-permalink: /brief-an-wolfhart/
+
 categories:
   - Schriftstücke
 tags:

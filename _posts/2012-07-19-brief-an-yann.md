@@ -5,7 +5,7 @@ date: 2012-07-19T20:58:18+00:00
 author: Wolfhart
 
 
-permalink: /brief-an-yann/
+
 categories:
   - Schriftstücke
 tags:

@@ -5,7 +5,7 @@ date: 2017-07-17T09:21:29+00:00
 author: Taran
 
 
-permalink: /aller-anfang-ist-schwer/
+
 categories:
   - Allgemein
   - Berichte

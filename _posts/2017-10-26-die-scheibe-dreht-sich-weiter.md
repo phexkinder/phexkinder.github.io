@@ -5,7 +5,7 @@ date: 2017-10-26T18:23:24+00:00
 author: Taran
 
 
-permalink: /die-scheibe-dreht-sich-weiter/
+
 categories:
   - Allgemein
 tags:

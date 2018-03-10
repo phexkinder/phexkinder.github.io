@@ -5,7 +5,7 @@ date: 2016-04-01T08:29:45+00:00
 author: Taran
 
 
-permalink: /unbarmherziger-satinav/
+
 categories:
   - Allgemein
   - Berichte

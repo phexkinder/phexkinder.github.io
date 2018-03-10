@@ -5,7 +5,7 @@ date: 2013-11-20T21:08:01+00:00
 author: Taran
 
 
-permalink: /legenden-werden-geboren/
+
 categories:
   - Allgemein
 tags:

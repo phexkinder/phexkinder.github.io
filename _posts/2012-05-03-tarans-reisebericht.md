@@ -5,7 +5,7 @@ date: 2012-05-03T12:27:14+00:00
 author: Taran
 
 
-permalink: /tarans-reisebericht/
+
 categories:
   - Schriftstücke
 tags:

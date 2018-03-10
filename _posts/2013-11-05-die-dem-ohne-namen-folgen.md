@@ -5,7 +5,7 @@ date: 2013-11-05T20:34:26+00:00
 author: Taran
 
 
-permalink: /die-dem-ohne-namen-folgen/
+
 categories:
   - Allgemein
   - Schriftstücke

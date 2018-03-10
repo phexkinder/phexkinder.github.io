@@ -5,7 +5,7 @@ date: 2012-07-19T20:19:16+00:00
 author: Wolfhart
 
 
-permalink: /gutenachtgeschichte/
+
 categories:
   - Berichte
 tags:

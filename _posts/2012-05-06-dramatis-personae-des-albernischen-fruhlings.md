@@ -5,7 +5,7 @@ date: 2012-05-06T23:40:10+00:00
 author: Yann
 
 
-permalink: /dramatis-personae-des-albernischen-fruhlings/
+
 categories:
   - Schriftstücke
 tags:

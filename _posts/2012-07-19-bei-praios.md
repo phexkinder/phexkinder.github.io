@@ -5,7 +5,7 @@ date: 2012-07-19T20:27:57+00:00
 author: Wolfhart
 
 
-permalink: /bei-praios/
+
 categories:
   - Berichte
 tags:

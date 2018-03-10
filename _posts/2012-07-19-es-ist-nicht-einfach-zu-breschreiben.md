@@ -5,7 +5,7 @@ date: 2012-07-19T21:10:04+00:00
 author: Wolfhart
 
 
-permalink: /es-ist-nicht-einfach-zu-breschreiben/
+
 categories:
   - Berichte
   - Schriftstücke

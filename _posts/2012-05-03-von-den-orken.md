@@ -5,7 +5,7 @@ date: 2012-05-03T11:52:43+00:00
 author: Taran
 
 
-permalink: /von-den-orken/
+
 categories:
   - Schriftstücke
 tags:

@@ -5,7 +5,7 @@ date: 2012-06-06T21:47:45+00:00
 author: Durin
 
 
-permalink: /ein-brief-an-meine-verlobte/
+
 categories:
   - Schriftstücke
 tags:

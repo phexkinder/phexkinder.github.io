@@ -5,7 +5,7 @@ date: 2014-11-18T17:39:07+00:00
 author: Taran
 
 
-permalink: /das-leben-nach-dem-heldentum/
+
 categories:
   - Allgemein
 tags:

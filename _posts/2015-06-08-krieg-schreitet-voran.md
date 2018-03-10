@@ -5,7 +5,7 @@ date: 2015-06-08T16:49:56+00:00
 author: Taran
 
 
-permalink: /krieg-schreitet-voran/
+
 categories:
   - Allgemein
   - Berichte

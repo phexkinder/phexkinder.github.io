@@ -5,7 +5,7 @@ date: 2018-01-02T21:08:49+00:00
 author: Taran
 
 
-permalink: /das-wandern-ist-der-helden-lust/
+
 categories:
   - Allgemein
 tags:

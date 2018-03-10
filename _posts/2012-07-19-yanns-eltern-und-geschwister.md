@@ -5,7 +5,7 @@ date: 2012-07-19T21:42:12+00:00
 author: Yann
 
 
-permalink: /yanns-eltern-und-geschwister/
+
 categories:
   - Berichte
 tags:

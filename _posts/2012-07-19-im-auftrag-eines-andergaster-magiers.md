@@ -5,7 +5,7 @@ date: 2012-07-19T19:28:26+00:00
 author: Brin
 
 
-permalink: /im-auftrag-eines-andergaster-magiers/
+
 categories:
   - Schriftstücke
 tags:

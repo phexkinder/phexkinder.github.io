@@ -5,7 +5,7 @@ date: 2013-06-23T22:27:13+00:00
 author: Taran
 
 
-permalink: /neues-aus-dem-leben-der-helden/
+
 categories:
   - Allgemein
 tags:

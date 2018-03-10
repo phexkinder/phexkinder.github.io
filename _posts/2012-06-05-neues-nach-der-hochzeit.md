@@ -5,7 +5,7 @@ date: 2012-06-05T00:27:31+00:00
 author: Matthias
 
 
-permalink: /neues-nach-der-hochzeit/
+
 categories:
   - Irdisches
 format: aside

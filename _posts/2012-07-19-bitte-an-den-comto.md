@@ -5,7 +5,7 @@ date: 2012-07-19T20:51:41+00:00
 author: Wolfhart
 
 
-permalink: /bitte-an-den-comto/
+
 categories:
   - Schriftstücke
 tags:

@@ -5,7 +5,7 @@ date: 2012-05-05T11:09:30+00:00
 author: Taran
 
 
-permalink: /brief-an-den-magister-maximus-maskus-horigam/
+
 categories:
   - Schriftstücke
 tags:
