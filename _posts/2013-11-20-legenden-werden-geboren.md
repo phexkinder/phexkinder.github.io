@@ -3,7 +3,7 @@
 title: Legenden werden geboren
 date: 2013-11-20T21:08:01+00:00
 author: Taran
-layout: single
+
 
 permalink: /legenden-werden-geboren/
 categories:

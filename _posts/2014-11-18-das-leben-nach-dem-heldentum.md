@@ -3,7 +3,7 @@
 title: Das Leben nach dem Heldentum
 date: 2014-11-18T17:39:07+00:00
 author: Taran
-layout: single
+
 
 permalink: /das-leben-nach-dem-heldentum/
 categories:

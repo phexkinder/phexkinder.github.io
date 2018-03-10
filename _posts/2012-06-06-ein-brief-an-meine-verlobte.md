@@ -3,7 +3,7 @@
 title: Ein Brief an meine Verlobte
 date: 2012-06-06T21:47:45+00:00
 author: Durin
-layout: single
+
 
 permalink: /ein-brief-an-meine-verlobte/
 categories:

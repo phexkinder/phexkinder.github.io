@@ -3,7 +3,7 @@
 title: Yanns Reisebericht
 date: 2012-06-30T16:17:48+00:00
 author: Yann
-layout: single
+
 
 ---
 ## Die Anfänge

@@ -3,7 +3,7 @@
 title: Tarans Reisebericht
 date: 2012-05-03T12:27:14+00:00
 author: Taran
-layout: single
+
 
 permalink: /tarans-reisebericht/
 categories:

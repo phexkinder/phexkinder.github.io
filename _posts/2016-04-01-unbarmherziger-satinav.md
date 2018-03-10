@@ -3,7 +3,7 @@
 title: Unbarmherziger Satinav
 date: 2016-04-01T08:29:45+00:00
 author: Taran
-layout: single
+
 
 permalink: /unbarmherziger-satinav/
 categories:

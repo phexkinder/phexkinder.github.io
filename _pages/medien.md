@@ -3,7 +3,7 @@
 title: Medien
 date: 2012-05-04T23:37:00+00:00
 author: Matthias
-layout: single
+
 
 ---
 Die offiziellen DSA-Karten unterliegen diesen <a href="http://www.dasschwarzeauge.de/index.php?id=1021" target="_blank">Nutzungsbedingungen</a>.

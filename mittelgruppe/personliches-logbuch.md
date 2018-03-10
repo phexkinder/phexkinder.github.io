@@ -3,7 +3,7 @@
 title: Persönliches Logbuch
 date: 2012-06-30T17:39:21+00:00
 author: Brin
-layout: single
+
 
 ---
 <p align="center">

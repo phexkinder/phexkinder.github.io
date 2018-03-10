@@ -3,7 +3,7 @@
 title: Die Geschichte der drei Wachtgrafen
 date: 2012-05-03T11:41:43+00:00
 author: Taran
-layout: single
+
 
 permalink: /die-geschichte-der-drei-wachtgrafen/
 categories:

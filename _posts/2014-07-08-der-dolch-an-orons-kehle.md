@@ -3,7 +3,7 @@
 title: Der Dolch an Orons Kehle
 date: 2014-07-08T15:20:54+00:00
 author: Taran
-layout: single
+
 
 permalink: /der-dolch-an-orons-kehle/
 categories:

@@ -3,7 +3,7 @@
 title: Die Anrufung der Elemente
 date: 2012-05-05T11:07:07+00:00
 author: Taran
-layout: single
+
 
 permalink: /die-anrufung-der-elemente/
 categories:

@@ -3,7 +3,7 @@
 title: 'Im Auftrag eines Andergaster Magiers&#8230;'
 date: 2012-07-19T19:28:26+00:00
 author: Brin
-layout: single
+
 
 permalink: /im-auftrag-eines-andergaster-magiers/
 categories:

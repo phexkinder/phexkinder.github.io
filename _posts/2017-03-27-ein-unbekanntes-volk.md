@@ -3,7 +3,7 @@
 title: Ein unbekanntes Volk
 date: 2017-03-27T16:34:34+00:00
 author: Taran
-layout: single
+
 
 permalink: /ein-unbekanntes-volk/
 categories:

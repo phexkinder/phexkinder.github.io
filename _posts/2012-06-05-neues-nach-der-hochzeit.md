@@ -3,7 +3,7 @@
 title: Neues nach der Hochzeit
 date: 2012-06-05T00:27:31+00:00
 author: Matthias
-layout: single
+
 
 permalink: /neues-nach-der-hochzeit/
 categories:

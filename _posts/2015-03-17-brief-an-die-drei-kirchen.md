@@ -3,7 +3,7 @@
 title: Brief an die drei Kirchen
 date: 2015-03-17T19:44:22+00:00
 author: Taran
-layout: single
+
 
 permalink: /brief-an-die-drei-kirchen/
 categories:

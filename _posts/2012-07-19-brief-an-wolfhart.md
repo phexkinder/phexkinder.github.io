@@ -3,7 +3,7 @@
 title: Brief an Wolfhart
 date: 2012-07-19T21:00:47+00:00
 author: Yann
-layout: single
+
 
 permalink: /brief-an-wolfhart/
 categories:

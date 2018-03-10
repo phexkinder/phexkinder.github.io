@@ -3,7 +3,7 @@
 title: Die dem ohne Namen folgen
 date: 2013-11-05T20:34:26+00:00
 author: Taran
-layout: single
+
 
 permalink: /die-dem-ohne-namen-folgen/
 categories:

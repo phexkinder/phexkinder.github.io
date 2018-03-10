@@ -3,7 +3,7 @@
 title: Mittelgruppe
 date: 2012-06-03T16:54:34+00:00
 author: Matthias
-layout: single
+
 
 ---
 **Die Mittelgruppe** &#8211; Streiter für die alte Welt, die Zwölfe und das Kaiserreich. Und bei Gelegenheit auch für Hexen und Zwerge. Feinde allem Namenlosen und Heptsphärischen und Helden des neuen Zeitalters:

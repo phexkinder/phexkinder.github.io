@@ -3,7 +3,7 @@
 title: Ein Abend unter Freunden
 date: 2012-05-06T13:22:10+00:00
 author: Taran
-layout: single
+
 
 permalink: /ein-abend-unter-freunden/
 categories:

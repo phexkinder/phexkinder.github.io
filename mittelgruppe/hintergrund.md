@@ -3,7 +3,7 @@
 title: Hintergrund
 date: 2012-07-05T22:50:07+00:00
 author: Wolfhart
-layout: single
+
 
 ---
 <p style="text-align: justify;">

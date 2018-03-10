@@ -3,7 +3,7 @@
 title: Eine Kapelle für die Niederhöllen
 date: 2012-04-25T19:25:31+00:00
 author: Taran
-layout: single
+
 
 permalink: /eine-kapelle-fur-die-niederhollen/
 categories:

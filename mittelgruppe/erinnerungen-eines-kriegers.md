@@ -3,7 +3,7 @@
 title: Erinnerungen eines Kriegers
 date: 2012-07-05T22:15:47+00:00
 author: Wolfhart
-layout: single
+
 
 ---
 ## erster Eyntrag

@@ -3,7 +3,7 @@
 title: Südgruppe
 date: 2012-06-03T16:51:02+00:00
 author: Matthias
-layout: single
+
 
 ---
 Die Südgruppe, Streiter um das eigene Wohlergehen, die Anhäufung von Macht und Reichtum und opportune Nutzer günstiger Gelegenheiten. Ansässig im Süden Aventuriens und auf den Gewässern der südlichen See:

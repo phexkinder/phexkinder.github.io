@@ -3,7 +3,7 @@
 title: Der Sommer nach dem Frühling
 date: 2013-05-15T23:17:02+00:00
 author: Yann
-layout: single
+
 
 ---
 Der Mann betrachtete das Gesicht, welches sich in dem kristallgläsernen Fenster durchscheinend spiegelte. In ihm war nicht mehr die Jugendlichkeit zu sehen, welche zu sehen er eigentlich dort gewohnt war. Zugegeben, er war nicht alt. Aber die letzten Jahre hatten doch deutliche Spuren hinterlassen. Spuren, die jetzt in den letzen Wochen des Frühlings immer deutlicher sichtbar geworden waren.

@@ -3,7 +3,7 @@
 title: Krieg schreitet voran
 date: 2015-06-08T16:49:56+00:00
 author: Taran
-layout: single
+
 
 permalink: /krieg-schreitet-voran/
 categories:

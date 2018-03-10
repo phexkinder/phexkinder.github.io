@@ -3,7 +3,7 @@
 title: Es ist nicht einfach zu breschreiben
 date: 2012-07-19T21:10:04+00:00
 author: Wolfhart
-layout: single
+
 
 permalink: /es-ist-nicht-einfach-zu-breschreiben/
 categories:

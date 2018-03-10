@@ -3,7 +3,7 @@
 title: Durin
 date: 2012-06-05T20:29:30+00:00
 author: Durin
-layout: single
+
 
 ---
 **Durin von den Eisenfäusten**

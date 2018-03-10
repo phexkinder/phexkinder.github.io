@@ -3,7 +3,7 @@
 title: Gedanken eynes Kriegers (in Überarbeitung)
 date: 2012-07-19T21:22:47+00:00
 author: Wolfhart
-layout: single
+
 
 permalink: /erinnerungen-eynes-kriegers/
 categories:

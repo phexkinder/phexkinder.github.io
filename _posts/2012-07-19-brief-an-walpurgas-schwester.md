@@ -3,7 +3,7 @@
 title: Brief an Walpurgas Schwester
 date: 2012-07-19T20:55:18+00:00
 author: Wolfhart
-layout: single
+
 
 permalink: /brief-an-walpurgas-schwester/
 categories:
