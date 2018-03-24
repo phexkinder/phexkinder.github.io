@@ -17,7 +17,7 @@ Lilus Wurzeln liegen (auch wenn sie darauf nicht sehr gut zu sprechen ist) bei d
 
 Jargo ist ein dunkelbraunes Frettchen mit gelegentlich nervösen, aber stets aufmerksamen schwarzen Augen und Lilus Vertrautentier. Am liebsten hält er sich daher in Fühl-Nähe zu Lilu auf. Umso erstaunlicher für Außenstehende, wenn das scheinbar machtlose Geschöpf mit großem Mut seine besonderen Fähigkeiten unter Beweis stellt – Ähnlichkeiten mit seiner Hexe nicht ausgeschlossen.
 
-Während Jargo stets mit Lilu unterwegs ist, sitzt ein anderer "Vertrauter&#8220; üblicherweise bei ihr zuhause – und meistens im Kamin. Seitdem die Gruppe den Funkeldrachen Anxerit mit seiner heiklen Fracht auf seiner Flucht aus Ysilia vor den Borbaradianern begleitet hat, wohnt er bei Lilu und ist Freund, Lehrer, Berater und Haushälter in einem. Es verwundert daher nicht, dass Lilu großes Interesse für Drachen hegt, das sie momentan in der mühsamen Lektüre des "Compendium Drakomagia&#8220; (eine freundliche Leihgabe von Shafir dem Prächtigen, nachdem die Gruppe ihm die Hochzeit gerettet hat) stillt.
+Während Jargo stets mit Lilu unterwegs ist, sitzt ein anderer "Vertrauter" üblicherweise bei ihr zuhause – und meistens im Kamin. Seitdem die Gruppe den Funkeldrachen Anxerit mit seiner heiklen Fracht auf seiner Flucht aus Ysilia vor den Borbaradianern begleitet hat, wohnt er bei Lilu und ist Freund, Lehrer, Berater und Haushälter in einem. Es verwundert daher nicht, dass Lilu großes Interesse für Drachen hegt, das sie momentan in der mühsamen Lektüre des "Compendium Drakomagia" (eine freundliche Leihgabe von Shafir dem Prächtigen, nachdem die Gruppe ihm die Hochzeit gerettet hat) stillt.
 
 Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch als Kampfstab (bzw. hoffentlich in Zukunft noch mit weiteren Extras) durchaus auch als variantenreiche Waffe seinen Zweck erfüllt.
 
@@ -26,11 +26,11 @@ Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch a
 ## Heldentaten
 
   * versuchte einem Zwerg schwimmen beizubringen
-  * brachte Corans Gegner beim Pferderennen von Neetha um den Sieg (und das –man nimmt ja gern Rücksicht auf die sensiblen Punkte seiner "Freunde&#8220; -- ganz ohne Hexerei)
+  * brachte Corans Gegner beim Pferderennen von Neetha um den Sieg (und das –man nimmt ja gern Rücksicht auf die sensiblen Punkte seiner "Freunde" -- ganz ohne Hexerei)
   * enttarnte die Mitglieder des Bundes der Neun
   * durchflog einen 3-köpfigen, untoten Drachen
   * zwang den Rondra-Geweihten (war das nicht eine Göttin des Kampfes?!) bei einer Prügelei in den Schnee
   * opferte sich, zeitweilig den g’scheiten Geweihten an die (zu) kurze Kette zu nehme
-  * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene „nur kleine Makel“ auf Yann & Wolfhart’s sonst blütenweißen (Diebes-/Krieger-)Heldenkarriere bekannt geworden)     &#8212;--   Wolfhart: "Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!&#8220;
+  * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene „nur kleine Makel“ auf Yann & Wolfhart’s sonst blütenweißen (Diebes-/Krieger-)Heldenkarriere bekannt geworden)     &#8212;--   Wolfhart: "Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!"
 
 &nbsp;

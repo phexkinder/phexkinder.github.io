@@ -76,6 +76,6 @@ Zitate:
   
 “Wenn Du jemals die Gelegenheit haben solltest, mit Waldron Zenkauskas zu segeln, dann nimm sie wahr, gleich was es für Dein sonstiges Leben bedeutet. Mehr Reichtum wirst Du nicht erringen können als das, was Du auf einer Fahrt mit ihm für Dich gewinnen kannst.”
   
-"Viel bla bla, wenig platsch platsch&#8220;
+"Viel bla bla, wenig platsch platsch"
 
 &nbsp;

@@ -73,7 +73,7 @@ Ebenfalls bemerkenswert sind auch die beiden Waffen: Naidel, der persönliche Do
   * Geisterjäger
   * Wölfenfreund
   * Träger des Greifensterns in Gold
-  * Träger des "Kaiser-Raul-Schwerts&#8220; in Bronze
+  * Träger des "Kaiser-Raul-Schwerts" in Bronze
   * Träger des Meritenordnes Methumiensis
   * Träger des Festumer Ehrenverdienstkreuzes Erster klasse
   * Ehrenbürger von Pervin

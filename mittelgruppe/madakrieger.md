@@ -35,4 +35,4 @@ Niemals hätte ich mir träumen lassen, dass ich im Streben nach der Meisterscha
 
 Aufzeichnungen von Wolfhart Angbarar aus dem Jahr 34 nach Hal.
 
-Zu lesen in „Der Weg des Kriegers -- Curriculum II -- für Lehrmeister&#8220; persönliche Ausgabe aus dem Archiv des Tempels der Flussnebel.
+Zu lesen in „Der Weg des Kriegers -- Curriculum II -- für Lehrmeister" persönliche Ausgabe aus dem Archiv des Tempels der Flussnebel.
