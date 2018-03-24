@@ -1,17 +1,22 @@
 ---
 title: Die Mittelgruppe
-date: 2012-06-03T16:54:34+00:00
+date: 2014-09-13T18:03:21+00:00
 permalink: /mittelgruppe/
+author: Wolfhart
 ---
 
-Streiter für die alte Welt, die Zwölfe und das Kaiserreich. Und bei Gelegenheit auch für Hexen und Zwerge. Feinde allem Namenlosen und Heptsphärischen und Helden des neuen Zeitalters:
+Nachdem der Sphärenschänder in die Ewigkeit verbannt wurde, nachdem das Schicksal nach uns gegriffen hat und das Geheimnis des Erzes den Dienern des Geschädelten verborgen geblieben ist, ist es an der Zeit die letzten Waffen zu sammeln, um auch dieses Zeitalter vor dem Weltenbrand zu retten.
 
-  * [Dunkar]({{ "/mittelgruppe/dunkar" | absolute_url }}) Aerensen, Drachenjäger aus dem Bornland
-  * [Durin]({{ "/mittelgruppe/durin" | absolute_url }}) von den Eisenfäusten, ehemaliger Träger der Schwinge mit dem Geisterblatt
-  * [Lilu]({{ "/mittelgruppe/lilu" | absolute_url }}), Tochter der Erde und Traumseherin
-  * [Taran]({{ "/mittelgruppe/taran" | absolute_url }}) ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash´Hualay Akademie
-  * [Wolfhart]({{ "/mittelgruppe/wolfhart" | absolute_url }}) Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
-  * [Yann]({{ "/mittelgruppe/yann" | absolute_url }}) Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas
+**Wenn es einfach wäre, könnte es ja jeder machen!**
+
+Hier kannst du mehr erfahren über **DIE GEFÄHRTEN**! - Streiter für die alte Welt, die Zwölfe und das Kaiserreich. Und bei Gelegenheit auch für Hexen und Zwerge. Feinde allem Namenlosen und Heptsphärischen und Helden des neuen Zeitalters:
+
+* [Dunkar]({{ "/mittelgruppe/dunkar" | absolute_url }}) Aerensen, Drachenjäger aus dem Bornland
+* [Durin]({{ "/mittelgruppe/durin" | absolute_url }}) von den Eisenfäusten, ehemaliger Träger der Schwinge mit dem Geisterblatt
+* [Lilu]({{ "/mittelgruppe/lilu" | absolute_url }}), Tochter der Erde und Traumseherin
+* [Taran]({{ "/mittelgruppe/taran" | absolute_url }}) ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash´Hualay Akademie
+* [Wolfhart]({{ "/mittelgruppe/wolfhart" | absolute_url }}) Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
+* [Yann]({{ "/mittelgruppe/yann" | absolute_url }}) Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas
 
 ## Mehrfach haben sich Gefährten neu gefunden oder auch für immer trennen müssen
 
