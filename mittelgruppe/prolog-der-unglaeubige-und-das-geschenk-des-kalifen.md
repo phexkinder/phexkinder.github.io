@@ -48,7 +48,7 @@ Ein dumpfes Geräusch riss die Menge aus ihren Gedanken. Einer der Leibgardisten
   
 Die Stimme des andern Leibgardisten verkündete:
   
-„Der Ungläubige ist in die Stallungen des Kalifen zu führen. Dort möge er sich ein Pferd aus der Zucht des Kalifen aussuchen welches ihm beliebe außer dem Pferd des Kalifen selbst. Darüber hinaus soll er mit Wasser und Proviant versorgt und ihm ein erfahrener Karawanenführer anbei gestellt werden. Bis zum Morgengrauen muss er die Stadt verlassen haben. Er soll drei Mal noch während seiner Zeit unter der Sonne diese Stadt betreten dürfen. Drei Mal wird der Kalif ihn empfangen und mit einer Bitte hören. Drei Mal soll ihm ein Wunsch gewährt werden, so es Rastullah gefällt. Sollte der Ungläubige ein viertes Mal die Tore der Stadt durchschreiten, so möge seine Zeit unter der Sonne vorüber sein und die ewige Nacht über ihn hereinbrechen.
+"Der Ungläubige ist in die Stallungen des Kalifen zu führen. Dort möge er sich ein Pferd aus der Zucht des Kalifen aussuchen welches ihm beliebe außer dem Pferd des Kalifen selbst. Darüber hinaus soll er mit Wasser und Proviant versorgt und ihm ein erfahrener Karawanenführer anbei gestellt werden. Bis zum Morgengrauen muss er die Stadt verlassen haben. Er soll drei Mal noch während seiner Zeit unter der Sonne diese Stadt betreten dürfen. Drei Mal wird der Kalif ihn empfangen und mit einer Bitte hören. Drei Mal soll ihm ein Wunsch gewährt werden, so es Rastullah gefällt. Sollte der Ungläubige ein viertes Mal die Tore der Stadt durchschreiten, so möge seine Zeit unter der Sonne vorüber sein und die ewige Nacht über ihn hereinbrechen.
   
 Dies ist das Urteil, welches seine Erhabenheit über den Fremden unter Abwägung seiner Taten und Verfehlungen gesprochen hat.
   
@@ -58,4 +58,4 @@ Nichts geschah.
 
 Der Gardist trat einen schnellen Schritt nach vorn, wobei seine Glöckchen die Bewegung seltsam fröhlich ankündigten:
   
-„Zerstreut euch!" rief er mit lauter, befehlsgewohnter Stimme, die durch die Schockstarre einiger weniger hindurch drang, die sich auch sofort in Bewegung setzten. Dies rüttelte auch die Übrigen wach und die Menge tat wie ihr geheißen, verstreute sich über die Straßen und Plätz der Stadt; und verbreitete schneller als der Wüstenwind die Geschichte über den Ungläubigen und das Geschenk des Kalifen.
+"Zerstreut euch!" rief er mit lauter, befehlsgewohnter Stimme, die durch die Schockstarre einiger weniger hindurch drang, die sich auch sofort in Bewegung setzten. Dies rüttelte auch die Übrigen wach und die Menge tat wie ihr geheißen, verstreute sich über die Straßen und Plätz der Stadt; und verbreitete schneller als der Wüstenwind die Geschichte über den Ungläubigen und das Geschenk des Kalifen.

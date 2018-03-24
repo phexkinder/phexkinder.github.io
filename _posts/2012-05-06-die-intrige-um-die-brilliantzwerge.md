@@ -81,7 +81,7 @@ Es ist nicht eindeutig welches Ziel die Intrige hat. Viel haben wir gemutmaßt d
 
 <ol start="1">
   <li>
-    Der Emir hat seine Frau „geknechtet", d.h. er hat sie gezwungen
+    Der Emir hat seine Frau "geknechtet", d.h. er hat sie gezwungen
   </li>
   <li>
     Der Emir war dem namenlosen oder dem dämonischen verfallen
@@ -118,7 +118,7 @@ Es ist nicht eindeutig welches Ziel die Intrige hat. Viel haben wir gemutmaßt d
 
 <ol start="1">
   <li>
-    Die Flamme der Luft entstand wie die „sechs" anderen Flammen aus dem Stein der Simia.
+    Die Flamme der Luft entstand wie die "sechs" anderen Flammen aus dem Stein der Simia.
   </li>
   <li>
     Die Flamme der Luft hat den versteinerten Zwerg wieder in seine fleischliche Form zurückgeführt.
@@ -214,7 +214,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
   </li>
   <ul>
     <li>
-      Kann nicht mit Sicherheit beantwortet werden. Der Gnom hat sich laut Aussage Durins in dem Kammern des Emirs relativ bereitwillig erschlagen lassen und auch noch Tipps zu seiner „Entleibung" gegeben. Momentan ist der Geist oder die Essenz des Gnoms in Xiandru (der Gnom hatte keine Seele [mehr?]), wobei Xiandru jetzt vermutlich auf die Fähigkeiten des Gnoms zurückgreifen kann.
+      Kann nicht mit Sicherheit beantwortet werden. Der Gnom hat sich laut Aussage Durins in dem Kammern des Emirs relativ bereitwillig erschlagen lassen und auch noch Tipps zu seiner "Entleibung" gegeben. Momentan ist der Geist oder die Essenz des Gnoms in Xiandru (der Gnom hatte keine Seele [mehr?]), wobei Xiandru jetzt vermutlich auf die Fähigkeiten des Gnoms zurückgreifen kann.
     </li>
   </ul>
 
@@ -223,7 +223,7 @@ Sie befinden sich nun vermutlich in Zorgan oder Fasar.
   </li>
   <ul>
     <li>
-      War die „Entleibung des Gnoms Absicht, so darf er noch nicht als Figur vom Spielfeld genommen werden. Vielmehr muss jetzt ein größeres Augenmerk auf Xiandru gelegt werden, wie wir auch keinen Plan mehr auf die Informationen die wir von Ihr erhalten, bzw. auf die Fertigkeiten die sie bereitstellt bauen dürfen. Dies gilt insbesondere auch für die Löschung der Flamme im Notfall.
+      War die "Entleibung des Gnoms Absicht, so darf er noch nicht als Figur vom Spielfeld genommen werden. Vielmehr muss jetzt ein größeres Augenmerk auf Xiandru gelegt werden, wie wir auch keinen Plan mehr auf die Informationen die wir von Ihr erhalten, bzw. auf die Fertigkeiten die sie bereitstellt bauen dürfen. Dies gilt insbesondere auch für die Löschung der Flamme im Notfall.
     </li>
   </ul>
 </ol>

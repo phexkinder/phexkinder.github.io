@@ -126,13 +126,13 @@ tags:
     Setzt der eigenen Bevölkerung hart zu
   </li>
   <li>
-    Hat das Problem der „Blauen Füchse" (vgl. unten)
+    Hat das Problem der "Blauen Füchse" (vgl. unten)
   </li>
   <li>
     Hat keine eigenen Truppen; spart auf etwas (siehe nächster Punkt)
   </li>
   <li>
-    Hat „Melrings Haufen" unter Vertrag (stehen unter Waffen i. Umland)
+    Hat "Melrings Haufen" unter Vertrag (stehen unter Waffen i. Umland)
   </li>
   <li>
     Hat Leute in der KGIA (oder zum. Ehemalige), die ihm helfen
@@ -163,7 +163,7 @@ tags:
     Tochter Raidris
   </li>
   <li>
-    Hat ebenfalls das Problem mit den „Blauen Füchsen", allerdings nur am Rande; mittlerweile ausgeweitet; wird aber nach einem kleinen Abstecher nach Bockshag nach dem Rückzug von dort nicht wieder über die Grenze setzen
+    Hat ebenfalls das Problem mit den "Blauen Füchsen", allerdings nur am Rande; mittlerweile ausgeweitet; wird aber nach einem kleinen Abstecher nach Bockshag nach dem Rückzug von dort nicht wieder über die Grenze setzen
   </li>
   <li>
   </li>
@@ -504,7 +504,7 @@ A. Waffengefährte Dankwarts seit dem Orkkrieg & dessen rechte Hand
     Als Holzhändler getarnter Informant der Phexkirche in Bredenhag
   </li>
   <li>
-    Massgeblicher Informant über die Truppen in Bredenhag und Kontakt zu den „Blauen Füchsen"
+    Massgeblicher Informant über die Truppen in Bredenhag und Kontakt zu den "Blauen Füchsen"
   </li>
   <li>
     Muss noch für seine Treffens-Vermittlung entlohnt werden
@@ -529,7 +529,7 @@ A. Waffengefährte Dankwarts seit dem Orkkrieg & dessen rechte Hand
 
 <ol start="14">
   <li>
-    <strong>Die </strong><strong>„</strong><strong>Blauen Füchse"</strong>
+    <strong>Die </strong><strong>"</strong><strong>Blauen Füchse"</strong>
   </li>
 </ol>
 
@@ -556,7 +556,7 @@ A. Waffengefährte Dankwarts seit dem Orkkrieg & dessen rechte Hand
 
 └ Liess sich nicht überreden, Yanns Hilfeangebot anzunehmen; stattdessen beharrte er aufidealistischen Motiven (Kopf Bredenhags, Anklage vor der Königin etc
 
-└ Sieht Yann letztendlich aufgrund des ausgehandelten Vertrages mit den Nordmarken als „Verräter an der Sache"
+└ Sieht Yann letztendlich aufgrund des ausgehandelten Vertrages mit den Nordmarken als "Verräter an der Sache"
 
 &nbsp;
 
@@ -571,7 +571,7 @@ A. Waffengefährte Dankwarts seit dem Orkkrieg & dessen rechte Hand
     Opfer des Fluches (mittlerweile gebrochen)
   </li>
   <li>
-    Eigner des „Kirschbaumes von Rotengrund"
+    Eigner des "Kirschbaumes von Rotengrund"
   </li>
   <li>
   </li>
@@ -828,7 +828,7 @@ A. Waffengefährte Dankwarts seit dem Orkkrieg & dessen rechte Hand
     Fähiger Kämpfer, aber sehr praiosfromm
   </li>
   <li>
-    Hatte Ärger mit dem Nachreisser, den wir letztendlich zur Strecke brachten; liess das letzte Tor in die Wolfswelt „fällen".
+    Hatte Ärger mit dem Nachreisser, den wir letztendlich zur Strecke brachten; liess das letzte Tor in die Wolfswelt "fällen".
   </li>
   <li>
     Baut höchstwahrscheinlich Belagerungsgerät für Dankwart
@@ -1001,7 +1001,7 @@ B.  Mit Geld weiter ins nächste Wirtshaus geschickt mit der Nachricht, wir wü
 
 <ol start="36">
   <li>
-    <strong>Der </strong><strong>„</strong><strong>Ghul"</strong>
+    <strong>Der </strong><strong>"</strong><strong>Ghul"</strong>
   </li>
 </ol>
 
@@ -1113,7 +1113,7 @@ B.  Mit Geld weiter ins nächste Wirtshaus geschickt mit der Nachricht, wir wü
     Drachentöter
   </li>
   <li>
-    Gab Dunkar den Auftrag bzgl. der Rhazzazzor Kultisten („Goldene Masken")
+    Gab Dunkar den Auftrag bzgl. der Rhazzazzor Kultisten ("Goldene Masken")
   </li>
   <li>
     Trägt Schwanenflügel

@@ -41,7 +41,7 @@ Ich bin der jüngste Dozent an der Dracheneiakademie und das sogar für den repr
 
 Auch mit Perdhita läuft alles blendend. Auch wenn ich es nie für möglich erachtet hätte, dass Beziehungen zwischen Mann und Frau derart – nunja – offen sein können. Ich muss gestehen, dass ich diese Frau wohl noch lange nicht durchschaut habe; bisweilen ängstigt sie mich sogar etwas, zum einen mit ihren teils abstrusen weltphilosophischen Ansichten, aber maßgeblich wegen ihrem Umgang mit Rauschkräutern und Alchemicas.
 
-Auf der anderen Seite ist sie auch der lebende Beweis dafür, wieviel schädlichen Einwirkungen man dem menschlichen Körper in Form von „Giften" tatsächlich aussetzen kann, ohne, dass sich (bis dato) wirklich ernsthafte Folgen und Nebenwirkungen zeigen.
+Auf der anderen Seite ist sie auch der lebende Beweis dafür, wieviel schädlichen Einwirkungen man dem menschlichen Körper in Form von "Giften" tatsächlich aussetzen kann, ohne, dass sich (bis dato) wirklich ernsthafte Folgen und Nebenwirkungen zeigen.
 
 Und trotzdem ist es gerade ein Satz, den Perdhita vor einigen Tagen erst gesagt hat, der mir im Kopf herum spukt und seinen Weg nicht mehr nach draußen finden will.
 

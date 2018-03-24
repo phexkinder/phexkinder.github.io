@@ -63,7 +63,7 @@ tags:
 
 <span style="font-family: Constantia,serif;"><u><b>Der Aikar Brazoragh</b></u></span>
 
-<span style="font-family: Constantia,serif;">Über das Prinzip des Aikar Brazoragh ist mir nur wenig bekannt. Übersetzt heißt der Titel soviel wie „der von Brazoragh Gesandt oder Gesegnete". Fest steht, dass in den großen Orkkriegen ein so genannter Ork die Heere anführte. Bekannt war Nargazz Blutfaust vor ca. 1000 Jahren als er in die Länder der Elfen, Zwerge und Menschen einfiel und für Jahrhunderte diese besetzt hielt. Der aktuelle Aikar Brazoragh scheint Azzam Riak Akkai zu heißen. Er hat zwischen den Stämmen die Friedenspflicht verhängt und damit zur Mäßigung und scheinbar einer gewissen Kooperation gezwungen.</span>
+<span style="font-family: Constantia,serif;">Über das Prinzip des Aikar Brazoragh ist mir nur wenig bekannt. Übersetzt heißt der Titel soviel wie "der von Brazoragh Gesandt oder Gesegnete". Fest steht, dass in den großen Orkkriegen ein so genannter Ork die Heere anführte. Bekannt war Nargazz Blutfaust vor ca. 1000 Jahren als er in die Länder der Elfen, Zwerge und Menschen einfiel und für Jahrhunderte diese besetzt hielt. Der aktuelle Aikar Brazoragh scheint Azzam Riak Akkai zu heißen. Er hat zwischen den Stämmen die Friedenspflicht verhängt und damit zur Mäßigung und scheinbar einer gewissen Kooperation gezwungen.</span>
 
 <span style="font-family: Constantia,serif;"><u><b>Mysteria et Arkana</b></u></span>
 
