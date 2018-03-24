@@ -1307,7 +1307,7 @@ B.  Mit Geld weiter ins nächste Wirtshaus geschickt mit der Nachricht, wir wü
     Wohl keine Giftmischerin
   </li>
   <li>
-    Sehr adrett korrekt…
+    Sehr adrett korrekt...
   </li>
   <li>
   </li>

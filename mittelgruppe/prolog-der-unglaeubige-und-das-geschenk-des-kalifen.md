@@ -42,7 +42,7 @@ Der Nordmann soll dem Großvisier des Kalifen gegenüber gestanden und sich bere
   
 Als der Großvisier nur gelacht und gefragt habe, ob er denn lieber sein Leben, denn sein Augenlicht geben wolle, habe der Ungläubige nur gelächelt und geantwortet, es würde sich doch wohl ein Streifen schwarzen Stoffes im Palast finden.
   
-Der Großvisier habe erst noch schallender gelacht, so sagt man; aber dann, als ihm klar wurde, dass der Ungläubige von seinem Vorschlag nicht ablassen würde, sei ihm ein Frösteln kälter als Eis in Mark und Bein gefahren. Denn der Kalif habe auch sein Leben, also das des Großvisiers, an das Leben seiner Frau und seines ungeborenen Kindes gebunden, berichteten angeblich die Walis…
+Der Großvisier habe erst noch schallender gelacht, so sagt man; aber dann, als ihm klar wurde, dass der Ungläubige von seinem Vorschlag nicht ablassen würde, sei ihm ein Frösteln kälter als Eis in Mark und Bein gefahren. Denn der Kalif habe auch sein Leben, also das des Großvisiers, an das Leben seiner Frau und seines ungeborenen Kindes gebunden, berichteten angeblich die Walis...
 
 Ein dumpfes Geräusch riss die Menge aus ihren Gedanken. Einer der Leibgardisten hatte eine schwere Ledertasche neben den trotz des Sonnenlichts und der Hitze des Tages fröstelnden Mann geworfen.
   

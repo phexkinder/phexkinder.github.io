@@ -106,7 +106,7 @@ Aufräumarbeiten und Reparatur des Schiffes;
 
 Ansonsten keine besonderen Ereignisse.
 
-To be continued … falls es jemand liest….
+To be continued ... falls es jemand liest....
 
 **6. Phex**
 

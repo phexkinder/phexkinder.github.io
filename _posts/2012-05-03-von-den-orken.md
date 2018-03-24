@@ -87,7 +87,7 @@ tags:
 
 <span style="font-family: Constantia,serif;"><b>Aschepelz</b>, oberster Schamane der Molokosh. Hat eine schamanistische Macht die in einem Gebiet einen Effekt wie beschleunigtes Altern, Sterben, Verrotten hervorruft und auch auf Borongeweihtem Boden wirkt. Ihm rechne ich eine große, untote Geisterkrähe zu durch welche er wahrscheinlich wahrnehmen und wirken kann. </span>
 
-<span style="font-family: Constantia,serif;"><b>Trufak Schädelbrecher</b>, der Kriegshäuptling der … trägt eine Enduriumrüstung und ebensolche Waffe.</span>
+<span style="font-family: Constantia,serif;"><b>Trufak Schädelbrecher</b>, der Kriegshäuptling der ... trägt eine Enduriumrüstung und ebensolche Waffe.</span>
 
 <span style="font-family: Constantia,serif;"><b>Kargash</b>, der Kriegshäuptling der Garachai und berühmter Kämpfer.</span>
 

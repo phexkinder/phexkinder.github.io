@@ -1,6 +1,6 @@
 ---
 
-title: 'Im Auftrag eines Andergaster Magiers…'
+title: 'Im Auftrag eines Andergaster Magiers...'
 date: 2012-07-19T19:28:26+00:00
 author: Brin
 
@@ -55,7 +55,7 @@ Mir fehlen die Bäume.
 
 Mir fehlt der Geruch von Laub und Moos. Mir fehlt das Knacken von Ästen unter meinen Stiefeln; das sanfte Licht, das nur in einzelnen, dünnen Bahnen sein Ziel im torfigen Untergrund findet; das Geräusch von kleinen Tieren, die im dichten Unterholz herumrascheln und von Vögeln, die in den Wipfeln unter dem scheinbar undurchdringlichen Baldachin ihre Nester bauen. Mir fehlt das Gefühl von alter, knorriger Rinde, wenn ich mit der Hand über den Stamm einer borkigen Eiche gleite; das Wispern der Jahrhunderte alten Bäume im Wind; die Vertrautheit und Geborgenheit, die die großen Wälder vermitteln. Das Gefühl von Heimat.
 
-Ich möchte einmal wieder durch den Steineichenwald reiten; möchte die Farne und Schößlinge sehen, die nach Leibeskräften versuchen ihren Teil des Lichtes zu erhaschen; möchte das Rauschen eines Quellbaches hören; auf die schwarze, spiegelglatte Oberfläche eines Moorsees blicken. Ich möchte barfuß durch das bunte Laub des frühen Herbstes wandern, meine nackten Zehen tief in den Mutterboden des Steineichenwaldes graben…
+Ich möchte einmal wieder durch den Steineichenwald reiten; möchte die Farne und Schößlinge sehen, die nach Leibeskräften versuchen ihren Teil des Lichtes zu erhaschen; möchte das Rauschen eines Quellbaches hören; auf die schwarze, spiegelglatte Oberfläche eines Moorsees blicken. Ich möchte barfuß durch das bunte Laub des frühen Herbstes wandern, meine nackten Zehen tief in den Mutterboden des Steineichenwaldes graben...
 
 Ich möchte gerne wieder einmal nach hause.
 

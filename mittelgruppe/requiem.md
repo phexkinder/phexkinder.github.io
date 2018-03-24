@@ -80,19 +80,19 @@ Sie begutachtete Malrira von oben bis unten und stand auf um zu ihr zu eilen. Da
   
 «Lass gut sein.» sagte sie. «Es ist alles in Ordnung».
   
-«Haben sie Dich angefasst? Kind, hat Dich jemand…»
+«Haben sie Dich angefasst? Kind, hat Dich jemand...»
   
 «Nein.» fiel ihr die Jüngere abrupt ins Wort. Leise fuhr sie fort: «Nein, mich hat niemand angefasst. Aber es ist nur noch eine Frage der Zeit, bis sie anfangen, sich an uns zu vergreifen. Sie behandeln und jetzt schon wir Huren. Denken ein Badehaus sei ein Bordell. Diese Ignoranten. Barbaren. Die meisten von ihnen haben doch bis vor einer Woche noch nicht einmal gewusst, was ein aranisches Badehaus ist, geschweige denn eines gesehen. Sie kommen hierher in unser Land und nehmen sich, was sie wollen. Unsere Städte, unsere Ernte, unser Wasser, unsere Kultur. Da ist es doch nur eine Frage der Zeit, bis sie sich auch uns nehmen.»
   
 «Kind», begann Rashpatana, »hast Du vergessen, wer in diesem Land bis vor kurzem regierte? Dies hier war nicht mehr Aranien. Es war ein Zerrbild dessen, was wir Heimat und Kultur nennen.»
   
-«Aber es war sicher. Die letzten Tage sind in Nahruaband mehr Menschen gestorben als während der ganzen Zeit unter der Herrschaft von Emira Iphemia…»
+«Aber es war sicher. Die letzten Tage sind in Nahruaband mehr Menschen gestorben als während der ganzen Zeit unter der Herrschaft von Emira Iphemia...»
   
 «Malrira!» fiel ihr die Ältere ins Wort, «hörst Du Dich überhaupt reden Kind?« Wie viele Menschen hat die Emira nach Keshal Taref verbringen lassen?»
   
 «Die meisten gingen freiwillig. Würde Yarim noch leben, so könntest Du ihn fragen. Er wusste es. Hat es mir selbst bestätigt.»
   
-«Yarmin war nicht der, zu dem Du ihn machst Malrira. Er war das Frettchen, das der Morghuli und ihren Leuten berichtete und…»
+«Yarmin war nicht der, zu dem Du ihn machst Malrira. Er war das Frettchen, das der Morghuli und ihren Leuten berichtete und...»
   
 «Pssst!» machte Malria. «Nicht so laut.»
   
@@ -368,7 +368,7 @@ PHEx, exaudi orationem mundanda,
   
 ad te omnis caro veniet.
   
-Requiem aeternam donate eis Duodeci… »
+Requiem aeternam donate eis Duodeci... »
 
 Eine kurze Pause.
   
@@ -384,7 +384,7 @@ Er blickte in das riesige Halbrund der Schweigenden.
   
 «Sie alle sind auf einer Reise. Einer Reise über das Endlose Meer des Nichts.»
   
-Um sodann mit kräftiger Stimme fortzufahren: «Sie sind dort, und Golgaris Schwingen tragen sie. Er trägt sie, weil sie starben; den Tod fanden vor wenigen Tagen, hier, in dieser Stadt. Doch sie starben nicht für ihre Führer…» Wieder blickte er auf und ihr schien, als würde er in diesem Moment zu den Befehlshabern des Mittelreichs blicken. _Konnte dies sein?_ Doch ehe sie weiter darüber nachdenken konnte sprach er weiter «…sondern für ihre Familien, ihre Brüder und Schwestern.» Seine Stimme sank wieder, wurde leise. «Ihre Kinder.»
+Um sodann mit kräftiger Stimme fortzufahren: «Sie sind dort, und Golgaris Schwingen tragen sie. Er trägt sie, weil sie starben; den Tod fanden vor wenigen Tagen, hier, in dieser Stadt. Doch sie starben nicht für ihre Führer...» Wieder blickte er auf und ihr schien, als würde er in diesem Moment zu den Befehlshabern des Mittelreichs blicken. _Konnte dies sein?_ Doch ehe sie weiter darüber nachdenken konnte sprach er weiter «...sondern für ihre Familien, ihre Brüder und Schwestern.» Seine Stimme sank wieder, wurde leise. «Ihre Kinder.»
   
 In festem und lautem Ton fuhr er fort: «Für das Reich des Greifen und der Sphinx und vor allem: Für die Freiheit und die Zwölfgötter Alverans.
   
@@ -394,7 +394,7 @@ Die Zwölfe, die unser aller Geschick lenken und leiten; und uns vereinen. Ob hi
   
 Die Stimme des Priesters drang wieder an ihre Ohren:
   
-«… die im Namen von Opfermut und Freiheit, manchmal auch das Leben Unschuldiger fordern.
+«... die im Namen von Opfermut und Freiheit, manchmal auch das Leben Unschuldiger fordern.
   
 Die Wege der Götter sind unergründlich, wie es heißt. Und wahrhaft, bisweilen ist dies alles für uns Sterbliche kaum zu verstehen. Kaum zu ertragen.
   
@@ -442,7 +442,7 @@ Herr PHEx! Erhöre mein Gebet;
   
 zu Dir kommt alles Weltliche.
   
-Alveranische Zwölfe, gebt ihnen die ewige Ruhe…
+Alveranische Zwölfe, gebt ihnen die ewige Ruhe...
 
 Pie Marbo Domina,
   

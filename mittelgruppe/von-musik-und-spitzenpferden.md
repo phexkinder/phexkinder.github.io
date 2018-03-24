@@ -64,11 +64,11 @@ Der ältere der beiden Männer drehte sich um. Der Tulamide warf ihm nacheinande
   
 "Wir üben das nun so lange und nun ist der Knoten geplatzt. Zugegeben es war nur kurz, aber es war eindeutig. Sie sind nicht an mich herangekommen. Auch zu zweit nicht!" Er wandte sich um:
   
-"Ihr seid nicht an mich herangekommen, obwohl ihr es ernsthaft versucht habt, richtig?" Der Jüngere schüttelte den Kopf. Der Ältere – Inien – sagte nach einer kurzen Pause: "Nunja, also letztlich…"
+"Ihr seid nicht an mich herangekommen, obwohl ihr es ernsthaft versucht habt, richtig?" Der Jüngere schüttelte den Kopf. Der Ältere – Inien – sagte nach einer kurzen Pause: "Nunja, also letztlich..."
   
 Zu diesem Zeitpunkt hatte sich Yann aber schon wieder Taran zugewandt.
   
-"Ich weiß, das mit den Waffen war nicht besonders umsichtig, aber es musste einmal sein. Wir haben es jetzt die ganze Zeit mit Turnierschwertern geübt. Aber das ist letztlich nicht dasselbe. Es musste einmal wie im Ernstfall geprobt werden. Und außerdem: Die Nummer mit Frinkor haben wir schon vor über einem Jahre einstudiert. Auch das muss im Ernstfall klappen. Und es hat ja auch alles funktioniert. Es war einfach … ja wie Musik eben. Bis zu dieser elenden Wurzel."
+"Ich weiß, das mit den Waffen war nicht besonders umsichtig, aber es musste einmal sein. Wir haben es jetzt die ganze Zeit mit Turnierschwertern geübt. Aber das ist letztlich nicht dasselbe. Es musste einmal wie im Ernstfall geprobt werden. Und außerdem: Die Nummer mit Frinkor haben wir schon vor über einem Jahre einstudiert. Auch das muss im Ernstfall klappen. Und es hat ja auch alles funktioniert. Es war einfach ... ja wie Musik eben. Bis zu dieser elenden Wurzel."
   
 "Das war jedenfalls das erste und einzige Mal, dass ich mich dafür hergegeben habe, euch bei sowas gegebenenfalls zusammenzuflicken." sagte Taran.
   

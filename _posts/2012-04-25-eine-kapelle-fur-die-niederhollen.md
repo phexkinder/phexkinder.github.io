@@ -37,7 +37,7 @@ tags:
 
 &nbsp;
 
-**<span style="text-decoration: underline;">… und die Erweiterung zum Spiel am Hofe</span>**
+**<span style="text-decoration: underline;">... und die Erweiterung zum Spiel am Hofe</span>**
 
 <span style="text-decoration: underline;">Hagen Flammenschlag</span>, auch bekannt als Wolfhardt von Angbarer, Barbar des Mittelreiches. Seines Zeichens Tänzer und Akrobat an den Schwertern und ohne Hilfsmittel.
 

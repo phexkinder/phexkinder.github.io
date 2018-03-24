@@ -38,7 +38,7 @@ Vor einem Spiegel blieb er stehen, ergriff ein grünes Fläschchen, goss etwas �
   
 _Doch das war nicht wahr. Vielmehr kümmert es mich gerade im jetzt umso mehr.
   
-_ Dieser entgegnete aufgeregt: "Nun, aber das sollte es. Ihr seid ein Mann von hohem Stand. Und ihr ward jetzt lange nicht in der Stadt. Es gibt Dinge, um die ihr euch kümmern solltet. Stattdessen verlasst ihr jetzt bereits am dritten Tag in Folge in diesem fast schon rondrianischen Aufzug das Haus……"
+_ Dieser entgegnete aufgeregt: "Nun, aber das sollte es. Ihr seid ein Mann von hohem Stand. Und ihr ward jetzt lange nicht in der Stadt. Es gibt Dinge, um die ihr euch kümmern solltet. Stattdessen verlasst ihr jetzt bereits am dritten Tag in Folge in diesem fast schon rondrianischen Aufzug das Haus......"
   
 "Ich bezweifle, dass mich die Diener der Leuin so bezeichnen würden, mein guter Melcher" unterbrach ihn der Jüngere, "aber genug jetzt. Lass mir Frinkor holen und meine Amtstracht zum Tempel bringen. Ich werde mich dort umkleiden."
   
@@ -48,4 +48,4 @@ _Es gibt so viel zu tun und so wenig Zeit. Zumindest in diesem Punkt hat der alt
   
 _ Irgendwo einige Tagesmärsche von hier, so wusste er, würde zum jetzigen Zeitpunkt ein Mann sich sein Pferd bringen lassen und vielleicht einen letzten friedlichen Moment im gelbgoldenen Licht der Morgensonne genießen; bevor er den Blick abwand und diesen Frieden tief in seinem Inneren einschloss; um ihn mitzunehmen. Ihn mitzunehmen in Richtung eines Ortes, an dem die Erinnerung an ihn derart kostbar war, dass sie zu verlieren sich niemand leisten konnte, der dorthin aufbrach.
   
-Und an diesen Ort würde auch er gehen müssen. Sein Blick wanderte beim Gehen noch einmal von dem nun leeren Schreibpult durch den vertrauten Raum hin zu dem Fenster, in welchem sich die Stadt, der Fluss, das Meer und das Licht der Sonne voll tiefer Ruhe spiegelten. Er atmete tief ein und schloss die Augen und damit den kostbaren Moment ein; um ihn mitzunehmen. Tief verborgen mitzunehmen…
+Und an diesen Ort würde auch er gehen müssen. Sein Blick wanderte beim Gehen noch einmal von dem nun leeren Schreibpult durch den vertrauten Raum hin zu dem Fenster, in welchem sich die Stadt, der Fluss, das Meer und das Licht der Sonne voll tiefer Ruhe spiegelten. Er atmete tief ein und schloss die Augen und damit den kostbaren Moment ein; um ihn mitzunehmen. Tief verborgen mitzunehmen...
