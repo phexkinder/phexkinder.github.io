@@ -18,7 +18,10 @@ Hier kannst du mehr erfahren über **DIE GEFÄHRTEN**! - Streiter für die alte 
 * [Wolfhart]({{ "/mittelgruppe/wolfhart" | absolute_url }}) Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
 * [Yann]({{ "/mittelgruppe/yann" | absolute_url }}) Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas
 
-## Mehrfach haben sich Gefährten neu gefunden oder auch für immer trennen müssen
+
+## Ehemalige Gefährten
+
+Mehrfach haben sich Gefährten neu gefunden oder auch für immer trennen müssen. Wie gesagt -- manch einer schreckt schon vor der Höhe des Berges zurück, wenn er an dessen Fuße steht. Eine kurze Erinnerung:
 
 * In ewig guter Erinnerung werden wir _Wesdragon_ behalten, der im verfluchten Eis von uns hat gehen müssen. Ruhe in Frieden.
 * Mit geringerer Trauer wird uns der Tot von _Silia_ in unseren Erinnerungen begleiten. Wir enttarnten sie als Schwarzmagierin.
