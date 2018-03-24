@@ -1,4 +1,10 @@
 main:
+  - title: "Mittelgruppe"
+    url: /mittelgruppe/
+  - title: "Südgruppe"
+    url: /südgruppe/
+  - title: "Medien"
+    url: /medien/
   - title: "About"
     url: /about/
   - title: "Posts"
