@@ -19,7 +19,7 @@ der nicht dereinst damit begonnen,<!--more-->
 
 
   
-dass er, was And&#8217;re groß gemacht,
+dass er, was And're groß gemacht,
   
 in Lieb' und Ehrfurcht nachgedacht.
   

@@ -504,7 +504,7 @@ In den tagen der Erholung vereinbarte Yann mit Sybia, das sie dem von Yann erson
   
 Von Zorgan aus zog man dann weiter in Richtung Fasar, sodass Ingrascha endlich ihre Siedlungsrechte und damit die neue Heimat für die Brilliantzwerge erhandeln könnte.
   
-In der Vieltürmigen angekommen schmiedeten Yann und die anderen sofort Bündnisse. Zum einen mit dem Führer des Mondsilberkontors, dem Mondwesir Hablet Al&#8217;Fessir ben Cherek einem der Erhabenen und – nach einigen Zwischenfällen im Hause Fasid ben Kasids, dem Besitzer der für Ingrascha so wichtigen Fibel, mit A’sar – auch mit Thommek Aterion.
+In der Vieltürmigen angekommen schmiedeten Yann und die anderen sofort Bündnisse. Zum einen mit dem Führer des Mondsilberkontors, dem Mondwesir Hablet Al'Fessir ben Cherek einem der Erhabenen und – nach einigen Zwischenfällen im Hause Fasid ben Kasids, dem Besitzer der für Ingrascha so wichtigen Fibel, mit A’sar – auch mit Thommek Aterion.
   
 Zu nennen wären ferner noch Habled’s Diener Mohammed, sowie der Hofmagier Fasid ben Kasids Abu Djenna und Thommek Atherions fast drei Schritt grosser Diener Rashid, der einen sehr merkwürdig kindlichen Eindruck machte, ohne dabei die in ihm lauernde Gefahr ganz verbergen zu können.
   
