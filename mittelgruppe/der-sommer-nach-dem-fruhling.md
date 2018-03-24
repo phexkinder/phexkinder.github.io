@@ -20,7 +20,7 @@ Denn so fuhren nun wie jeden Morgen auch die Fischer hinaus ins Delta, dem Haupt
 
 Der alte Mann stieg mit langsamem, aber festem Schritt die Treppen hinauf. Die Stiegen knarzten leise unter seinem feinen Schuhwerk. Ein kurzer Moment der Ruhe, in welchem er den Sitz seiner Kleidung überprüfte;  dann klopfte er an die dunkle Eichentür, welche in die Bibliothek des Hauses führte.
   
-Sein Herr stand am Fenster, blickte jedoch in seine Richtung, als er eintrat. Er lächelte dem alten Mann zu. Wie an jedem Morgen in den letzten Tagen trug sein Herr schlichte und sehr pragmatische Kleidung. Lange Beinkleider aus dunkelgrauem Leder, die in schwarzen, festen Stiefeln steckten. Ein Wams aus weißem Leinen, dazu einen Mantel aus blauem Filz. Seinem Stande völlig unangemessen. Der alte Mann schüttelte kaum merklich den Kopf, während er eine weite Robe aus türkisener al’anfanischer Seide über das große Lesepult legte.
+Sein Herr stand am Fenster, blickte jedoch in seine Richtung, als er eintrat. Er lächelte dem alten Mann zu. Wie an jedem Morgen in den letzten Tagen trug sein Herr schlichte und sehr pragmatische Kleidung. Lange Beinkleider aus dunkelgrauem Leder, die in schwarzen, festen Stiefeln steckten. Ein Wams aus weißem Leinen, dazu einen Mantel aus blauem Filz. Seinem Stande völlig unangemessen. Der alte Mann schüttelte kaum merklich den Kopf, während er eine weite Robe aus türkisener al'anfanischer Seide über das große Lesepult legte.
   
 **"**Ihr solltet nicht so auf den Straßen herumlaufen, Herr", sagte er in einem leicht vorwurfsvollen Ton. "Man hört schon die Leute reden."
   

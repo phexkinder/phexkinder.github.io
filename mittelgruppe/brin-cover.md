@@ -29,7 +29,7 @@ author: Brin
   
   <p style="text-align: center;">
     <p style="text-align: center;">
-      Der Risso berichtete von den 3 Göttern des Meeres, die dereinst um die Vorherrschaft über das von allen gleichermaßen beanspruchte ‚Element’ kämpften:
+      Der Risso berichtete von den 3 Göttern des Meeres, die dereinst um die Vorherrschaft über das von allen gleichermaßen beanspruchte 'Element' kämpften:
     </p>
     
     <p style="text-align: center;" align="center">

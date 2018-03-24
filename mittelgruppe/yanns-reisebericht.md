@@ -34,7 +34,7 @@ In Gareth kennt Yann den Phex-Geweihten des dortigen Tempels: Jeremias Torfstech
 
 Er hat eine Lebensschuld bei dem grossen Wagenbauer Winsberg gut, den er (und seine Kameraden) vor der sicheren Exekution bewahrten. (Ferrara-Abenteuer). Ausserdem hat Yann auch einen Stein bei Hauptmann Brunbar im Brett, der jetzt garantiert um mindestens zwei Grade befördert wurde, da Yann ihm den wahren Mörder am alten Ferrara auslieferte (die junge Ferrara) und Brunbar ihn dem Richter übergeben konnte.
 
-Weitere Bekannte, denen Yann auf seinen langen Reisen begegnete, ist der Trollschamane Maarag’Naar (Trollstein) und die Hexe Destera aus dem Hutzelmoor, sowie der Kobold Ömmes, der den Bart eines Trolls aus Marag’Naars Begleitschaft pink färbte.
+Weitere Bekannte, denen Yann auf seinen langen Reisen begegnete, ist der Trollschamane Maarag'Naar (Trollstein) und die Hexe Destera aus dem Hutzelmoor, sowie der Kobold Ömmes, der den Bart eines Trolls aus Marag'Naars Begleitschaft pink färbte.
   
 Was Yann überhaupt nicht gefällt, was sich jedoch nicht vermeiden liess ist die Tatsache, dass er und seine Freunde den Hexen von Weiden einen Gefallen schuldig sind.
 
@@ -124,7 +124,7 @@ Zurück in der Reichshauptstadt wurden die Gefährten von dem Hesinde-Hochgeweih
   
 Einmal im Horas-Reich angekommen verabschiedete sich die Gruppe von seiner Hochwürden und ging auf das Angebot eines gewissen Dom Frenos ein, ein Siegel aus Schloss Baliri zu entwenden, das angeblich ihm gehöre und was ihm seine Glaubwürdigkeit bei Hofe wiederbeschaffen sollte und ihm angeblich vom Erzherzog gestohlen wurde. Was unbekannt war (Frenos stellte sich unter anderem Namen vor) war, dass dieser der grösste Landesverräter überhaupt war, und dass das Siegel, welches gestohlen werden sollte, das Staatssiegel des gesamten Horasreiches war.
   
-Nichts ahnend liessen sich Yann und die anderen auf den Handel ein, dass sowohl Gold in ihre Taschen, als auch Soldaten an die Ostfront wandern würden, wenn der Dom ‚sein’ Siegel zurückerhalte.
+Nichts ahnend liessen sich Yann und die anderen auf den Handel ein, dass sowohl Gold in ihre Taschen, als auch Soldaten an die Ostfront wandern würden, wenn der Dom 'sein' Siegel zurückerhalte.
   
 In grandioser Teamarbeit entwendeten Yann und der mittlerweile PHExgefällige Taran in einem brillanten, nahezu improvisierten Coup das horasische Staatssiegel und verschwanden gen Vinsalt.
   
@@ -152,7 +152,7 @@ Nennenswerte Persönlichkeiten waren der KGIA-Kontaktmann Drego W. von Angenbruc
   
 Danach folgten fünf Monate Trennung, die Yann in Havena für Geschäfte nutzte.
 
-Zurück aus dem lieblichen Albernia traf Yann die Gemeinschaft etwas verspätet wieder kurz vor Gareth im Gasthof zum Schwarzen Keiler. Dort lösten die Hexen von Weiden ihren Gefallen bei Yann und den anderen ein: Im Gasthof befand sich ein ‚Kollege’ Zurberans, ein Schwarzmagier des Konvent der Verfinsterten Sonnenscheibe und Halle der Dunklen Geister zu Brabbak. Dieser rief irgendeine Wesenheit siebtsphärischer Ordnung. Die Invocation schlug trotz korrekter Paraphernalia fehl. Wolfhart rette das Leben des Magus, der erklärte irgendeine externe Macht hätte die Invocation gestört. Es stellte sich heraus, dass im Keller verborgen ein geheimer Raum war. Yann und die anderen hatten im Vorfeld bereits vor der Tür eine kleine Aves-statue ausgegraben, die ihnen vom Wirt dort prophezeit worden war. Anzumerken ist, dass um das einsame Wirtshaus mittlerweile tausende und abertausende Vögel aller Arten kreisten, die die  Ausgrabung erschwerten. Mittels eines Pulvers das sich in einer Schlangenstatue befunden hatte, die Yann und den anderen zugespielt worden war enttarnten die Gefährten den geheimen Raum, in dem sich sieben Sockel mit verschieden Zwölfgötterstatuen befanden, die Kreisförmig um einen grossen steinernen Greif aufgebaut waren. Ein Sockel war leer. In dem Greif eingeschlossen und durch die Rohalschen Gefässe darum gefesselt war kein geringerer als der mächtigste (achtgehörnte) Wetterdämon Arjunoor. Es gelang der Gruppe trotz der störenden Kugelblitze die Avesstatue wieder an ihren Platz zu bringen und den gerade ausbrechenden Dämon wieder einzukerkern. Danach verschlossen sie den geheimen Eingang mittels Magie wieder.
+Zurück aus dem lieblichen Albernia traf Yann die Gemeinschaft etwas verspätet wieder kurz vor Gareth im Gasthof zum Schwarzen Keiler. Dort lösten die Hexen von Weiden ihren Gefallen bei Yann und den anderen ein: Im Gasthof befand sich ein 'Kollege' Zurberans, ein Schwarzmagier des Konvent der Verfinsterten Sonnenscheibe und Halle der Dunklen Geister zu Brabbak. Dieser rief irgendeine Wesenheit siebtsphärischer Ordnung. Die Invocation schlug trotz korrekter Paraphernalia fehl. Wolfhart rette das Leben des Magus, der erklärte irgendeine externe Macht hätte die Invocation gestört. Es stellte sich heraus, dass im Keller verborgen ein geheimer Raum war. Yann und die anderen hatten im Vorfeld bereits vor der Tür eine kleine Aves-statue ausgegraben, die ihnen vom Wirt dort prophezeit worden war. Anzumerken ist, dass um das einsame Wirtshaus mittlerweile tausende und abertausende Vögel aller Arten kreisten, die die  Ausgrabung erschwerten. Mittels eines Pulvers das sich in einer Schlangenstatue befunden hatte, die Yann und den anderen zugespielt worden war enttarnten die Gefährten den geheimen Raum, in dem sich sieben Sockel mit verschieden Zwölfgötterstatuen befanden, die Kreisförmig um einen grossen steinernen Greif aufgebaut waren. Ein Sockel war leer. In dem Greif eingeschlossen und durch die Rohalschen Gefässe darum gefesselt war kein geringerer als der mächtigste (achtgehörnte) Wetterdämon Arjunoor. Es gelang der Gruppe trotz der störenden Kugelblitze die Avesstatue wieder an ihren Platz zu bringen und den gerade ausbrechenden Dämon wieder einzukerkern. Danach verschlossen sie den geheimen Eingang mittels Magie wieder.
   
 Von daher kennt Yann die Wirtin des Schwarzen Keilers, eine gewisse Alrike Fassweiler, ausserdem von weiter oben, Casper M. Eulatin. Belohnung war ein Kusliker Rad...
 
@@ -162,7 +162,7 @@ In Trallopp trafen sie einen alten Bekannten wieder – Drego von Angenbruch, de
   
 Nächstes nennenswertes Ereignis auf der Reise durch die Sichel war der Zusammenprall mit einem in einem Turm ansässigen mächtigen Spuk. Dieser stand unter dem Bann eines einheimischen Kaiserdrachen. Nach seltsamen Ereignissen in diesem Turm (Zweihänderschleudernde Ritterrüstungen, fliegende Bücher (Das Arcarnunm), Blitze-schleudernde Hesinde-Statuen, aufgehängte Borbaradianer....) wurde der Geist dann doch erledigt, da der Sitz seiner Seele (ein Spiegel?!?) von Xiandru zerstört wurde (was nach Yanns Meinung die Waffe noch viel, viel mächtiger gemacht hat), jedoch nicht, ohne noch zwei Stockwerke seines Turms mitzunehmen. Danach konnten Yann und die anderen das Tal wieder verlassen. Seitdem kreist der Kaiserdrache Lissankan immer über dem höchsten Berg der Sichel, also gut sichtbar.
   
-Nächstes Ereignis war dann wohl die Begegnung mit dem Funkeldrachen Anxirit. Dieser Trug eine Beutestück ungeahnten Wertes mit sich: Galottas ‚Schwarzes Auge’. Yann und seine Gefährten beschlossen, dass das verbleiben Finkenfarns auf Burg Torbelstein (einem der Beschwörungszentren der Borbaradianer) wohl hinter dem neuen Ziel der Gruppe zurückstehen müsse: die sichere Verwahrung des Schwarzen Auges.
+Nächstes Ereignis war dann wohl die Begegnung mit dem Funkeldrachen Anxirit. Dieser Trug eine Beutestück ungeahnten Wertes mit sich: Galottas 'Schwarzes Auge'. Yann und seine Gefährten beschlossen, dass das verbleiben Finkenfarns auf Burg Torbelstein (einem der Beschwörungszentren der Borbaradianer) wohl hinter dem neuen Ziel der Gruppe zurückstehen müsse: die sichere Verwahrung des Schwarzen Auges.
   
 Folglich beschloss man die gefährliche Rückreise ins Reich anzutreten, verfolgt von den Schergen des ehemaligen Hofmagus.
   
@@ -188,7 +188,7 @@ Es folgte eine ruhige Zeit für Yann und die anderen. Er und Wolfhart kümmerten
 
 Nächstes wieder interessantes Ereignis war das Schreiben des Comtos Ravendosa, der Yann und die anderen bat, nach Neetha zu kommen um dort mit ihm und der Kronprinzessin Aldare zusammenzutreffen. Es ginge um das Siegel.
   
-In Neetha angekommen sahen sich Yann und die anderen einem üblen Intrigenspiel gegenüber. Beteiligt waren die Verlobte unseres Kontaktmannes (Capitano Silvolio) die liebreizende Comtessa Lamandaya (die ältere). Ausserdem noch Dom Furro (der Neffe Dom Frenos’) sowie zwei horasische Magier und fünf weitere einflussreiche Persönlichkeiten der Stadt. Wir hingegen hatten noch die Unterstützung von Corran Drachenblut, einem Ardariten und Günstling des Comtos. Dafür war Lariel nicht mehr bei uns, sondern in Aves und Angroschs Namen auf Reise im Bornland.
+In Neetha angekommen sahen sich Yann und die anderen einem üblen Intrigenspiel gegenüber. Beteiligt waren die Verlobte unseres Kontaktmannes (Capitano Silvolio) die liebreizende Comtessa Lamandaya (die ältere). Ausserdem noch Dom Furro (der Neffe Dom Frenos') sowie zwei horasische Magier und fünf weitere einflussreiche Persönlichkeiten der Stadt. Wir hingegen hatten noch die Unterstützung von Corran Drachenblut, einem Ardariten und Günstling des Comtos. Dafür war Lariel nicht mehr bei uns, sondern in Aves und Angroschs Namen auf Reise im Bornland.
   
 Nach viel Intrige und Aufdeckung, da eine novadische Untergrundorganisation die Omerta aus der Stadt geworfen hatte und Yann und die anderen den verschwörerischen Bund der Neun aufgedeckt und zerschlagen hatten floh Furro nach verlorenem Rennen um Thaliomels Rock (Träger nun Corran) aus Neetha.
   
@@ -196,9 +196,9 @@ Die Kronprinzessin wurde aufgrund des bürgerkriegsähnlichen Zustandes nach The
   
 Im dortigen Drachensaal des Oktagons kam es dann zur Beratschlagung über die weiteren Pläne. Jandar Gerano enthüllte, dass er im Auftrag des Magister Magnus Maskus Horegam zu Kuslik die Verschiebung der Astallinien über der Stadt und den nahe gelegenen Eternen untersuchen sollte. Ausserdem verriet er, dass ein sehr mächtiger Dschinn des Erzes wohl aus eigenem Antrieb hier in der Gegend weilt. Über das Kronsiegel wurde bekannt, dass der Adenstein darauf wohl der kleinere Teil eines grösseren Edelsteins sei, wahrscheinlich sogar der Karfunkel des längst von Geron dem Einhändigen erschlagenen Wurms von Chabbabvien, einem Riesenlindwurm.
   
-Weiterhin war zu anfangs nur für die Astralkräftigen, später aber dann auch für alle anderen ein ‚inneres Vibrieren’ zu spüren. Zuerst vermuteten Yann und die anderen den Urspruch (wie von Xiandru gezeigt) auf einem Boronsanger ausserhalb der Stadt. Zusammen mit der Geweihtenschaft des Praios und der Rondra erledigten Yann und die Gefährten mitsamt Comto die dort umtriebigen Ghule und Coramsbestien, die, aus ungeklärten Gründen, vermehrt aus den Eternen herabkamen. Weiterhin wurde die Gruppe währenddessen von einem Reiter passiert, der auch ins Gebirge entkam.
+Weiterhin war zu anfangs nur für die Astralkräftigen, später aber dann auch für alle anderen ein 'inneres Vibrieren' zu spüren. Zuerst vermuteten Yann und die anderen den Urspruch (wie von Xiandru gezeigt) auf einem Boronsanger ausserhalb der Stadt. Zusammen mit der Geweihtenschaft des Praios und der Rondra erledigten Yann und die Gefährten mitsamt Comto die dort umtriebigen Ghule und Coramsbestien, die, aus ungeklärten Gründen, vermehrt aus den Eternen herabkamen. Weiterhin wurde die Gruppe währenddessen von einem Reiter passiert, der auch ins Gebirge entkam.
   
-Zurück in Thegun begutachteten Yann und die übrigen  den Fund einer Echsenleiche, (vermutlich ein Schamane) die einige Meilen ausserhalb der Stadt ermordet bei Ausgrabungsarbeiten ihrerseits aufgefunden worden war. Nach einer kurzen Sichtung von sowohl zwei kleineren Drachen als auch eines Wüstengeistes beschloss man die Ausgrabung der Echse fortzusetzen und entdeckte dann auch in sechs Schritt Tiefe eine echsische Grabplatte. Dahinter lag ein altes Heiligtum des geschuppten, vor Pyrdacor kriechenden Volkes, bei dessen betreten Yann und die anderen sogleich verflucht waren. In seinen Tiefen befand sich ein riesiges Gewölbe, dessen spirituelles Zentrum ein gigantischer Saal mit einem Podest in der Mitte war, auf dem eine grosse Urne ruhte. Von ihr ging deutlich vernehmbar der Rhythmus der Vibration aus: Der Schlag vom Herzen des Wurmes von Chabbabvien, das die Nähe des Karfunkels ‚spürte’.
+Zurück in Thegun begutachteten Yann und die übrigen  den Fund einer Echsenleiche, (vermutlich ein Schamane) die einige Meilen ausserhalb der Stadt ermordet bei Ausgrabungsarbeiten ihrerseits aufgefunden worden war. Nach einer kurzen Sichtung von sowohl zwei kleineren Drachen als auch eines Wüstengeistes beschloss man die Ausgrabung der Echse fortzusetzen und entdeckte dann auch in sechs Schritt Tiefe eine echsische Grabplatte. Dahinter lag ein altes Heiligtum des geschuppten, vor Pyrdacor kriechenden Volkes, bei dessen betreten Yann und die anderen sogleich verflucht waren. In seinen Tiefen befand sich ein riesiges Gewölbe, dessen spirituelles Zentrum ein gigantischer Saal mit einem Podest in der Mitte war, auf dem eine grosse Urne ruhte. Von ihr ging deutlich vernehmbar der Rhythmus der Vibration aus: Der Schlag vom Herzen des Wurmes von Chabbabvien, das die Nähe des Karfunkels 'spürte'.
   
 Nach einem heftigen Kampf mit den untoten Dienern des Wurms gelang es Yann und Wahnfried die kochendheisse Urne mit dem Herz darin zu erreichen und sie durch das Kampfgeschehen  aus dem Raum zu tragen.
   
@@ -226,7 +226,7 @@ Dort wäre dann die Einladung Geron Leomars von Blauenburg anlässlich seiner Ve
   
 Auffällig wurde danach die Tochter der Baronin, die angeblich (laut Lilu) die Gabe besass mit ihrer toten Verwandtschaft zu sprechen.
   
-Dieses Kind war auch Anlass von Yanns nächster ‚Reise’.
+Dieses Kind war auch Anlass von Yanns nächster 'Reise'.
 
 Nichts ahnend verbrachten dieser und die anderen (hier mal wieder namentlich: Wolfhart, Wahnfried, Taran, Durin, Lilu, Corran) die Nacht nach den Feierlichkeiten in einem Trakt der Albernischen Kronfestung, als (mal wieder) Xiandru Durin weckte und ihm sagte, dass es soweit sei (?!?). Dieser weckte den Rest und verschwand dann sofort nach oben. Als Yann die Szenerie erreichte war der Kampf schon in vollem Gange. Erst war ein Talon, jene Spürlinge Nagrachs, die wir früher schon einmal gesehen hatten, allerdings viel weiter im Norden, vor dem Zimmer der kleinen Walbirg, Walpurgas Tochter erschienen.
   
@@ -238,11 +238,11 @@ Mitgezogen in die unendliche weisse Öde, die sich nach hinten aus dem Zimmer hi
 
 Aus der stumpfen Besinnungslosigkeit geweckt wurden die Gefährten durch einen Traum, in welchem sie sich auf einer Lichtung befanden. Dort trafen sie auf zwei Frauen, die eine, schwarzhaarig und an ihrem Vulkanglasdolch offensichtlich als Druidin zu erkennen, die andere blond und mit einem Schwanenamulett Ifirns um den Hals. Zu ihren Füssen eine goldene Quelle, an deren Saum Blumen sprossen.
   
-Der Traum endete und Yann und die anderen erwachten in einem Arbeitslager zusammen mit 30 anderen armen Seelen. Bewacht wurde das Lager von sieben Gloraniten, zwei Karmanthi und dem Nagrachpaktierer Kil-Korian, der bei der Befreiungsaktion der Gruppe leider noch entkam. Die meiste Ausrüstung fand sich wieder, nur einige Einzelstücke nicht; darunter auch Yanns Angrosch geweihter Degen Anruin, der von dem Paktierer in Estiva an die Elfe Kaiara Schattenhaar verkauft worden war. (‚Sammlerin’)
+Der Traum endete und Yann und die anderen erwachten in einem Arbeitslager zusammen mit 30 anderen armen Seelen. Bewacht wurde das Lager von sieben Gloraniten, zwei Karmanthi und dem Nagrachpaktierer Kil-Korian, der bei der Befreiungsaktion der Gruppe leider noch entkam. Die meiste Ausrüstung fand sich wieder, nur einige Einzelstücke nicht; darunter auch Yanns Angrosch geweihter Degen Anruin, der von dem Paktierer in Estiva an die Elfe Kaiara Schattenhaar verkauft worden war. ('Sammlerin')
   
 Er und die anderen zogen sogleich gen Nordost  um der geraubten Walbirg hinterher zu kommen. Auf dem Weg trafen sie einen wertvollen Verbündeten: Tagstern. Träger des Wandelnden Bildnisses, den Zweiten Gezeichneten. Zusammen passierten sie einen kleinen Ort namens Norntal, der von einem Werwolf und einem abtrünnigen Wolfsrudel angegriffen wurde. Yann und die anderen halfen der vor allem norbardischen Bevölkerung und erhielten dafür einige Informationen, sowie Proviant und den Kontakt zu einem ansässigen Händler namens Alex Bolsiev, der den Gefährten Waffen und Rüstzeug, sowie allerlei nützliches (vor allem eigene Ausrüstung!!!!) verkaufte.
   
-Dann zogen sie über Lettaskaja weiter gen Norden gefolgt von Nagrachs Thalonen, sowie dem ‚Wanderer’, einem seltsamen halbnackten Gesellen.
+Dann zogen sie über Lettaskaja weiter gen Norden gefolgt von Nagrachs Thalonen, sowie dem 'Wanderer', einem seltsamen halbnackten Gesellen.
   
 Es kam dann zum Aufeinandertreffen mit der Badocelfe Kaiara, deren Eissegler gekentert war. Dieses verlief allerdings nicht erfolgreich, da Kaiara, zwar am Ende allein, aber dennoch zusammen mit Anruin fliehen konnte.
 
@@ -252,7 +252,7 @@ In einem Waldstück südlich von Estiva trafen Yann und die anderen dann endlich
   
 Hier wurde bestätigt, was Yann und die anderen schon vermutet hatten, nämlich dass es sich bei den abtrünnigen Wölfen um das Rudel Kyriakas handelte. (siehe Rorwhed)
   
-Die Gemeinschaft beriet sich und Illoinen teilte Yann und den übrigen mit, dass es noch einen Ort gäbe, an dem Glorana Theriak fördern könnte, nämlich am ‚Hain der schlafenden Mutter’. Dieser wurde ausserdem noch von einem alten Bekannten bewacht: Chessus dem Schändlichen. Ausserdem war er ein Zugang nach Anderswelt. Weiterhin erfuhren die Gefährten, dass sich Gloranas Marschall -ein gewisser Halman von Gareth- im Besitz des verfluchten und überaus gefährlichen Nagrach-Schwertes Hyrr Karnhai befand.
+Die Gemeinschaft beriet sich und Illoinen teilte Yann und den übrigen mit, dass es noch einen Ort gäbe, an dem Glorana Theriak fördern könnte, nämlich am 'Hain der schlafenden Mutter'. Dieser wurde ausserdem noch von einem alten Bekannten bewacht: Chessus dem Schändlichen. Ausserdem war er ein Zugang nach Anderswelt. Weiterhin erfuhren die Gefährten, dass sich Gloranas Marschall -ein gewisser Halman von Gareth- im Besitz des verfluchten und überaus gefährlichen Nagrach-Schwertes Hyrr Karnhai befand.
   
 Es wurde beschlossen, dass man versuchen werde jede nur erdenkliche Hilfe zu bekommen. Zu diesem Zwecke machte sich Tagstern auf den Weg die ansässige Firnelfensippe der Tränensucher zu finden, um diese zum Bündnis zu bewegen.
   
@@ -276,7 +276,7 @@ Der Scheinangriff zeigte Wirkung. Kyriaka startete einen Ausbruch.
   
 Im Rücken des Ifirnsrudels war allerdings ein noch gefährlicher Feind herangekommen: Die Wilde Hatz.
   
-Wir mussten handeln und so stellten wir einen Teil des abtrünnigen Rudels. Nach einem kurzen, blutigen Kampf hatten wir knapp ein Drittel von Kyriakas Wölfen erledigt. Dann stiessen Yann und seine Gefährten zur Lichtung vor, wo das Theriak von einer der schon bekannten ‚Nadeln’ gefördert wurde. Um selbige hatten sich dann Kyriaka und ihre restlichen Wölfe versammelt. Diese wurden jedoch schon nach kürzester Zeit von den Pfeilen der Tränensucher niedergestreckt. Halman hatte indessen die Lichtung an der anderen Seite erreicht, hielt sich aber bedeckt. Als nur noch eine knappe Hand voll Wölfen auf Kyriakas Seite übrig waren starteten Wolfhart, Yann und Tagstern in Begleitung einiger ihrer Wölfe einen Ausfall auf die Lichtung, auf der noch zwei Baracken standen; der Dämonenwölfin entgegen.
+Wir mussten handeln und so stellten wir einen Teil des abtrünnigen Rudels. Nach einem kurzen, blutigen Kampf hatten wir knapp ein Drittel von Kyriakas Wölfen erledigt. Dann stiessen Yann und seine Gefährten zur Lichtung vor, wo das Theriak von einer der schon bekannten 'Nadeln' gefördert wurde. Um selbige hatten sich dann Kyriaka und ihre restlichen Wölfe versammelt. Diese wurden jedoch schon nach kürzester Zeit von den Pfeilen der Tränensucher niedergestreckt. Halman hatte indessen die Lichtung an der anderen Seite erreicht, hielt sich aber bedeckt. Als nur noch eine knappe Hand voll Wölfen auf Kyriakas Seite übrig waren starteten Wolfhart, Yann und Tagstern in Begleitung einiger ihrer Wölfe einen Ausfall auf die Lichtung, auf der noch zwei Baracken standen; der Dämonenwölfin entgegen.
   
 Lilu hatte indessen auf ihrem Kampstab fliegend die Hütte in der die kleine Walbirg gefangen gehalten wurde erreicht.
   
@@ -312,11 +312,11 @@ Am Ende der Schlacht wurde ein Bündnis vereinbart zwischen den Völkern des Nor
   
 Blieb nur noch ein Problem: Der Weg in den Süden. Vom Hain aus war es möglich direkt durch Anderswelt in den Farindelwald zu gelangen. Allerdings nicht mit einem Beutestück von solcher Herkunft wie Yann und die anderen eines gemacht hatten. Hyrr-Kanhay. Das Schwert Nagrachs. Der Weg durch das südliche Glorania, die Nivesenlande bis an die Nordgrenzen des Reichs war zu lang. Die schändliche Eishexe hatte bestimmt schon von dem Tod Halmans und dem Verlust all ihrer übrigen Begehren Kunde erhalten. Sie hätte Yann und den anderen die Wilde Hatz einfach erneut an den Hals befohlen; diesmal aber mit der ausdrücklichen Order sie zu töten und sowohl Mädchen als auch Schwert zu ihr zurück zu bringen.
   
-So musste Yann also einen (sehr, sehr teuren) Handel mit Phex abschliessen, auf das dieser im Gegenzug das Nagrach Schwert eine Weile ‚verwahre’.
+So musste Yann also einen (sehr, sehr teuren) Handel mit Phex abschliessen, auf das dieser im Gegenzug das Nagrach Schwert eine Weile 'verwahre'.
   
 Dann ging es zurück ins Reich.
   
-Zurück in Wolfharts Lehen wäre noch Durins endgültiger Beschluss zu erwähnen, den Xado Rogolosch zur Strecke zu bringen, als auch die Tatsache, dass die liebe Lilu das Kind nicht wie von Yann geheissen in den Hesindetempel zu Trallop gebracht hatte, sondern zu einer ‚vertrauenswürdigen Person’, deren Namen sie Yann und den anderen nicht nennen wollte.
+Zurück in Wolfharts Lehen wäre noch Durins endgültiger Beschluss zu erwähnen, den Xado Rogolosch zur Strecke zu bringen, als auch die Tatsache, dass die liebe Lilu das Kind nicht wie von Yann geheissen in den Hesindetempel zu Trallop gebracht hatte, sondern zu einer 'vertrauenswürdigen Person', deren Namen sie Yann und den anderen nicht nennen wollte.
   
 Nachspiel folgt zwingend.
   
@@ -330,7 +330,7 @@ Im Winter betraute ihn sein Freund Theilok dann mit einem Gefallen, nämlich das
   
 Yann, Wolfart und Lilu sahen sich dort mit den Angriffen eines seltsamen Wolfes konfrontiert, der von den beiden Mitgliedern des Ifirnsrudels sogleich als Werwolf erkannt wurde.
   
-Nach einigen Nachforschungen in Winhall selbst und einigen stummen Begegnungen mit dem Boroni Nerzes kam man zu dem Schluss, dass irgendein Zusammenhang zwischen den Wolfsangriffen und dem Verschwinden Baranos’ bestehen musste. Nach weiteren Gesprächen mit dem seltsamen Apothekarius Aluris (selbst sehr alter Werwolf) und der Druidin Yandara auf dem Weg nach Nostria stellten Yann, Lilu und Wolfhart die Werwölfe in einem verlassenen Herrenhaus im nostrianischen Wald. Einer wurde getötet, einer konnte mit Hilfe eines lykantropie heilenden Wassers der Druidin gerettet werden und Baranos wurde erlöst, nachdem er seine Versuche mit Werwolfsblut und seiner Schuld erzählt hatte.
+Nach einigen Nachforschungen in Winhall selbst und einigen stummen Begegnungen mit dem Boroni Nerzes kam man zu dem Schluss, dass irgendein Zusammenhang zwischen den Wolfsangriffen und dem Verschwinden Baranos' bestehen musste. Nach weiteren Gesprächen mit dem seltsamen Apothekarius Aluris (selbst sehr alter Werwolf) und der Druidin Yandara auf dem Weg nach Nostria stellten Yann, Lilu und Wolfhart die Werwölfe in einem verlassenen Herrenhaus im nostrianischen Wald. Einer wurde getötet, einer konnte mit Hilfe eines lykantropie heilenden Wassers der Druidin gerettet werden und Baranos wurde erlöst, nachdem er seine Versuche mit Werwolfsblut und seiner Schuld erzählt hatte.
   
 Anzumerken bleibt noch der dubiose Schnapsbrenner in Wolfharts Lehen, dessen Pferd (!)  das auf Zuruf aus dem Wald erscheint und der vortrefflich mit Bogen und Klinge umzugehen weiss.
   
@@ -348,7 +348,7 @@ So ging es als einmal wieder in die bornsche Hauptstadt Festum.
   
 Wir trafen Stover, handelten einen Vertrag aus ihn zu schützen und dann gleich noch einen um ihn zu töten, sodass er sich ansehen könne, welcher seiner Erben sich in einem Wettstreit in Gareth als würdig erweist. Yann wird als entfernter Verwandter Stovers selbstvertändlich auch teilnehmen, nur um zu gewährleisten, dass die Spielregeln eingehalten werden.
   
-So zog der Treck im Wert von 3.000.000 Dukaten ab gen Gareth, allerdings nicht ohne dass der ‚Diskus von Boran’ – eine maraskanische Widerstandsbewegung gegen garantiert auch irgendwas – noch ein denkwürdiges, dramaturgisch perfekt inszeniertes Entführungs- und Befragungsdrama mit anschliesslichem spontanen Anfall von Gedächtnisschwund in drei Akten mit Wolfhart vollführt hätte. (Der Name Aspir Dagen sei hierzu im Gedächtnis zu behalten.)
+So zog der Treck im Wert von 3.000.000 Dukaten ab gen Gareth, allerdings nicht ohne dass der 'Diskus von Boran' – eine maraskanische Widerstandsbewegung gegen garantiert auch irgendwas – noch ein denkwürdiges, dramaturgisch perfekt inszeniertes Entführungs- und Befragungsdrama mit anschliesslichem spontanen Anfall von Gedächtnisschwund in drei Akten mit Wolfhart vollführt hätte. (Der Name Aspir Dagen sei hierzu im Gedächtnis zu behalten.)
   
 Als wichtige Personen wären hier natürlich Stover, sein treuester Angestellter der dicke Etzel, seine kleine Leib- und Schreibhexe Irinia, sowie seine Kinder Emmeran (der faustdicke Geniesser), Waniesha (die Grobschlächtige), Paranka (die geschmacksveriirte Inventarin) sowie deren Angetraueter Kalman (die Definitionvon horasicher Geschmacksverirrung).
   
@@ -362,7 +362,7 @@ Während des Zwischenaufenthalts in Salderkheim, wo noch Stovers letzte potentie
   
 Die beschwerliche Reise führe dann über den Sieben-Baronieen-Weg, wo Stover die ansässige Baronin \___\___\___\___ und ihre Ritter mit etwas Überschlagsrechnerei zu einem für sie doch -- nicht – so – vorteilhaft – wie – zu – Beginn -- gedachten Handelsabkommen verleitete (Stichwort Burgausbau und Wechselstation).
   
-Es folgte die Bedrohung durch Tatzelwürmer auf dem Weg durch die Wüstenei und die Entfernung goblinischer ‚Fratzenschutzpfeiler’ durch einen Direkttreffer einer Rotzenkugel gefüllt mit magischem Brandöl.
+Es folgte die Bedrohung durch Tatzelwürmer auf dem Weg durch die Wüstenei und die Entfernung goblinischer 'Fratzenschutzpfeiler' durch einen Direkttreffer einer Rotzenkugel gefüllt mit magischem Brandöl.
   
 Als nächstes wichtiges Ereignis ist wohl die Lösegeldforderung der Weidener Raubritter Gisewulf von Pechstein und \___\___\___\___\____ zu nennen.
   
@@ -370,15 +370,15 @@ Selbstverständlich kam man dieser nicht nach. Was daraufhin leider folgte war e
   
 Nach einiger Zeit Pause, in der die Verwundeten versorgt und die Toten bestattet wurden machten sich Yann und die anderen auf, Stovers Tod vorzubereiten. Hierzu befreiten sie zunächst die Raffzahngoblins aus der Sklaverei einiger Orks und deren Oger, sodass diese wieder in ihr Heimattal, den Mondenspalt, Zuükkehren konnten.
   
-In einer verlassenen Ruine, die Stover selbst inspizieren wollte, kam es dann zu dem Goblin ‚Überfall’, bei dem Stover einen Speer abbekam und daraufhin an Herzversagen ‚starb’. Nach der Totenwache wurde der alte Krämer von Yann und den anderen allerdings sofort wieder ausgegraben.
+In einer verlassenen Ruine, die Stover selbst inspizieren wollte, kam es dann zu dem Goblin 'Überfall', bei dem Stover einen Speer abbekam und daraufhin an Herzversagen 'starb'. Nach der Totenwache wurde der alte Krämer von Yann und den anderen allerdings sofort wieder ausgegraben.
   
 Am darauffolgenden Tag verlass Etzel Stovers Testament, dass Yann als dessen fünften und letzten Erben benannte und das jene anwies, direkt nach Gareth zu ziehen und den Trek damit hinter sich zu lassen.
   
 So trafen Yann und die anderen als zweite nach einem herrlichen Ritt durch Weiden und Garetien in der Hauptstadt des Mittelreiches ein, um dort im Wettstreit vor Linara Fuxfell Stovers Erben zu ermitteln.
   
-Zu erwähnen wären hierbei die Einführung des ‚Tag des Eises’ und die genialen Diebeszüge von sowohl Yann und Taran, als auch Emmeran, Stovers Sohn, zu nennen.
+Zu erwähnen wären hierbei die Einführung des 'Tag des Eises' und die genialen Diebeszüge von sowohl Yann und Taran, als auch Emmeran, Stovers Sohn, zu nennen.
   
-Der bereits in den Verdacht des Betruges geratene Gatte von Stovers ältester Tochter Paranka, Kalmann, wurde am Ende dann des Verrats und des Aufbaus der Tobrier unter Ifirnia von Munterbach überführt. Mit dieser handelte Yann dann noch einen Waffenstillstands- und Gebietsvertrag aus, sodass der Konflikt mit der ‚Alten Gilde’ ohne Blutzoll beigelegt werden konnte. Erwähnenswert ist auch deren Rechte Hand, ein gewisser "Zwei -- Messer -- Alrech", welcher im Zuge der Geschehnisse einmal heftigst mit Wolfhart aneinandergerauscht war; allerdings ist er des beidhändigen Kampfes mächtig, was ihn per se besonders (&) gefährlich macht.
+Der bereits in den Verdacht des Betruges geratene Gatte von Stovers ältester Tochter Paranka, Kalmann, wurde am Ende dann des Verrats und des Aufbaus der Tobrier unter Ifirnia von Munterbach überführt. Mit dieser handelte Yann dann noch einen Waffenstillstands- und Gebietsvertrag aus, sodass der Konflikt mit der 'Alten Gilde' ohne Blutzoll beigelegt werden konnte. Erwähnenswert ist auch deren Rechte Hand, ein gewisser "Zwei -- Messer -- Alrech", welcher im Zuge der Geschehnisse einmal heftigst mit Wolfhart aneinandergerauscht war; allerdings ist er des beidhändigen Kampfes mächtig, was ihn per se besonders (&) gefährlich macht.
   
 Emmeran wurde wie schon von vornherein klar war, Stovers Erbe.
 
@@ -386,7 +386,7 @@ Als nächstes muss man wohl den Zwischenfall mit dem Spuk von Maric dem Schlitze
   
 Dieser war ein Massenmörder und Anhänger des Namenlosen, der vor etlichen Jahren einige Geweihte umgebracht hatte.
   
-Mit etwas dedektivischer Arbeit gelang es der Gruppe, den Aufenthaltsort des Spuks ausfindig zu machen (allerdings nicht, ohne vorher mit der Inquisition in Person von Grossinquisitor Marcian ‚beraten’ zu haben).
+Mit etwas dedektivischer Arbeit gelang es der Gruppe, den Aufenthaltsort des Spuks ausfindig zu machen (allerdings nicht, ohne vorher mit der Inquisition in Person von Grossinquisitor Marcian 'beraten' zu haben).
   
 Nach einem überraschend heftigen Kampf gelang es Yann und den anderen (allenvoran wieder Durin), den Spuk zu vertreiben.
   
@@ -394,7 +394,7 @@ Die Inquisition erledigte den Rest. Schlampig wie immer.
 
 Danach begleiteten Lilu, Taran und Yann Wolfhart auf ein Ritterturnier mit vielen bedeutenden Adeligen aus dem Reich, unter anderem Trondwig der Dunkle, Graf von Ochenwasser; Welferich von Bregelsaum Berg (Lieblingsspielzeug Dexter Nemrods) und Udalbert von Wertlingen, bei dem Brin v. Gareth seine Knappenzeit verbrachte.
   
-In dessen Zuge versuchte Yann, die bezaubernde Baronin Quellentanz – Hüterin der Flamme des Wassers – für sich und seine Vorhaben bzgl. des Güldenlandes zu gewinnen. Trondwig gewann das Turnier (wie immer), Yann verlor 50 Gold an Gidemon, den König der Koschzwerge, weil er auf Wolfhart und nicht auf Trondwig gesetzt hatte. Nach kleineren Reiberein mit Trondwig und einem erheiternden Turinier, bei dem Yann und Taran noch eine gute Tat vollbrachten, als sie Torben von Hartzen das Leben retteten, wandelten sich die Dinge rasch. Nachdem nämlich Taran dem ‚Schosshündchen’ Dexter Nemrods den Hintern gerettet hatte, indem der das Leben dessen etwas überhart herangenommen Kontrahenten (vgl. gerade oben) bewahrte und Yann sein altes, geliebtes elfisches Langschwert, das er damals im Zuge ihrer Reise über die Stromschnellen des grossen Flusses einem entfleuchten Halbelfen aufgrund von akutem Gebrauchsmangel leihweise entnommen und das er dann damals vor Beilunk dem – zugegebenermassen – völlig ehrbaren, göttertreuen (und verstandverbrannten) Ardariten Meralon von Vallusa überlassen hatte, sodass dieser wieder allein gegen den Feind ziehen konnte, wiedererhalten hatte stellte man fest, dass dieser ein Mitglied der myrmidanischen Garde war, welche aus mehrerlei Anlässen auf Burg Syls weilte.
+In dessen Zuge versuchte Yann, die bezaubernde Baronin Quellentanz – Hüterin der Flamme des Wassers – für sich und seine Vorhaben bzgl. des Güldenlandes zu gewinnen. Trondwig gewann das Turnier (wie immer), Yann verlor 50 Gold an Gidemon, den König der Koschzwerge, weil er auf Wolfhart und nicht auf Trondwig gesetzt hatte. Nach kleineren Reiberein mit Trondwig und einem erheiternden Turinier, bei dem Yann und Taran noch eine gute Tat vollbrachten, als sie Torben von Hartzen das Leben retteten, wandelten sich die Dinge rasch. Nachdem nämlich Taran dem 'Schosshündchen' Dexter Nemrods den Hintern gerettet hatte, indem der das Leben dessen etwas überhart herangenommen Kontrahenten (vgl. gerade oben) bewahrte und Yann sein altes, geliebtes elfisches Langschwert, das er damals im Zuge ihrer Reise über die Stromschnellen des grossen Flusses einem entfleuchten Halbelfen aufgrund von akutem Gebrauchsmangel leihweise entnommen und das er dann damals vor Beilunk dem – zugegebenermassen – völlig ehrbaren, göttertreuen (und verstandverbrannten) Ardariten Meralon von Vallusa überlassen hatte, sodass dieser wieder allein gegen den Feind ziehen konnte, wiedererhalten hatte stellte man fest, dass dieser ein Mitglied der myrmidanischen Garde war, welche aus mehrerlei Anlässen auf Burg Syls weilte.
   
 Seit diesem Tag ist Yanns Zuversicht in den Sieg über die Heptarchieen wieder etwas gewachsen, sah er doch eben jene Garde mit ihrem Begründer und Feldherrn, dem Bezwinger Borbarads und Träger des Siebenstreichs und Armalions, der Stimme Rondras, Elgor von Prem einreiten.
 
@@ -410,7 +410,7 @@ Nach einer Auseinandersetzung mit einem Nephazz-beseelten, untoten Troll und der
   
 Dort legten sie sich eine Weile mit eben jenem Nephazz an, der ständig neue Skelette als in Beschlag nahm. Da sich dies allerdings als zu resourcenverschwenderisch erwies, weil dieser wohl die Kraft zur Präsens hatte, entschloss man sich, die oberen Stockwerke zu erkunden; auch weil sich die Zertrümmerung aller Skelette als uneffektiv erwies, da diese sich sogleich wieder zusammensetzten.
   
-Oben kam es dann zum Zusammentreffen mit Krallulatsch, Sohn des Krallerwatsch und drei weiteren Trollen, der Durin ‚prüfte’. Er prophezeite uns, dass es mit an uns läge, ob Menschen, Zwerge und Trolle im nächsten Zeitalter zusammen Seite an Seite stritten.
+Oben kam es dann zum Zusammentreffen mit Krallulatsch, Sohn des Krallerwatsch und drei weiteren Trollen, der Durin 'prüfte'. Er prophezeite uns, dass es mit an uns läge, ob Menschen, Zwerge und Trolle im nächsten Zeitalter zusammen Seite an Seite stritten.
   
 Danach trafen wir noch ein Stockwerk weiter oben auf Gamborax und seine Expedition.
   
@@ -424,7 +424,7 @@ Yann und Taran schlichen sich an den Drachen an, um die Onyx-Kugel zu zerstören
   
 Die Zwerge und der Rest der Gruppe lockten den Drachen in eine der grossen Hallen, um ihn dort so lange zu beschäftigen, bis die Kugel zerstört war. Dies war nötig, um die ungeheuren Regenerationskräfte des Drachen zu stoppen.
   
-Buchstäblich im Angesicht des (Un)todes gelang es Taran dann zweimal mittels des ‚Motoricus dieses Zeitalters’ sowohl die Kugel von ihrem Gebeinschrein zu stossen und dann noch sämtliche Einzelteile in alle sieben Winde zu zerstreuen.
+Buchstäblich im Angesicht des (Un)todes gelang es Taran dann zweimal mittels des 'Motoricus dieses Zeitalters' sowohl die Kugel von ihrem Gebeinschrein zu stossen und dann noch sämtliche Einzelteile in alle sieben Winde zu zerstreuen.
   
 Daraufhin erschlugen der Rest der Gruppe (allen voran Xiandru) den nun nur noch lästigen Drachen.
   
@@ -432,9 +432,9 @@ Durin belebte kurz danach einen der Zwillingszwerge (Malmag) wieder, schleuderte
   
 Trotzdem ist es ein schöner Anblick von der Trollfaust: Von Warunk über Perricum bis Gareth.
   
-Leider war es auch dem nur noch von einem Gott Aufzuhaltenden nicht möglich, den Eidmeister Gamborax’ ‚zurückzuholen’.
+Leider war es auch dem nur noch von einem Gott Aufzuhaltenden nicht möglich, den Eidmeister Gamborax' 'zurückzuholen'.
   
-Auf dem Rückweg muss v.a. Wolfhart Palaver mit dem Trollzacker Häuptling\___\___\___\___\_____ und der ‚Besuch’ eines nahegelegenen Traviaklosters erwähnt werden. Dieses war bis auf eine Geweihte, die zugegebenermassen schon leicht dem Wahnsinn anheimgefallen war, verlassen. Ein Teil der Geweihtenschaft lag verstreut in den umliegenden Gebäuden, allesamt tot. Yann und die anderen trafen überraschenderweise auf ein Mitglied eines ODL-Kommandos (\___\____\_\\_\_) der dann etwas Licht ist Dunkel bringen konnte. Sein Vorgesetzter, \_\_\___\___\___\___\___\___\___ befand sich an einem – wohl erzheiligen – Ort. Als Yann und die anderen dort angelangten (der blöde Zwerg Malmag war mal wieder vorgelaufen) fanden sie mehrere Statuen u.a. die eines Trolles in einer verschneiten Senke. Die Statuen waren allesamt echte Lebewesen, die dort auf seltsame Art wörtlich versteinert waren. Jedenfalls beschloss der Troll \___\___\___\____ die Axt für einen anderen Troll namens Knopphold an sich zu bringen. Es kam wie zu erwarten zum Kampf, in welchem Yann und die anderen den Troll nur deshalb nicht erschlugen, weil Krallerwatsch und einige weitere Trolle hinzukamen. Diese verurteilten den Knopphold-Anhänger (Knopphold hatte im Krieg auf Seiten Borbarads gekämpft).
+Auf dem Rückweg muss v.a. Wolfhart Palaver mit dem Trollzacker Häuptling\___\___\___\___\_____ und der 'Besuch' eines nahegelegenen Traviaklosters erwähnt werden. Dieses war bis auf eine Geweihte, die zugegebenermassen schon leicht dem Wahnsinn anheimgefallen war, verlassen. Ein Teil der Geweihtenschaft lag verstreut in den umliegenden Gebäuden, allesamt tot. Yann und die anderen trafen überraschenderweise auf ein Mitglied eines ODL-Kommandos (\___\____\_\\_\_) der dann etwas Licht ist Dunkel bringen konnte. Sein Vorgesetzter, \_\_\___\___\___\___\___\___\___ befand sich an einem – wohl erzheiligen – Ort. Als Yann und die anderen dort angelangten (der blöde Zwerg Malmag war mal wieder vorgelaufen) fanden sie mehrere Statuen u.a. die eines Trolles in einer verschneiten Senke. Die Statuen waren allesamt echte Lebewesen, die dort auf seltsame Art wörtlich versteinert waren. Jedenfalls beschloss der Troll \___\___\___\____ die Axt für einen anderen Troll namens Knopphold an sich zu bringen. Es kam wie zu erwarten zum Kampf, in welchem Yann und die anderen den Troll nur deshalb nicht erschlugen, weil Krallerwatsch und einige weitere Trolle hinzukamen. Diese verurteilten den Knopphold-Anhänger (Knopphold hatte im Krieg auf Seiten Borbarads gekämpft).
   
 Yann und die anderen wurden dann zum Kloster zurück und von dort aus wieder nach Perricum gebracht und zwar von dem Troll Struuz, der gleichzeitig Lehensnehmer der Baronie Trollzacken ist.
 
@@ -466,7 +466,7 @@ Wir besuchten Palmyrabad, trafen auch die dortige Sultana und gelangen schliessl
   
 Der Emir war von unserem Besuch gar nicht so angetan wie wir dachten – gut, Wolfhart hatte wieder einmal in seiner unnachahmlichen Art diesmal den Wesir des Emirs in einer seiner weitgerühmten Kurzschlusshandlungen ein nicht unbedeutend grosses Loch in den Hals geschossen – und hiess uns nach kurzem Umtrunk auf die Ferkina-Art willkommen.
   
-Im darauffolgenden Kampf erschlug Durin den Emir und den aufgetauchten ‚Grolm’, der sich dieser Prozedur aber mit wesentlich weniger Unwillen unterzog, als das normalerweise bei (Lebe)wesen der Fall ist.
+Im darauffolgenden Kampf erschlug Durin den Emir und den aufgetauchten 'Grolm', der sich dieser Prozedur aber mit wesentlich weniger Unwillen unterzog, als das normalerweise bei (Lebe)wesen der Fall ist.
   
 Mit der Flamme der Luft konnte einer der im Haus des Emirs gefundenen Zwerge wiedererweckt werden. Aus politischen Gründen entschlossen wir uns, die Emira zusammen mit den von uns angeworbenen Söldnern um deren Anführer Yilmats zur Sultana nach Palmyrabadn zu bringen, um möglichst bald die politische Situation in dem Grenzemirrat wiederherzustellen. Wir selbst zogen weiter in Richtung Zorgen, dem Händler, welcher die Zwerge dorthin verbracht haben sollte hinterher: Fasir \___\___\___\___; einige der anderen wollten etwas von dem Gold des Emirs mitnehmen, was Yann auch prinzipiell gut geheissen hätte, wäre da nicht dieses ungute  Gefühl gewesen. Daher brachte er die anderen dazu nur einen Teil zu vergraben und ggf. zu einem späteren Zeitpunkt abzuholen.
   
@@ -480,7 +480,7 @@ Noch während Yann und die anderen die Spuhr des Händlers Fasir aufnahmen brach
   
 Der Ausbruch stand im Zusammenhang mit der Verbreitung von namenlossen Gegenständen, die alsbald auch von der gruppe und der Stadtgarde zusammengetragen wurden.
   
-Zu erwähnen seien hierbei v.a. die Hexe Tamura, die uns verriet, dass die Skrechu ihre Agenten in Zorgan hat und dass Walmir uns folgt.Am Ende eines Seance mit Durin, die von Xiandru unterbrochen wurde blieb Tamura lange Zeit bewusstlos. Xiandru sprach zum ersten Mal mit uns, wobei er die von yann gestellten interessanten Fragen natürlich nicht beantwortete. Er meinte, Hutzel (eigentlich Nun-Dur-Chuga) sei Aghira. Ferner gab er bekannt, dass er Lilus Schatten gekürzt habe, um sie vor der Entdeckung durch Walmir zu schützen. Tamura erzählte weiterhin von der uns schon bekannten fasarerin Marmonidas, welche mit dem Emir und Hutzel viel Kontakt gehabt hatte, zumindest bis vor etwa einem Jahr vor des Emirs Tod. (Ach ja, wir hatten Hutzels Reitbaumdrachen vom Himmel geholt – nur so nebenbei). Diese sei aber nicht – wie von Yann befürchtet – Pardona, sondern A’Sar; ihre Zwillingsschwester, was die Sache wesentlich vereinfachte.
+Zu erwähnen seien hierbei v.a. die Hexe Tamura, die uns verriet, dass die Skrechu ihre Agenten in Zorgan hat und dass Walmir uns folgt.Am Ende eines Seance mit Durin, die von Xiandru unterbrochen wurde blieb Tamura lange Zeit bewusstlos. Xiandru sprach zum ersten Mal mit uns, wobei er die von yann gestellten interessanten Fragen natürlich nicht beantwortete. Er meinte, Hutzel (eigentlich Nun-Dur-Chuga) sei Aghira. Ferner gab er bekannt, dass er Lilus Schatten gekürzt habe, um sie vor der Entdeckung durch Walmir zu schützen. Tamura erzählte weiterhin von der uns schon bekannten fasarerin Marmonidas, welche mit dem Emir und Hutzel viel Kontakt gehabt hatte, zumindest bis vor etwa einem Jahr vor des Emirs Tod. (Ach ja, wir hatten Hutzels Reitbaumdrachen vom Himmel geholt – nur so nebenbei). Diese sei aber nicht – wie von Yann befürchtet – Pardona, sondern A'Sar; ihre Zwillingsschwester, was die Sache wesentlich vereinfachte.
   
 Yann und die anderen entdeckten weiter noch die ersten Anzeichen von den Agenten der Skrechu: Ein Massaker an Bürgern in Alt-Zorgan; sie entdeckten, dass sich die Agenten im Untergrund, also Unterzorgan bewegten.
   
@@ -504,17 +504,17 @@ In den tagen der Erholung vereinbarte Yann mit Sybia, das sie dem von Yann erson
   
 Von Zorgan aus zog man dann weiter in Richtung Fasar, sodass Ingrascha endlich ihre Siedlungsrechte und damit die neue Heimat für die Brilliantzwerge erhandeln könnte.
   
-In der Vieltürmigen angekommen schmiedeten Yann und die anderen sofort Bündnisse. Zum einen mit dem Führer des Mondsilberkontors, dem Mondwesir Hablet Al'Fessir ben Cherek einem der Erhabenen und – nach einigen Zwischenfällen im Hause Fasid ben Kasids, dem Besitzer der für Ingrascha so wichtigen Fibel, mit A’sar – auch mit Thommek Aterion.
+In der Vieltürmigen angekommen schmiedeten Yann und die anderen sofort Bündnisse. Zum einen mit dem Führer des Mondsilberkontors, dem Mondwesir Hablet Al'Fessir ben Cherek einem der Erhabenen und – nach einigen Zwischenfällen im Hause Fasid ben Kasids, dem Besitzer der für Ingrascha so wichtigen Fibel, mit A'sar – auch mit Thommek Aterion.
   
-Zu nennen wären ferner noch Habled’s Diener Mohammed, sowie der Hofmagier Fasid ben Kasids Abu Djenna und Thommek Atherions fast drei Schritt grosser Diener Rashid, der einen sehr merkwürdig kindlichen Eindruck machte, ohne dabei die in ihm lauernde Gefahr ganz verbergen zu können.
+Zu nennen wären ferner noch Habled's Diener Mohammed, sowie der Hofmagier Fasid ben Kasids Abu Djenna und Thommek Atherions fast drei Schritt grosser Diener Rashid, der einen sehr merkwürdig kindlichen Eindruck machte, ohne dabei die in ihm lauernde Gefahr ganz verbergen zu können.
   
 Nach einigem Ränkespiel, in welchem vor allem der Verschlepper der Brilliantzwerge Fasir zu nennen wäre konnten Yann und die anderen die Zusammenhänge halbwegs aufdecken.
   
-Über den Vorsteher des hiesiege Angroschtempels im Zwergenviertel Keshal Angra, Gerbolosch (ebenfalls einer der Erhabenen Fasars) kamen wir auf Umwegen auf die Fährte des Sultan der Diamantenen. Nach einem Zusammentreffen mit Kreaturen des Grossen Schwarms in den Grabkatakomben der Stadt und dem gleich im Anschluss stattfindenden Attentatsversuch auf Yann und die anderen mittels Scharfschützen und eines Zants und noch weiteren Versuchen die Gefährten aus dem Leben zu räumen hatte Yann noch – übermittelt durch Hablet – das Erlebnis eines Gesprächs mit der Stimme des Mondes selbst – Mharbal Al’Tosra – auf dessen Sternenturm. Dieser nannte den Namen hinter dem Sultan der Diamantenen, der Organisation die Marmonidas angeblich zur Geldbeschaffung ins Leben gerufen hatte: Reakiel. Ein Zwerg, der in Fasar kein unbekannter war und bereits vor Jahren sein Geld als Sklavenhändler dort machte.
+Über den Vorsteher des hiesiege Angroschtempels im Zwergenviertel Keshal Angra, Gerbolosch (ebenfalls einer der Erhabenen Fasars) kamen wir auf Umwegen auf die Fährte des Sultan der Diamantenen. Nach einem Zusammentreffen mit Kreaturen des Grossen Schwarms in den Grabkatakomben der Stadt und dem gleich im Anschluss stattfindenden Attentatsversuch auf Yann und die anderen mittels Scharfschützen und eines Zants und noch weiteren Versuchen die Gefährten aus dem Leben zu räumen hatte Yann noch – übermittelt durch Hablet – das Erlebnis eines Gesprächs mit der Stimme des Mondes selbst – Mharbal Al'Tosra – auf dessen Sternenturm. Dieser nannte den Namen hinter dem Sultan der Diamantenen, der Organisation die Marmonidas angeblich zur Geldbeschaffung ins Leben gerufen hatte: Reakiel. Ein Zwerg, der in Fasar kein unbekannter war und bereits vor Jahren sein Geld als Sklavenhändler dort machte.
   
 Weiterhin eröffnete Mharbal Yann seine nächste Aufgabe, wobei Queste wohl das passendere Wort hierfür wäre. Seine Aufgabe solle es sein, als Fuchs das Urteil über Reakiel zu verkünden. Denn dieser war niemand anderes, als des Gierigen Feilschers Erster Diener auf Dere.
   
-Noch am selben Abend übergab Habled (wohl auf Anweisung Mharbals) Yann mit den Worten, der Gegenstand gebühre einem grösseren Diener als ihm die Wurfscheibe Phexens, in nördlichen Gefilden bekannt unter dem Namen ‚Sternenschweif’ (dort allerdings als Axt).
+Noch am selben Abend übergab Habled (wohl auf Anweisung Mharbals) Yann mit den Worten, der Gegenstand gebühre einem grösseren Diener als ihm die Wurfscheibe Phexens, in nördlichen Gefilden bekannt unter dem Namen 'Sternenschweif' (dort allerdings als Axt).
   
 Mit der Unterstützung Thommek Aterions und der (diesem scheinbar hörigen) Kor-Kirche drangen Yann und die anderen in Reakiels Insanctum in den Grabkatakomben unter Fasar ein. Gleich beim Eintritt in das Unheiligtum sprach Yann das Urteil über Riakiel, was diesen wohl auch einiges seiner Macht gekostet zu haben schien.
   
@@ -584,7 +584,7 @@ Um den Frieden zu wahren mussten verschiedenste Massnahmen ergriffen werden. Ber
   
 Yann und die anderen zogen dann gen Honingen um zu sehen, wie die Stimmung in der sich einzig noch vollkommen neutral verhaltenden Grafschaft stehe.
   
-Auf dem Weg dorthin kamen allerdings die Ereignisse im Rothengrund’schen dazwischen, wo Yann und die anderen den Baron von Rothengrund vor dem Zugriff von Räubern retteten und dann eine alte Familienfehde etwas entwirrten. Zu nennen seien hierbei gerade die betreffenden Personen. (vgl. wichtige Persönlichkeiten Albernias: von Rothengrund und von Arn samt Anhang).
+Auf dem Weg dorthin kamen allerdings die Ereignisse im Rothengrund'schen dazwischen, wo Yann und die anderen den Baron von Rothengrund vor dem Zugriff von Räubern retteten und dann eine alte Familienfehde etwas entwirrten. Zu nennen seien hierbei gerade die betreffenden Personen. (vgl. wichtige Persönlichkeiten Albernias: von Rothengrund und von Arn samt Anhang).
   
 Der Konflikt spielte aber nicht nur auf dieser Seite allein eine Rolle. So kam es zu einer bereits länger schwelenden Auseinandersetzung zwischen uns Wölfen und einigen Bären. Grund waren Grenz- und Revierstreitigkeiten. Eine Einigung liss sich nicht erzielen, was leider massgeblich auch auf Kosten des Fräulein Yalia von Rothengrund ging und auf alte Ereignisse die Hexe Sachiya betreffend zurückzuführen ist.
   
@@ -594,7 +594,7 @@ Auf der Weiterreise lasen Yann und die anderen den Jungen Jannuin auf, der aus s
   
 Auf dem Weg in das Lehen Faehnrgard des Junker Tamon Llud hatten Yann und die anderen eine erste sehr unschöne Begegnung mit einem etwa knapp kalbsgrossen Wesen, dass in einer Aura der Dunkelheit gehüllt die Gefährten des nächtens in ihrer Lagerstatt angriff. Kurz zuvor war panisch eine alte Kräuterfrau aus dem Wald gestürmt gekommen, welche von dem Biest verfolgt wurde. Die Frau -- Finjan -- wurde, nachdem das Wesen, welches eigentlich nur mit magischen Waffen verletzt werden konnte, zurückgeschlagen war, mit nach Faehrngard genommen. Der dortige Junker zeigte sich wenig kooperativ. Yann und die anderen mussten herausfinden, dass alte Bräuche und die Geschichte des Landes auch hier eine wichtige Rolle spielten. Der entsprechend sehr nordmärkische eingestellte, in Elenvina aufgewachsene Junker unterstützte Yann und die anderen Praiosgefällig im Kampf gegen den Nachtreisser, allerdings war ein Bezwingen auf normalem Wege nicht möglich. Es musste erst herausgefunden werden, dass vor langer Zeit ein Vorfahr des Junkers namens \___\___\___ Llud sich mit einer (Schwarz)magierin namens Isora eingelassen hatte, welche nunmehr als Spuk im Bergfried residierte, welcher seit Jahren nicht betreten ward. Diese erklärte Yann und (massgeblich) den anderen, dass seinerzeit eine Nympfe auf Bitten ihres Geliebten (dem o. g. Vorfahren des Junkers) den von ihr geschaffenen Nachtreisser in einen uralten Baum gebunden hatte. Leider hatte der Junker diesen gefällt, um Kriegsgerät für die Nordmarken zu bauen. Nunmehr war das Wesen wieder frei. Allerdings war auch noch ein Teil des Speeres übrig, welchen die Nympfe dem Vorfahren des Junkers gegeben hatte um das Biest zu stellen. Mit diesem Teil des Speeres brachten Yann und die anderen den Daimoniden zur Strecke. Die Nympfe, welche sich solange noch in dem alten Baum hatte halten können, nahm die Kreatur mit sich auf die andere Seite.
 
-Sodann wurde versucht dem Problem der blauen Füchse Herr zu werden, welche von Bredenhager Land immer wieder auch Angriffe auf Winnhall’schen Boden ausführten.
+Sodann wurde versucht dem Problem der blauen Füchse Herr zu werden, welche von Bredenhager Land immer wieder auch Angriffe auf Winnhall'schen Boden ausführten.
   
 Es kam letztlich zu einem Treffen mit dem Anführer der Füchse, einem abtrünnigen Bredenhager Ritter namens Albor v. Hohenfels, welcher sich allerdings nicht dazu überreden liess, die von Yann angebotene Hilfe für sich und seine Leute anzunehmen, da es ihm sehr auf eine Verurteilung der Grafen von Bredenhag ankam und er diese Ungerechtigkeit gesühnt haben wollte.
   

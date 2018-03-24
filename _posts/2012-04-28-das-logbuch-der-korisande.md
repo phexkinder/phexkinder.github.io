@@ -64,7 +64,7 @@ Ansonsten keine besonderen Ereignisse.
 
 Aufgespürt!
 
-Heute ist der zweyte Tag auf See; die schwarze Flotte hat uns bereits entdeckt. Das Schiff, welches uns attackiert hat ist die Sarkos, eine Al’Anfanische Bireme unter dem Kommando von Tarquinio Zornbrecht, einem eigentlich bedachten Kapitän. Es gelang uns mittels des Einsatzes von destruktiver Hermetik und dem nautischen Geschick des Kapitäns uns vor der Sarkos in eine Nebelbank zu flüchten.
+Heute ist der zweyte Tag auf See; die schwarze Flotte hat uns bereits entdeckt. Das Schiff, welches uns attackiert hat ist die Sarkos, eine Al'Anfanische Bireme unter dem Kommando von Tarquinio Zornbrecht, einem eigentlich bedachten Kapitän. Es gelang uns mittels des Einsatzes von destruktiver Hermetik und dem nautischen Geschick des Kapitäns uns vor der Sarkos in eine Nebelbank zu flüchten.
 
 Verletzte: Gordo (Hornissenbolzen rechter Oberschenkel; Durchschuss), Aliyet (Schwere Prellungen am Oberkörper), Yvonnia (Prellungen, Schürf- und schnittwunden), Arkos (Hornissenbolzen in der linken Schulter; Steckschuss unmittelbar im Schulterblatt)
 
@@ -162,7 +162,7 @@ Dieser war ein berüchtigter Pirat und der Anführer des Bundes der Schwarzen Sc
 
 Besondere Ereignisse:
 
-Perditha zieht endlich mal wieder dieses Al’Anfanische Korsett an.
+Perditha zieht endlich mal wieder dieses Al'Anfanische Korsett an.
 
 **9. Phex**
 
@@ -184,7 +184,7 @@ Keine besonderen Ereignisse; Thesis unverständlich.
 
 Kursänderung!
 
-Waldron hat zu unserem Entsetzen bemerkt, dass die Karte, die wir als Referenzwerk benutzten falsch ist; es handelt sich aller Wahrscheinlichkeit nach um eine tulamidische Karte; eigentlich sollten wir nach einer thorwal’schen segeln; wir befinden uns also immer noch in kartographisierten Gewässern.
+Waldron hat zu unserem Entsetzen bemerkt, dass die Karte, die wir als Referenzwerk benutzten falsch ist; es handelt sich aller Wahrscheinlichkeit nach um eine tulamidische Karte; eigentlich sollten wir nach einer thorwal'schen segeln; wir befinden uns also immer noch in kartographisierten Gewässern.
 
 Ansonsten keine besonderen Ereignisse.
 
@@ -300,15 +300,15 @@ Heute Nacht ist die Segelkammer in Flammen aufgegangen; habe noch versucht die L
 
 Agusto fehlt! Marno blutet; Perdl wird ohnmächtig! Agusto haben wir später tot in einem der Beiboote gefunden; sehr fachmännisch gemeuchelt!
 
-Waldron befragt die Mannschaft; jeden einzeln; Borodan ist sowieso schon im Verdacht; als Perdhita mittels in Dein Trachten seinen Geist nur knapp zu sehen bekommt bemerkt er den Zauber und es entbrennt der Kampf, wobei Kaijin, Sheyan, Waldron und Mandolo den al’alnfansichen Assassinen erledigen.
+Waldron befragt die Mannschaft; jeden einzeln; Borodan ist sowieso schon im Verdacht; als Perdhita mittels in Dein Trachten seinen Geist nur knapp zu sehen bekommt bemerkt er den Zauber und es entbrennt der Kampf, wobei Kaijin, Sheyan, Waldron und Mandolo den al'alnfansichen Assassinen erledigen.
 
 30 Prozent der Ersatztakelage und der und 70 Prozent Ersatzsegel sind irreparabel beschädigt.
 
-Waldron hat mich gebeten, mit ausgesuchten Männern das Schiff abzusuchen, um sicherzustellen, dass Borodan uns nicht noch irgendwelche ‚Geschenke’ hinterlassen hat, allerdings blieb die Suche ohne Erfolg.
+Waldron hat mich gebeten, mit ausgesuchten Männern das Schiff abzusuchen, um sicherzustellen, dass Borodan uns nicht noch irgendwelche 'Geschenke' hinterlassen hat, allerdings blieb die Suche ohne Erfolg.
 
-Weiterhin glaubt Waldron, dass bzgl. des vermeintlich vorhandenen Schatzes des Bundes der Schwarzen Schlange das meiste Gold nach Al’Anfa floss.
+Weiterhin glaubt Waldron, dass bzgl. des vermeintlich vorhandenen Schatzes des Bundes der Schwarzen Schlange das meiste Gold nach Al'Anfa floss.
 
-Im Zuge dieser Ereignisse hat Waldron mit der Mannschaft gesprochen und ihnen erklärt, dass wir einen alten al’anfanischen Militärstützpunkt suchen und das dessen Kassen dann unter der Besatzung aufgeteilt würden.
+Im Zuge dieser Ereignisse hat Waldron mit der Mannschaft gesprochen und ihnen erklärt, dass wir einen alten al'anfanischen Militärstützpunkt suchen und das dessen Kassen dann unter der Besatzung aufgeteilt würden.
 
 Waldron hat die Vertrauensfrage an die Mannschaft gestellt. Einige wenige, namentlich Mandolo und seine Piraten zögerten. Schliesslich blieb nur Orelio, der sich dann der Mehrheit fügen musste. Wir werden vielleicht wirklich mit einer Meuterei konfrontiert werden; ich kann nur hoffen, dass Mandolo nicht wirklich so dumm sein wird, diese zu initiieren.
 
@@ -350,7 +350,7 @@ Ansonsten keine besonderen Ereignisse; Thesis unverständlich.
 
 Die Offiziere betrinken sich beim Kapitän.
 
-Wir beschliessen, dass ein Efferddienst gehalten werden soll, bei dem der Bruderschaft von Wind und Wogen ein Zehnt von allem abgegeben wird, das ‚bei dieser Fahrt rum kommt’.
+Wir beschliessen, dass ein Efferddienst gehalten werden soll, bei dem der Bruderschaft von Wind und Wogen ein Zehnt von allem abgegeben wird, das 'bei dieser Fahrt rum kommt'.
 
 Ansonsten keine besonderen Ereignisse; Thesis unverständlich.
 

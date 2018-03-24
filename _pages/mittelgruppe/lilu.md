@@ -20,7 +20,7 @@ Während Jargo stets mit Lilu unterwegs ist, sitzt ein anderer "Vertrauter" übl
 
 Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch als Kampfstab (bzw. hoffentlich in Zukunft noch mit weiteren Extras) durchaus auch als variantenreiche Waffe seinen Zweck erfüllt.
 
-8 Hal geboren, hat sie die meiste Zeit ihres Lebens im Rhodenstein’schen und als Landei verbracht und bei ihrer Mutter Luthera und den Hexen vom Blautann eine recht "umweltfreundliche" Hexerei und Kräuterkunde erlernt. Seitdem Borbarad's Rückkehr aber dieses Idyll empfindlich gestört und außerdem das Leben von Lilu's heiß verehrter "Chefin" Luzelin gekostet hat, sieht sie es fast als eine Verpflichtung in "größerem Rahmen" zu wirken und die Truppe wackerer Recken, die ihr einst in der Schwarzen Sichel in die Arme gelaufen ist, gibt ihr die Möglichkeit dazu. Ganz zu schweigen von der Verpflichtung gegenüber Dere auf den Haufen einigermaßen aufzupassen...
+8 Hal geboren, hat sie die meiste Zeit ihres Lebens im Rhodenstein'schen und als Landei verbracht und bei ihrer Mutter Luthera und den Hexen vom Blautann eine recht "umweltfreundliche" Hexerei und Kräuterkunde erlernt. Seitdem Borbarad's Rückkehr aber dieses Idyll empfindlich gestört und außerdem das Leben von Lilu's heiß verehrter "Chefin" Luzelin gekostet hat, sieht sie es fast als eine Verpflichtung in "größerem Rahmen" zu wirken und die Truppe wackerer Recken, die ihr einst in der Schwarzen Sichel in die Arme gelaufen ist, gibt ihr die Möglichkeit dazu. Ganz zu schweigen von der Verpflichtung gegenüber Dere auf den Haufen einigermaßen aufzupassen...
 
 ## Heldentaten
 
@@ -29,7 +29,7 @@ Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch a
 * enttarnte die Mitglieder des Bundes der Neun
 * durchflog einen 3-köpfigen, untoten Drachen
 * zwang den Rondra-Geweihten (war das nicht eine Göttin des Kampfes?!) bei einer Prügelei in den Schnee
-* opferte sich, zeitweilig den g’scheiten Geweihten an die (zu) kurze Kette zu nehmen
+* opferte sich, zeitweilig den g'scheiten Geweihten an die (zu) kurze Kette zu nehmen
 * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene "nur kleine Makel" auf Yann & Wolfhart's sonst blütenweißen (Diebes- / Krieger-) Heldenkarriere bekannt geworden) - Wolfhart: "Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!"
 
 [^ohne]: Exklusive Zwärch ("die hat ja gar keinen Bart, wo soll man sich da festhalten?"), Taran (der wird zu dem Thema rot & sprachlos) und Coran (Lilu's persönliche Meinung dazu läuft in etwa darauf hinaus, dass horasische Rondra-Geweihte Frauen nicht von Rasenmähern (was ob deren derischer Nichtexistens zwar kein Wunder ist, aber das Bild nur verdeutlicht) unterscheiden können)

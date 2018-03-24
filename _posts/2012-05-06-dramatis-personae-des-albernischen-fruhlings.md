@@ -101,7 +101,7 @@ tags:
 
 <ol start="2">
   <li>
-    Etwa ⅔ der albern’schen Landwirtschaftserträge kommen aus dem Abagund (v.a. Fleisch)
+    Etwa ⅔ der albern'schen Landwirtschaftserträge kommen aus dem Abagund (v.a. Fleisch)
   </li>
   <li>
     Zugehörigkeit momentan:        Inver ni Bennain, aber wankelmütig
@@ -200,7 +200,7 @@ tags:
     Wird, selbst wenn die Adelsversammlung gegen Inver entscheidet, Dankwart nicht durch Honinger Land ziehen lassen, sodass dieser Umwege nach Havena in Kauf nehmen muss (etwa über das Abagunf); verlangt dafür aber, dass sich Inver vor der Versammlung nicht offen gegen Bredenhag stellt. (Verhandlungen Romin, der nicht im Horasiat war)
   </li>
   <li>
-    Hat sich zur Sicherung der Loyalität Gratenfels’ (Blasius v. Eberstamm) versichert, welches im Ernstfall auch gegen Dankwart auf Seiten der Honinger kämpfen wird, sollte Dankwart versuchen mit Gewalt durch Honingen zu ziehen
+    Hat sich zur Sicherung der Loyalität Gratenfels' (Blasius v. Eberstamm) versichert, welches im Ernstfall auch gegen Dankwart auf Seiten der Honinger kämpfen wird, sollte Dankwart versuchen mit Gewalt durch Honingen zu ziehen
   </li>
   <li>
     Franka hat ein Netz gesponnen, den Konflikt in beide Seiten hin abzukürzen
