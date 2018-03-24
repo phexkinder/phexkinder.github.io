@@ -8,7 +8,7 @@ author: Yann
 ---
 Der Mann betrachtete das Gesicht, welches sich in dem kristallgläsernen Fenster durchscheinend spiegelte. In ihm war nicht mehr die Jugendlichkeit zu sehen, welche zu sehen er eigentlich dort gewohnt war. Zugegeben, er war nicht alt. Aber die letzten Jahre hatten doch deutliche Spuren hinterlassen. Spuren, die jetzt in den letzen Wochen des Frühlings immer deutlicher sichtbar geworden waren.
   
-Auf der anderen Seite des Fensters glitzerte in einiger Entfernung das Licht der aufgehenden Sonne auf den sich kräuselnden Wellen des Meers der Sieben Winde. Davor lag &#8211; wie ein riesiges Seerosenblatt &#8211; die grüne, von Wasseradern durchzogene Weite des Mündungsdeltas des Grossen Flusses. Sie lag friedlich da, die Muhrsape; getaucht in das goldene Licht der Morgensonne, das erst vor einer grossen Sanduhr die letzten Flussnebel hatte vertreiben können, welche das Land seit den frühesten Morgenstunden überzogen hatten.
+Auf der anderen Seite des Fensters glitzerte in einiger Entfernung das Licht der aufgehenden Sonne auf den sich kräuselnden Wellen des Meers der Sieben Winde. Davor lag -- wie ein riesiges Seerosenblatt -- die grüne, von Wasseradern durchzogene Weite des Mündungsdeltas des Grossen Flusses. Sie lag friedlich da, die Muhrsape; getaucht in das goldene Licht der Morgensonne, das erst vor einer grossen Sanduhr die letzten Flussnebel hatte vertreiben können, welche das Land seit den frühesten Morgenstunden überzogen hatten.
   
 Dieses Bild liess den Mann am Fenster kurz erschaudern, führte es ihm doch noch einmal für einen kurzen Moment ein Abbild dessen vor Augen, was hätte sein können.
   

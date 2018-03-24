@@ -27,11 +27,11 @@ Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch a
 ## Heldentaten
 
   * versuchte einem Zwerg schwimmen beizubringen
-  * brachte Corans Gegner beim Pferderennen von Neetha um den Sieg (und das –man nimmt ja gern Rücksicht auf die sensiblen Punkte seiner &#8222;Freunde&#8220; &#8211; ganz ohne Hexerei)
+  * brachte Corans Gegner beim Pferderennen von Neetha um den Sieg (und das –man nimmt ja gern Rücksicht auf die sensiblen Punkte seiner &#8222;Freunde&#8220; -- ganz ohne Hexerei)
   * enttarnte die Mitglieder des Bundes der Neun
   * durchflog einen 3-köpfigen, untoten Drachen
   * zwang den Rondra-Geweihten (war das nicht eine Göttin des Kampfes?!) bei einer Prügelei in den Schnee
   * opferte sich, zeitweilig den g’scheiten Geweihten an die (zu) kurze Kette zu nehme
-  * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene „nur kleine Makel“ auf Yann & Wolfhart’s sonst blütenweißen (Diebes-/Krieger-)Heldenkarriere bekannt geworden)     &#8212;&#8211;   Wolfhart: &#8222;Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!&#8220;
+  * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene „nur kleine Makel“ auf Yann & Wolfhart’s sonst blütenweißen (Diebes-/Krieger-)Heldenkarriere bekannt geworden)     &#8212;--   Wolfhart: &#8222;Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!&#8220;
 
 &nbsp;

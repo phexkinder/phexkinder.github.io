@@ -8,7 +8,7 @@ author: Wolfhart
 ---
 **Mehrfach haben sich Gefährten neu gefunden oder auch für immer trennen müssen.**
 
-Wie gesagt &#8211; manch einer schreckt schon vor der Höhe des Berges zurück, wenn er an dessen Fuße steht.
+Wie gesagt -- manch einer schreckt schon vor der Höhe des Berges zurück, wenn er an dessen Fuße steht.
 
 **Eine kurze Erinnerung:**
 

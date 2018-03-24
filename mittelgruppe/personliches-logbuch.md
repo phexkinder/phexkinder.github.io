@@ -430,7 +430,7 @@ Gegen Mittag kam es zu einer handgreiflichen Auseinandersetzung unter der Mannsc
 
 Der Kapitän gab mir den Auftrag, das Messer zu suchen und den Tathergang zu klären.
 
-Habe mich daraufhin mit Perdhita beraten. Nach einiger Befragung war klar, dass Immakolo zugestochen hatte; er hat das Messer &#8211; wie er dachte an Radul &#8211; weitergegeben; der Grund waren Spielschulden; nachdem Orelio den Streit mit Enyun vom Zaun gebrochen hat und Kaijin diesen verteidigte, hat Immakolo die Gelegenheit ergriffen, Akos abzustechen; getroffen hat er allerdings Rhayades.
+Habe mich daraufhin mit Perdhita beraten. Nach einiger Befragung war klar, dass Immakolo zugestochen hatte; er hat das Messer -- wie er dachte an Radul -- weitergegeben; der Grund waren Spielschulden; nachdem Orelio den Streit mit Enyun vom Zaun gebrochen hat und Kaijin diesen verteidigte, hat Immakolo die Gelegenheit ergriffen, Akos abzustechen; getroffen hat er allerdings Rhayades.
 
 Orelio und Gordo wurden in Eisen gelegt.
 

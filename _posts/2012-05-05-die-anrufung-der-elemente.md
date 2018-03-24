@@ -49,4 +49,4 @@ Hast Du all dies erledigt so setze Dich in Deinen Kreis und schicke Deinen Ruf i
 
 &nbsp;
 
-&#8211; Kommentar Tarans in seiner Ausgabe des hilfreychen Leytfadens wandernder Adepten
+-- Kommentar Tarans in seiner Ausgabe des hilfreychen Leytfadens wandernder Adepten

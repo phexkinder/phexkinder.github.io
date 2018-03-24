@@ -677,7 +677,7 @@ A. Waffengefährte Dankwarts seit dem Orkkrieg & dessen rechte Hand
     Trinkgeselle aus Rothengrund
   </li>
   <li>
-    Trotz seines hohen Alters sehr rüstig, wie der Rest seiner Kumpane auch; liegt  &#8211; wie wir jetzt wissen – am Rothengrunder Kirschwasser
+    Trotz seines hohen Alters sehr rüstig, wie der Rest seiner Kumpane auch; liegt  -- wie wir jetzt wissen – am Rothengrunder Kirschwasser
   </li>
   <li>
   </li>
@@ -1533,13 +1533,13 @@ B.  Mit Geld weiter ins nächste Wirtshaus geschickt mit der Nachricht, wir wü
 
 &nbsp;
 
-&#8211;          Flussgarde (Bennain)
+--          Flussgarde (Bennain)
 
-&#8211;          Winhaller Pikeniere (Conchobair)
+--          Winhaller Pikeniere (Conchobair)
 
-&#8211;          Honinger Pikeniere (Galahan)
+--          Honinger Pikeniere (Galahan)
 
-&#8211;          Aibilachter Reiterei Kürassiere (Galahan)
+--          Aibilachter Reiterei Kürassiere (Galahan)
 
 &nbsp;
 

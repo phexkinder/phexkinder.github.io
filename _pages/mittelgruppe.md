@@ -28,8 +28,8 @@ Für nur kurze Zeit war _Trautmann_ unser Begleiter. Er hat den tiefen Berg nich
 
 _Lariel_ wurde ja ab dem ersten Tag an seine Freiheit geschenkt. Das er uns wirklich verlassen würde -- nun jeder geht seinen eigenen Weg. Seine Schankstube in Gareth scheint ihm das Reisen nicht mehr erstrebenswert zu machen.
 
-Einer gar hat sich schlicht eine gute Partie gesucht und wurde im Horasiat fündig. _Wahnfried_ &#8211; möge dein Wunsch nach Müsiggang, Annehmlichkeit und Frieden stets überwiegen und in Erfüllung gehen.
+Einer gar hat sich schlicht eine gute Partie gesucht und wurde im Horasiat fündig. _Wahnfried_ -- möge dein Wunsch nach Müsiggang, Annehmlichkeit und Frieden stets überwiegen und in Erfüllung gehen.
 
-_Ragnar_ &#8211; hmmm &#8211; irgendwo in einem dunklen Wald könnte man wohl auch ihn wieder treffen.
+_Ragnar_ -- hmmm -- irgendwo in einem dunklen Wald könnte man wohl auch ihn wieder treffen.
 
 &nbsp;

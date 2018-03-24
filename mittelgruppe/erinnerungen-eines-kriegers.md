@@ -24,7 +24,7 @@ Als Mann von Stand und Ehre habe ich meinen Kodex, meine Regeln. Regeln, die ein
 
 Ich habe die Erfahrung gemacht, dasz es wenig auf Deren gibt, von dem man sagen koennt es sei gaenzlich Gut oder zur Gaenz Boes. Das meiste ist einfach da und schert sich eynen Dreck darum wie es ist.
   
-Eynst &#8211; Es war in Havena &#8211; Da hab ich einem Mann den Bauch aufgeschlitzt. Der Mann ist elendiglich verrekkt. Das hat gestunken war ekelig und greuslich. Er hatte mich angegriffen weyl er im Fieber eyner sehr ansteckenden Krankheyt war. Durch seinen Toth wurden viele andere vor selbiger Krankheyt bewahret. Der Mann wullt aber sicher nicht dahinscheyden und er wollte auch sicher diese Krankheyt nicht haben. Ich hab da lange drueber nachgedacht und bin mir sicher das Rondra mich im Kampf sehen wollte. So hat sie den Mann mit dem Fieber auf mich gehetzet.
+Eynst -- Es war in Havena -- Da hab ich einem Mann den Bauch aufgeschlitzt. Der Mann ist elendiglich verrekkt. Das hat gestunken war ekelig und greuslich. Er hatte mich angegriffen weyl er im Fieber eyner sehr ansteckenden Krankheyt war. Durch seinen Toth wurden viele andere vor selbiger Krankheyt bewahret. Der Mann wullt aber sicher nicht dahinscheyden und er wollte auch sicher diese Krankheyt nicht haben. Ich hab da lange drueber nachgedacht und bin mir sicher das Rondra mich im Kampf sehen wollte. So hat sie den Mann mit dem Fieber auf mich gehetzet.
   
 Früher dachte ich, ich rette die Stadt vor dem Fieber und bekomme Ruhm und Ehr. Heute weisz ich das es mehr Schweine mit Ruhm und Ehre gibt, als eine Tanne Nadeln hat. Ich halt mich nicht an Gut und Boes, da erzaehlt mir jeder ein anders davon. Ich halt mich an mein Gewissen, mein Gefuehl und meinen Kodex. Das schaffet meye Ehr und ist das einzige was Sinn macht.
 
@@ -72,11 +72,11 @@ Ich bin Wohlfhart Angbarar aus Winhall zu Wetterfels, Krieger des Reiches, Ritte
 
 Ich bin ein Mann des Schwertes.
 
-Das alles, und um mir dessen sicher zu sein, schreibe ich diese Zeilen, ist aber nicht wirklich wichtig. Denn wie stark ich auch werde und wie viel Macht ich auch bekommen mag, eines werde ich nicht zu verändern wissen &#8211;
+Das alles, und um mir dessen sicher zu sein, schreibe ich diese Zeilen, ist aber nicht wirklich wichtig. Denn wie stark ich auch werde und wie viel Macht ich auch bekommen mag, eines werde ich nicht zu verändern wissen --
   
 das Werden und Vergehen miteinander ringen.
   
-Nachdem wir die schwarze Brut unter dem Berg geschlagen hatten und Dank Boron oder Tsa oder unserem eigenen Schicksal, wieder lebendig ans Licht gekommen waren &#8211; mögen wir Trautmann einst im Reiche Borons wieder sehen &#8211; und Durin sich seiner selbst wieder völlig Herr werden &#8211; bin ich freudigen Herzens zurück in die Heimat geritten.
+Nachdem wir die schwarze Brut unter dem Berg geschlagen hatten und Dank Boron oder Tsa oder unserem eigenen Schicksal, wieder lebendig ans Licht gekommen waren -- mögen wir Trautmann einst im Reiche Borons wieder sehen -- und Durin sich seiner selbst wieder völlig Herr werden -- bin ich freudigen Herzens zurück in die Heimat geritten.
   
 Ach! Nichts ist so erquicklich wie die Luft der Heimat und der Familie.
   
@@ -92,7 +92,7 @@ Es war uns also möglich den Frieden in Albernia zu halten und dem Geschädelten
   
 Das dies aber nicht die einzige Schlacht ist, die, wie er es immer tut, im verborgenen geschlagen wird, mussten wir erkennen als wir in den Osten geritten sind und einen vollkommen unscheinbaren Auftrag vom Großgeheimrat bekamen. Eine Schlacht um Aranien lag vor uns wie aufziehende schwarze Wolken.
   
-Ja &#8211; ich glaube nicht, jetzt wo ich bei Keshal Taref diese Worte schreibe, auch nur einen kleinen Teil der Ereignisse hätte so vorhersehen zu können.
+Ja -- ich glaube nicht, jetzt wo ich bei Keshal Taref diese Worte schreibe, auch nur einen kleinen Teil der Ereignisse hätte so vorhersehen zu können.
   
 Auch nicht, nachdem wir erfahren hatten, was unter Baburin und in den Zeiten der
   

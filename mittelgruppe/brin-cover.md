@@ -45,5 +45,5 @@ author: Brin
     </p>
     
     <p align="right">
-      &#8211; Logbuch der Korisande, S. 68
+      -- Logbuch der Korisande, S. 68
     </p>

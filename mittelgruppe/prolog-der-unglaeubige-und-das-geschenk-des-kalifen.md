@@ -1,6 +1,6 @@
 ---
 
-title: 'Prolog &#8211; Der Ungläubige und das Geschenk des Kalifen'
+title: 'Prolog -- Der Ungläubige und das Geschenk des Kalifen'
 date: 2015-01-02T22:12:03+00:00
 author: Brin
 
@@ -24,7 +24,7 @@ Niemand hatte erwartet, dass der Mann den Palast lebend verlassen würde.
 
 Zwei weitere unsichere Schritte seiner nackten Füße auf dem glühenden Stein vor den Palasttoren, dann hallten schwere Stiefelschritte durch den Gang. Ihnen folgten zwei Leibgardisten des Herrschers in prunkvoller, messingbeschlagener Rüstung mit edelsteinbesetzten Säbeln an ihren Seiten und Helmen an denen kleine Glöckchen baumelten und die Rosshaarschweife in ihrem seidigen Tanz mit heller Musik begleiteten. Die Menge schwieg noch immer; starr vor Schock und angefüllt mit ungläubigem Erwarten, harrend dem Urteil, das nun verkündet werden würde. Das verkündet werden musste. Was dem Ungläubigen an Vorhaben nachgesagt wurde, hatte an Wahnsinn gegrenzt. Niemand konnte glauben, was auf den Straßen der Stadt geflüstert wurde. Niemand.
 
-Die Ereignisse hatten sich überschlagen die letzten Stunden. Was jeder glaubte, was jeder wusste, weil es wahr sein musste war, dass die erste Gemahlin des Kalifen nach all den Jahren, in denen sie ihm kein Kind hatte schenken können, schlussendlich doch noch die Frucht seines Leibes in sich trug; dass das Kalifat vielleicht doch den Erben bekommen würde, nach dem es sich schon so lange verzehrte; dass Jahren der sich steigernden Unruhe und den immer weiter voranschreitenden Anzeichen von Zerfall &#8211; ja sogar Umsturz &#8211; doch Einhalt geboten werden konnte; dass der Kalif am Ende doch über die Ambitionierten und Fürsorglichen, die Zweifelnden und Mahnenden, die Madlis und Adligen, die Lauernden und Wartenden (im Offenen wie Verborgenen) und die ältesten Freunde und treuesten Untergebenen, dass er über all diese und all die anderen erhaben sein würde.
+Die Ereignisse hatten sich überschlagen die letzten Stunden. Was jeder glaubte, was jeder wusste, weil es wahr sein musste war, dass die erste Gemahlin des Kalifen nach all den Jahren, in denen sie ihm kein Kind hatte schenken können, schlussendlich doch noch die Frucht seines Leibes in sich trug; dass das Kalifat vielleicht doch den Erben bekommen würde, nach dem es sich schon so lange verzehrte; dass Jahren der sich steigernden Unruhe und den immer weiter voranschreitenden Anzeichen von Zerfall -- ja sogar Umsturz -- doch Einhalt geboten werden konnte; dass der Kalif am Ende doch über die Ambitionierten und Fürsorglichen, die Zweifelnden und Mahnenden, die Madlis und Adligen, die Lauernden und Wartenden (im Offenen wie Verborgenen) und die ältesten Freunde und treuesten Untergebenen, dass er über all diese und all die anderen erhaben sein würde.
   
 Doch dann hatte sich binnen Stunden alles zum Schlechten gewendet. Wenige Tage vor der errechneten Niederkunft so sagten es die Eingeweihten, hätten die Hebammen erkannt, dass das Kind nicht richtig läge; dass eine Geburt vielleicht eine Gefahr darstellen könnte; darstellen werde; für das Leben der Mutter und das Leben des Kindes.
   
