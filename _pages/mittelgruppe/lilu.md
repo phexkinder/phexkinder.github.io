@@ -21,7 +21,7 @@ Während Jargo stets mit Lilu unterwegs ist, sitzt ein anderer "Vertrauter" übl
 
 Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch als Kampfstab (bzw. hoffentlich in Zukunft noch mit weiteren Extras) durchaus auch als variantenreiche Waffe seinen Zweck erfüllt.
 
-8 Hal geboren, hat sie die meiste Zeit ihres Lebens im Rhodenstein’schen und als Landei verbracht und bei ihrer Mutter Luthera und den Hexen vom Blautann eine recht „umweltfreundliche“ Hexerei und Kräuterkunde erlernt. Seitdem Borbarads Rückkehr aber dieses Idyll empfindlich gestört und außerdem das Leben von Lilus heiß verehrter „Chefin“ Luzelin gekostet hat, sieht sie es fast als eine Verpflichtung in „größerem Rahmen“ zu wirken und die Truppe wackerer Recken, die ihr einst in der Schwarzen Sichel in die Arme gelaufen ist, gibt ihr die Möglichkeit dazu. Ganz zu schweigen von der Verpflichtung gegenüber Dere auf den Haufen einigermaßen aufzupassen….
+8 Hal geboren, hat sie die meiste Zeit ihres Lebens im Rhodenstein’schen und als Landei verbracht und bei ihrer Mutter Luthera und den Hexen vom Blautann eine recht „umweltfreundliche“ Hexerei und Kräuterkunde erlernt. Seitdem Borbarads Rückkehr aber dieses Idyll empfindlich gestört und außerdem das Leben von Lilus heiß verehrter „Chefin“ Luzelin gekostet hat, sieht sie es fast als eine Verpflichtung in „größerem Rahmen“ zu wirken und die Truppe wackerer Recken, die ihr einst in der Schwarzen Sichel in die Arme gelaufen ist, gibt ihr die Möglichkeit dazu. Ganz zu schweigen von der Verpflichtung gegenüber Dere auf den Haufen einigermaßen aufzupassen…
 
 ## Heldentaten
 
@@ -31,4 +31,4 @@ Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch a
   * durchflog einen 3-köpfigen, untoten Drachen
   * zwang den Rondra-Geweihten (war das nicht eine Göttin des Kampfes?!) bei einer Prügelei in den Schnee
   * opferte sich, zeitweilig den g’scheiten Geweihten an die (zu) kurze Kette zu nehme
-  * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene „nur kleine Makel“ auf Yann & Wolfhart’s sonst blütenweißen (Diebes-/Krieger-)Heldenkarriere bekannt geworden)     &#8212;--   Wolfhart: "Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!"
+  * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene „nur kleine Makel“ auf Yann & Wolfhart’s sonst blütenweißen (Diebes-/Krieger-)Heldenkarriere bekannt geworden) --- Wolfhart: "Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!"
