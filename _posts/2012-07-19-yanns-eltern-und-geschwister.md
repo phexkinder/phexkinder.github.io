@@ -19,7 +19,7 @@ Aber er war ein Bürger Havenas; und damit ein freier Mann.
 
 Er heiratete Travigunde Pfeiffer, die dritte Tochter des Gerbers Pfeiffer aus Orkendorf. Zusammen haben sie deren fünf Kinder.
 
-Gutwulf, Yanns ältester Bruder, wurde im Zuge der gigantischen Aushebung von Landwehrregimentern eingezogen und kämpfte als freier Bürger Albernias gegen die schwarzen Horden. Er ist acht Jahre älter als Yann (7. Rondra 2 v. Hal), verheiratet mit einer Havena &#8222;Freien&#8220; (ihr Name ist Cassandra) und hat zwei Töchter. Emer, zu Ehren Ihrer Hochwohlgeboren Prinzessin Emer ni Bennain von Albernia und Ayla, zum Ruhme Ihrer Ehrwürdigen Erhabenheit Ayla von Schattengrund. Dieser Name wurde im letzten Moment noch einmal geändert, da die kleine Ayla genau in der Nacht vor dem Abzug des 2. albernischen Landwehrregiments, mit dem ihr Vater in den Krieg zog, geboren wurde.
+Gutwulf, Yanns ältester Bruder, wurde im Zuge der gigantischen Aushebung von Landwehrregimentern eingezogen und kämpfte als freier Bürger Albernias gegen die schwarzen Horden. Er ist acht Jahre älter als Yann (7. Rondra 2 v. Hal), verheiratet mit einer Havena "Freien&#8220; (ihr Name ist Cassandra) und hat zwei Töchter. Emer, zu Ehren Ihrer Hochwohlgeboren Prinzessin Emer ni Bennain von Albernia und Ayla, zum Ruhme Ihrer Ehrwürdigen Erhabenheit Ayla von Schattengrund. Dieser Name wurde im letzten Moment noch einmal geändert, da die kleine Ayla genau in der Nacht vor dem Abzug des 2. albernischen Landwehrregiments, mit dem ihr Vater in den Krieg zog, geboren wurde.
 
 Er sollte ihrem Vater die Gunst der Göttin bescheren.
 

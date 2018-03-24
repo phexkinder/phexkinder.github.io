@@ -10,7 +10,7 @@ Die Südgruppe, Streiter um das eigene Wohlergehen, die Anhäufung von Macht und
   * Mandolo de Muerte, Söldner und ehrbarer Geschäftsmann zu Land und zur See, derzeit Steuereintreiber im nördlichen Manadhistan
   * Magistra Perditha Payrakis, Absolventa der Universalschule von Al´Anfa, derzeit Leiterin der Alchemischen Fakultät der Dracheneiakademie zu Kunchum
   * Magister Minor Brin von Andergast, Absolventus des Adergast&#8217;schen Kampfseminars, derzeit commissarischer Leiter des Combattiven Zweiges der Dracheneiakademie zu Kunchom (im Aufbau)
-  * Shejian, besser bekannt als &#8222;Spinne&#8220; ein äußerst treffsicherer Maraskaner
+  * Shejian, besser bekannt als "Spinne&#8220; ein äußerst treffsicherer Maraskaner
   * Mustrum, ein einheimischer Söldner Manadhistans
   * Kaijin, der nette Schläger von Nebenan, derzeit rechte Hand Kaijderan Daijins, des Östlichen Thearchen
 
