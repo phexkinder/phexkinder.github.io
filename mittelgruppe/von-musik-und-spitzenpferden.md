@@ -6,7 +6,7 @@ author: Yann
 
 
 ---
-Die Stadt verschwand langsam hinter Yann, als Frinkor ihn über die große Reichsstraße gen Rahja trug. Der Belemann wehte beständig in seinem Rücken und der Gegenwind des schnellen Rittes tat sein Übriges dazu, Haare zu zerzausen und an Kleidern zu zerren. Etwa zwei große Sanduhren lang folgte er der Straße, die um diese Jahreszeit von Kauf- und Fuhrleuten stark befahren wurde und das ein oder andere Mal brachte ihm ein knappes Ausweichmanöver ärgerliche und mitunter unflätige Rufe ein. Ein Lächeln zeichnete sich auf Yanns Gesicht ab und kurz nach der Herberge „Weg zum Tor“, welche die letzte Übernachtungsmöglichkeit vor der Stadt am großen Fluss war, lenkte er Frinkor abseits der Straße und die beiden preschten, matschigen Schlamm aufwühlend, in beinahe ungehindertem Galopp in Richtung eines kleinen Wäldchens.
+Die Stadt verschwand langsam hinter Yann, als Frinkor ihn über die große Reichsstraße gen Rahja trug. Der Belemann wehte beständig in seinem Rücken und der Gegenwind des schnellen Rittes tat sein Übriges dazu, Haare zu zerzausen und an Kleidern zu zerren. Etwa zwei große Sanduhren lang folgte er der Straße, die um diese Jahreszeit von Kauf- und Fuhrleuten stark befahren wurde und das ein oder andere Mal brachte ihm ein knappes Ausweichmanöver ärgerliche und mitunter unflätige Rufe ein. Ein Lächeln zeichnete sich auf Yanns Gesicht ab und kurz nach der Herberge „Weg zum Tor", welche die letzte Übernachtungsmöglichkeit vor der Stadt am großen Fluss war, lenkte er Frinkor abseits der Straße und die beiden preschten, matschigen Schlamm aufwühlend, in beinahe ungehindertem Galopp in Richtung eines kleinen Wäldchens.
   
 Yann liebte diese Strecke. Er und Frinkor nahmen sie oft und Yann spürte, wie das Pferd auf dem feuchten Untergrund nur noch freudiger und kraftvoller austrat, um das hohe Tempo beizubehalten. Der junge Fuchs war ein Goldfelser Hengst, ein Tier aus der edlen Züchtung des Fürstgestüts zu Methumis und das schnellste Pferd, welches Yann je geritten war. Er konnte es von der Geschwindigkeit her sogar mit den Pferden der novadischen Shadiv aufnehmen, ein Vergnügen, welches Yann bereits einmal vor knapp zwei Jahren gehabt hatte, als er mit Sharuk und den Fasarer Reitern von Festum nach Gareth gezogen war. Er musste lächeln, wenn er daran dachte, auf welche Weise er und der damals blutjunge Hengst zueinander gefunden hatten. Mit von der Partie waren seinerzeit noch Thiolan von Mehtumis, ein Svelttaler Kaltblut und eine mittelschwere Rotze gewesen. Seit diesen Tagen im südlichen Horasiat war Frinkor immer an Yanns Seite und hatte nahezu jede Gefahr überstanden und jedes Abenteuer überlebt, was – wie Yann selbst aus eigener, mitunter leidiger Erfahrung wusste -- keine Selbstverständlichkeit war, wenn man als Pferd in seinem Eigentum stand.
   
@@ -44,44 +44,44 @@ Die Vorstellung endete jedoch unrühmlicher, als vor allem Yann das erwartet hat
   
 Seine beiden Gegner lächelten auf ihn herab und er schloss schwer atmend die Augen.
   
-„In Ordnung, das reicht!“ erklang eine Stimme vom hinteren Teil der Lichtung.
+„In Ordnung, das reicht!" erklang eine Stimme vom hinteren Teil der Lichtung.
   
-Die beiden Männer machten keine Anstalten, die Waffen wegzunehmen. Yann öffnete die Augen: „Er hat recht, es ist genug erst einmal.“
+Die beiden Männer machten keine Anstalten, die Waffen wegzunehmen. Yann öffnete die Augen: „Er hat recht, es ist genug erst einmal."
   
 Daraufhin nahmen die Beiden die Waffen hoch und erlaubten sich ihrerseits erst einmal zu verschnaufen. Sie drehten sich um und gingen in Richtung eines am Rand der Lichtung liegenden Findlings, um sich zu setzen.
   
 Yann richtete sich auf und sah Taran auf ihn zukommen. Der Tulamide war wie immer bis auf das Gesicht verschleiert und trug seine Tasche mit Verbandsmaterial und allerlei Heilmittelchen bei sich.
   
-„Inien!“ rief er.
+„Inien!" rief er.
   
 Der ältere der beiden Männer drehte sich um. Der Tulamide warf ihm nacheinander zwei Kupferfläschchen zu, welche der Gerufene auffing und eine davon gleich weiterreichte. Auch Yann bekam ein solches in die Hand gedrückt und dankend öffnete er es und trank den Inhalt in einem Zug. Sogleich spürte er die Kräfte in seinen Körper zurückkehren und die vielen kleineren Blessuren verschwinden.
   
-„Und es klappt!“ brachte er immer noch schwer atmend hervor, alsbald als das Fläschchen leer war. „Es fehlt nur vor allem der Blick für die Umgebung, aber ansonsten ging es. Du hast es doch gesehen?“ Die Euphorie in seiner Stimme war nicht zu überhören.
+„Und es klappt!" brachte er immer noch schwer atmend hervor, alsbald als das Fläschchen leer war. „Es fehlt nur vor allem der Blick für die Umgebung, aber ansonsten ging es. Du hast es doch gesehen?" Die Euphorie in seiner Stimme war nicht zu überhören.
   
-„Was ich gesehen habe ist ein Verrückter, der ohne irgendeine Not in halsbrecherischer Art von seinem Pferd springt, sich in der Luft überschlägt und danach mit echten Waffen auf zwei Männer seiner eigen Leibgarde losgeht.“ entgegnete Taran.
+„Was ich gesehen habe ist ein Verrückter, der ohne irgendeine Not in halsbrecherischer Art von seinem Pferd springt, sich in der Luft überschlägt und danach mit echten Waffen auf zwei Männer seiner eigen Leibgarde losgeht." entgegnete Taran.
   
-„Es war wie Musik.“ sprudelte es weiter aus Yann heraus, der offensichtlich etwas anderes in der Antwort seines Freundes gehört als dieser gesagt hatte.
+„Es war wie Musik." sprudelte es weiter aus Yann heraus, der offensichtlich etwas anderes in der Antwort seines Freundes gehört als dieser gesagt hatte.
   
-„Wir üben das nun so lange und nun ist der Knoten geplatzt. Zugegeben es war nur kurz, aber es war eindeutig. Sie sind nicht an mich herangekommen. Auch zu zweit nicht!“ Er wandte sich um:
+„Wir üben das nun so lange und nun ist der Knoten geplatzt. Zugegeben es war nur kurz, aber es war eindeutig. Sie sind nicht an mich herangekommen. Auch zu zweit nicht!" Er wandte sich um:
   
-„Ihr seid nicht an mich herangekommen, obwohl ihr es ernsthaft versucht habt, richtig?“ Der Jüngere schüttelte den Kopf. Der Ältere – Inien – sagte nach einer kurzen Pause: „Nunja, also letztlich…“
+„Ihr seid nicht an mich herangekommen, obwohl ihr es ernsthaft versucht habt, richtig?" Der Jüngere schüttelte den Kopf. Der Ältere – Inien – sagte nach einer kurzen Pause: „Nunja, also letztlich…"
   
 Zu diesem Zeitpunkt hatte sich Yann aber schon wieder Taran zugewandt.
   
-„Ich weiß, das mit den Waffen war nicht besonders umsichtig, aber es musste einmal sein. Wir haben es jetzt die ganze Zeit mit Turnierschwertern geübt. Aber das ist letztlich nicht dasselbe. Es musste einmal wie im Ernstfall geprobt werden. Und außerdem: Die Nummer mit Frinkor haben wir schon vor über einem Jahre einstudiert. Auch das muss im Ernstfall klappen. Und es hat ja auch alles funktioniert. Es war einfach … ja wie Musik eben. Bis zu dieser elenden Wurzel.“
+„Ich weiß, das mit den Waffen war nicht besonders umsichtig, aber es musste einmal sein. Wir haben es jetzt die ganze Zeit mit Turnierschwertern geübt. Aber das ist letztlich nicht dasselbe. Es musste einmal wie im Ernstfall geprobt werden. Und außerdem: Die Nummer mit Frinkor haben wir schon vor über einem Jahre einstudiert. Auch das muss im Ernstfall klappen. Und es hat ja auch alles funktioniert. Es war einfach … ja wie Musik eben. Bis zu dieser elenden Wurzel."
   
-„Das war jedenfalls das erste und einzige Mal, dass ich mich dafür hergegeben habe, euch bei sowas gegebenenfalls zusammenzuflicken.“ sagte Taran.
+„Das war jedenfalls das erste und einzige Mal, dass ich mich dafür hergegeben habe, euch bei sowas gegebenenfalls zusammenzuflicken." sagte Taran.
   
-„Und das wird es in dieser Form auch bleiben.“ beruhigte ihn sein Freund. „Ehrlich.“
+„Und das wird es in dieser Form auch bleiben." beruhigte ihn sein Freund. „Ehrlich."
   
-„Das aus Deinem Munde; bedeutet echt was.“
+„Das aus Deinem Munde; bedeutet echt was."
   
-„Das kann ich jetzt aber zurückgeben.“
+„Das kann ich jetzt aber zurückgeben."
   
 Ehrlich. Echt.
   
 Die beiden sahen sich an. Und mussten lachen.
   
-„Sammel Deinen Krempel zusammen.“ sagte der Tulamide und machte sich davon. „Frinkor steht zehn Schritt von hier im Unterholz“ sagte er im Weggehen, „frag dich mal, was der davon hält, dass du einfach von ihm runterspringst und dann nur noch Waffengeklirr zu hören ist.“
+„Sammel Deinen Krempel zusammen." sagte der Tulamide und machte sich davon. „Frinkor steht zehn Schritt von hier im Unterholz" sagte er im Weggehen, „frag dich mal, was der davon hält, dass du einfach von ihm runterspringst und dann nur noch Waffengeklirr zu hören ist."
   
-„Der findets spitze.“ brummelte Yann. „Is nämlich n Spitzenpferd, der Frinkor.“
+„Der findets spitze." brummelte Yann. „Is nämlich n Spitzenpferd, der Frinkor."

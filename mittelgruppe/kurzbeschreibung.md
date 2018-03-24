@@ -64,17 +64,17 @@ Die Einsicht in das Mögliche und Unmögliche ist es, die den Helden vom Abenteu
 
 Zitate:
 
-“Wir sind da sehr liberal in der grauen Gilde.”
+"Wir sind da sehr liberal in der grauen Gilde.”
   
-“Bringt mir heisses Wasser und saubere Tücher. Und entzündet drei Kerzen. Eine in schwarz, eine in grün und eine in rot, wenn ihr habt.”
+"Bringt mir heisses Wasser und saubere Tücher. Und entzündet drei Kerzen. Eine in schwarz, eine in grün und eine in rot, wenn ihr habt.”
   
-“Wie lange trägst Du das schon mit Dir herum? Warst Du bereits bei einem Heiler und wenn ja bei wem? Dachte ich es mir doch. Nimm das nächste Mal gleich etwas Geld in die Hand und komm damit an die Akademie. Oder geh zu den Therbuniten.”
+"Wie lange trägst Du das schon mit Dir herum? Warst Du bereits bei einem Heiler und wenn ja bei wem? Dachte ich es mir doch. Nimm das nächste Mal gleich etwas Geld in die Hand und komm damit an die Akademie. Oder geh zu den Therbuniten.”
   
-“Ich denke nicht, dass ich mit Euch über dieses Thema sprechen werde. Zu oft wird das Wort Heretiker fallen und Tatsachen wie Wahrheiten bleiben dabei stets auf der Strecke.”
+"Ich denke nicht, dass ich mit Euch über dieses Thema sprechen werde. Zu oft wird das Wort Heretiker fallen und Tatsachen wie Wahrheiten bleiben dabei stets auf der Strecke.”
   
-“Drei Götter des Meeres, kämpften dereinst um die Vorherrschaft über das von allen gleichermaßen beanspruchte ‚Element’: Einer hatte gesiegt. Einer war unterlegen. Einer wurde vergessen.”
+"Drei Götter des Meeres, kämpften dereinst um die Vorherrschaft über das von allen gleichermaßen beanspruchte ‚Element’: Einer hatte gesiegt. Einer war unterlegen. Einer wurde vergessen.”
   
-“Wenn Du jemals die Gelegenheit haben solltest, mit Waldron Zenkauskas zu segeln, dann nimm sie wahr, gleich was es für Dein sonstiges Leben bedeutet. Mehr Reichtum wirst Du nicht erringen können als das, was Du auf einer Fahrt mit ihm für Dich gewinnen kannst.”
+"Wenn Du jemals die Gelegenheit haben solltest, mit Waldron Zenkauskas zu segeln, dann nimm sie wahr, gleich was es für Dein sonstiges Leben bedeutet. Mehr Reichtum wirst Du nicht erringen können als das, was Du auf einer Fahrt mit ihm für Dich gewinnen kannst.”
   
 "Viel bla bla, wenig platsch platsch"
 

@@ -52,10 +52,10 @@ Die Stimme des andern Leibgardisten verkündete:
   
 Dies ist das Urteil, welches seine Erhabenheit über den Fremden unter Abwägung seiner Taten und Verfehlungen gesprochen hat.
   
-Und nun, zerstreut euch!“
+Und nun, zerstreut euch!"
 
 Nichts geschah.
 
 Der Gardist trat einen schnellen Schritt nach vorn, wobei seine Glöckchen die Bewegung seltsam fröhlich ankündigten:
   
-„Zerstreut euch!“ rief er mit lauter, befehlsgewohnter Stimme, die durch die Schockstarre einiger weniger hindurch drang, die sich auch sofort in Bewegung setzten. Dies rüttelte auch die Übrigen wach und die Menge tat wie ihr geheißen, verstreute sich über die Straßen und Plätz der Stadt; und verbreitete schneller als der Wüstenwind die Geschichte über den Ungläubigen und das Geschenk des Kalifen.
+„Zerstreut euch!" rief er mit lauter, befehlsgewohnter Stimme, die durch die Schockstarre einiger weniger hindurch drang, die sich auch sofort in Bewegung setzten. Dies rüttelte auch die Übrigen wach und die Menge tat wie ihr geheißen, verstreute sich über die Straßen und Plätz der Stadt; und verbreitete schneller als der Wüstenwind die Geschichte über den Ungläubigen und das Geschenk des Kalifen.

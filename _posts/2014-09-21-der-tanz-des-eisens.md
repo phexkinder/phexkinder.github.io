@@ -15,7 +15,7 @@ Wolfhart hat mich überrascht. Hatte er mich doch nach dem Tanz der Mada gefragt
 
 
   
-Kurz darauf, es begab sich nach dem Vorfall auf Keshal Tharek, drückte er mir ein Pergament in die Hand und bat mich es zu lesen. Vermutend dass es sich um ein Schriftstück aus dem Reich handele las ich die ersten Zeilen und wunderte mich über den „Madakrieger“.
+Kurz darauf, es begab sich nach dem Vorfall auf Keshal Tharek, drückte er mir ein Pergament in die Hand und bat mich es zu lesen. Vermutend dass es sich um ein Schriftstück aus dem Reich handele las ich die ersten Zeilen und wunderte mich über den „Madakrieger".
   
 Mir war nicht bewusst das Wolfhart überhaupt des Lesens, geschweige denn des Schreibens mächtig war, lies er doch immer mich oder Yann Schriftstücke verfassen. Man merkt ihm auch hier den Soldaten, Krieger und Nordmann an. Seine Handschrift ist kühl, klar und von Struktur. Schnörkel und Schönheit, nur um der Schönheit willen sind hier fremd.
   

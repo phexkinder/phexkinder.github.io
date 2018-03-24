@@ -30,7 +30,7 @@ Yann hat in Havena, ausser den Leuten, die er aus seiner Kindheit noch kannte, e
   
 Yann verliess Havena sofort, nachdem er zum Ehrenbürger ernannt worden war. Er liess sie in dem Glauben, dass er ein hochrangiger und geheimer Agent in den Diensten des Fürsten sei und nun nach der Erledigung seines Auftrags nach Gareth entsandt worden war.
 
-In Gareth kennt Yann den Phex-Geweihten des dortigen Tempels: Jeremias Torfstecher. Er erhielt einen Zinnschlüssel für den „Tempel in den Schatten“ und durchlief einen Lehrgang bei der Garether Diebesgilde.
+In Gareth kennt Yann den Phex-Geweihten des dortigen Tempels: Jeremias Torfstecher. Er erhielt einen Zinnschlüssel für den „Tempel in den Schatten" und durchlief einen Lehrgang bei der Garether Diebesgilde.
 
 Er hat eine Lebensschuld bei dem grossen Wagenbauer Winsberg gut, den er (und seine Kameraden) vor der sicheren Exekution bewahrten. (Ferrara-Abenteuer). Ausserdem hat Yann auch einen Stein bei Hauptmann Brunbar im Brett, der jetzt garantiert um mindestens zwei Grade befördert wurde, da Yann ihm den wahren Mörder am alten Ferrara auslieferte (die junge Ferrara) und Brunbar ihn dem Richter übergeben konnte.
 
@@ -52,7 +52,7 @@ Yann, Wesdragon und Wahnfried landeten durch Glück auf einem Schiff, auf dem du
   
 Auf einer langen und gefährlichen Reise voller Intrigen kamen schliesslich nur wenige Überlebende von der gefahrvollen Reise zurück. Diese dafür aber reich.
   
-Von daher kennt Yann noch Kiltweg, den Steuermann der „Stern von Riva“.
+Von daher kennt Yann noch Kiltweg, den Steuermann der „Stern von Riva".
   
 Yann und seine Freunde wurden gebührend empfangen und als Helden gefeiert. Er lernte dort wichtige Leute kennen, wie Hetmann Raskir Norhillson von Ada, Hetmann der Sturmsegler und König von Enqui, oder auch Turbold Schlangenstecher den Hetmann von Prem. Und auch bedeutende lokale Persönlichkeiten, wie z. B. Isidia Elenreich in Riva, oder Daishin, den Blasrohrexperten.
 
@@ -66,7 +66,7 @@ Es begann damit, dass ein Wolfskind aus dem Rudel Lakas (Kiriyoku, oder so) uns 
   
 Er brachte uns zum grössten Schamanen der Nivesen, Kailäkkinen. Es wurde beschlossen, dass wir im Auftrag der Himmelswölfe die Nivesen auf ihrer Reise nach Norden mit ihren Karenen begleiten sollten.
   
-Nach einiger Zeit stiessen wir auf eine sich endlos nach Norden erstreckende Formation von Blutharsch, „Schwarzes Eis“, dass der erzdämonischen Wesenheit des Eises und Gegenaffinität zu Firun, Nagrach zugeordnet ist.  Hier begann der Alptraum, der im Endeffekt grösstenteils die Illusion eines Nagrach hörigen niederen Dämons war (Morcan), der allerdings seinen lästigen Beschwörer loswerden wollte: Den Schwarzmagier und Dämonologen Jarmin Feuermal (Thargunitoth-Paktierer). Diesen Auftrag erfüllten wir und waren dann mehr oder weniger frei. Auf der Rückreise gab es eine gigantische Schlacht zwischen unserem Rudel und der Irrhalken Garde, die uns aufgrund von Chessus\` Verrat noch rechtzeitig stellen konnte. Es hatte zuvor in dem eisigen und pervertierten Land, dass der siebten Sphäre näher war als der dritten viele Tote gegeben und die Nivesen waren schon stark dezimiert, die Schlacht überleben konnten aber nur noch ihr Häuptling Ninayuk, die Schamanin Nikalya und Yann mit seinen Gefährten mit Ausnahme Wesdragons, der in der Schlacht viel.
+Nach einiger Zeit stiessen wir auf eine sich endlos nach Norden erstreckende Formation von Blutharsch, „Schwarzes Eis", dass der erzdämonischen Wesenheit des Eises und Gegenaffinität zu Firun, Nagrach zugeordnet ist.  Hier begann der Alptraum, der im Endeffekt grösstenteils die Illusion eines Nagrach hörigen niederen Dämons war (Morcan), der allerdings seinen lästigen Beschwörer loswerden wollte: Den Schwarzmagier und Dämonologen Jarmin Feuermal (Thargunitoth-Paktierer). Diesen Auftrag erfüllten wir und waren dann mehr oder weniger frei. Auf der Rückreise gab es eine gigantische Schlacht zwischen unserem Rudel und der Irrhalken Garde, die uns aufgrund von Chessus\` Verrat noch rechtzeitig stellen konnte. Es hatte zuvor in dem eisigen und pervertierten Land, dass der siebten Sphäre näher war als der dritten viele Tote gegeben und die Nivesen waren schon stark dezimiert, die Schlacht überleben konnten aber nur noch ihr Häuptling Ninayuk, die Schamanin Nikalya und Yann mit seinen Gefährten mit Ausnahme Wesdragons, der in der Schlacht viel.
   
 Die Gruppe trennte sich hier. Zurberan und Ragna verliessen den Rest und zogen gen Süden.
   
@@ -92,27 +92,27 @@ Yann und die anderen beseitigten mit Hilfe der Festumer Goblins, allen voran der
   
 Daher kennt Yann auch noch den Vorsteher des Festumer Rondratempels, Aldaron Löwenpranke.
 
-Danach wurden sie vom Kaiserlichen Botschafter Festums Landhauptmann Ilsurni allesamt in den Dienst des KGIA gestellt und auf eine kriegsbeeinflussende Operation geschickt: Mission Adlerflug. Diese sollte eine wichtige Botschaft über die Absichten der Broniaren und der Kriegsgeschehnisse im Norden über Valusa ins Kaiserreich bringen. Valusa hingegen verhielt sich bei Ankunft der Gruppe „neutral“ und verweigerte den Eintritt. Von dort an begann ein langer, zermürbender und äusserst gefährlicher Weg entlang der Kriegslinie durch Feindesland ins Mittelreich, was auch nur mit letzter Kraft erreicht wurde (Hilfe von Oberst Ortweg, 2. Tobrier Garderegiment).
+Danach wurden sie vom Kaiserlichen Botschafter Festums Landhauptmann Ilsurni allesamt in den Dienst des KGIA gestellt und auf eine kriegsbeeinflussende Operation geschickt: Mission Adlerflug. Diese sollte eine wichtige Botschaft über die Absichten der Broniaren und der Kriegsgeschehnisse im Norden über Valusa ins Kaiserreich bringen. Valusa hingegen verhielt sich bei Ankunft der Gruppe „neutral" und verweigerte den Eintritt. Von dort an begann ein langer, zermürbender und äusserst gefährlicher Weg entlang der Kriegslinie durch Feindesland ins Mittelreich, was auch nur mit letzter Kraft erreicht wurde (Hilfe von Oberst Ortweg, 2. Tobrier Garderegiment).
 
 Erst einmal im Kaiserreich angekommen, wurde sogleich eine Priorität A Befehlskette errichtet, die Yann und seine Begleiter innerhalb einer Woche von Gebirgspassgrenze Tobrien bis nach Weiden durchleitete. Dort mussten sie, vorbei an über 2000 salutierende Soldaten direkt in das Generalstabszelt marschieren und vor über 100 wichtigen Persönlichkeiten dem Hauptfeldmarschall der dort versammelten Löwenlegion (5000 Mann + Tross) Alrik von Blautann Meldung über die Geschehnisse im Norden, sowie den militärischen Stand in Tobrien machen.
   
-Im Weiteren wurde die Gruppe mittels lockererer Befehlskette nach Burg Sylls (südlich von Gareth) befördert, um im KGIA Hauptquartier bei Reichshochgeheimrat Dexter Nemrod persönlich Meldung zu machen (Wolfharts „Vergnügen“).
+Im Weiteren wurde die Gruppe mittels lockererer Befehlskette nach Burg Sylls (südlich von Gareth) befördert, um im KGIA Hauptquartier bei Reichshochgeheimrat Dexter Nemrod persönlich Meldung zu machen (Wolfharts „Vergnügen").
 
 Danach wurden sie vom Hochkönig der Zwerge persönlich, Albrax von Waldstein, um ein Himmelfahrtskommando gebeten, nämlich dem Volk der Brillantzwerge die Letzte Hoffnung zu bringen: Xenos von den Flammen, höchster Geode des Zwergenvolkes (ca. 900 Jahre alt), da diese vom tot geglaubten schwarzen Zwergenvolk, Brogars Blut und deren König Buntul belagert waren und kurz vor der Ausrottung standen.
   
-Sie begaben sich in „hochoffiziellen“ KGIA-Dienst und zogen mit gefälschten Feindpapieren als Geheimgruppe „Irrlicht“ in die schwarzen Lande und zwar unterirdisch, durch das verlassene Zwergenkönigreich Haradolosch. Neben der Stammgruppe waren der Geode Belwar, ein Freund der „Sieben Gezeichneten“, sowie der südländische Magier Talaar und ein mehr als fähiger Exekutiv-Magier des ersten Dämonen-Abwehr-Korbs, sowie Xenos (als Gefangener) an  der Operation beteiligt.
+Sie begaben sich in „hochoffiziellen" KGIA-Dienst und zogen mit gefälschten Feindpapieren als Geheimgruppe „Irrlicht" in die schwarzen Lande und zwar unterirdisch, durch das verlassene Zwergenkönigreich Haradolosch. Neben der Stammgruppe waren der Geode Belwar, ein Freund der „Sieben Gezeichneten", sowie der südländische Magier Talaar und ein mehr als fähiger Exekutiv-Magier des ersten Dämonen-Abwehr-Korbs, sowie Xenos (als Gefangener) an  der Operation beteiligt.
   
-In Haradolosch fanden wir neben den unbezahlbaren Haradolosch-Kristallen auch noch die Axt Xiandru („Die Schwinge mit dem Geisterblatt“, mächtig gegen Untote und schlafraubend); sie wird nun von Durin Geführt (oder umgekehrt !?!).
+In Haradolosch fanden wir neben den unbezahlbaren Haradolosch-Kristallen auch noch die Axt Xiandru („Die Schwinge mit dem Geisterblatt", mächtig gegen Untote und schlafraubend); sie wird nun von Durin Geführt (oder umgekehrt !?!).
   
 Des weiteren gab es einen Kampf gegen einen Xado Rogolosch, einen Zwergenvampir, der der eigentliche Grund für das Verlassen des Königreiches war und nicht der angebliche Streit mit den Trollen.
   
-Wir zogen durch die Schwarzen Lande und erreichten schliesslich unser Ziel, das Bergkönigreich Lorgolosch. Wir halfen dem dortigen Zwergenvolk, indem wir König Buntul, selbst mächtiger Paktierer, erschlugen und somit sein „Konstrukt“, ein durch einen vielfach gehörnten Dämon beseelter Eisenwurm unschädlich machten, was es wiederum Xenos ermöglichte den Herrn des Feuers anzurufen und die Gruppe mitsamt  der übrigen  Zwerge in Sicherheit zu bringen.
+Wir zogen durch die Schwarzen Lande und erreichten schliesslich unser Ziel, das Bergkönigreich Lorgolosch. Wir halfen dem dortigen Zwergenvolk, indem wir König Buntul, selbst mächtiger Paktierer, erschlugen und somit sein „Konstrukt", ein durch einen vielfach gehörnten Dämon beseelter Eisenwurm unschädlich machten, was es wiederum Xenos ermöglichte den Herrn des Feuers anzurufen und die Gruppe mitsamt  der übrigen  Zwerge in Sicherheit zu bringen.
   
 Erwähnen sollte man die herausragenden Fähigkeiten des Exekutivmagiers Jandar Gerano, der mehreren von uns (und Durin ca. 20 mal) das Leben rettete und Durins Abhängigkeit von Xiandro, welche wenn es ihr beliebt die Kontrolle über den Zwerg übernehmen kann.
   
 Schliesslich wurden Yann und seine Freunde zurück auf Burg Sylls mit dem Greifenstern in Gold ausgezeichnet und offiziell aus dem KGIA-Dienst entlassen.
 
-Zurück in Gareth hatte Yann eines seiner spirituell gewichtigsten Erlebnisse. In einem harten, aber fairen Handel, in dem er einen seiner Haradolosch-Kristalle hergeben musste, durfte er in den Katakomben des Garether „Tempel in den Schatten“ das höchste Artefakt des Phex nicht nur sehen, sondern sogar berühren: Phexens Schattenraum.
+Zurück in Gareth hatte Yann eines seiner spirituell gewichtigsten Erlebnisse. In einem harten, aber fairen Handel, in dem er einen seiner Haradolosch-Kristalle hergeben musste, durfte er in den Katakomben des Garether „Tempel in den Schatten" das höchste Artefakt des Phex nicht nur sehen, sondern sogar berühren: Phexens Schattenraum.
 
 Yann und seine Freunde zogen dann weiter in das Ambossgebirge, wo ihnen der König der Zwerge, Arombolosch einen Wunsch gewährte. Durin wünschte sich Xiandru (und bekam sie auch noch&#8230;), Taran erhielt eine S2; Wahnfried bekam einiges an Rüstzeug, darunter ein gefährlich aussehendes Schwert und ein Spiegelpanzer; Lariel erhielt ein Angrosch-geweihtes Barbarenschwert (?!?) und Wolfharts Bastardsschwert, welches bereits geweiht war, wurde neu geschmiedet und ist jetzt die tödlichste Klinge, die Yann je gesehen hat. Dieser für seinen Teil zog (wie nicht anders zu erwarten) alle Register und liess sich einen Degen anfertigen, der sowohl in Kaltem Feuer geschmiedet, als auch noch Angroschgeweiht ist.
   
@@ -140,11 +140,11 @@ Wolfhart erschlug in unnachahmlicher Art Dom Frenos und wir brachten das Siegel 
   
 Von dort aus ging es weiter nach Norden.
   
-Weitere Bekannte wären Yanns „Kontaktfrau“ auf Baliri, Aliandra, sowie der Wirt der Yaquir-Oase in Punin \___\____ und Yanns Verbindung zur Omerta, Karim Ben Karef.
+Weitere Bekannte wären Yanns „Kontaktfrau" auf Baliri, Aliandra, sowie der Wirt der Yaquir-Oase in Punin \___\____ und Yanns Verbindung zur Omerta, Karim Ben Karef.
 
-Erwähnenswert noch ist die endgültige Bekehrung Tarans zum Phexglauben (Punkt für Yann!!) gefestigt mittels Initiation durch Jeremias Torfstecher. Ausserdem hat irgendein Typ mit dem einfallsreichen Nachnamen „Torben Totschläger“ grossen Einfluss in „Untergareth“ erhalten.
+Erwähnenswert noch ist die endgültige Bekehrung Tarans zum Phexglauben (Punkt für Yann!!) gefestigt mittels Initiation durch Jeremias Torfstecher. Ausserdem hat irgendein Typ mit dem einfallsreichen Nachnamen „Torben Totschläger" grossen Einfluss in „Untergareth" erhalten.
 
-Nächstes erwähnenswertes Ereignis ist wohl die Zerschlagung eines dämonischen Geschützes in der Schwarzen Sichel, welches die Stadt Baliho unter Beschuss genommen hatte. Im Auftrag des KGIA vernichteten Yann und die anderen streng nach dem Motto „schlag schnell – triff hart“ das Geschütz (samt Mannschaft ), was durch Hyleier Feuer geschah, welches in der Geschützsenke gelagert wurde. Taran entzündete dieses mittels eines Calto Frigo Zauberspruches, der in einem Pfeil (mittels Aplicatus) gespeichert wurde und von Wolfhart abgefeuert wurde.
+Nächstes erwähnenswertes Ereignis ist wohl die Zerschlagung eines dämonischen Geschützes in der Schwarzen Sichel, welches die Stadt Baliho unter Beschuss genommen hatte. Im Auftrag des KGIA vernichteten Yann und die anderen streng nach dem Motto „schlag schnell – triff hart" das Geschütz (samt Mannschaft ), was durch Hyleier Feuer geschah, welches in der Geschützsenke gelagert wurde. Taran entzündete dieses mittels eines Calto Frigo Zauberspruches, der in einem Pfeil (mittels Aplicatus) gespeichert wurde und von Wolfhart abgefeuert wurde.
   
 Zurück in Baliho erhielten die Gefährten den Kaiser Raul Orden in Bronze.
   
@@ -378,7 +378,7 @@ So trafen Yann und die anderen als zweite nach einem herrlichen Ritt durch Weide
   
 Zu erwähnen wären hierbei die Einführung des ‚Tag des Eises’ und die genialen Diebeszüge von sowohl Yann und Taran, als auch Emmeran, Stovers Sohn, zu nennen.
   
-Der bereits in den Verdacht des Betruges geratene Gatte von Stovers ältester Tochter Paranka, Kalmann, wurde am Ende dann des Verrats und des Aufbaus der Tobrier unter Ifirnia von Munterbach überführt. Mit dieser handelte Yann dann noch einen Waffenstillstands- und Gebietsvertrag aus, sodass der Konflikt mit der ‚Alten Gilde’ ohne Blutzoll beigelegt werden konnte. Erwähnenswert ist auch deren Rechte Hand, ein gewisser „Zwei -- Messer -- Alrech“, welcher im Zuge der Geschehnisse einmal heftigst mit Wolfhart aneinandergerauscht war; allerdings ist er des beidhändigen Kampfes mächtig, was ihn per se besonders (&) gefährlich macht.
+Der bereits in den Verdacht des Betruges geratene Gatte von Stovers ältester Tochter Paranka, Kalmann, wurde am Ende dann des Verrats und des Aufbaus der Tobrier unter Ifirnia von Munterbach überführt. Mit dieser handelte Yann dann noch einen Waffenstillstands- und Gebietsvertrag aus, sodass der Konflikt mit der ‚Alten Gilde’ ohne Blutzoll beigelegt werden konnte. Erwähnenswert ist auch deren Rechte Hand, ein gewisser „Zwei -- Messer -- Alrech", welcher im Zuge der Geschehnisse einmal heftigst mit Wolfhart aneinandergerauscht war; allerdings ist er des beidhändigen Kampfes mächtig, was ihn per se besonders (&) gefährlich macht.
   
 Emmeran wurde wie schon von vornherein klar war, Stovers Erbe.
 
@@ -534,9 +534,9 @@ Bevor Yann und die anderen die Stadt verliessen stand für jenen nocheinmal ein 
   
 So machten wir unseren Weg mitsamt einigen Söldnern vom Bunde unserem lang ersehenen Bestimmungsort entgegen. Zu Yanns Missfallen waren sämtliche Geldmittel aufgebraucht, sodass Thommek Atherion die Expedition finanzierte.
   
-Auf dem Weg wurden noch eine zum Heiligtum ausgeschickte Sklavenkarawane hochgenommen und zwei Rahja – Geweihte vor Unheil bewahrt (Ferkinas). Ferner reisten Yann und die anderen, „getragen“ durch Zyanthai unter einem bewaldeten Tal hinweg, direkt durch den erzenen Leib Sumus, um so Schwärmen von Nachtwinden aus dem Weg zu gehen.
+Auf dem Weg wurden noch eine zum Heiligtum ausgeschickte Sklavenkarawane hochgenommen und zwei Rahja – Geweihte vor Unheil bewahrt (Ferkinas). Ferner reisten Yann und die anderen, „getragen" durch Zyanthai unter einem bewaldeten Tal hinweg, direkt durch den erzenen Leib Sumus, um so Schwärmen von Nachtwinden aus dem Weg zu gehen.
   
-Durch den Zugang zum Djer Angrawasch -- einen ehemaligen Angroschtempel -- ward der Weg in die tieferen Höhlen schnell gefunden. Dort trafen Yann und die anderen sehr schnell auf ihnen aufs äusserste feindlich gesonnene, seltsame Elfen. Diese waren sehr flink und in dem Dunkel der Kavernen schwierig zu bekämpfen. Schaffte man es dann doch einmal, einen der ihren zur Strecke zu bringen, so zersplitterten sie keramikgleich in tausende von Splittern und zerfielen sogleich zu Staub. Was übrig blieb, war einzig ein kleiner, funkelnder Stein oder Kristall an der Stelle, wo ihr Kopf sich befunden hatte. Daher gaben Yann und die anderen ihnen die Bezeichnung „Karfunkelelfen“.
+Durch den Zugang zum Djer Angrawasch -- einen ehemaligen Angroschtempel -- ward der Weg in die tieferen Höhlen schnell gefunden. Dort trafen Yann und die anderen sehr schnell auf ihnen aufs äusserste feindlich gesonnene, seltsame Elfen. Diese waren sehr flink und in dem Dunkel der Kavernen schwierig zu bekämpfen. Schaffte man es dann doch einmal, einen der ihren zur Strecke zu bringen, so zersplitterten sie keramikgleich in tausende von Splittern und zerfielen sogleich zu Staub. Was übrig blieb, war einzig ein kleiner, funkelnder Stein oder Kristall an der Stelle, wo ihr Kopf sich befunden hatte. Daher gaben Yann und die anderen ihnen die Bezeichnung „Karfunkelelfen".
   
 Als schliesslich nach einigen Konfrontationen mit den Elfen und (wohl beherrschten) menschlichen Gegnern endlich die Festung als das vermeintliche Heiligtums erreicht war stürzten Yann und die anderen kurz vor ihrem Ziel auf der schmalen Brücke, die zu der Stätte führte ins scheinbar unendliche Nichts.
   
@@ -550,7 +550,7 @@ Dabei erfuhren wir auch, dass das Wesen, dass sich Xiandru nennt der eigentliche
   
 Mit der Hilfe der Asuanti, die von einigen von uns (Corran, Wolfhart, Durin) Besitz ergreifen und uns so stärken sollten, war es unsere Aufgabe, Nimrods Treiben ein Ende zu setzen.
   
-So zogen wir wieder hinauf in die Festung, überwältigten die Elfen und stellten Nimrod, der ein Luftheiligtum in einem fliegenden Drachenschädel dort errichtet hatte, welches von einem wirbelndem Mahlstrom an Luft umgeben war, der jeden sofort in sich einsog, der ihm zu nahe kam und über den man allerdings auch in den Schädel selbst gelangen konnte, wenn man genug Geschick bewies. Leider hatte Yann davon etwas zu vie. Nach erbitterten Kämpfen mit einem Golem am Boden des riesigen Saals, in dem sich der Schädel befand, standen schliesslich nur noch Yann und Wolfhart in der „Schaltzentrale“ Nimrods Konstrukts und dem Dunkelelf persönlich gegenüber. Dieser war leider nicht nur in der Lage heftigste Feuerlanzen durch den Drachenschädel nach aussen zu schicken, sondern auch selbst befähigt, gigantische Eis-Explosionen mit sich als Zentrum in dem Schädel zu erzeugen, was allerdings für Wolfhart geradeso wegzustecken war, da er den Schutz des Asuanti um sich hatte. Und so erschlug er Nimrod letztendlich (mal wieder) im Zweikampf.
+So zogen wir wieder hinauf in die Festung, überwältigten die Elfen und stellten Nimrod, der ein Luftheiligtum in einem fliegenden Drachenschädel dort errichtet hatte, welches von einem wirbelndem Mahlstrom an Luft umgeben war, der jeden sofort in sich einsog, der ihm zu nahe kam und über den man allerdings auch in den Schädel selbst gelangen konnte, wenn man genug Geschick bewies. Leider hatte Yann davon etwas zu vie. Nach erbitterten Kämpfen mit einem Golem am Boden des riesigen Saals, in dem sich der Schädel befand, standen schliesslich nur noch Yann und Wolfhart in der „Schaltzentrale" Nimrods Konstrukts und dem Dunkelelf persönlich gegenüber. Dieser war leider nicht nur in der Lage heftigste Feuerlanzen durch den Drachenschädel nach aussen zu schicken, sondern auch selbst befähigt, gigantische Eis-Explosionen mit sich als Zentrum in dem Schädel zu erzeugen, was allerdings für Wolfhart geradeso wegzustecken war, da er den Schutz des Asuanti um sich hatte. Und so erschlug er Nimrod letztendlich (mal wieder) im Zweikampf.
   
 Zu nennen wären in diesem Zusammenhang noch Rüstung und Schwert Nimrods, die augenscheinlich u.a. aus einer Enduriumlegierung bestanden, sowie Yanns Tod durch den Eissturm Nimrods.
   
@@ -600,11 +600,11 @@ Es kam letztlich zu einem Treffen mit dem Anführer der Füchse, einem abtrünni
   
 Im Grunde unverrichteter Dinge zogen Yann und die anderen etwas frustriert von dannen, um sich einmal mehr mit der Gräfin Rhianna Conchobair von Winhall zu beraten und diese anzuhalten, ihre Barone und Ritter zu mässigen.
 
-Als nächstes ist wohl die Jagd auf den „Ghul“ zu nennen, der mit seiner Bande den ebenfalls friedensstiftenden Efferdhochgeweihten Winhalls Perval Stevir attackiert hatte. Dessen Leibwächterin hatte einige Symbole an dem sehr grossen, sehr bleichen Mann gesehen, welche sie bereits in Tobrien während des Krieges gegen den endlosen Heerwurm erblickt zu haben glaubte. Nach langer Verfolgung quer durch Albernia, wobei auch zumindest ein Teil einer Bauernfamilie vor den Folgen des Treibens der Marodeure gerettet werden konnte, gelangten Yann und die anderen zu dem Junker von Glydwick, Jost Stepahan. Massgeblich hatten Yann und die anderen mit dessen Castellan Orelin Grabensen zu tun, da der Junker selbst sehr krank war. Ferner hatte er einen Nordmärker „Beschützer“, welcher wohl auch auf die Aussagen des Junkers achten sollte. Es gelang Yann und den anderen, vorrangig Lilu und Taran, den Junker zu kurieren, welcher an einer seltenen Vergiftung litt, die auch sein an sich berühmter Medicus Justinus von Bhelanka nicht zu diagnostizieren in der Lage war. Bei besserer Gesundheit erlaubte der Junker die Verfolgung der „Ghul“ -- Bande auf seinem Land und gab Yann und den anderen zwei verurteilte Wilderer als Führer an die Hand.
+Als nächstes ist wohl die Jagd auf den „Ghul" zu nennen, der mit seiner Bande den ebenfalls friedensstiftenden Efferdhochgeweihten Winhalls Perval Stevir attackiert hatte. Dessen Leibwächterin hatte einige Symbole an dem sehr grossen, sehr bleichen Mann gesehen, welche sie bereits in Tobrien während des Krieges gegen den endlosen Heerwurm erblickt zu haben glaubte. Nach langer Verfolgung quer durch Albernia, wobei auch zumindest ein Teil einer Bauernfamilie vor den Folgen des Treibens der Marodeure gerettet werden konnte, gelangten Yann und die anderen zu dem Junker von Glydwick, Jost Stepahan. Massgeblich hatten Yann und die anderen mit dessen Castellan Orelin Grabensen zu tun, da der Junker selbst sehr krank war. Ferner hatte er einen Nordmärker „Beschützer", welcher wohl auch auf die Aussagen des Junkers achten sollte. Es gelang Yann und den anderen, vorrangig Lilu und Taran, den Junker zu kurieren, welcher an einer seltenen Vergiftung litt, die auch sein an sich berühmter Medicus Justinus von Bhelanka nicht zu diagnostizieren in der Lage war. Bei besserer Gesundheit erlaubte der Junker die Verfolgung der „Ghul" -- Bande auf seinem Land und gab Yann und den anderen zwei verurteilte Wilderer als Führer an die Hand.
   
-Der „Ghul“, welcher sich letztlich als versierter Gjalskerländer Kämpfer und Pflanzenkundiger entpuppte und nicht wie lange geglaubt als Paktierer der Herrin der lebenden Leichen wurde ins Reich Borons verfrachtet.
+Der „Ghul", welcher sich letztlich als versierter Gjalskerländer Kämpfer und Pflanzenkundiger entpuppte und nicht wie lange geglaubt als Paktierer der Herrin der lebenden Leichen wurde ins Reich Borons verfrachtet.
   
-In dessen Gewalt befand sich überdies noch der Baron Gieselher Abalan von Niamor und Neuwallisburg, der Opfer einer Intrige seines Neffen Lomoch Aberlan von Niamor geworden war und auf dessen Geheiss der „Ghul“ den Baron festhielt.
+In dessen Gewalt befand sich überdies noch der Baron Gieselher Abalan von Niamor und Neuwallisburg, der Opfer einer Intrige seines Neffen Lomoch Aberlan von Niamor geworden war und auf dessen Geheiss der „Ghul" den Baron festhielt.
 
 Alsdann machten sich Yann und die anderen auf den Weg nach Honingen, wo nunmehr bald das Albernia Fest beginnen würde. Auf dem Weg unterstützten sie noch den Honinger Ritter Xandros vom Echsenmoos dabei, einen marodierenden Oger zur Strecke zu bringen.
 
@@ -614,7 +614,7 @@ Jedenfalls versuchte Frenja Yann durch die Geiselnahme zweier seiner Grauröcke 
   
 In einem finalen Kampf wurde Frenja und der mit ihm streitende Ivash, welchen Yann und Corran bereits auf der Fährte des Namenlosen in einem Alchemistenturm kennen gelernt hatten, besiegt und zurück ins Vergessen geschickt.
   
-Auf der politischen Ebene ist die Entführung Yanns durch Lucran von Idenburg und der Verrat der Tobrier zu erwähnen, welche ihre Anführerin Merte dann durch den ebenfalls in der Stadt anwesenden „Zwei Messer Alrech“, den Yann und die anderen seit den Ereignissen um Stover Störrebrandt in Gareth als rechte Hand Ifirnias von Munterbach kennen, ersetzten. Dieser unterstützte Yann und die anderen übrigens auch auf bei dem Hinterhalt den diese Frenja legten.
+Auf der politischen Ebene ist die Entführung Yanns durch Lucran von Idenburg und der Verrat der Tobrier zu erwähnen, welche ihre Anführerin Merte dann durch den ebenfalls in der Stadt anwesenden „Zwei Messer Alrech", den Yann und die anderen seit den Ereignissen um Stover Störrebrandt in Gareth als rechte Hand Ifirnias von Munterbach kennen, ersetzten. Dieser unterstützte Yann und die anderen übrigens auch auf bei dem Hinterhalt den diese Frenja legten.
   
 Bei eben jener Entführung errang Lucran die Münze, welche ihm Wolfhart in einem ausnahmsweise von der Gräfin Franka Salva Galahan erlaubten Duell wieder entriss.
   
@@ -632,7 +632,7 @@ Aus Sicht Yanns und auch der anderen war dies ein Erfolg; ebenso sah dies auch S
   
 Inwieweit sich Yann nun Jast Gorsam zum Feind gemacht hat oder aber in dessen Ansehen sehr hoch gestiegen ist, lässt sich für ihn nicht beurteilen. Jedenfalls ist das Verhältnis zum Reichshochgeheimrat nun ein von gegenseitigem Nutzen geprägtes; sollten sich Interessenskonflikte ergeben, so werden diese im Vorfeld angekündigt.
 
-Zu den vielen beteiligten Personen siehe das Kapitel „Albernischer Frühling -- Dramatis Personae“
+Zu den vielen beteiligten Personen siehe das Kapitel „Albernischer Frühling -- Dramatis Personae"
 
 Nun fordert allerdings der Reichsgrossgeheimrat zu einer Mission, die von kriegsentscheidender Bedeutung sein wird. Es gilt einen Überläufer aus Yol -- Ghurmak zu befreien; jemanden, der nach Aussagen Dexter Nemrods, den Kireg gegen die Schwarzen Lande zugunsten des Kaiserreiches entscheiden könne.
 
@@ -648,15 +648,15 @@ Man kam sodann überein, zusammen den Weg in die Schwarzen Lande anzutreten, wob
   
 Die Gaukler stellten sich als sehr marottenüberladen heraus stellten aber kaum Fragen und so passierte man ohne grosse Komplikationen die Reichsgrenze. Nach einigen Zwischenfällen mit rätselstellenden Harpyen, grün leuchtenden Skelettgeistern die durch Unheilige Gegenstände der Spielleute vertrieben wurden und Beobachtungen durch einige Gotongi erreichten Yann und die anderen das Grenz-Wirtshaus Ogerbau. Mittlerweile hatte man einen Blick in das verderbte Tobrien, das (mittlerweile) von schroffen Gesteinsformationen und seltsam verdrehten und willkürlichen Eisenmanifestationen geprägt war, was wohl auf die stark asfalothischen Einflüsse zurückzuführen ist.
   
-Man entschied sich, den Weg über ein altes Wehrgehöft nach Transysilien selbst anzutreten, da dort ein „blinder Fleck“ auf Seiten der ständigen Beobachter (d. Gotongi)´bestünde, was auf eine mächtige Präsenz aus der Thargunitoth -- Domäne zurückzuführen sei, welche dort seit Borbarads Eroberungskrieg verweilte.
+Man entschied sich, den Weg über ein altes Wehrgehöft nach Transysilien selbst anzutreten, da dort ein „blinder Fleck" auf Seiten der ständigen Beobachter (d. Gotongi)´bestünde, was auf eine mächtige Präsenz aus der Thargunitoth -- Domäne zurückzuführen sei, welche dort seit Borbarads Eroberungskrieg verweilte.
   
 So trennten sich Yann und die anderen schliesslich vorerst von ihren spielmännischen Mitreisenden und machten ihren Weg über einen alten Pfad (Knochenstieg) weiter in Richtung Yol-Ghurmak. Letztere brauchten diesen Weg nicht zu wählen, da der in Transysilien verbliebene Spielmann Dmonior (der Filigrane) irgendetwas mit den anderen gemacht hatte, was sie ungehindert das Gebiet passieren liess.
   
 Nachdem Yann und die anderen ein verlassenes Dorf passiert hatten und vor einer Art riesiger magischer Staubwolke im Keller einer alten Mühle Zuflucht gesucht hatten, gerieten sie in die Fänge eines sehr mächtigen Nachtalp, und mussten einige Tage im Leben der ehemaligen Dorfbewohner verbringen und das Geheimnis um den Alp, einen tairachanhängigen Baron lüften.
   
-Dieser beeinflusste die Gefährten, mitunter gespeist aus deren eigenen Ängsten und Erinnerungen auf „seiner Seite“, um letztlich aus ihrer Lebenskraft Macht zu gewinnen.
+Dieser beeinflusste die Gefährten, mitunter gespeist aus deren eigenen Ängsten und Erinnerungen auf „seiner Seite", um letztlich aus ihrer Lebenskraft Macht zu gewinnen.
   
-Das (kupferne) Herz des Barons (Ugdalf) war der Schlüssel zum Entkommen aus dessen „Globule“.
+Das (kupferne) Herz des Barons (Ugdalf) war der Schlüssel zum Entkommen aus dessen „Globule".
   
 Zu nennen sei hierbei der dort oder zwischen den Welten gebundene Erz(erz)dschinn, (und hierbei Tarans alttulamidischer Dschinnenlosungswortratekunst) und Lilu, welche unser Anker auf der unsrigen Seite war und die das Herz nach abgeschlossenem Handel dem Nachtalp vorenthielt (schändlich, aber so sind Hexen halt nunmal).
 
