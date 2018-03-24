@@ -23,6 +23,6 @@ Ich kann mich nur schon jetzt bei Euch bedanken, und Ihr wisst das mein Schwert 
 
 Rondra zum Gruße!
 
-&#8212; Wolfhart Angbarar zu Wetterfels aus Winhall, Reichsritter Albernias
+--- Wolfhart Angbarar zu Wetterfels aus Winhall, Reichsritter Albernias
 
 &nbsp;

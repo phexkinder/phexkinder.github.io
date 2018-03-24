@@ -29,4 +29,4 @@ So, genauer kann ich dir nix sagen und der Brief geht auf mich.
 
 Mit dir die Zwölfe mein Guter
 
-&#8212; Wolfhart Angbarar zu Wetterfels aus Winhall, albernischer Reichritter, Hauptmann und Rittmeister des Heeres der königlichen Flusskrone.
+--- Wolfhart Angbarar zu Wetterfels aus Winhall, albernischer Reichritter, Hauptmann und Rittmeister des Heeres der königlichen Flusskrone.

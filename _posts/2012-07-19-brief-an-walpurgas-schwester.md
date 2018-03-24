@@ -23,4 +23,4 @@ Es tut mir leid Euch eine üble Botschaft überbringen zu müssen, dennoch bitte
 
 Zum Wohle des Reiches
 
-&#8212; Wolfhart Angbarar Reichsritter zu Wetterfels aus Winhal, geschrieben  im Jahre 30 nach  Hal am  3. des Praios
+--- Wolfhart Angbarar Reichsritter zu Wetterfels aus Winhal, geschrieben  im Jahre 30 nach  Hal am  3. des Praios

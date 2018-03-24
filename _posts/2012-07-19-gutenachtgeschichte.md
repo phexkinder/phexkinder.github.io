@@ -29,7 +29,7 @@ So hat Irion den Grundstein für unser Geschlecht gelegt.
 
 Und wir halten fest an unserer Kriegertradition und Kaisertreue über alle Generationen hinweg . Conar und Ich haben und werden dafür sorgen, dass das so bleibt, so sehr sich unser Haus verzweigen mag. Nur so werden wir den uns angemessenen Platz im Reich bekommen und behalten.
 
-&#8212; Erzählt von Rodergon Angbarar auf Gut Wetterfels am Nachtbett von Wolfhart Agbarar seinem Sohn &#8212; 10 Hal
+--- Erzählt von Rodergon Angbarar auf Gut Wetterfels am Nachtbett von Wolfhart Agbarar seinem Sohn --- 10 Hal
 
 ## Anmerkungen
 

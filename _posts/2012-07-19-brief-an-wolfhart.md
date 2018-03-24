@@ -31,4 +31,4 @@ Meine ehernsten Grüsse entrichte auch unserem getreuen Corran, so er noch an De
 
 Die Gemeinschaft der Zwölfe mit Dir und Glück auf!
 
-&#8212; Yann Fuxfell von Havena, Bärengarde a.D.
+--- Yann Fuxfell von Havena, Bärengarde a.D.
