@@ -1,16 +1,15 @@
 ---
-
 title: Lilu
 date: 2012-06-03T21:28:10+00:00
 author: Lilu
-
-
+permalink: /mittelgruppe/lilu/
 ---
+
 ## Heike über Lilu
 
 Wem auch immer die phantasievolle Mär von der „kleinen, niedlichen Hexe“ zu verdanken ist, dem objektiven Betrachter dürfte Lilu mit über 1,80m eher groß und spätestens nach einer Demonstration ihres soliden von Mutti gelernten Handwerks nur noch begrenzt niedlich erscheinen. Auch die Schar der fleißigen Holzsammler hat sich mit der Zeit gelichtet, da einige satuarische Features eben auch das Leben von Hochglanz-Helden und zwölfgötter-fürchtigen Mittelreichern erleichtert. Außerdem (und das ist wohl die Begründung, die die ganze Bande* auch offiziell unterschreiben würde): sie schaut einfach gut aus.
 
-[<img class="alignnone  wp-image-995" src="http://www.phexkinder.de/wp-content/uploads/IMG-20121229-WA0000.jpg" alt="Lilu" width="254" height="229" />](http://www.phexkinder.de/wp-content/uploads/IMG-20121229-WA0000.jpg)©by Diana Rösch
+![Lilu]({{ "/assets/img/char-lilu.jpg" | absolute_url }})©by Diana Rösch
 
 * exklusive Zwärch („die hat ja gar keinen Bart, wo soll man sich da festhalten“), Taran (der wird zu dem Thema rot & sprachlos) und Coran (Lilus persönliche Meinung dazu läuft in etwa darauf hinaus, dass horasische Rondra-Geweihte Frauen nicht von Rasenmähern (was ob deren derischer Nichtexistens zwar kein Wunder ist, aber das Bild nur verdeutlicht) unterscheiden können)
 
