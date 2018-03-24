@@ -28,23 +28,23 @@ Neben den unzähligen wirklichen Heldentaten zusammen mit dem Rest der Bande fie
 
   * verhalf einem Troll wieder zu seiner ursprünglichen Bartfarbe (wobei Kobold-Pink auch nicht übel aussah&#8230;)
   * nahm an einer wirklich heißen Hexennacht teil
-  * entwendete das 'Levthansband&#8216; aus dem Tiefhusener Rahjatempel (an all dem waren nur die Umstände schuld&#8230;.)
+  * entwendete das 'Levthansband' aus dem Tiefhusener Rahjatempel (an all dem waren nur die Umstände schuld&#8230;.)
   * gewann das Herz der hübschesten Rahjageweihten Deres (Einwände wie&#8230; 'die sind meistens hübsch&#8217;&#8230;.oder&#8230;.&#8217;das machen andere auch&#8230;jeden Tag&#8217;&#8230;.. sind ungültig)
   * brachte eine wunderschöne Magierin auf den Scheiterhaufen (gut, hört sich wieder nicht unglaublich heldenhaft an, aber &#8230;&#8230; die Umstände&#8230;)
-  * brachte Thesia von Ilmenstein dazu, den Tisch zu spalten an dem er und die anderen saßen (etwas impulsiv die Frau, wenn man ihr den potentiellen Untergang ihres Bornlandes prognostiziert&#8230;.. naja.) ist seitdem aber einer der 'Experten aus dem Reich&#8216;.
+  * brachte Thesia von Ilmenstein dazu, den Tisch zu spalten an dem er und die anderen saßen (etwas impulsiv die Frau, wenn man ihr den potentiellen Untergang ihres Bornlandes prognostiziert&#8230;.. naja.) ist seitdem aber einer der 'Experten aus dem Reich'.
   * hielt eine Flammende Rede vor Bergkönig Arombolosch, die den Zwerg doch von der Uneigennützigkeit und den Vorteilen seines Wunsches an jenen überzeugen sollten&#8230;. (gut, hätte wahrscheinlich auch ohne funktioniert, aber was solls&#8230;.)
   * war schon immer gegen die Axt! (es sei denn, man braucht sie gerade unbedingt (liegt dann immer an dieses verflixten Umständen))
   * entwendete in grandiosem Zusammenspiel mit seinem kongenialen Partner Magus Taran ibn Muhammed ibn Ayabun ai Orkhiander das HORasische Kronsiegel unter der Augen des Comto Siegelbewahrers von Schloss Baliri und übergab es dem größten Reichsverräter des lieblichen Feldes seit Hela Horas. (das lag alles auch nur an den&#8230;. ach verflixt)
   * holte Taran ans Firmament des richtigen Glaubens
-  * bewies, dass auch Großlinge angroschgefällige Gesichtsfarben annehmen können, nachdem Durin ihn vor den versammelten Zwergen des Ambossgebirges als &#8217;netten Dieb&#8216; vorgestellt hatte.
-  * murrte in ständigem Misstrauen über alle Feenwesen in Anderswelt und schaffte es trotzdem, 'Hehlerware&#8216; am Biestingerzoll vorbei mit auf die andere Seite zu schmuggeln
+  * bewies, dass auch Großlinge angroschgefällige Gesichtsfarben annehmen können, nachdem Durin ihn vor den versammelten Zwergen des Ambossgebirges als &#8217;netten Dieb' vorgestellt hatte.
+  * murrte in ständigem Misstrauen über alle Feenwesen in Anderswelt und schaffte es trotzdem, 'Hehlerware' am Biestingerzoll vorbei mit auf die andere Seite zu schmuggeln
   * stellte Shafir blöde Fragen über Schildkröten (gut, ganz so blöd war die Frage auch nicht; hört sich nur hier so blöd an&#8230;)
-  * schaffte es &#8217;schon&#8216; nach zwei großen Sanduhren in Gegenwart Maskus Horegams ein Wort zu sagen
+  * schaffte es &#8217;schon' nach zwei großen Sanduhren in Gegenwart Maskus Horegams ein Wort zu sagen
   * ließ Kil-Korians (Nagrach-Paktierer) Arsch auf Grundeis gehen
   * ließ zu, dass Stover Stoerrebrandt ermordet wurde (okay, hört sich nicht so heldenhaft an, aber das war es&#8230;.ehrlich!
   * und wurde danach (fast) dessen Erbe. (ich gebe zu, jetzt hört es sich nicht viel heldenhafter an, aber es war so&#8230; wirklich!!)
-  * führte zusammen mit dem Rest des Rudels in Gareth den offiziellen 'Tag des Eises&#8216; an jedem 30. Efferd &#8230;..(den Taran in der Stadt ist&#8230;) ein
-  * entwendete mit seinem kongenialen Partner einen Seemond (und zwar den Rohal, einen der 5 großen) aus dem Garether Hesindetempel (vielleicht sollte ich damit aufhören, meine 'Heldentaten&#8216; Publik zu machen&#8230;&#8230;wenn auch hier wieder alles an den Umständen&#8230;, naja, ihr kennt das schon, nicht wahr?)
+  * führte zusammen mit dem Rest des Rudels in Gareth den offiziellen 'Tag des Eises' an jedem 30. Efferd &#8230;..(den Taran in der Stadt ist&#8230;) ein
+  * entwendete mit seinem kongenialen Partner einen Seemond (und zwar den Rohal, einen der 5 großen) aus dem Garether Hesindetempel (vielleicht sollte ich damit aufhören, meine 'Heldentaten' Publik zu machen&#8230;&#8230;wenn auch hier wieder alles an den Umständen&#8230;, naja, ihr kennt das schon, nicht wahr?)
 
 ## Zitate
 

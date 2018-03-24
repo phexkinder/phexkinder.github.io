@@ -21,7 +21,7 @@ der nicht dereinst damit begonnen,<!--more-->
   
 dass er, was And&#8217;re groß gemacht,
   
-in Lieb&#8216; und Ehrfurcht nachgedacht.
+in Lieb' und Ehrfurcht nachgedacht.
   
 \*greift nach Lederbündel\*
 
