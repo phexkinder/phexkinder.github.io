@@ -1,9 +1,7 @@
 ---
-
 title: Die Mittelgruppe
 date: 2012-06-03T16:54:34+00:00
 permalink: /mittelgruppe/
-
 ---
 
 Streiter für die alte Welt, die Zwölfe und das Kaiserreich. Und bei Gelegenheit auch für Hexen und Zwerge. Feinde allem Namenlosen und Heptsphärischen und Helden des neuen Zeitalters:
