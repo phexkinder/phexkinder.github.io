@@ -1,112 +1,31 @@
 ---
-
 title: Yann
 date: 2012-06-05T20:30:33+00:00
 author: Yann
-
-
+permalink: /mittelgruppe/yann/
 ---
-[<img class="size-medium wp-image-74  alignleft" title="Yann" src="http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625-213x300.jpg" alt="" width="213" height="300" srcset="http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625-213x300.jpg 213w, http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625.jpg 500w" sizes="(max-width: 213px) 100vw, 213px" />](http://www.phexkinder.de/wp-content/uploads/yann2-e1335599822625.jpg)
 
-<table>
-  <tr>
-    <td>
-      Name:
-    </td>
-    
-    <td>
-      Yann Fuxfell von Havena
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      geboren am:
-    </td>
-    
-    <td>
-      16 RAHja, 6 nach Hal
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      in:
-    </td>
-    
-    <td>
-      Havena
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Beruf(ung):
-    </td>
-    
-    <td>
-      Mondschatten in der Gemeinschaft der Sterne, Vorsteher des Havener Nebeltempels; Vogtvikar von Albernia
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Größe:
-    </td>
-    
-    <td>
-      etwa 170 HF
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Gewicht:
-    </td>
-    
-    <td>
-      etwa 70 Stein
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Haarfarbe:
-    </td>
-    
-    <td>
-      braun
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Augenfarbe:
-    </td>
-    
-    <td>
-      braun
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Geschwister:
-    </td>
-    
-    <td>
-      Drei Schwestern und einen Bruder; allesamt älter als Yann
-    </td>
-  </tr>
-</table>
+![Yann]({{ "/assets/img/char-yann.jpg" | absolute_url }})
+
+| Name:        | Yann Fuxfell von Havena                                                                                 |
+| -----------: | :------------------------------------------------------------------------------------------------------ |
+| geboren am:  | 16 RAHja, 6 nach Hal                                                                                    |
+| in:          | Havena                                                                                                  |
+| Beruf(ung):  | Mondschatten in der Gemeinschaft der Sterne, Vorsteher des Havener Nebeltempels; Vogtvikar von Albernia |
+| Größe:       | etwa 170 HF                                                                                             |
+| Gewicht:     | etwa 70 Stein                                                                                           |
+| Haarfarbe:   | braun                                                                                                   |
+| Augenfarbe:  | braun                                                                                                   |
+| Geschwister: | Drei Schwestern und einen Bruder; allesamt älter als Yann                                               |
 
 ## Erscheinungsbild
 
-Im Regelfall trägt Yann eine schwarze Hose aus Stierleder und dazu passende Stiefel von qualitativ hochwertiger Machart (aus guten KGIA-Beständen). Hierzu ein weißes Leinenhemd mit kurzem Kragen. Über alledem einen bodenlangen Mantel aus grauem, seltsam anmutenden, leichtem Stoff in welchen mondsilbern das Symbol Phexens eingelassen wurde. Um den Hals liegt eine silberne Kette, an welcher ein Türkis, doppelt in ein Dreieck in einem Kreis aus Mondsilber -- eingefasst is. Am Ringfinger der linken Hand trägt er einen Ring, der Yann als Angehörigen der Rahjakirche erkennbar macht, am Ringfinger der Rechten befindet sich der Siegelring seines Heimattempels. Zusammen mit der Halskette sind sie die einzigen Schmuckgegenstände, die er trägt. Unter dem Mantel zu erahnen, allerdings nicht sichtbar getragen befindet sich Anruin -- Yanns Degen, den er von König Arombolosch dereinst als Geschenk für die Rettung der Brilliantzwerge erhielt. Hinter dem Kopf lugt außerdem der Griff eines schwarzen Nachtwindes aus Maraskanstahl hervor. Allerdings trifft man Yann selten allein in diesen Tagen; so befindet sich doch eigentlich immer sein rot-brauner goldfelser Hengst, genannt Frinkor bei ihm, der ihm nun schon seit einigen Jahren sehr ans Herz gewachsen ist. Sieht man Yann mittlerweile mit Frinkor auf den Straßen Havenas oder Gareths, so hat sein Gesicht viel von der jugendlichen Unbeschwertheit verloren, die es einst ausstrahlte. Der Blick ist ernster und entschlossener; seine Gesichtszüge konzentrierter und zielstrebiger, als das noch vor einigen Jahren der Fall war. Richtig ausgelassen ist Yann nur noch im engen Vertrautenkreis seiner langjährigen Gefährten und Freunde, mit denen er allerdings weder das Scherzen, noch das Festefeiern verlernt hat.
+Im Regelfall trägt Yann eine schwarze Hose aus Stierleder und dazu passende Stiefel von qualitativ hochwertiger Machart (aus guten KGIA-Beständen). Hierzu ein weißes Leinenhemd mit kurzem Kragen. Über alledem einen bodenlangen Mantel aus grauem, seltsam anmutenden, leichtem Stoff in welchen mondsilbern das Symbol Phexens eingelassen wurde. Um den Hals liegt eine silberne Kette, an welcher ein Türkis, doppelt in ein Dreieck in einem Kreis aus Mondsilber -- eingefasst ist. Am Ringfinger der linken Hand trägt er einen Ring, der Yann als Angehörigen der Rahjakirche erkennbar macht, am Ringfinger der Rechten befindet sich der Siegelring seines Heimattempels. Zusammen mit der Halskette sind sie die einzigen Schmuckgegenstände, die er trägt. Unter dem Mantel zu erahnen, allerdings nicht sichtbar getragen befindet sich Anruin -- Yanns Degen, den er von König Arombolosch dereinst als Geschenk für die Rettung der Brilliantzwerge erhielt. Hinter dem Kopf lugt außerdem der Griff eines schwarzen Nachtwindes aus Maraskanstahl hervor. Allerdings trifft man Yann selten allein in diesen Tagen; so befindet sich doch eigentlich immer sein rot-brauner goldfelser Hengst, genannt Frinkor bei ihm, der ihm nun schon seit einigen Jahren sehr ans Herz gewachsen ist. Sieht man Yann mittlerweile mit Frinkor auf den Straßen Havenas oder Gareths, so hat sein Gesicht viel von der jugendlichen Unbeschwertheit verloren, die es einst ausstrahlte. Der Blick ist ernster und entschlossener; seine Gesichtszüge konzentrierter und zielstrebiger, als das noch vor einigen Jahren der Fall war. Richtig ausgelassen ist Yann nur noch im engen Vertrautenkreis seiner langjährigen Gefährten und Freunde, mit denen er allerdings weder das Scherzen, noch das Festefeiern verlernt hat.
 
 ## Heldentaten
 
-  * Neben den unzähligen wirklichen Heldentaten zusammen mit dem Rest der Bande fiel Yann unter anderem hiermit auf:
+Neben den unzähligen wirklichen Heldentaten zusammen mit dem Rest der Bande fiel Yann unter anderem hiermit auf:
+
   * verhalf einem Troll wieder zu seiner ursprünglichen Bartfarbe (wobei Kobold-Pink auch nicht übel aussah&#8230;)
   * nahm an einer wirklich heißen Hexennacht teil
   * entwendete das &#8218;Levthansband&#8216; aus dem Tiefhusener Rahjatempel (an all dem waren nur die Umstände schuld&#8230;.)
