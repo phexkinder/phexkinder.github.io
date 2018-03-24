@@ -38,7 +38,7 @@ Vor einem Spiegel blieb er stehen, ergriff ein grünes Fläschchen, goss etwas �
   
 _Doch das war nicht wahr. Vielmehr kümmert es mich gerade im jetzt umso mehr.
   
-_ Dieser entgegnete aufgeregt: "Nun, aber das sollte es. Ihr seid ein Mann von hohem Stand. Und ihr ward jetzt lange nicht in der Stadt. Es gibt Dinge, um die ihr euch kümmern solltet. Stattdessen verlasst ihr jetzt bereits am dritten Tag in Folge in diesem fast schon rondrianischen Aufzug das Haus&#8230;…"
+_ Dieser entgegnete aufgeregt: "Nun, aber das sollte es. Ihr seid ein Mann von hohem Stand. Und ihr ward jetzt lange nicht in der Stadt. Es gibt Dinge, um die ihr euch kümmern solltet. Stattdessen verlasst ihr jetzt bereits am dritten Tag in Folge in diesem fast schon rondrianischen Aufzug das Haus……"
   
 "Ich bezweifle, dass mich die Diener der Leuin so bezeichnen würden, mein guter Melcher" unterbrach ihn der Jüngere, "aber genug jetzt. Lass mir Frinkor holen und meine Amtstracht zum Tempel bringen. Ich werde mich dort umkleiden."
   

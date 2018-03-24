@@ -11,4 +11,4 @@ categories:
 tags:
   - Taran
 ---
-&#8230; und genau dies geschah hinter dem Dornenwall. Wie es dazu kam lies [hier](http://www.phexkinder.de/mittelgruppe/taran-ibn-muhammed-ibn-ayabun-ai-orkhiander/tarans-reisebericht/#DesSchnittersreicheErnte "hier").
+… und genau dies geschah hinter dem Dornenwall. Wie es dazu kam lies [hier](http://www.phexkinder.de/mittelgruppe/taran-ibn-muhammed-ibn-ayabun-ai-orkhiander/tarans-reisebericht/#DesSchnittersreicheErnte "hier").

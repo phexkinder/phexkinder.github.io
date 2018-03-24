@@ -26,7 +26,7 @@ die Magierschaft als letzte wird Dich mit Neid und schmeichlerischem Gebahren um
 
 Wenn all das Du bedacht und dennoch der Durst nach Wissen Dich auszutrocknen erscheint, dann öffne diesen Umschlag und lies was geschehen in den Jahren 1024 und 1025 nach Bosperans Fall weit jenseits des Südmeers.
 
-Denn ein jeder muss selbst entscheiden, was er tut. Dies ist sowohl der Namensgeber grösstes Geschenk als auch unser grösster Fluch; denn eine jede Entscheidung hat ihre Auswirkung. Und meine nicht, dass diese immer unbemerkt bleibt&#8230;
+Denn ein jeder muss selbst entscheiden, was er tut. Dies ist sowohl der Namensgeber grösstes Geschenk als auch unser grösster Fluch; denn eine jede Entscheidung hat ihre Auswirkung. Und meine nicht, dass diese immer unbemerkt bleibt…
 
 _Drei Götter des Meeres stritten einst um die Herrschaft über das von ihnen beanspruchte Element:_
 
@@ -34,7 +34,7 @@ _Drei Götter des Meeres stritten einst um die Herrschaft über das von ihnen be
 
 **_Einer ward unterlegen._**
 
-**_Einer wurde vergessen&#8230;_**
+**_Einer wurde vergessen…_**
 
 &nbsp;
 
@@ -140,7 +140,7 @@ Aufräumarbeiten und Reparatur des Schiffes;
 
 Ansonsten keine besonderen Ereignisse.
 
-To be continued &#8230; falls es jemand liest&#8230;.
+To be continued … falls es jemand liest….
 
 **6. Phex**
 
@@ -354,6 +354,6 @@ Wir beschliessen, dass ein Efferddienst gehalten werden soll, bei dem der Bruder
 
 Ansonsten keine besonderen Ereignisse; Thesis unverständlich.
 
-to be continued &#8230; wenn es wieder jemand liest&#8230;
+to be continued … wenn es wieder jemand liest…
 
 &nbsp;

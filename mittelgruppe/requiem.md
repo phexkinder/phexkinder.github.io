@@ -384,7 +384,7 @@ Er blickte in das riesige Halbrund der Schweigenden.
   
 «Sie alle sind auf einer Reise. Einer Reise über das Endlose Meer des Nichts.»
   
-Um sodann mit kräftiger Stimme fortzufahren: «Sie sind dort, und Golgaris Schwingen tragen sie. Er trägt sie, weil sie starben; den Tod fanden vor wenigen Tagen, hier, in dieser Stadt. Doch sie starben nicht für ihre Führer&#8230;» Wieder blickte er auf und ihr schien, als würde er in diesem Moment zu den Befehlshabern des Mittelreichs blicken. _Konnte dies sein?_ Doch ehe sie weiter darüber nachdenken konnte sprach er weiter «…sondern für ihre Familien, ihre Brüder und Schwestern.» Seine Stimme sank wieder, wurde leise. «Ihre Kinder.»
+Um sodann mit kräftiger Stimme fortzufahren: «Sie sind dort, und Golgaris Schwingen tragen sie. Er trägt sie, weil sie starben; den Tod fanden vor wenigen Tagen, hier, in dieser Stadt. Doch sie starben nicht für ihre Führer…» Wieder blickte er auf und ihr schien, als würde er in diesem Moment zu den Befehlshabern des Mittelreichs blicken. _Konnte dies sein?_ Doch ehe sie weiter darüber nachdenken konnte sprach er weiter «…sondern für ihre Familien, ihre Brüder und Schwestern.» Seine Stimme sank wieder, wurde leise. «Ihre Kinder.»
   
 In festem und lautem Ton fuhr er fort: «Für das Reich des Greifen und der Sphinx und vor allem: Für die Freiheit und die Zwölfgötter Alverans.
   

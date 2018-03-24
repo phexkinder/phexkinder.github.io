@@ -65,7 +65,7 @@ Ebenfalls bemerkenswert sind auch die beiden Waffen: Naidel, der persönliche Do
   * "Alles Schlechte kommt von oben!"
   * "Alle Horasier reden so flauschig, weil sie schwule Spagallos sind!"
   * "Ich nenne diese Frucht Drachenfrucht" (dabei hieß sie ohne mein Wissen schon längst so)
-  * "Das ist mein Freund Yann. Er ist ein Dieb! &#8230;.aber ein netter Dieb."
+  * "Das ist mein Freund Yann. Er ist ein Dieb! ….aber ein netter Dieb."
   * "Ich stelle den/das/die \___\_____!" (Anmerkung der Red.: hier ein beliebiges, riesengroßes & saugefährliches Wesen z.B.: Mammut oder untoter Drache einsetzen)
 
 ## Titel und Ehrungen
