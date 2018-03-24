@@ -32,5 +32,3 @@ Obligatorisch führt Lilu natürlich auch immer ein Fluggerät mit, das jedoch a
   * zwang den Rondra-Geweihten (war das nicht eine Göttin des Kampfes?!) bei einer Prügelei in den Schnee
   * opferte sich, zeitweilig den g’scheiten Geweihten an die (zu) kurze Kette zu nehme
   * öffnete DIE Kiste (mittlerweile auch als der sprichwörtlich gewordene „nur kleine Makel“ auf Yann & Wolfhart’s sonst blütenweißen (Diebes-/Krieger-)Heldenkarriere bekannt geworden)     &#8212;--   Wolfhart: "Hierzu bleibt abzumerken, dass da gar nichts bekannt geworden ist!"
-
-&nbsp;
