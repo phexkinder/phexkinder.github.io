@@ -19,7 +19,7 @@ Leider konnten wir nicht nach Garetz zurück und weiter auf Euch warten, da letz
 
 Kurz gesagt hat uns der Zwergenhäptling auf einen Rettungsmission geschickt, eine Erkundungsmission unter der Führung von Gamborax, dem Häuptling der Axtbarden, ausfindig zu machen, da diese schon vermisst wurden und sicher in zivilisierte Gebiete zurückzuführen. Nach langer Suche und ettwas göttlicher Führung durch Ayla von Schattengrund, hatten wir schon recht schnell unser Ziel ausgemacht und uns auf den Weg zur Trollfaust begeben, was einer von zweien möglichen Bestimmungsorten der Zwerge war. Durch Witterung und Trollzacker Barbarenstämme aufgehalten erreichten wir schliesslich die Nähe der Trollfaust, in wessen unmittelbarer Nähe eine wohl trollische Feste stand, in der wir die Zwerge vermuteten. Den dort hausenden Perldrachen, leider untot, konnten wir, genauso wie seinen trollischen Knochengolem nach langem und verlustreichen Kampf niederstrecken, doch ist wohl einen andere Erkenntnis die wichtigere.
 
-Primo kann der schwarze Drache wohl seine, bzw. der Widersacherin Borons´ Macht derart projizieren und so mobile Pforten des Grauens erschaffen, welchselbige ich glücklicherweise in der Lage war zu zerstören.
+Primo kann der schwarze Drache wohl seine, bzw. der Widersacherin Borons' Macht derart projizieren und so mobile Pforten des Grauens erschaffen, welchselbige ich glücklicherweise in der Lage war zu zerstören.
 
 Secundo scheint es so als ob der Drache die Macht des Erzdämonischen Wesens zu beherrschen vermag wie machereiner einen niederen oder höheren Dämon.
 

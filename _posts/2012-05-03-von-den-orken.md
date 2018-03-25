@@ -55,7 +55,7 @@ tags:
 
 <span style="font-family: Constantia,serif;">Tairach ist der Gott des Blutes und des Todes. Die ihm angehörenden Priester praktizieren einen Schamanismus der gewaltige Effekte auslösen kann. So wurde berichtet, dass eine Gruppe dieser Priester innerhalb von wenigen Stunden ein Untotenheer von über fünf mal ein Tausend Leichen erheben konnte. Sie stehen in ständiger Konkurrenz zu den Brazoraghpriestern und führen bei Raub- oder Kriegszügen gemeinsam das Heer. So sind sie sich selbst stärkste Verbündete und größte Konkurrenten. Zwischen diesen beiden scheint es einige feste Regeln zu geben die jedoch nur im Ansatz erratbar sind. So ist zum Beispiel die Gabe eines Stieres als Blutopfer an den Tairachpriester erzwingbar.</span>
 
-<span style="font-family: Constantia,serif;">Zusammen bilden die Priester dieser beiden Götter den Hardhu´ Thak. Dies bedeutet, dass auf Kriegszügen immer zwei einen Stamm in einen Krieg führen und so der engste Verbündete und der größte Konkurrent die selbe Person ist.</span>
+<span style="font-family: Constantia,serif;">Zusammen bilden die Priester dieser beiden Götter den Hardhu' Thak. Dies bedeutet, dass auf Kriegszügen immer zwei einen Stamm in einen Krieg führen und so der engste Verbündete und der größte Konkurrent die selbe Person ist.</span>
 
 <span style="font-family: Constantia,serif;">Der Gott Gravesh ist der Gott der Handwerker und Schmiede zu sein.</span>
 

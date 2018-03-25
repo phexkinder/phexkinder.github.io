@@ -1,11 +1,9 @@
 ---
-
 title: Persönliches Logbuch
 date: 2012-06-30T17:39:21+00:00
 author: Brin
-
-
 ---
+
 <p align="center">
   <strong><em>Persönliches Logbuch des Schiffsarztes und 2. Offiziers der Karavelle Korisande,</em></strong>
 </p>

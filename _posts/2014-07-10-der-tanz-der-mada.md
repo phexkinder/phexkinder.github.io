@@ -37,13 +37,13 @@ Hast Du die Vierte Stufe erreicht, sie wird Madas Verhüllung, manches Mal auch 
 
 Abschließend, als Fünftes erfolgt Madas Wiedergeburt. Sie schließt den Kreis des Mondzyklus und lässt Dich mit ruhigem Geist und gestärktem Körper wieder in die Welt ein. Richte dafür Deine Aufmerksamkeit auf Deine Kraft und senke die Schranken, welche Sie in deinem Leib hält. Deine Wahrnehmung richtest Du auf das hier und jetzt und konzentrierst Dich auf die vor Dir liegenden Aufgaben.
 
-Einige Teile sind mir noch aus Zeiten meines Eleviums und Noviziums in der Chamib al´Tariqa unter Sahib Omar ibn Hayduk bekannt. Auch dort wurde mit Hilfe von Canti und Meditation das erste Handwerk der Wahrnehmung und Manipulation der Kraft geübt und verständig gemacht. In Essenz bringt der Tanz der Mada Dich in Einklang mit der Kraft und lässt Dich das grundlegende Handwerkszeug der Manipulation der Sternenkraft durchführen.
+Einige Teile sind mir noch aus Zeiten meines Eleviums und Noviziums in der Chamib al'Tariqa unter Sahib Omar ibn Hayduk bekannt. Auch dort wurde mit Hilfe von Canti und Meditation das erste Handwerk der Wahrnehmung und Manipulation der Kraft geübt und verständig gemacht. In Essenz bringt der Tanz der Mada Dich in Einklang mit der Kraft und lässt Dich das grundlegende Handwerkszeug der Manipulation der Sternenkraft durchführen.
 
 &nbsp;
 
 # Die elf Schritte nach Rashman Ali
 
-Aus den Schriften Rashman Alis Al´Raschida nurayan schah Tulachim habe ich nachfolgende Meditation entnommen die den von ihm formulierten elf Schritten folgt. Nach meinem Verständnis präzisiert es den Mondzyklus oder aber es mag die ursprüngliche Form sein von welcher der heute bekannte Tanz der Mada eine verkürzte Form ist.
+Aus den Schriften Rashman Alis Al'Raschida nurayan schah Tulachim habe ich nachfolgende Meditation entnommen die den von ihm formulierten elf Schritten folgt. Nach meinem Verständnis präzisiert es den Mondzyklus oder aber es mag die ursprüngliche Form sein von welcher der heute bekannte Tanz der Mada eine verkürzte Form ist.
 
 Im ersten Schritt leere Deinen Geist, lege die Fesseln welche Dir das hier und jetzt auferlegt haben ab und löse Dich vom Zeitgeschehen. Dein Zielzustand sein frei von Gedanken und störenden Einflüssen.
 

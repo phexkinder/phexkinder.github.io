@@ -14,7 +14,7 @@ Hier kannst du mehr erfahren über **DIE GEFÄHRTEN**! - Streiter für die alte 
 * [Dunkar]({{ "/mittelgruppe/dunkar" | absolute_url }}) Aerensen, Drachenjäger aus dem Bornland
 * [Durin]({{ "/mittelgruppe/durin" | absolute_url }}) von den Eisenfäusten, ehemaliger Träger der Schwinge mit dem Geisterblatt
 * [Lilu]({{ "/mittelgruppe/lilu" | absolute_url }}), Tochter der Erde und Traumseherin
-* [Taran]({{ "/mittelgruppe/taran" | absolute_url }}) ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash´Hualay Akademie
+* [Taran]({{ "/mittelgruppe/taran" | absolute_url }}) ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash'Hualay Akademie
 * [Wolfhart]({{ "/mittelgruppe/wolfhart" | absolute_url }}) Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
 * [Yann]({{ "/mittelgruppe/yann" | absolute_url }}) Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas
 
