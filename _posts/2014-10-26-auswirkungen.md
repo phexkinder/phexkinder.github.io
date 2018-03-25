@@ -1,11 +1,9 @@
 ---
-
 title: Auswirkungen
 date: 2014-10-26T21:04:20+00:00
 author: Yann
-
-
 ---
+
 Beruhigend knistert das Feuer im Kamin meines Arbeitszimmers. Mollige Wärme erfüllt den ganzen Raum. Schatten tanzen munter über die umstehenden Regale, die mit den Büchern in ihren verschiedensten Größen ein wahrhaft schweres Gewicht zu tragen haben.
 
 Langsam und bedächtig drehe ich das Glas in meiner Hand in stetigen, kreisenden Bewegungen; schwermütig sind meine Augen auf die tiefrote Flüssigkeit in seinem Inneren gerichtet. Gedankenverloren und in Erinnerungen schwelgend bin ich ein leichtes Opfer für Bishdariel, der mich langsam und tragend in sein Reich geleitet. Nur noch leise nehme ich die Stimmen der anderen Personen in meinem Arbeitszimmer wahr. Vertrautheit und Geborgenheit sind das Seil, das sie dem Herrn der Träume in die Hand legen, Anstrengung und ein erfüllter Tag die Straße auf der er mich führt. Seit sehr langer Zeit habe ich einmal wieder dieses Gefühl, das mir schon beinahe fremd geworden ist; so fremd, dass ich in meinem dämmrigen Zustand zwischen Wachen und Schlaf lange brauche, um es in Worte zu fassen; und doch ereilt es mich langsam aber gewiss aus den Tiefen meines Bewusstseins. Unbekümmertheit. Die Gewissheit, sich gerade in diesem Moment über nichts unter Alverans weiten Gefilden Sorgen machen zu müssen; und so driftet mein Geist dahin, begleitet von den langsam verklingenden Stimmen meiner langjährigen Gefährten, weg von meiner vertrauten Umgebung und hinein in Bishdariels Reich.
@@ -22,7 +20,7 @@ Doch jäh endet der Augenblick des Stillstandes. Ein formloser Arm wirft sich mi
 
 Schmerzen branden durch mein Bewusstsein; ein erstickter Laut verlässt meine Kehle; Gras, Moos und Zweige peitschen mir ins Gesicht und hinterlassen blutige Furchen. Die Panik steigt ins Unermessliche. Mein Ende erwartet mich am Ursprung der Peitsche. Der wallende Schatten rückt näher, zieht mich unaufhaltsam auf sich zu. Ein Henkersschwert taucht in der zweiten Hand des Rachegeistes auf. Geschrei bricht aus; überall um mich herum. Namen werden gerufen. Wolfhart, Durin! Wahnfried, Lilu! Es sind die Namen meiner Gefährten; meiner Freunde seit so vielen Jahren. Auch mein Name ist dabei. Yann.
 
-Yann Fuxfell. Der Straßenjunge aus Havena. Ist das also das Böse Ende, das es einmal laut seiner Mutter mit ihm nehmen solle? Der Junge, der einfach fort ging, ohne Auf Wiedersehen zu sagen. Der seitdem Trollen begegnet war, der die Stadt des Lichts, die Marktplätze Festums, die Inseln vor Thorwal besucht hatte; fremde Länder gesehen; das horasische Kronsiegel gestohlen , das Blutharsch überlebt und das Volk der Brilliantzwerge gerettet hatte; der Junge, der das Herz der schönsten Frau Deres erobert und sein eigenes dafür eingetauscht hatte; sollte dieser Junge sie niemals wieder sehen? Nie mehr den Duft ihrer Haare riechen und die Sanftheit ihrer Berührungen spüren; sollte sein Leben und das seiner Freunde, seine Liebe zu ihnen und zu ihr – sollte das alles hier sein böses Ende nehmen?
+Yann Fuxfell. Der Straßenjunge aus Havena. Ist das also das Böse Ende, das es einmal laut seiner Mutter mit ihm nehmen solle? Der Junge, der einfach fort ging, ohne Auf Wiedersehen zu sagen. Der seitdem Trollen begegnet war, der die Stadt des Lichts, die Marktplätze Festums, die Inseln vor Thorwal besucht hatte; fremde Länder gesehen; das horasische Kronsiegel gestohlen, das Blutharsch überlebt und das Volk der Brilliantzwerge gerettet hatte; der Junge, der das Herz der schönsten Frau Deres erobert und sein eigenes dafür eingetauscht hatte; sollte dieser Junge sie niemals wieder sehen? Nie mehr den Duft ihrer Haare riechen und die Sanftheit ihrer Berührungen spüren; sollte sein Leben und das seiner Freunde, seine Liebe zu ihnen und zu ihr – sollte das alles hier sein böses Ende nehmen?
 
 'Genug!'
 
