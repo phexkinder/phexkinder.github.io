@@ -5,6 +5,44 @@ author: Brin
 permalink: /südgruppe/brin/
 ---
 
+
+<p style="text-align: center;" align="center">
+  <strong>Brin von Andergast</strong>
+</p>
+
+<p style="text-align: center;" align="center">
+  <p style="text-align: center;">
+  </p>
+
+  <p style="text-align: center;">
+    Gezeichnet am 15. Travia des Jahres 1025 BF
+  </p>
+
+  <p style="text-align: center;" align="center">
+    auf dem Stützpunkt des<em> Bundes der Schwarzen Schlange</em>, tief im Feuermeer, etwa zwei Monde vor Beginn der Rückreise nach Aventurien
+  </p>
+
+  <p style="text-align: center;">
+    <p style="text-align: center;">
+      Der Risso berichtete von den 3 Göttern des Meeres, die dereinst um die Vorherrschaft über das von allen gleichermaßen beanspruchte 'Element' kämpften:
+    </p>
+
+    <p style="text-align: center;" align="center">
+      Einer hatte gesiegt.
+    </p>
+
+    <p style="text-align: center;" align="center">
+      Einer war unterlegen.
+    </p>
+
+    <p style="text-align: center;" align="center">
+      Einer wurde vergessen.
+    </p>
+
+    <p align="right">
+      -- Logbuch der Korisande, S. 68
+    </p>
+
 **Kurzbeschreibung**
 
 Name: Brin von Andergast
