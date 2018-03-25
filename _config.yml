@@ -268,3 +268,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _collections
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: page
+
+# Collections
+collections:
+  authors:
+    output: true
+    permalink: /:collection/:path/
