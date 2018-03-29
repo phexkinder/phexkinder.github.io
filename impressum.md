@@ -1,10 +1,8 @@
 ---
-
 title: Impressum
 date: 2012-06-04T23:22:47+00:00
-permalink: /impressum/
-
 ---
+
 Phexkinder.de ist eine private, nicht-kommerzielle Seite von DSA-Rollenspielern, die ihre Charaktere und Abenteuer vorstellen möchten.
 
 Phexkinder.de begrüßt und verwendet das Schwarze-Auge-Fanpaket der Ulisses Medien & Spiel Distribution GmbH unter den <a href="http://www.ulisses-spiele.de/sortiment/rollenspiele/das-schwarze-auge/informationen-zu-das-schwarze-auge/fanrichtlinien/" target="_blank">hier</a> aufgelisteten Bedingungen.

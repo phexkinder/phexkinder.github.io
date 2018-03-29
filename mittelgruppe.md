@@ -1,7 +1,6 @@
 ---
 title: Die Mittelgruppe
 date: 2014-09-13T18:03:21+00:00
-permalink: /mittelgruppe/
 author: Wolfhart
 ---
 

@@ -1,10 +1,8 @@
 ---
-
 title: Medien
 date: 2012-05-04T23:37:00+00:00
-permalink: /medien/
-
 ---
+
 Die folgende DSA Fanprojekt-Karten unterliegen [diesen Nutzungsbedingungen]({{ "/assets/misc/Nutzungsbedingungen-Fanpaket_2012_01_18.pdf" | absolute_url }}).
 
 [Aventurien]({{ "/assets/img/map-aventurien.jpg" | absolute_url }})  

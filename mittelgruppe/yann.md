@@ -2,7 +2,6 @@
 title: Yann
 date: 2012-06-05T20:30:33+00:00
 author: Yann
-permalink: /mittelgruppe/yann/
 ---
 
 ![Yann]({{ "/assets/img/char-yann.jpg" | absolute_url }})

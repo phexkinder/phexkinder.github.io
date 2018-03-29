@@ -2,7 +2,6 @@
 title: Durin von den Eisenfäusten
 date: 2012-06-05T20:29:30+00:00
 author: Durin
-permalink: /mittelgruppe/durin/
 ---
 
 ![Durin]({{ "/assets/img/char-durin.jpg" | absolute_url }})
