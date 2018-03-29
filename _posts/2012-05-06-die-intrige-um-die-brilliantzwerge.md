@@ -1,16 +1,11 @@
 ---
-
 title: Die Intrige um die Brilliantzwerge
 date: 2012-05-06T12:50:02+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Viel ist geschehen seit wir (Wolfhart, Yann, Durin, Coran, Lilu und ich) den Schlund erreichten und von dort aufbrachen um Ingrascha zu finden. Angriffe von namenlosen Kreaturen und Überfälle der Ferkinas vom Stamm der Ban Agracha haben wir überstanden und noch immer wissen wir nicht warum all dies geschieht. Das es aus keinem, mit unseren Vorstellungen und Idealen, einvernehmlichen Bild geschieht ist uns allen klar und bedarf keiner weiteren Beweise. Da es jedoch so viel zu beachten gibt und ich nicht alles beisammen halten kann werde ich dies schriftlich niederlegen um meine Gedanken zu ordnen. <!--more-->
 
 

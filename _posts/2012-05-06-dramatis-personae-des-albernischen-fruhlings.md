@@ -1,16 +1,11 @@
 ---
-
 title: Dramatis Personae des Albernischen Frühlings
 date: 2012-05-06T23:40:10+00:00
 author: Yann
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Yann
 ---
+
 <p align="center">
   <strong><span style="text-decoration: underline;">Die albernischen Grafen & andere wichtige Persönlichkeiten</span></strong>
 </p>

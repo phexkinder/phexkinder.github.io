@@ -1,16 +1,11 @@
 ---
-
 title: Ein Abend unter Freunden
 date: 2012-05-06T13:22:10+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Wie lang waren wir heut schon wieder unterwegs... ich weiß es nicht genau, aber es sind sicherlich schon wieder 8 Stunden reine Marschzeit. Wolfhart ist ein ausdauernder Marschierer und als so etwas wie unser Führer auf dem Weg zur Trollfaust verlangt er dasselbe Tempo auch von uns...<!--more-->
 
 Uns, ja wir die wir schon so lange durch die Lande ziehen und den zwölfgöttlichen Landen unsere Dienste anbieten. Mal mehr Mal weniger aber doch meist derselbe Kern...

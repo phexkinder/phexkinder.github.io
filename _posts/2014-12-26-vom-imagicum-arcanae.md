@@ -1,16 +1,11 @@
 ---
-
 title: Vom Imagicum Arcanae
 date: 2014-12-26T02:22:17+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Einige Jahre nach dem Verschwinden von Taran gelangte folgender Artikel in den Salamander. Ein sozusagen Insiderbericht über die arkane Macht die Taran zur Verfügung stand.<!--more-->
 
 **Vom Imagicum Arcanae**

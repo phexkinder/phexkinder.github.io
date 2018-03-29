@@ -1,16 +1,11 @@
 ---
-
 title: 'Im Auftrag eines Andergaster Magiers...'
 date: 2012-07-19T19:28:26+00:00
 author: Brin
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Brin
 ---
+
 **Eingeständnisse eines Aussiedlers**
 
 Der Klang der Kabaschflöte lag säuselnd in meinen Ohren. Der schwere Rauch von Mohacca und Zitabba lag drückend in der Luft und die Wirkung sämtlicher verschiedener Kräuter, die ansonsten noch die Luft in der _Sultani Nahema_ schwängerten taten ihr Übriges, die einschläfernde Stimmung, in der ich mich befand, noch weiter zu verstärken. Auch Durhang war dabei, eine erst seit wenigen Wochen in den Kaffeehäusern und Dar-Shishas Kunchoms kursierende Spezialität, die angeblich vom Tempel der Mondschleier aus vertrieben wurde. Jedenfalls waren das die Gerüchte, welche in der Akademie die Runde machten.<!--more-->

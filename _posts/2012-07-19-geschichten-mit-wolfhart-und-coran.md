@@ -1,17 +1,11 @@
 ---
-
-title: 'Geschichten  mit Wolfhart und Coran'
+title: Geschichten  mit Wolfhart und Coran
 date: 2012-07-19T21:13:52+00:00
 author: Wolfhart
-
-
-
 categories:
   - Berichte
-tags:
-  - Coran
-  - Wolfhart
 ---
+
 Sanftes gelbrotes Licht schwebt im großen Saal des Gutes Wetterfels. Das unstete knistern und krachen des Kaminfeuers erfüllt den Raum.<!--more--> Die Tafel ist leer, bis auf zwei Gedecke. Es ist Ruhe eingekehrt auf Wetterfels und das Madamal ist schon hoch am Himmel. Schwarze Wolken ziehen vor ihr her und versprühen einen leichten, warmen Flimmerregen. Zwei Kerzen stehen bei jedem Gedeck und zanken mit dem Feuer um die Schatten. Der Lehensherr, am Kopf der Tafel, hebt seinen steinernen Krug zu einem mächtigen Schluck. Das flammene Schwert der Angbarars ziert den Krug, der mit viel zu süffigem Bier gefüllt ist. Mit wenigen, glucksenden Zügen leert er den Krug, stellt ihn vor sich und greift erneut zur Karaffe. Mit beiden Händen umfasst er nun den vollen Krug und starrt auf den wenigen Schaum, den das Bier zustande bringt. Unnatürliche Falten schlägt das Feuer ins Gesicht des jungen Herren und lässt zugleich das einfache Kettenhemd in herrschaftlichem Gold erscheinen. Ebensolches Gold, in dem das geflammte Schwert hinter seinem Rücken glänzt. Zu Rondras ehren hängt es nun an der Wand des großen Saales.
 
 

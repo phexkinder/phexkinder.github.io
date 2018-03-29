@@ -1,16 +1,11 @@
 ---
-
 title: Bei Praios!
 date: 2012-07-19T20:27:57+00:00
 author: Wolfhart
-
-
-
 categories:
   - Berichte
-tags:
-  - Wolfhart
 ---
+
 Schweren Herzens verabschiedet Wolfhart zur Rondrastunde des 4.PRA Wahnfried, Taran und Yann. Wahnfried, dem Ruf des Herzens folgend, hatte auf einen frühen Aufbruch gedrängt und sich schließlich auch durchgesetzt. Nun ist die Stunde der Trennung gekommen und mit viel Wehmut machen sich die drei endgültig auf den Weg.<!--more--> Um die Mittagsstunde bricht dann auch Durin auf, wobei er Wolfhart zum Abschied grimmig umarmt. Was ist aus eurem zwergischen Kameraden geworden? Immer wieder geht Wolfhart diese Frage durch den Kopf.
 
 So verbleiben zunächst Coran und Lilu auf Gut Wetterfels. Und der Götterfürst scheint euch wohl gesonnen: Die Tage sind geprägt von herrlichem Kaiserwetter, soweit Wolfhart sich entsinnen kann hat er hier in seiner Heimat nur ein einziges Mal einen vergleichbaren Sommer gesehen. Doch Albernia ist das Land des Wassers und Efferd lässt es sich nicht nehmen, diesen Ruf Tag für Tag aufs Neue zu bestätigen: Meist erobert er zur Dämmerung, vom Belemann getrieben, das Firmament mit Wolken und beschließt die Tage mit mildem Sommerregen.

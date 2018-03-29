@@ -1,16 +1,11 @@
 ---
-
 title: Der Tanz der Mada
 date: 2014-07-10T22:32:04+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Es begab sich auf einer Reise ins noch besetzte Oron, da wir nach langem Ritt und Konflikt mit den feindlichen Heerscharen unser Nachtlager aufschlugen. Die Nacht würde wieder kurz werden und<!--more--> nur ein paar Stunden Schlafe waren uns vergönnt und so beschloss ich einen Wachtrunk zu nehmen. Nach den Anstrengungen des Tages war ich zwar nicht mehr müde, dennoch machte sich Unstetigkeit in mir breit welche mir die innere Ruhe verwehrte. So übte ich mich denn, wie so oft, in der Meditation und dem Ritual der schreitenden Mada. Die Nacht war schon vorüber, die ersten Strahlen von Praios Scheibe ließen sich über den hoch aufragenden Maisstauden erahnen und meine Gefährten erwachten. Wolfhardt beobachtete mich in meinem Tun und bekundete ein Interesse daran zu erfahren in was ich mich übte. Es schien ihm wohl eine Ähnlichkeit aufgefallen zu sein, welche Geschichten zufolge auch den Tänzen der Hadjinim zu Eigen sein. So erklärte ich mich also bereit ihm dereinst die Mondfolge nahe zu bringen auf dass auch er daraus die Ruhe und Kraft schöpfen kann welche ich zu schätzen weiß.
 
 Bevor ich dazu in der Lage bin muss ich jedoch selbst ergründen was der Tanz der Mada im Innersten ist und warum er jene Wirkung entfaltet die er hat.

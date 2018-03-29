@@ -1,16 +1,11 @@
 ---
-
 title: Brief an Walpurgas Schwester
 date: 2012-07-19T20:55:18+00:00
 author: Wolfhart
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Wolfhart
 ---
+
 Euer Hochwürden
 
 Die Ereignisse, welche sich an Eurer Vermählungsfeier zugetragen hatten, werfen einen weiten, eisigen Schatten.<!--more-->

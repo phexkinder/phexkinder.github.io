@@ -1,16 +1,11 @@
 ---
-
 title: Die Anrufung der Elemente
 date: 2012-05-05T11:07:07+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 So du Dir willst versichern die Unterstützung der Elemente in Form von Geist, Djinn oder Meister habe Acht auf korrekte Vorbereitung und es wird Dir ein vieles leichter gelingen.<!--more-->
 
 Primo:

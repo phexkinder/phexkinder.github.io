@@ -1,17 +1,12 @@
 ---
-
 title: Es ist nicht einfach zu breschreiben
 date: 2012-07-19T21:10:04+00:00
 author: Wolfhart
-
-
-
 categories:
   - Berichte
   - Schriftstücke
-tags:
-  - Wolfhart
 ---
+
 _Es ist nicht einfach zu beschreiben. Es hängt sehr stark, wenn nicht sogar alleinig, davon ab was für ein Herz du in dir trägst. Du führst Ihn zwar, aber Er ist es, der dich wählt und Er ist es, der dir gestattet Ihn zu führen. Er prüft dich sehr genau._<!--more-->
 
 

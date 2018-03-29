@@ -1,16 +1,11 @@
 ---
-
 title: Die Geschichte der drei Wachtgrafen
 date: 2012-05-03T11:41:43+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Einst hörte ich auf der Nordfeste in der Grafschaft die Geschichte der drei Wachtgrafen. Sie enthält viel Wissen und so möchte ich sie nicht der Vergessenheit anheim fallen lassen. Hier gebe ich wieder an was ich mich erinnere. Der geneigte Leser sei ermutigt weitere Quellen zu Rate zu ziehen um sich ein vollständigeres Bild zu machen.
 
 <!--more-->

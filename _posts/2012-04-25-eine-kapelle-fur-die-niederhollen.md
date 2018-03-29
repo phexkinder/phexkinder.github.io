@@ -1,16 +1,11 @@
 ---
-
 title: Eine Kapelle für die Niederhöllen
 date: 2012-04-25T19:25:31+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 [<img class=" wp-image-18 alignleft" title="Torxes von Freigeist" src="http://www.phexkinder.de/wp-content/uploads/torxes_von_freigeist-266x300.jpg" alt="" width="160" height="180" srcset="http://www.phexkinder.de/wp-content/uploads/torxes_von_freigeist-266x300.jpg 266w, http://www.phexkinder.de/wp-content/uploads/torxes_von_freigeist-909x1024.jpg 909w, http://www.phexkinder.de/wp-content/uploads/torxes_von_freigeist.jpg 1000w" sizes="(max-width: 160px) 100vw, 160px" />](http://www.phexkinder.de/wp-content/uploads/torxes_von_freigeist.jpg)Dies stellt meinen, Magister Taran ibn Muhammed ibn Ayabun ai Orkhiander, Versuch dar die gesammelten Informationen der Infiltration Schwarztobriens während des Sängerwettstreites am Hofe des Imperators und Staatsfeindes Nummer eins des Mittelreiches, Gaius Cordovan Eslam Galotta, zu sammeln und in eine sinnvolle Ordnung zu bringen auf dass sie dem exklusiven Leser von Nutzen sein können.
 
 <!--more-->

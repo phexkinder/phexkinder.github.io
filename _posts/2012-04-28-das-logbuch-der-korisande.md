@@ -1,17 +1,12 @@
 ---
-
 title: Das Logbuch der Korisande
 date: 2012-04-28T20:42:55+00:00
 author: Brin
-
-
-
 image: /wp-content/uploads/Brin_richtig_gut-600x288.jpg
 categories:
   - Schriftstücke
-tags:
-  - Brin
 ---
+
 Höre Wissenssuchender,
 
 und wisse, dass wenn Du diese Seiten öffnest und deren Inhalt liest, Du mehr erfahren könntest als einem göttergefälligen Manne zum Wohl gereichet.

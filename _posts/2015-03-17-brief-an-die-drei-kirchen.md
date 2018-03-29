@@ -1,22 +1,17 @@
 ---
-
 title: Brief an die drei Kirchen
 date: 2015-03-17T19:44:22+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Sehr geehrte (geordnet nach alten bosparanschem Alphabet),
-  
+
 Erzwissensbewahrer des Tempels der Schlange,
-  
+
 Schwert der Schwerter, Ayla von Schattengrund,
-  
+
 Vogtvikar des Tempels der Mondschleier,<!--more-->
 
 heute schreibe ich Ihnen aus besonderem und dringlichem Grund. Nun, direkt nach dem Ende des Krieges der fünf und dreißig Tage gilt es die vergangenen Monde erneut und in Ruhe zu betrachten und Lehren für die Zukunft daraus zu ziehen. Dere wird geschüttelt von Konflikten neue, selbsternannte Herrscher aus eigener oder Götter Gnaden rufen Ihre Reiche aus und krallen sich in Länder die dereinst der Ordnung unterlagen. Nicht nur ein Erbe des Krieges gegen den gefallenen Alveraniar ist dies, sondern auch eine Konsequenz der Machenschaften dessen ohne Namen und seiner Knechte und Verbündeten.
@@ -30,7 +25,7 @@ Um die Kooperation zu intensivieren wird die Lehranstalt vom Ey des Drachen zu Y
 Ich möchte Sie bitten meine Vorsicht und die damit einhergehende, erzwungene Zusammenarbeit zu entschuldigen, allein ich bin mit meiner aktuellen Vorsicht mit allem was dem Namenlosen nur irgendwie zuzuordnen ist lediglich ein Kind der gemachten Erfahrungen.
 
 Hochachtungsvoll
-  
+
 Magister Taran Sohn des Muhammed der ein Sohn Ayabuns war
-  
+
 Aufgezeichnet am 24. Efferd 1026 BF/33 Hal im Anschluss an den Krieg der 35 Tage

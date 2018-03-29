@@ -1,17 +1,12 @@
 ---
-
 title: Die dem ohne Namen folgen
 date: 2013-11-05T20:34:26+00:00
 author: Taran
-
-
-
 categories:
   - Allgemein
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Schon lange haben wir immer wieder mit Anhängern des Namenlosen, des geschädelten Gottes oder des Güldenen zu tun. Im folgenden habe ich nun zusammengetragen was ich von diesen weiß.
 
 <!--more-->

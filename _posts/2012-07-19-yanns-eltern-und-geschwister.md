@@ -1,16 +1,13 @@
 ---
-
-title: 'Yann's Eltern und Geschwister'
+title: Yann's Eltern und Geschwister
 date: 2012-07-19T21:42:12+00:00
 author: Yann
-
-
-
 categories:
   - Berichte
 tags:
   - Yann
 ---
+
 Yanns Vater ist Hertwig Fuxfell und gelernter Fischer. Hertwig war niemals reich oder hoch angesehen; nicht einmal bei Seinesgleichen.<!--more--> Er ist eben ein Fischer wie so viele andere auch in Havena. Sein Boot teilt er mit seinem Bruder Harne. Die beiden hatten es beim Tod ihres Vaters Quinn Fuxfell geerbt.
 
 

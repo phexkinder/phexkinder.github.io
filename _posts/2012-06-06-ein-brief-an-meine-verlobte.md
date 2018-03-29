@@ -1,16 +1,11 @@
 ---
-
 title: Ein Brief an meine Verlobte
 date: 2012-06-06T21:47:45+00:00
 author: Durin
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Durin
 ---
+
 ## Ein Brief an meine Verlobte, meine große Liebe Elora vom Clan der Eisenfäuste, Sippe der Eorim
 
 Waldwacht, 3.Rondra 28 Hal

@@ -1,16 +1,11 @@
 ---
-
 title: Gutenachtgeschichte
 date: 2012-07-19T20:19:16+00:00
 author: Wolfhart
-
-
-
 categories:
   - Berichte
-tags:
-  - Wolfhart
 ---
+
 Irion Angbarar, der Sohn eines Senners, war neunzehn Götterläufe alt, als sein Vater starb und es an ihm war seine kranke Mutter zu versorgen. Alleine konnte er das nicht und so war er gezwungen zuzusehen wie Haus und Hof immer mehr verkamen. Auch die Krankheit seiner Mutter besserte sich nicht und wenige Monate nach ihrem Mann starb auch sie.<!--more-->
 
 

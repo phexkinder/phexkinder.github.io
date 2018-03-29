@@ -1,16 +1,11 @@
 ---
-
 title: Tarans Reisebericht
 date: 2012-05-03T12:27:14+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Reisebericht des Magus Taran ibn Muhammed ibn Ayabun ai Orkhiander
 
 Beginn der Aufzeichnung: Mitte HESinde 31 Hal / 1024 Bosparans Fall

@@ -1,16 +1,11 @@
 ---
-
 title: Von den schwarzen Landen
 date: 2012-05-03T12:01:11+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Anbei die Sammlung des erworbenen Wissens über die schwarzen Lande vor dem Bardenwettstreit am Hofe von Yol'Ghurmak.<!--more-->
 
 <span style="text-decoration: underline;">Transysilien</span>

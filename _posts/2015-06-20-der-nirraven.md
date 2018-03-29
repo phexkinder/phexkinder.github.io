@@ -1,17 +1,12 @@
 ---
-
 title: Der Nirraven
 date: 2015-06-20T13:12:16+00:00
 author: Taran
-
-
-
 categories:
   - Allgemein
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Nicht viel Belastbares ist mir von diesem Wesen oder Dämon bekannt, dennoch will ich hier zusammentragen was mir im Lauf der Zeit an Erkenntnissen, Erzählungen und Spekulationen zugefallen ist, so dass es einem wissenderen Mann zur Erkenntnis gereichen kann.<!--more-->
 
 Zu allererst hatte ich vom Nirraven von meinem guten Freund Yann Fuxfell von Havena, welcher der Vogtvikar ist, gehört. Dieser hatte in einem Treffen mit Magister Maximus Maskus Horigam gehört, dass sobald wir auf dieses Wesen stoßen sollten versuchen sollen so schnell wie möglich von diesem zu fliehen. Der Beschwörer Sulman al'Venish, der den mächtigsten Zirkel in Warunk leitete, hatte im Umfeld von Borbarads Invasion den Nirraven in die dritte Sphäre herabgerufen, welcher sodann in ihn eingefahren war. So war auch die Erwartungshaltung, beziehungsweise ist sie noch immer, dass sich dieses Problem dereinst von selbst erledigt, mit der Abberufung des Magiers in die siebte Sphäre. Ob dies, aufgrund der später näher ausgeführten Spekulationen weiterhin Bestand hat muss sich in der Zukunft zeigen.

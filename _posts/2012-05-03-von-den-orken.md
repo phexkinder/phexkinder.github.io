@@ -1,16 +1,11 @@
 ---
-
 title: Von den Orken
 date: 2012-05-03T11:52:43+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 <span style="font-family: Constantia,serif;">Wenig ist bekannt über die Kultur, Traditionen, Verhaltensweisen und Motivation der Orken. Doch schenkt man den Hinweisen Glauben, so mögen Sie schon lange vor den Menschen Aventurien besiedelt haben. Sollten sich die Gelehrten nicht verrechnet haben so mögen sie sogar schon an die 36 mal ein Tausend Jahre siedeln, ein Zahl die so unerhört groß ist, dass einige Kulturen sie nicht einmal kennen. So möchte ich die Informationen, die ich von erfahrenen Reisenden erhielt, selbst zusammengetragen habe oder schlicht einfach nachlies zusammentragen, dass sie dem geneigten Leser zum Vorteil gerreichen.</span><!--more-->
 
 <p align="center">

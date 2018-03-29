@@ -1,16 +1,11 @@
 ---
-
 title: Bitte an den Comto
 date: 2012-07-19T20:51:41+00:00
 author: Wolfhart
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Wolfhart
 ---
+
 Vieles hat sich zugetragen seit unserem letzten Treffen im sonnigen Reich der Horas. Eisiger Schrecken steckt seither in unseren Herzen. Wahnfried wird Euch bestimmt alles berichten und das besser als ich es hier im Brief könnte.<!--more-->
 
 

@@ -1,16 +1,11 @@
 ---
-
 title: Brief an Wolfhart
 date: 2012-07-19T21:00:47+00:00
 author: Yann
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Yann
 ---
+
 Havena, den 15. PRAios des Jahres 30 nach Hal
 
 Getreuer Freund,

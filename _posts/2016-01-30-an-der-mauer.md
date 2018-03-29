@@ -1,16 +1,11 @@
 ---
-
 title: An der Mauer
 date: 2016-01-30T01:03:20+00:00
 author: Wolfhart
-
-
-
 categories:
   - Berichte
-tags:
-  - Wolfhart
 ---
+
 Es war ein ständiges Kratzen, Scharren oder vielmehr eine abstruse Form von Schleifen und Ächzen zu hören. Dieses andauernde hinein kriechen wollen, dieses bedingungslose Verlangen die Mauer zu erreichen und an ihr anzubranden, <!--more-->sie auszuhöhlen! In weiten Teilen ist Sie porös geworden und der Stein begann zu rieseln. Es zermürbte den Geist alles Lebendigen, alles Guten in und hinter der Mauer.
 
 Der schon eisige und immer kälter werdende Regen klatschte und wehte mit Kraft gegen den schwarzen Stein des gigantischen Bollwerks. Diese uralte Wehranlage zwischen Ost und West, welches die Lücke zwischen der schwarzen Sichel und den Trollzacken schon seit Jahrhunderten hinweg versperrte, trotze auch in diesen Tagen dem unheiligen Ansturm. Die Horden des Sphärenschänders haben es nicht geschafft diese Grenze zu überschreiten, auch wenn zu viele andere Linien seither viel zu weit verschoben wurden. Zwischen Heil und Unheil war nunmehr schwer zu scheiden. Und immer noch kriechen diese unheiligen Toten, die unlebendigen Marionetten der schwarzen Herrin und ihrer Heerführer, Nacht für Nacht gegen diese Bastion an. Sie rauben einem den Schlaf, zerren an Geist und Gesundheit und beleidigen jede Gläubigkeit. Die Saat der Verzweiflung gedeiht unweigerlich bei jedem der wieder und wieder den gleichen alten Freund erschlagen muss. Und genau das ist die Pflicht der mittelreichischen Soldaten seit Mondläufen. Derzeit sind es die albernischen Regimenter, welche an die Mauer kommandiert sind. Ursprünglich war mit Ihnen die Trollpforte mit über eintausend Kämpfern bemannt worden. Es wurden in einem rotierenden Ablauf immer 400 Mann in Rüstung und Waffe an der Mauer gehalten und doch – die Fähigkeit Stand zu halten schwindet mehr und mehr nach letzter Nacht.

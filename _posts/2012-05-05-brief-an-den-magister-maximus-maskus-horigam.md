@@ -1,16 +1,11 @@
 ---
-
 title: Brief an den Magister Maximus Maskus Horigam
 date: 2012-05-05T11:09:30+00:00
 author: Taran
-
-
-
 categories:
   - Schriftstücke
-tags:
-  - Taran
 ---
+
 Sehr geehrter Magister Maximus,
 
 voll Schrecken will ich Euch von einigen Dingen berichten, die mich in jüngster Vergangenheit erreicht haben. Zunächst lasst mich sagen, dass es mich etwas erstaunt Euch in Gareth nicht angetroffen zu haben, nachdem meine Gefährt und ich den Treck des Handelsherren Stover aus dem Festumschen nach Gareth begleitet hatten.<!--more--> Sollte mich mein Gedächtnis trüben oder waren wir nicht dort verabredet? Nachdem wir nun noch einige Zeit in Gareth verweilten und eine Turney in der Nähe besuchten kam ich und Yann zu dem Schluss, dass Ihr wohl aufgrund sehr dringender Umstände verhindert seid, nachdem Ihr auch keine Nachricht durch Eure ehemaligen Gefährten Elgor von Prem und den Zwergenhäuptling Max uns zukommen lieset, mit welchen Ihr scheinbar Kontakt hattet noch während der Turney.
