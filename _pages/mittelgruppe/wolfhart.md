@@ -2,7 +2,7 @@
 title: Wolfhart
 date: 2012-07-05T22:50:07+00:00
 author: Wolfhart
-permalink: /mittelgruppe/wolfhart
+permalink: /mittelgruppe/wolfhart/
 ---
 
 ## Hintergrund
