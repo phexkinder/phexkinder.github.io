@@ -17,10 +17,10 @@ title: Phexkinder
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Forte Fortuna Adiuvat
-baseurl: /pages-test # the subpath of your site, e.g. /blog
-url: https://phexkinder.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url: https://www.phexkinder.de # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username: 
+github_username:
 
 # Build settings
 markdown: kramdown
