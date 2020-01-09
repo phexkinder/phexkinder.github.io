@@ -1,13 +1,6 @@
-## Header
-
-This is a test rendering
-
-### Sub-Header
-
-Let's see how stuff turns out.
-
-- Item one
-- Item two
-- Item three
-
-Let's also check a [hyperlink](https://github.com)
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
