@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Impressum
+# permalink: /impressum/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Phexkinder ist eine private, nicht-kommerzielle Seite von DSA-Rollenspielern, die ihre Charaktere und Abenteuer vorstellen möchten.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Phexkinder begrüßt und verwendet Das Schwarze Auge Fanpaket der Ulisses Medien & Spiel Distribution GmbH unter den [hier](https://ulisses-spiele.de/spielsysteme/das-schwarze-auge/) aufgelisteten Bedingungen.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<!--
+Die unter dem Bereich Medien zur Verfügung gestellten Karten unterliegen <a href="http://www.ulisses-spiele.de/sortiment/rollenspiele/das-schwarze-auge/informationen-zu-das-schwarze-auge/fan-und-kartenpaket/gebrauchsanleitung/" target="_blank">diesen </a>Nutzungsbedingungen.
+-->
 
+## Disclaimer
 
-[jekyll-organization]: https://github.com/jekyll
+DAS SCHWARZE AUGE, AVENTURIEN, DERE, MYRANOR, THARUN, UTHURIA und RIESLAND sind eingetragene Marken der Significant Fantasy Medienrechte GbR. Ohne vorherige schriftliche Genehmigung der Ulisses Medien und Spiel Distribution GmbH ist eine Verwendung der genannten Markenzeichen nicht gestattet.
