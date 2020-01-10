@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
 
 
-# The following so not all pages show up in the header navigation bar
+# The below is to avoid that all pages show up in the header navigation bar
 # See https://github.com/jekyll/minima#customize-navigation-links
 header_pages:
   - mittelgruppe.md
