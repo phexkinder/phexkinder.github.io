@@ -3,7 +3,6 @@ layout: post
 title: Madakrieger
 date: 2014-09-19T14:43:52+00:00
 author: Wolfhart
-image: /wp-content/uploads/Wald-459x288.jpg
 ---
 
 ![Wald](/assets/img/post-Wald.jpg)
