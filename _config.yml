@@ -33,6 +33,7 @@ plugins:
 # See https://github.com/jekyll/minima#customize-navigation-links
 header_pages:
   - mittelgruppe.md
+  - suedgruppe.md
   - impressum.md
 
 # Exclude from processing.
