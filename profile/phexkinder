@@ -1,0 +1,26 @@
+{
+    "ver" : "0.3",
+    "name" : "Phexkinder",
+    "shortInfo" : "Social profile of phexkinder.de",
+    "about" : "This is a site about the adventures we had in the world of \"Das Schwarze Auge\".",
+    "gender" : "",
+    "website" : "",
+    "email" : "",
+    "birthDayAndMonth" : "",
+    "birthYear" : "",
+    "hometown" : "",
+    "location" : "",
+    "coordinates" : {
+        "latitude" : "",
+        "longitude" : ""
+    },
+    "profilePhoto" : "",
+    "friendsEndpoint" : "",
+    "postsEndpoint" : "",
+    "publicKey": {
+        "kid": "",
+        "kty": "",
+        "crv": "",
+        "x": ""
+    },
+}
