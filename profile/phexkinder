@@ -17,10 +17,4 @@
     "profilePhoto" : "",
     "friendsEndpoint" : "",
     "postsEndpoint" : "",
-    "publicKey": {
-        "kid": "",
-        "kty": "",
-        "crv": "",
-        "x": ""
-    },
 }
