@@ -70,8 +70,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.1.0)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  jekyll-feed (~> 0.15)
+  minima (~> 2.5)
   tzinfo-data
 
 BUNDLED WITH
