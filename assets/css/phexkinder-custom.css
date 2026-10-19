@@ -1,0 +1,112 @@
+/* Layout tweaks from the old site's customized Twenty Eleven stylesheet
+   (blocks marked "Matthias begin/end"), loaded after twentyeleven.css.
+   Title font: Mason Serif Bold (Emigre / Jonathan Barnbrook, commercial).
+   NOTE: a web-font licence for Mason Serif still has to be purchased; until then
+   Playfair Display (SIL OFL, see ../fonts/playfair-display-OFL.txt) is the fallback. */
+@font-face {
+	font-family: "MasonSerifBold";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(../fonts/MasonSerifBold.woff) format("woff");
+}
+@font-face {
+	font-family: "Playfair Display";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(../fonts/playfair-display-latin-700-normal.woff2) format("woff2"),
+	     url(../fonts/playfair-display-latin-700-normal.woff) format("woff");
+}
+
+#page {
+	margin: 0 auto;
+}
+
+#branding hgroup {
+	margin: 0 3.6%;
+}
+
+#access div {
+	margin: 0 3.6%;
+}
+
+#primary {
+	margin: 0 -22.4% 0 0;
+}
+
+#content {
+	margin: 0 29.6% 0 3.6%;
+	width: 66.8%;
+}
+
+#secondary {
+	margin-right: 3.6%;
+}
+
+.singular #content,
+.left-sidebar.singular #content {
+	margin: 0 3.6%;
+}
+
+.singular .entry-header,
+.singular .entry-content,
+.singular footer.entry-meta,
+.singular #comments-title {
+	width: 71.98%;
+}
+
+#site-title {
+	padding: 36px 0 0 0;
+	font-family: 'MasonSerifBold', 'Playfair Display', serif;
+}
+
+#site-title a {
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 56px;
+}
+
+#site-description {
+	font-size: 20px;
+	margin: 0 270px 36px 0;
+	font-family: 'MasonSerifBold', 'Playfair Display', serif;
+}
+
+#access ul {
+	margin: 0 0 0 -1.2125em;
+}
+
+#branding #searchform {
+	right: 3.6%;
+}
+
+.entry-title {
+	font-family: 'MasonSerifBold', 'Playfair Display', serif;
+	padding-top: 12px;
+}
+
+.entry-content,
+.entry-summary {
+	font-family: 'Droid Serif', serif;
+}
+
+.entry-header .comments-link a {
+	top: 15px;
+}
+
+#supplementary {
+	padding: 1.625em 3.6%;
+}
+
+#supplementary.three .widget-area {
+	margin: 0% 3.6%;
+	width: 26.13%;
+}
+
+/* The old 270px right margin on the tagline (room for the search box) breaks small screens. */
+@media (max-width: 800px) {
+	#site-description {
+		margin-right: 0;
+	}
+}

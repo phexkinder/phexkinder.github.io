@@ -6,6 +6,7 @@
   <title>Brief an Walpurgas Schwester | PHEXKINDER</title>
   <meta name="description" content="Fortes Fortuna Adiuvat">
   <link rel="stylesheet" href="/assets/css/twentyeleven.css">
+  <link rel="stylesheet" href="/assets/css/phexkinder-custom.css">
   <meta name="robots" content="noindex">
   <link type="application/atom+xml" rel="alternate" href="https://www.phexkinder.de/new/feed.xml" title="Phexkinder" />
 </head>
@@ -17,8 +18,15 @@
       <h2 id="site-description">Fortes Fortuna Adiuvat</h2>
     </hgroup>
     <a href="/new/">
-      <img src="/assets/img/theme/header.jpg" width="1000" height="288" alt="PHEXKINDER">
+      <img id="header-image" src="/assets/img/theme/header.jpg" width="1000" height="288" alt="PHEXKINDER">
     </a>
+    <script>
+      // Random header image per page load, like the old WordPress "random header" setting.
+      (function () {
+        var list = ["/assets/img/theme/headers/Basis_BoxV3.jpg","/assets/img/theme/headers/Borbarads_Erben.jpg","/assets/img/theme/headers/Der_Stein_der_Mada.jpg","/assets/img/theme/headers/Die_Welt_des_Schwarzen_Auges.jpg","/assets/img/theme/headers/Die_Welt_des_Schwarzen_Auges2.jpg","/assets/img/theme/headers/Erben_des_Zorns.jpg","/assets/img/theme/headers/Greifenpass.jpg","/assets/img/theme/headers/Levthansband.jpg","/assets/img/theme/headers/Reise_zum_Horizont.jpg","/assets/img/theme/headers/Schwingen_aus_Schnee.jpg","/assets/img/theme/headers/Sumus_Blut.jpg","/assets/img/theme/headers/Sumus_Blut2.jpg","/assets/img/theme/headers/Verwunschen_und_Verzaubert.jpg","/assets/img/theme/headers/Verwunschen_und_Verzaubert2.jpg","/assets/img/theme/headers/Winternacht.jpg"];
+        if (list.length) document.getElementById('header-image').src = list[Math.floor(Math.random() * list.length)];
+      })();
+    </script>
     <nav id="access" role="navigation">
       <h3 class="assistive-text">Hauptmenü</h3>
       <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
