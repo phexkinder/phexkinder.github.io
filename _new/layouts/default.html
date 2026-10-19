@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != '/' %}{{ page.title | escape }} | {% endif %}{{ site.title | upcase }}</title>
+  <meta name="description" content="{{ site.description | strip | escape }}">
+  <link rel="stylesheet" href="/assets/css/twentyeleven.css">
+  {% if site.noindex %}<meta name="robots" content="noindex">{% endif %}
+  {% feed_meta %}
+</head>
+<body class="{% if page.url == '/' %}home blog {% endif %}custom-background {% if layout.sidebar == false %}singular {% else %}two-column right-sidebar{% endif %}">
+<div id="page" class="hfeed">
+  <header id="branding" role="banner">
+    <hgroup>
+      <h1 id="site-title"><span><a href="{{ '/' | relative_url }}" rel="home">{{ site.title | upcase }}</a></span></h1>
+      <h2 id="site-description">{{ site.description | strip }}</h2>
+    </hgroup>
+    <a href="{{ '/' | relative_url }}">
+      <img src="/assets/img/theme/header.jpg" width="1000" height="288" alt="{{ site.title | upcase }}">
+    </a>
+    <nav id="access" role="navigation">
+      <h3 class="assistive-text">Hauptmenü</h3>
+      <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
+      <div class="menu-menu-1-container">
+        {%- include menu.html -%}
+      </div>
+    </nav>
+  </header>
+
+  <div id="main">
+    <div id="primary">
+      <div id="content" role="main">
+        {{ content }}
+      </div>
+    </div>
+    {% include sidebar.html %}
+  </div>
+
+  <footer id="colophon" role="contentinfo">
+    <div id="site-generator">
+      <a href="{{ '/impressum' | relative_url }}">Impressum</a>
+    </div>
+  </footer>
+</div>
+</body>
+</html>

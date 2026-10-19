@@ -46,3 +46,11 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# index.html is the blog index of the /new preview (see _config_new.yml, build-new.sh)
+exclude:
+  - index.html
+  - build-new.sh
+  - _config_new.yml
+  - Gemfile
+  - Gemfile.lock

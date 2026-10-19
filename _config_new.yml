@@ -1,0 +1,28 @@
+# Overlay config for the /new preview (old WordPress look).
+# Build with ./build-new.sh, which writes the result to new/.
+# The root site keeps using _config.yml + the minima theme.
+baseurl: /new
+description: >-
+  Fortes Fortuna Adiuvat
+theme: null
+layouts_dir: _new/layouts
+includes_dir: _new/includes
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+paginate: 10
+paginate_path: "/page:num/"
+excerpt_separator: "<!--more-->"
+noindex: true
+destination: new
+# Theme assets and post images are shared with the root site (/assets/...).
+exclude:
+  - index.md
+  - assets
+  - Gemfile
+  - Gemfile.lock
+  - build-new.sh
+  - _config_new.yml
+  - new
+  - CNAME
+  - README.md
