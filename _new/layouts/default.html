@@ -7,6 +7,12 @@
   <meta name="description" content="{{ site.description | strip | escape }}">
   <link rel="stylesheet" href="/assets/css/twentyeleven.css">
   <link rel="stylesheet" href="/assets/css/phexkinder-custom.css">
+  <link rel="stylesheet" href="/assets/css/phexkinder-modern.css">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    // Apply a saved light/dark choice before first paint (no flash). Without a choice, the system setting decides.
+    try { var t = localStorage.getItem('theme'); if (t) document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+  </script>
   {% if site.noindex %}<meta name="robots" content="noindex">{% endif %}
   {% feed_meta %}
 </head>
@@ -33,6 +39,7 @@
       <div class="menu-menu-1-container">
         {%- include menu.html -%}
       </div>
+      <button type="button" id="theme-toggle" aria-label="Nachtmodus umschalten" title="Nachtmodus umschalten">☾</button>
     </nav>
   </header>
 
@@ -51,5 +58,22 @@
     </div>
   </footer>
 </div>
+<script>
+  (function () {
+    var btn = document.getElementById('theme-toggle'), root = document.documentElement;
+    function isDark() {
+      var t = root.getAttribute('data-theme');
+      return t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+    }
+    function paint() { btn.textContent = isDark() ? '☀' : '☾'; btn.setAttribute('aria-pressed', isDark()); }
+    btn.addEventListener('click', function () {
+      var next = isDark() ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      paint();
+    });
+    paint();
+  })();
+</script>
 </body>
 </html>

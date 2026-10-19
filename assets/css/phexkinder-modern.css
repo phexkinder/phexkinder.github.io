@@ -1,0 +1,314 @@
+/* Readability, accessibility, mobile menu and night mode for the /new preview.
+   Loaded after twentyeleven.css and phexkinder-custom.css. */
+
+:root {
+	--link: #3d6a22;          /* 6.4:1 on white (the old #96c46c only had 2.0:1) */
+	--link-hover: #2f5a17;
+	--text: #222;
+	--text-soft: #595959;
+	--panel: #fff;
+	--border: #ddd;
+	--heading: #111;
+	color-scheme: light;
+}
+
+/* ---------- Readability ---------- */
+body,
+input,
+textarea {
+	color: var(--text);
+}
+
+a,
+#site-title a:focus,
+#site-title a:hover,
+#site-title a:active,
+.entry-title a:hover,
+.entry-title a:focus,
+.entry-title a:active,
+#site-generator a:hover {
+	color: var(--link);
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: var(--link-hover);
+}
+
+a:focus-visible,
+button:focus-visible {
+	outline: 3px solid #e0a526;
+	outline-offset: 2px;
+}
+
+.entry-content,
+.entry-summary {
+	font-size: 17px;
+	line-height: 1.75;
+}
+
+.entry-content p {
+	margin-bottom: 1.25em;
+}
+
+.entry-meta,
+.entry-meta a,
+.widget-title,
+.widget_recent_entries .post-date,
+.post-date {
+	color: var(--text-soft);
+}
+
+#site-description {
+	color: var(--text-soft);
+}
+
+.widget_recent_entries li {
+	margin-bottom: 0.6em;
+}
+
+.widget_recent_entries .post-date {
+	display: block;
+	font-size: 12px;
+}
+
+.entry-title,
+.entry-title a,
+#site-title a,
+.entry-content h1,
+.entry-content h2,
+.entry-content h3,
+.entry-content h4,
+.entry-content h5,
+.entry-content h6,
+.entry-content strong {
+	color: var(--heading);
+}
+
+.entry-content img,
+.entry-content blockquote {
+	max-width: 100%;
+	height: auto;
+}
+
+/* ---------- Menu: keyboard and touch ---------- */
+#access ul li:focus-within > ul {
+	display: block;
+}
+
+#access {
+	position: relative;
+}
+
+#theme-toggle {
+	position: absolute;
+	top: 50%;
+	right: 14px;
+	transform: translateY(-50%);
+	background: transparent;
+	border: 1px solid #555;
+	border-radius: 4px;
+	color: #eee;
+	cursor: pointer;
+	font-size: 16px;
+	line-height: 1;
+	padding: 5px 9px;
+}
+
+#theme-toggle:hover {
+	background: #333;
+}
+
+@media (max-width: 800px) {
+	/* Submenus are always open on small screens, so they work without hover. */
+	#access ul,
+	#access li {
+		float: none;
+		margin-left: 0;
+	}
+
+	#access ul ul {
+		display: block;
+		float: none;
+		position: static;
+		width: auto;
+		box-shadow: none;
+	}
+
+	#theme-toggle {
+		top: 10px;
+		transform: none;
+	}
+
+	#access ul ul a {
+		background: transparent;
+		border-bottom: 0;
+		color: #ccc;
+		font-size: 13px;
+		padding: 7px 1.2em 7px 2.4em;
+		width: auto;
+	}
+
+	#access > .menu-menu-1-container > .menu > ul > li > a {
+		font-weight: bold;
+	}
+
+	#access li:hover > a,
+	#access a:focus {
+		background: #333;
+		color: #fff;
+	}
+
+	#access ul ul li:hover > a {
+		background: #333;
+	}
+
+	.entry-content,
+	.entry-summary {
+		font-size: 16px;
+		line-height: 1.7;
+	}
+}
+
+/* ---------- Night mode ---------- */
+html[data-theme="dark"] {
+	--link: #a9d17f;
+	--link-hover: #c6e6a4;
+	--text: #e6dccb;
+	--text-soft: #b9ae9a;
+	--panel: #221f1b;
+	--border: #3d382f;
+	--heading: #f1e8d4;
+	color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+	html:not([data-theme="light"]) {
+		--link: #a9d17f;
+		--link-hover: #c6e6a4;
+		--text: #e6dccb;
+		--text-soft: #b9ae9a;
+		--panel: #221f1b;
+		--border: #3d382f;
+		--heading: #f1e8d4;
+		color-scheme: dark;
+	}
+}
+
+/* Everything below applies whenever the dark variables are active. */
+html[data-theme="dark"] body.custom-background,
+html[data-theme="dark"] body {
+	background-color: #1f261c;
+	background-blend-mode: multiply;
+}
+
+html[data-theme="dark"] #page,
+html[data-theme="dark"] #branding,
+html[data-theme="dark"] #main,
+html[data-theme="dark"] #colophon,
+html[data-theme="dark"] #site-generator {
+	background: var(--panel);
+	color: var(--text);
+}
+
+html[data-theme="dark"] hr,
+html[data-theme="dark"] .hentry,
+html[data-theme="dark"] #nav-below,
+html[data-theme="dark"] #nav-above,
+html[data-theme="dark"] #nav-single,
+html[data-theme="dark"] .widget {
+	border-color: var(--border);
+}
+
+html[data-theme="dark"] #site-description {
+	color: var(--text-soft);
+}
+
+html[data-theme="dark"] .entry-content blockquote,
+html[data-theme="dark"] .entry-content pre,
+html[data-theme="dark"] .entry-content code {
+	background: #2b2722;
+	color: var(--text);
+}
+
+html[data-theme="dark"] .entry-content p,
+html[data-theme="dark"] .entry-content li,
+html[data-theme="dark"] .entry-content td {
+	color: var(--text);
+}
+
+html[data-theme="dark"] #access ul ul a {
+	background: #2b2722;
+	border-bottom-color: #3d382f;
+	color: var(--text);
+}
+
+html[data-theme="dark"] #access li:hover > a,
+html[data-theme="dark"] #access a:focus {
+	background: #3a352d;
+	color: #fff;
+}
+
+html[data-theme="dark"] .entry-content img {
+	opacity: 0.92;
+}
+
+@media (prefers-color-scheme: dark) {
+	html:not([data-theme="light"]) body.custom-background,
+	html:not([data-theme="light"]) body {
+		background-color: #1f261c;
+		background-blend-mode: multiply;
+	}
+
+	html:not([data-theme="light"]) #page,
+	html:not([data-theme="light"]) #branding,
+	html:not([data-theme="light"]) #main,
+	html:not([data-theme="light"]) #colophon,
+	html:not([data-theme="light"]) #site-generator {
+		background: var(--panel);
+		color: var(--text);
+	}
+
+	html:not([data-theme="light"]) hr,
+	html:not([data-theme="light"]) .hentry,
+	html:not([data-theme="light"]) #nav-below,
+	html:not([data-theme="light"]) #nav-above,
+	html:not([data-theme="light"]) #nav-single,
+	html:not([data-theme="light"]) .widget {
+		border-color: var(--border);
+	}
+
+	html:not([data-theme="light"]) #site-description {
+		color: var(--text-soft);
+	}
+
+	html:not([data-theme="light"]) .entry-content blockquote,
+	html:not([data-theme="light"]) .entry-content pre,
+	html:not([data-theme="light"]) .entry-content code {
+		background: #2b2722;
+		color: var(--text);
+	}
+
+	html:not([data-theme="light"]) .entry-content p,
+	html:not([data-theme="light"]) .entry-content li,
+	html:not([data-theme="light"]) .entry-content td {
+		color: var(--text);
+	}
+
+	html:not([data-theme="light"]) #access ul ul a {
+		background: #2b2722;
+		border-bottom-color: #3d382f;
+		color: var(--text);
+	}
+
+	html:not([data-theme="light"]) #access li:hover > a,
+	html:not([data-theme="light"]) #access a:focus {
+		background: #3a352d;
+		color: #fff;
+	}
+
+	html:not([data-theme="light"]) .entry-content img {
+		opacity: 0.92;
+	}
+}
