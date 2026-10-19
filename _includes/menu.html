@@ -1,0 +1,20 @@
+<div class="menu">
+  <ul>
+    <li class="menu-item menu-item-has-children"><a href="{{ '/mittelgruppe.html' | relative_url }}">Mittelgruppe</a>
+      <ul class="sub-menu">
+        {%- assign chars = site.pages | where_exp: "p", "p.path contains 'mittelgruppe/'" | sort: "title" -%}
+        {%- for p in chars %}
+        <li class="menu-item"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </li>
+    <li class="menu-item menu-item-has-children"><a href="{{ '/suedgruppe.html' | relative_url }}">Südgruppe</a>
+      <ul class="sub-menu">
+        {%- assign chars = site.pages | where_exp: "p", "p.path contains 'suedgruppe/'" | sort: "title" -%}
+        {%- for p in chars %}
+        <li class="menu-item"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </li>
+  </ul>
+</div>

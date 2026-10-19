@@ -1,0 +1,37 @@
+---
+layout: default
+title: Startseite
+---
+{%- if paginator.previous_page or paginator.next_page %}
+<nav id="nav-above">
+  <h3 class="assistive-text">Beitrags-Navigation</h3>
+  {%- if paginator.next_page %}<div class="nav-previous"><a href="{{ paginator.next_page_path | relative_url }}"><span class="meta-nav">←</span> Ältere Beiträge</a></div>{% endif %}
+  {%- if paginator.previous_page %}<div class="nav-next"><a href="{{ paginator.previous_page_path | relative_url }}">Neuere Beiträge <span class="meta-nav">→</span></a></div>{% endif %}
+</nav>
+{%- endif %}
+
+{% for post in paginator.posts %}
+<article class="post type-post status-publish format-standard hentry">
+  <header class="entry-header">
+    <h1 class="entry-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title | escape }}</a></h1>
+    <div class="entry-meta">
+      <span class="sep">Veröffentlicht am </span><time class="entry-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
+      {%- if post.author %}<span class="by-author"> <span class="sep"> von </span> <span class="author vcard">{{ post.author | escape }}</span></span>{% endif %}
+    </div>
+  </header>
+  <div class="entry-content">
+    {{ post.excerpt }}
+    {%- if post.excerpt != post.content %}
+    <p><a href="{{ post.url | relative_url }}">Weiterlesen <span class="meta-nav">→</span></a></p>
+    {%- endif %}
+  </div>
+</article>
+{% endfor %}
+
+{%- if paginator.previous_page or paginator.next_page %}
+<nav id="nav-below">
+  <h3 class="assistive-text">Beitrags-Navigation</h3>
+  {%- if paginator.next_page %}<div class="nav-previous"><a href="{{ paginator.next_page_path | relative_url }}"><span class="meta-nav">←</span> Ältere Beiträge</a></div>{% endif %}
+  {%- if paginator.previous_page %}<div class="nav-next"><a href="{{ paginator.previous_page_path | relative_url }}">Neuere Beiträge <span class="meta-nav">→</span></a></div>{% endif %}
+</nav>
+{%- endif %}
