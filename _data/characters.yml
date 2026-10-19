@@ -1,0 +1,30 @@
+# Characters shown as cards on /new/mittelgruppe. `author` must match the author field of the posts.
+- name: Dunkar
+  author: Dunkar
+  url: /mittelgruppe/dunkar.html
+  image: /assets/img/cards/dunkar.jpg
+  tagline: Aerensen, Drachenjäger aus dem Bornland
+- name: Durin
+  author: Durin
+  url: /mittelgruppe/durin.html
+  image: /assets/img/cards/durin.jpg
+  tagline: von den Eisenfäusten, ehemaliger Träger der Schwinge mit dem Geisterblatt
+- name: Lilu
+  author: Lilu
+  url: /mittelgruppe/lilu.html
+  image: /assets/img/cards/lilu.jpg
+  tagline: Tochter der Erde und Traumseherin
+- name: Taran
+  author: Taran
+  url: /mittelgruppe/taran.html
+  image: /assets/img/cards/taran.jpg
+  tagline: ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash'Hualay Akademie
+- name: Wolfhart
+  author: Wolfhart
+  url: /mittelgruppe/wolfhart.html
+  tagline: Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
+- name: Yann
+  author: Yann
+  url: /mittelgruppe/yann.html
+  image: /assets/img/cards/yann.jpg
+  tagline: Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas

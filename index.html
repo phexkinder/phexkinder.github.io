@@ -16,7 +16,7 @@ title: Startseite
     <h1 class="entry-title"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title | escape }}</a></h1>
     <div class="entry-meta">
       <span class="sep">Veröffentlicht am </span><time class="entry-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
-      {%- if post.author %}<span class="by-author"> <span class="sep"> von </span> <span class="author vcard">{{ post.author | escape }}</span></span>{% endif %}
+      {%- if post.author %}<span class="by-author"> <span class="sep"> von </span> <span class="author vcard"><a href="{{ '/autor/' | append: post.author | downcase | append: '/' | relative_url }}">{{ post.author | escape }}</a></span></span>{% endif %}
     </div>
   </header>
   <div class="entry-content">

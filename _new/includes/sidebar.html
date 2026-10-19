@@ -10,4 +10,13 @@
       {%- endfor %}
     </ul>
   </aside>
+  <aside class="widget widget_authors">
+    <h3 class="widget-title">Geschichten nach Autor</h3>
+    <ul>
+      {%- assign groups = site.posts | group_by: "author" | sort: "size" | reverse %}
+      {%- for g in groups %}
+      <li><a href="{{ '/autor/' | append: g.name | downcase | append: '/' | relative_url }}">{{ g.name }}</a> <span class="post-date">{{ g.size }}</span></li>
+      {%- endfor %}
+    </ul>
+  </aside>
 </div>
