@@ -30,4 +30,6 @@ exclude:
   - _config_new.yml
   - new
   - CNAME
+  - vendor
+  - node_modules
   - README.md

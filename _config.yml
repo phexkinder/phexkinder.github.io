@@ -54,3 +54,5 @@ exclude:
   - _config_new.yml
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - node_modules
