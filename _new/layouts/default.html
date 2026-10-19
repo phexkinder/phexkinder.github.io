@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title and page.url != '/' %}{{ page.title | escape }} | {% endif %}{{ site.title | upcase }}</title>
   <meta name="description" content="{{ site.description | strip | escape }}">
-  <link rel="stylesheet" href="{{ '/assets/css/twentyeleven.css' | relative_url }}">
+  <link rel="stylesheet" href="/assets/css/twentyeleven.css">
+  {% if site.noindex %}<meta name="robots" content="noindex">{% endif %}
   {% feed_meta %}
 </head>
 <body class="{% if page.url == '/' %}home blog {% endif %}custom-background {% if layout.sidebar == false %}singular {% else %}two-column right-sidebar{% endif %}">
@@ -16,7 +17,7 @@
       <h2 id="site-description">{{ site.description | strip }}</h2>
     </hgroup>
     <a href="{{ '/' | relative_url }}">
-      <img src="{{ '/assets/img/theme/header.jpg' | relative_url }}" width="1000" height="288" alt="{{ site.title | upcase }}">
+      <img src="/assets/img/theme/header.jpg" width="1000" height="288" alt="{{ site.title | upcase }}">
     </a>
     <nav id="access" role="navigation">
       <h3 class="assistive-text">Hauptmenü</h3>
