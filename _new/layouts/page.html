@@ -6,6 +6,29 @@ layout: default
     <h1 class="entry-title">{{ page.title | escape }}</h1>
   </header>
   <div class="entry-content">
-    {{ content }}
+    {%- if content contains '<!-- characters:start -->' %}
+      {%- assign before = content | split: '<!-- characters:start -->' | first %}
+      {%- assign after = content | split: '<!-- characters:end -->' | last %}
+      {{ before }}
+      {% include character-cards.html %}
+      {{ after }}
+    {%- else %}
+      {{ content }}
+    {%- endif %}
+
+    {%- if page.author %}
+      {%- assign stories = site.posts | where: "author", page.author %}
+      {%- if stories.size > 0 %}
+    <section class="author-stories">
+      <h2>Geschichten von {{ page.author }}</h2>
+      <ul>
+        {%- for p in stories %}
+        <li><a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a> <span class="post-date">{{ p.date | date: "%d.%m.%Y" }}</span></li>
+        {%- endfor %}
+      </ul>
+      <p><a href="{{ '/autor/' | append: page.author | downcase | append: '/' | relative_url }}">Alle Geschichten von {{ page.author }} →</a></p>
+    </section>
+      {%- endif %}
+    {%- endif %}
   </div>
 </article>

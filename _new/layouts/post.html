@@ -11,7 +11,7 @@ layout: default
     <h1 class="entry-title">{{ page.title | escape }}</h1>
     <div class="entry-meta">
       <span class="sep">Veröffentlicht am </span><time class="entry-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d.%m.%Y" }}</time>
-      {%- if page.author %}<span class="by-author"> <span class="sep"> von </span> <span class="author vcard">{{ page.author | escape }}</span></span>{% endif %}
+      {%- if page.author %}<span class="by-author"> <span class="sep"> von </span> <span class="author vcard"><a href="{{ '/autor/' | append: page.author | downcase | append: '/' | relative_url }}">{{ page.author | escape }}</a></span></span>{% endif %}
     </div>
   </header>
   <div class="entry-content">

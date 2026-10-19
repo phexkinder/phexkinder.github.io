@@ -14,6 +14,11 @@ paginate: 10
 paginate_path: "/page:num/"
 excerpt_separator: "<!--more-->"
 noindex: true
+# One page per author (/autor/taran/ ...), listing their posts.
+collections:
+  authors:
+    output: true
+    permalink: /autor/:name/
 destination: new
 # Theme assets and post images are shared with the root site (/assets/...).
 exclude:

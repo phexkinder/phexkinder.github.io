@@ -10,12 +10,16 @@ Nachdem der Sphärenschänder in die Ewigkeit verbannt wurde, nachdem das Schick
 
 Hier kannst du mehr erfahren über **DIE GEFÄHRTEN**! - Streiter für die alte Welt, die Zwölfe und das Kaiserreich. Und bei Gelegenheit auch für Hexen und Zwerge. Feinde allem Namenlosen und Heptsphärischen und Helden des neuen Zeitalters:
 
+<!-- characters:start -->
+
 * [Dunkar](/mittelgruppe/dunkar) Aerensen, Drachenjäger aus dem Bornland
 * [Durin](/mittelgruppe/durin) von den Eisenfäusten, ehemaliger Träger der Schwinge mit dem Geisterblatt
 * [Lilu](/mittelgruppe/lilu), Tochter der Erde und Traumseherin
 * [Taran](/mittelgruppe/taran) ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash'Hualay Akademie
 * [Wolfhart](/mittelgruppe/wolfhart) Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
 * [Yann](/mittelgruppe/yann) Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas
+
+<!-- characters:end -->
 
 
 ## Ehemalige Gefährten

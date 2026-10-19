@@ -1,0 +1,144 @@
+/* Character cards, author pages and story lists for the /new preview. */
+
+.character-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+	gap: 20px;
+	list-style: none;
+	margin: 1.5em 0 2em;
+	padding: 0;
+}
+
+.character-card {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	background: var(--panel);
+	border: 1px solid var(--border);
+	border-radius: 6px;
+	overflow: hidden;
+	transition: box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.character-card:hover,
+.character-card:focus-within {
+	box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+	transform: translateY(-2px);
+}
+
+.character-card-img {
+	display: block;
+	width: 100%;
+	aspect-ratio: 4 / 5;
+	object-fit: cover;
+	background: #e9e4d6;
+}
+
+.character-card-mono {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: 'MasonSerifBold', 'Playfair Display', serif;
+	font-size: 96px;
+	color: #6b5a34;
+	background: linear-gradient(160deg, #efe6cc, #d8c9a0);
+}
+
+.character-card-body {
+	padding: 12px 14px 14px;
+}
+
+.entry-content .character-card-name {
+	font-family: 'MasonSerifBold', 'Playfair Display', serif;
+	font-size: 22px;
+	font-weight: normal;
+	line-height: 1.2;
+	margin: 0 0 6px;
+	clear: none;
+}
+
+.entry-content .character-card-name a {
+	color: var(--heading);
+	text-decoration: none;
+}
+
+/* The whole card is clickable. */
+.character-card-name a::after {
+	content: "";
+	position: absolute;
+	inset: 0;
+}
+
+.character-card-tagline {
+	color: var(--text-soft);
+	font-size: 13px;
+	line-height: 1.45;
+	margin: 0 0 8px;
+	display: -webkit-box;
+	-webkit-line-clamp: 4;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.character-card-stories {
+	font-size: 13px;
+	margin: 0;
+	position: relative; /* stays clickable above the card link */
+	z-index: 1;
+}
+
+.author-stories {
+	border-top: 1px solid var(--border);
+	margin-top: 2.5em;
+	padding-top: 1em;
+}
+
+.author-stories h2 {
+	font-family: 'MasonSerifBold', 'Playfair Display', serif;
+	font-size: 24px;
+	margin-bottom: 0.6em;
+}
+
+.author-stories ul,
+.author-stories-list {
+	list-style: none;
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+.author-stories li,
+.author-stories-list li {
+	border-bottom: 1px dotted var(--border);
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0 12px;
+	justify-content: space-between;
+	padding: 7px 0;
+}
+
+.author-stories .post-date,
+.author-stories-list .post-date {
+	color: var(--text-soft);
+	font-size: 13px;
+}
+
+.widget_authors .post-date {
+	display: inline;
+	margin-left: 4px;
+}
+
+@media (max-width: 800px) {
+	.character-cards {
+		grid-template-columns: repeat(2, 1fr);
+		gap: 14px;
+	}
+
+	.character-card-mono {
+		font-size: 72px;
+	}
+
+	.entry-content .character-card-name {
+		font-size: 17px;
+		overflow-wrap: anywhere;
+	}
+}
