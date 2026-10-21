@@ -9,6 +9,7 @@ includes_dir: _new/includes
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
 paginate: 10
 paginate_path: "/page:num/"
 excerpt_separator: "<!--more-->"
@@ -36,3 +37,4 @@ exclude:
   - vendor
   - node_modules
   - README.md
+  - robots.txt

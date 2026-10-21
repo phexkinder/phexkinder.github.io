@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ site.lang | default: 'de' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title and page.url != '/' %}{{ page.title | escape }} | {% endif %}{{ site.title | upcase }}</title>
-  <meta name="description" content="{{ site.description | strip | escape }}">
+  {% seo %}
   <link rel="stylesheet" href="/assets/css/twentyeleven.css">
   <link rel="stylesheet" href="/assets/css/phexkinder-custom.css">
   <link rel="stylesheet" href="/assets/css/phexkinder-modern.css">
