@@ -51,6 +51,11 @@
         if (list.length) document.getElementById('header-image').src = list[Math.floor(Math.random() * list.length)];
       })();
     </script>
+    <form method="get" id="searchform" action="/new/suche/" role="search">
+      <label for="s" class="assistive-text">Suche</label>
+      <input type="search" class="field" name="q" id="s" placeholder="Suche">
+      <input type="submit" class="submit" id="searchsubmit" value="Suche">
+    </form>
     <nav id="access" role="navigation" aria-label="Hauptmenü">
       <h3 class="assistive-text">Hauptmenü</h3>
       <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
@@ -70,6 +75,7 @@
         <li class="menu-item"><a href="/new/geschichten/suedgruppe/">Geschichten</a></li>
       </ul>
     </li>
+    <li class="menu-item"><a href="/new/suche/">Suche</a></li>
   </ul>
 </div>
 </div>
@@ -83,9 +89,9 @@
         <nav id="nav-single">
   <h3 class="assistive-text">Beitrags-Navigation</h3><span class="nav-previous"><a href="/new/2012/05/03/von-den-schwarzen-landen.html"><span class="meta-nav">←</span> Vorheriger</a></span><span class="nav-next"><a href="/new/2012/05/05/brief-an-den-magister-maximus-maskus-horigam.html">Nächster <span class="meta-nav">→</span></a></span>
 </nav>
-<article class="post type-post status-publish format-standard hentry">
+<article class="post type-post status-publish format-standard hentry" data-pagefind-body>
   <header class="entry-header">
-    <h1 class="entry-title">Die Anrufung der Elemente</h1>
+    <h1 class="entry-title" data-pagefind-meta="title">Die Anrufung der Elemente</h1>
     <div class="entry-meta">
       <span class="sep">Veröffentlicht am </span><time class="entry-date" datetime="2012-05-05T11:07:07+00:00">05.05.2012</time><span class="by-author"> <span class="sep"> von </span> <span class="author vcard"><a href="/new/autor/taran/">Taran</a></span></span>
     </div>

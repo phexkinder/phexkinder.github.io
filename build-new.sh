@@ -11,4 +11,9 @@ ${JEKYLL:-bundle exec jekyll} build --config _config.yml,_config_new.yml
 # keep them inside the preview. Shared assets (/assets/...) stay untouched.
 find new -name '*.html' -print0 | xargs -0 sed -i -E \
   's#href="/(mittelgruppe|suedgruppe|impressum|20[0-9]{2}/)#href="/new/\1#g'
+# Static search: index the finished pages (only elements marked data-pagefind-body are indexed).
+# The version is pinned so the committed index stays reproducible. Needs Node.js.
+PAGEFIND_VERSION=1.5.2
+npx --yes "pagefind@${PAGEFIND_VERSION}" --site new --quiet
+
 echo "Built new/ ($(find new -type f | wc -l) files)"

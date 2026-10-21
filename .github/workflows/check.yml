@@ -31,6 +31,10 @@ jobs:
         with:
           bundler-cache: true # reads .ruby-version and Gemfile.lock
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22 # for the search indexer run by build-new.sh
+
       - name: Content (front matter and data files)
         run: ruby .github/scripts/validate-content.rb
 

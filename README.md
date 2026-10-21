@@ -12,12 +12,12 @@ Ideas and planned steps are collected in [issue #20](https://github.com/phexkind
 
 ## Run it locally
 
-You need Ruby (version in `.ruby-version`) and Bundler.
+You need Ruby (version in `.ruby-version`) and Bundler; `./build-new.sh` also needs Node.js (it runs the search indexer).
 
 ```sh
 bundle install
 bundle exec jekyll serve      # current design at http://localhost:4000/
-./build-new.sh                # builds the /new preview into new/ (see below)
+./build-new.sh                # builds the /new preview and its search index into new/ (see below; needs Node.js)
 ```
 
 ## How the repository is organized
@@ -32,6 +32,7 @@ bundle exec jekyll serve      # current design at http://localhost:4000/
 | `_config.yml`, `_config_new.yml` | settings for the current design / extra settings for the preview |
 | `_data/` | `characters.yml` (cards), `navigation.yml` (/new menu and which authors belong to which group), `headers.yml` (header images) |
 | `_authors/`, `_stories/` | one small page per author / per group, used by /new only |
+| `suche.html` | the search page of /new (excluded from the main site) |
 | `assets/` | images, fonts, stylesheets and scripts |
 | `.github/` | CI checks and Dependabot settings |
 
@@ -41,6 +42,18 @@ GitHub Pages builds the main site by itself, but it can only run one build. The 
 built with `./build-new.sh` (`_config_new.yml` on top of `_config.yml`) and the result is committed in `new/`.
 **After changing anything that affects /new** (a post, a character, `_new/`, `_data/`, its CSS), run
 `./build-new.sh` and commit `new/` as well. CI fails with a clear message if `new/` is out of date.
+
+## Search (/new)
+
+`/new/suche/` is a static search ([Pagefind](https://pagefind.app/)): no server, it runs in the visitor's browser. The header
+search box and the menu entry "Suche" lead to it.
+
+- `./build-new.sh` builds the index from the finished pages into `new/pagefind/` (about 1.2 MB) and `new/` is committed like the
+  rest, so the index changes whenever content changes. The Pagefind version is pinned in the script (`PAGEFIND_VERSION`); to upgrade,
+  change it, rebuild and commit.
+- Only elements marked `data-pagefind-body` are indexed: the stories and the character and group pages (set in their layouts in
+  `_new/layouts/`). Add `data-pagefind-ignore` to leave something out of the index.
+- Result titles come from `data-pagefind-meta="title"`. Pagefind filters are not used on purpose: with a filter in the index, two builds of the same content are no longer identical, and `new/` must be reproducible for the CI sync check. (Stories by author are on the author pages.)
 
 ## Add a story
 

@@ -15,3 +15,6 @@
       url: /suedgruppe.html
     - title: Geschichten
       url: /geschichten/suedgruppe/
+# A top-level entry without children is a plain link.
+- title: Suche
+  url: /suche/

@@ -49,6 +49,11 @@
         if (list.length) document.getElementById('header-image').src = list[Math.floor(Math.random() * list.length)];
       })();
     </script>
+    <form method="get" id="searchform" action="/new/suche/" role="search">
+      <label for="s" class="assistive-text">Suche</label>
+      <input type="search" class="field" name="q" id="s" placeholder="Suche">
+      <input type="submit" class="submit" id="searchsubmit" value="Suche">
+    </form>
     <nav id="access" role="navigation" aria-label="Hauptmenü">
       <h3 class="assistive-text">Hauptmenü</h3>
       <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
@@ -68,6 +73,7 @@
         <li class="menu-item"><a href="/new/geschichten/suedgruppe/">Geschichten</a></li>
       </ul>
     </li>
+    <li class="menu-item"><a href="/new/suche/">Suche</a></li>
   </ul>
 </div>
 </div>
@@ -78,9 +84,9 @@
   <div id="main">
     <div id="primary">
       <div id="content" role="main">
-        <article class="page type-page status-publish hentry">
+        <article class="page type-page status-publish hentry" data-pagefind-body>
   <header class="entry-header">
-    <h1 class="entry-title">Impressum</h1>
+    <h1 class="entry-title" data-pagefind-meta="title">Impressum</h1>
   </header>
   <div class="entry-content">
       <p>Phexkinder ist eine private, nicht-kommerzielle Seite von DSA-Rollenspielern, die ihre Charaktere und Abenteuer vorstellen möchten.</p>

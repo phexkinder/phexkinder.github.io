@@ -60,12 +60,28 @@ def file_for_url_path(path)
   File.exist?(path.sub(%r{\A/}, ""))
 end
 
+# A page can be a source file next to its URL (.html or .md), also for folder-style URLs like /suche/.
+def page_exists?(url)
+  base = url.sub(%r{\A/}, "").chomp("/")
+  candidates = [base, base.sub(/\.html\z/, ".md"), "#{base}.html", "#{base}.md", "#{base}/index.html", "#{base}/index.md"]
+  candidates.any? { |c| !c.empty? && File.file?(c) }
+end
+
 # ---- navigation: groups, their authors and their pages ------------------------------------------------
 navigation = load_yaml("_data/navigation.yml") || []
 known_authors = []
 author_group = {}
 navigation.each_with_index do |group, i|
   where = "_data/navigation.yml"
+  if group.is_a?(Hash) && !group.key?("children")
+    # a plain link: needs a title and the url of an existing page
+    unless group["title"].is_a?(String) && group["url"].is_a?(String)
+      error(where, "entry #{i + 1} without children needs a title and a url")
+      next
+    end
+    error(where, "menu entry #{group['title']} points to #{group['url']}, but no such page exists") unless page_exists?(group["url"])
+    next
+  end
   unless group.is_a?(Hash) && group["title"].is_a?(String) && group["authors"].is_a?(Array) && group["children"].is_a?(Array)
     error(where, "entry #{i + 1} needs title, authors (list) and children (list)")
     next
@@ -83,17 +99,13 @@ navigation.each_with_index do |group, i|
       next
     end
     url = child["url"]
-    exists = if url.start_with?("/geschichten/")
-               File.exist?("_stories/#{url.split('/')[2]}.md")
-             else
-               file_for_url_path(url) || File.exist?(url.sub(%r{\A/}, "").sub(/\.html\z/, ".md"))
-             end
+    exists = url.start_with?("/geschichten/") ? File.exist?("_stories/#{url.split('/')[2]}.md") : page_exists?(url)
     error(where, "menu entry #{group['title']} > #{child['title']} points to #{url}, but no such page exists") unless exists
   end
 end
 # the stories page of a group is found through the slug of the group title (see _new/layouts/stories.html)
 navigation.each do |group|
-  next unless group.is_a?(Hash) && group["title"].is_a?(String)
+  next unless group.is_a?(Hash) && group["title"].is_a?(String) && group.key?("children")
 
   stories = "_stories/#{slug(group['title'])}.md"
   error("_data/navigation.yml", "group #{group['title']} has no stories page #{stories}") unless File.exist?(stories)
