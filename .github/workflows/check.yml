@@ -31,6 +31,12 @@ jobs:
         with:
           bundler-cache: true # reads .ruby-version and Gemfile.lock
 
+      - name: Content (front matter and data files)
+        run: ruby .github/scripts/validate-content.rb
+
+      - name: Content checks catch deliberate mistakes
+        run: .github/scripts/test-validate-content.sh
+
       - name: Build the site (same gems as GitHub Pages)
         run: bundle exec jekyll build
 
