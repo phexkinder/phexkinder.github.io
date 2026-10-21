@@ -22,7 +22,7 @@ jobs:
       LANG: C.UTF-8
       LC_ALL: C.UTF-8
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: No forbidden or oversized files
         run: .github/scripts/forbidden-files.sh
