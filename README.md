@@ -49,6 +49,7 @@ Create `_posts/YYYY-MM-DD-short-title.md`:
 ```markdown
 ---
 layout: post
+title: Der Titel der Geschichte
 author: Taran        # must match a name in _data/navigation.yml, e.g. Dunkar, Taran, Wolfhart, Yann, Brin
 ---
 
@@ -57,9 +58,9 @@ First paragraph of the story. <!--more-->   (optional: the home page of /new sho
 The rest of the story.
 ```
 
-The title is currently taken from the file name (`2016-01-30-an-der-mauer.md` becomes "An Der Mauer").
-Optional front matter for nicer link previews when the page is shared: `description:` and `image:`
-(a path such as `/assets/img/post-Wald.jpg`).
+Every story needs a `title:` line (the check fails without it), because a title cannot be written reliably in a file name
+(capitalization, punctuation, umlauts). Optional front matter for nicer link previews when the page is shared:
+`description:` and `image:` (a path such as `/assets/img/post-Wald.jpg`).
 
 ## Add a character
 
@@ -74,6 +75,7 @@ Optional front matter for nicer link previews when the page is shared: `descript
 `.github/workflows/check.yml` runs, and you can run the same scripts locally:
 
 - **Forbidden files**: `.github/scripts/forbidden-files.sh` fails on `wp-config*`, SQL dumps, archives, keys, `.env`, `*.mp3`, `*.exe` and files over 10 MB, so material from the old WordPress backup cannot be published by accident (this repository is public).
+- **Content** (`ruby .github/scripts/validate-content.rb`): every story has a valid date (matching its file name), a known author and no misspelled front matter keys; character pages, cards, header images and the menu data point to things that exist. `.github/scripts/test-validate-content.sh` proves that each of these mistakes is really caught.
 - **Build** with the same gems as GitHub Pages (`bundle exec jekyll build`).
 - **`new/` in sync**: `.github/scripts/check-new-in-sync.sh`.
 - **Internal links and images** (html-proofer; external links are not checked).
