@@ -9,7 +9,7 @@ trap 'rm -rf "$work"' EXIT
 
 fresh_copy() {
   rm -rf "$work/site"; mkdir -p "$work/site/assets"
-  (cd "$root" && cp -R _posts _authors _stories _data mittelgruppe suedgruppe mittelgruppe.md suedgruppe.md "$work/site/" && cp -R assets/img "$work/site/assets/")
+  (cd "$root" && cp -R _posts _authors _stories _data mittelgruppe suedgruppe mittelgruppe.md suedgruppe.md suche.html "$work/site/" && cp -R assets/img "$work/site/assets/")
 }
 
 failures=0
@@ -41,6 +41,8 @@ fresh_copy; sed -i 's#^permalink: .*#permalink: /mittelgruppe/falsch.html#' "$wo
                                                                                          expect "wrong character permalink"   "permalink must be /mittelgruppe/taran.html"
 fresh_copy; sed -i 's#url: /suedgruppe.html#url: /gibt-es-nicht.html#' "$work/site/_data/navigation.yml"
                                                                                          expect "menu entry without a page"   "points to /gibt-es-nicht.html"
+fresh_copy; sed -i 's#url: /suche/#url: /gibt-es-nicht/#' "$work/site/_data/navigation.yml"
+                                                                                         expect "link entry without a page"   "points to /gibt-es-nicht/"
 fresh_copy; rm "$work/site/_authors/taran.md";                                           expect "author without author page"  "has stories but no author page"
 fresh_copy; sed -i 's/Wolfhart, Yann\]/Wolfhart, Yann, Brin]/' "$work/site/_data/navigation.yml"
                                                                                          expect "author in two groups"        "is listed in two groups"

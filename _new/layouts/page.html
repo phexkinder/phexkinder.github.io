@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<article class="page type-page status-publish hentry">
+<article class="page type-page status-publish hentry" data-pagefind-body>
   <header class="entry-header">
-    <h1 class="entry-title">{{ page.title | escape }}</h1>
+    <h1 class="entry-title" data-pagefind-meta="title">{{ page.title | escape }}</h1>
   </header>
   <div class="entry-content">
     {%- if content contains '<!-- characters:start -->' %}

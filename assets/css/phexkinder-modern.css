@@ -387,3 +387,66 @@ html[data-theme="dark"] #access .submenu-toggle:focus {
 		color: #fff;
 	}
 }
+
+/* ---------- Search (Pagefind UI on /suche/ and the header box) ---------- */
+#search {
+	--pagefind-ui-scale: 0.95;
+	--pagefind-ui-primary: var(--link);
+	--pagefind-ui-text: var(--text);
+	--pagefind-ui-background: var(--panel);
+	--pagefind-ui-border: var(--border);
+	--pagefind-ui-tag: var(--border);
+	--pagefind-ui-border-width: 1px;
+	--pagefind-ui-border-radius: 4px;
+	--pagefind-ui-font: inherit;
+}
+
+#search mark {
+	background: #f6e08a;
+	color: #222;
+}
+
+#search .pagefind-ui__result-link {
+	color: var(--link);
+}
+
+#branding #searchform #s {
+	color: var(--text);
+}
+
+html[data-theme="dark"] #branding #s,
+html[data-theme="dark"] #search input {
+	background-color: #2b2722;
+	color: var(--text);
+}
+
+@media (prefers-color-scheme: dark) {
+	html:not([data-theme="light"]) #branding #s,
+	html:not([data-theme="light"]) #search input {
+		background-color: #2b2722;
+		color: var(--text);
+	}
+}
+
+/* Header search box: wide enough for the placeholder; grows when focused (like the original theme). */
+#branding #s {
+	width: 100px;
+}
+
+#branding #s:focus {
+	width: 170px;
+}
+
+#search .pagefind-ui__search-clear {
+	background: transparent;
+	border: 0;
+	box-shadow: none;
+	color: var(--link);
+}
+
+#search .pagefind-ui__button {
+	background: transparent;
+	border: 1px solid var(--border);
+	box-shadow: none;
+	color: var(--link);
+}

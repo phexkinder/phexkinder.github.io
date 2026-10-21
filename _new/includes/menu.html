@@ -1,11 +1,12 @@
 {%- comment -%}
   Main menu, generated from _data/navigation.yml.
-  Each top-level entry is a button that opens its submenu (see assets/js/menu.js); without JavaScript
+  Each top-level entry with children is a button that opens its submenu; an entry with only a url is a plain link (see assets/js/menu.js); without JavaScript
   the submenus still open on hover/keyboard focus (CSS), and on small screens they are always open.
 {%- endcomment -%}
 <div class="menu">
   <ul>
     {%- for item in site.data.navigation %}
+    {%- if item.children %}
     {%- assign section = false %}
     {%- if item.authors contains page.author or item.authors contains page.name %}{% assign section = true %}{% endif %}
     {%- for child in item.children %}{% if page.url == child.url %}{% assign section = true %}{% endif %}{% endfor %}
@@ -17,6 +18,9 @@
         {%- endfor %}
       </ul>
     </li>
+    {%- else %}
+    <li class="menu-item{% if page.url == item.url %} current-menu-item{% endif %}"><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+    {%- endif %}
     {%- endfor %}
   </ul>
 </div>

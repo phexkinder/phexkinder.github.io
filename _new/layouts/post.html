@@ -6,9 +6,9 @@ layout: default
   {%- if page.previous %}<span class="nav-previous"><a href="{{ page.previous.url | relative_url }}"><span class="meta-nav">←</span> Vorheriger</a></span>{% endif %}
   {%- if page.next %}<span class="nav-next"><a href="{{ page.next.url | relative_url }}">Nächster <span class="meta-nav">→</span></a></span>{% endif %}
 </nav>
-<article class="post type-post status-publish format-standard hentry">
+<article class="post type-post status-publish format-standard hentry" data-pagefind-body>
   <header class="entry-header">
-    <h1 class="entry-title">{{ page.title | escape }}</h1>
+    <h1 class="entry-title" data-pagefind-meta="title">{{ page.title | escape }}</h1>
     <div class="entry-meta">
       <span class="sep">Veröffentlicht am </span><time class="entry-date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d.%m.%Y" }}</time>
       {%- if page.author %}<span class="by-author"> <span class="sep"> von </span> <span class="author vcard"><a href="{{ '/autor/' | append: page.author | downcase | append: '/' | relative_url }}">{{ page.author | escape }}</a></span></span>{% endif %}
