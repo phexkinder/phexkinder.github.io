@@ -24,13 +24,13 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: null # own layouts in _layouts/ and _includes/, no gem theme
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
-# The below is to avoid that all pages show up in the header navigation bar
-# See https://github.com/jekyll/minima#customize-navigation-links
+# Pages listed here appear in the header navigation (see _includes/header.html).
 header_pages:
   - mittelgruppe.md
   - suedgruppe.md

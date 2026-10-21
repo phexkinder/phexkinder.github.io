@@ -7,9 +7,6 @@ cd "$(dirname "$0")"
 rm -rf new
 ${JEKYLL:-bundle exec jekyll} build --config _config.yml,_config_new.yml
 
-# The minima gem still contributes its assets; the new layout does not use them.
-rm -rf new/assets
-
 # Links inside post/page text are written as absolute paths (/mittelgruppe/...);
 # keep them inside the preview. Shared assets (/assets/...) stay untouched.
 find new -name '*.html' -print0 | xargs -0 sed -i -E \
