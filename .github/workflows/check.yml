@@ -1,0 +1,43 @@
+name: Check
+
+# Runs on every pull request and on master. GitHub Pages itself keeps building the live site;
+# these checks only catch problems before they get merged.
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      LANG: C.UTF-8
+      LC_ALL: C.UTF-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: No forbidden or oversized files
+        run: .github/scripts/forbidden-files.sh
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true # reads .ruby-version and Gemfile.lock
+
+      - name: Build the site (same gems as GitHub Pages)
+        run: bundle exec jekyll build
+
+      - name: new/ is in sync with the /new sources
+        run: .github/scripts/check-new-in-sync.sh
+
+      - name: Internal links and images
+        run: |
+          gem install html-proofer -v 5.2.3 --no-document
+          htmlproofer ./_site --disable-external --assume-extension .html --no-enforce-https
