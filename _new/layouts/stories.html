@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{%- assign group_authors = "" | split: "" -%}
+{%- for item in site.data.navigation -%}
+  {%- assign slug = item.title | downcase | replace: "ü", "ue" -%}
+  {%- if page.name == slug -%}{%- assign group_authors = item.authors -%}{%- endif -%}
+{%- endfor -%}
+{%- assign stories = "" | split: "" -%}
+{%- for p in site.posts -%}
+  {%- if group_authors contains p.author -%}{%- assign stories = stories | push: p -%}{%- endif -%}
+{%- endfor -%}
+<article class="page type-page hentry">
+  <header class="entry-header">
+    <h1 class="entry-title">{{ page.title | escape }}</h1>
+    <div class="entry-meta">{{ stories.size }} {% if stories.size == 1 %}Geschichte{% else %}Geschichten{% endif %} · <a href="{{ page.overview | relative_url }}">Zur Gruppenübersicht</a></div>
+  </header>
+  <div class="entry-content">
+    <ul class="author-stories-list">
+      {%- for p in stories %}
+      <li>
+        <a href="{{ p.url | relative_url }}">{{ p.title | escape }}</a>
+        <span class="post-date"><a href="{{ '/autor/' | append: p.author | downcase | append: '/' | relative_url }}">{{ p.author }}</a> · {{ p.date | date: "%d.%m.%Y" }}</span>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</article>

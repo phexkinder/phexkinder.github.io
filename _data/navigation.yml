@@ -1,0 +1,17 @@
+# Main menu of the /new preview. Top level = the groups; each has an overview page and a page with the
+# group's stories. `authors` lists the post authors (characters) that belong to the group: it decides
+# which stories appear on the stories page and which menu entry is marked as the current section.
+- title: Mittelgruppe
+  authors: [Dunkar, Coran, Durin, Lilu, Taran, Wolfhart, Yann]
+  children:
+    - title: Übersicht
+      url: /mittelgruppe.html
+    - title: Geschichten
+      url: /geschichten/mittelgruppe/
+- title: Südgruppe
+  authors: [Brin]
+  children:
+    - title: Übersicht
+      url: /suedgruppe.html
+    - title: Geschichten
+      url: /geschichten/suedgruppe/

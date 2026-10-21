@@ -1,20 +1,22 @@
+{%- comment -%}
+  Main menu, generated from _data/navigation.yml.
+  Each top-level entry is a button that opens its submenu (see assets/js/menu.js); without JavaScript
+  the submenus still open on hover/keyboard focus (CSS), and on small screens they are always open.
+{%- endcomment -%}
 <div class="menu">
   <ul>
-    <li class="menu-item menu-item-has-children"><a href="{{ '/mittelgruppe.html' | relative_url }}">Mittelgruppe</a>
-      <ul class="sub-menu">
-        {%- assign chars = site.pages | where_exp: "p", "p.path contains 'mittelgruppe/'" | sort: "title" -%}
-        {%- for p in chars %}
-        <li class="menu-item"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+    {%- for item in site.data.navigation %}
+    {%- assign section = false %}
+    {%- if item.authors contains page.author or item.authors contains page.name %}{% assign section = true %}{% endif %}
+    {%- for child in item.children %}{% if page.url == child.url %}{% assign section = true %}{% endif %}{% endfor %}
+    <li class="menu-item menu-item-has-children{% if section %} current-menu-ancestor{% endif %}">
+      <button type="button" class="submenu-toggle" aria-expanded="false" aria-controls="submenu-{{ forloop.index }}">{{ item.title }}<span class="caret" aria-hidden="true"></span></button>
+      <ul class="sub-menu" id="submenu-{{ forloop.index }}">
+        {%- for child in item.children %}
+        <li class="menu-item"><a href="{{ child.url | relative_url }}"{% if page.url == child.url %} aria-current="page"{% endif %}>{{ child.title }}</a></li>
         {%- endfor %}
       </ul>
     </li>
-    <li class="menu-item menu-item-has-children"><a href="{{ '/suedgruppe.html' | relative_url }}">Südgruppe</a>
-      <ul class="sub-menu">
-        {%- assign chars = site.pages | where_exp: "p", "p.path contains 'suedgruppe/'" | sort: "title" -%}
-        {%- for p in chars %}
-        <li class="menu-item"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-        {%- endfor %}
-      </ul>
-    </li>
+    {%- endfor %}
   </ul>
 </div>

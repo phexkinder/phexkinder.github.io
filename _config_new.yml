@@ -18,6 +18,10 @@ collections:
   authors:
     output: true
     permalink: /autor/:name/
+  # One stories page per group (/geschichten/mittelgruppe/ ...), see _data/navigation.yml.
+  stories:
+    output: true
+    permalink: /geschichten/:name/
 destination: new
 # Theme assets and post images are shared with the root site (/assets/...).
 exclude:

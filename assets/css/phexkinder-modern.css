@@ -312,3 +312,78 @@ html[data-theme="dark"] .entry-content img {
 		opacity: 0.92;
 	}
 }
+
+/* ---------- Menu buttons (groups) ---------- */
+#access .submenu-toggle {
+	background: transparent;
+	border: 0;
+	color: #eee;
+	cursor: pointer;
+	display: block;
+	font: inherit;
+	line-height: 3.333em;
+	margin: 0;
+	padding: 0 1.2125em;
+	text-align: left;
+	text-decoration: none;
+}
+
+#access .submenu-toggle .caret {
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-top: 5px solid currentColor;
+	display: inline-block;
+	margin-left: 7px;
+	vertical-align: middle;
+}
+
+#access li:hover > .submenu-toggle,
+#access li.is-open > .submenu-toggle,
+#access .submenu-toggle:focus {
+	background: linear-gradient(#f9f9f9, #e5e5e5);
+	color: #373737;
+}
+
+#access li.is-open > ul {
+	display: block;
+}
+
+#access .current-menu-ancestor > .submenu-toggle,
+#access a[aria-current="page"] {
+	font-weight: bold;
+}
+
+@media (max-width: 800px) {
+	/* Submenus are always open here, so the group buttons act as headings. */
+	#access .submenu-toggle {
+		cursor: default;
+		font-weight: bold;
+		pointer-events: none;
+	}
+
+	#access .submenu-toggle .caret {
+		display: none;
+	}
+
+	#access li:hover > .submenu-toggle,
+	#access .submenu-toggle:focus {
+		background: transparent;
+		color: #eee;
+	}
+}
+
+html[data-theme="dark"] #access li:hover > .submenu-toggle,
+html[data-theme="dark"] #access li.is-open > .submenu-toggle,
+html[data-theme="dark"] #access .submenu-toggle:focus {
+	background: #3a352d;
+	color: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+	html:not([data-theme="light"]) #access li:hover > .submenu-toggle,
+	html:not([data-theme="light"]) #access li.is-open > .submenu-toggle,
+	html:not([data-theme="light"]) #access .submenu-toggle:focus {
+		background: #3a352d;
+		color: #fff;
+	}
+}

@@ -34,7 +34,7 @@
         if (list.length) document.getElementById('header-image').src = list[Math.floor(Math.random() * list.length)];
       })();
     </script>
-    <nav id="access" role="navigation">
+    <nav id="access" role="navigation" aria-label="Hauptmenü">
       <h3 class="assistive-text">Hauptmenü</h3>
       <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
       <div class="menu-menu-1-container">
@@ -59,6 +59,7 @@
     </div>
   </footer>
 </div>
+<script src="/assets/js/menu.js"></script>
 <script>
   (function () {
     var btn = document.getElementById('theme-toggle'), root = document.documentElement;
