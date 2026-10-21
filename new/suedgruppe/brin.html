@@ -34,25 +34,23 @@
         if (list.length) document.getElementById('header-image').src = list[Math.floor(Math.random() * list.length)];
       })();
     </script>
-    <nav id="access" role="navigation">
+    <nav id="access" role="navigation" aria-label="Hauptmenü">
       <h3 class="assistive-text">Hauptmenü</h3>
       <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
       <div class="menu-menu-1-container"><div class="menu">
   <ul>
-    <li class="menu-item menu-item-has-children"><a href="/new/mittelgruppe.html">Mittelgruppe</a>
-      <ul class="sub-menu">
-        <li class="menu-item"><a href="/new/mittelgruppe/coran.html">Coran</a></li>
-        <li class="menu-item"><a href="/new/mittelgruppe/dunkar.html">Dunkar</a></li>
-        <li class="menu-item"><a href="/new/mittelgruppe/durin.html">Durin</a></li>
-        <li class="menu-item"><a href="/new/mittelgruppe/lilu.html">Lilu</a></li>
-        <li class="menu-item"><a href="/new/mittelgruppe/taran.html">Taran</a></li>
-        <li class="menu-item"><a href="/new/mittelgruppe/wolfhart.html">Wolfhart</a></li>
-        <li class="menu-item"><a href="/new/mittelgruppe/yann.html">Yann</a></li>
+    <li class="menu-item menu-item-has-children">
+      <button type="button" class="submenu-toggle" aria-expanded="false" aria-controls="submenu-1">Mittelgruppe<span class="caret" aria-hidden="true"></span></button>
+      <ul class="sub-menu" id="submenu-1">
+        <li class="menu-item"><a href="/new/mittelgruppe.html">Übersicht</a></li>
+        <li class="menu-item"><a href="/new/geschichten/mittelgruppe/">Geschichten</a></li>
       </ul>
     </li>
-    <li class="menu-item menu-item-has-children"><a href="/new/suedgruppe.html">Südgruppe</a>
-      <ul class="sub-menu">
-        <li class="menu-item"><a href="/new/suedgruppe/brin.html">Brin von Andergast</a></li>
+    <li class="menu-item menu-item-has-children current-menu-ancestor">
+      <button type="button" class="submenu-toggle" aria-expanded="false" aria-controls="submenu-2">Südgruppe<span class="caret" aria-hidden="true"></span></button>
+      <ul class="sub-menu" id="submenu-2">
+        <li class="menu-item"><a href="/new/suedgruppe.html">Übersicht</a></li>
+        <li class="menu-item"><a href="/new/geschichten/suedgruppe/">Geschichten</a></li>
       </ul>
     </li>
   </ul>
@@ -253,6 +251,7 @@ Einer wurde vergessen.</p>
     </div>
   </footer>
 </div>
+<script src="/assets/js/menu.js"></script>
 <script>
   (function () {
     var btn = document.getElementById('theme-toggle'), root = document.documentElement;
