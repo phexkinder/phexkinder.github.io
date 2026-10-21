@@ -1,6 +1,6 @@
 version: 2
 updates:
-  # Ruby gems (github-pages and friends). Security alerts are separate and stay on.
+  # Ruby gems (Jekyll and its plugins). Security alerts are separate and stay on.
   - package-ecosystem: bundler
     directory: "/"
     schedule:

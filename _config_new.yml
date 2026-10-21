@@ -1,5 +1,5 @@
 # Overlay config for the /new preview (old WordPress look).
-# Build with ./build-new.sh, which writes the result to new/.
+# ./build-site.sh builds it on top of _config.yml into _site/new/.
 # The root site keeps using _config.yml with its own layouts in _layouts/ and _includes/.
 baseurl: /new
 description: >-
@@ -23,16 +23,14 @@ collections:
   stories:
     output: true
     permalink: /geschichten/:name/
-destination: new
 # Theme assets and post images are shared with the root site (/assets/...).
 exclude:
   - index.md
   - assets
   - Gemfile
   - Gemfile.lock
-  - build-new.sh
+  - build-site.sh
   - _config_new.yml
-  - new
   - CNAME
   - vendor
   - node_modules
