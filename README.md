@@ -1,7 +1,7 @@
 # Phexkinder
 
 Website of a *Das Schwarze Auge* group: stories, characters and their adventures.
-Built with [Jekyll](https://jekyllrb.com/) and published with GitHub Pages at <https://www.phexkinder.de/>.
+Built with [Jekyll](https://jekyllrb.com/) and published with GitHub Pages at <https://www.phexkinder.de/>. A GitHub Actions workflow builds and deploys the site on every push to `master`.
 
 | URL | What it is |
 |---|---|
@@ -12,12 +12,13 @@ Ideas and planned steps are collected in [issue #20](https://github.com/phexkind
 
 ## Run it locally
 
-You need Ruby (version in `.ruby-version`) and Bundler; `./build-new.sh` also needs Node.js (it runs the search indexer).
+You need Ruby (version in `.ruby-version`) and Bundler; `./build-site.sh` also needs Node.js (it runs the search indexer).
 
 ```sh
 bundle install
-bundle exec jekyll serve      # current design at http://localhost:4000/
-./build-new.sh                # builds the /new preview and its search index into new/ (see below; needs Node.js)
+bundle exec jekyll serve      # current design only, at http://localhost:4000/ (quick preview)
+./build-site.sh               # the complete site as published: / and /new plus the search index, in _site/
+(cd _site && python3 -m http.server 4000)   # look at that result
 ```
 
 ## How the repository is organized
@@ -28,32 +29,32 @@ bundle exec jekyll serve      # current design at http://localhost:4000/
 | `mittelgruppe/`, `suedgruppe/`, `*.md` in the root | character pages, group overviews, Impressum |
 | `_layouts/`, `_includes/`, `assets/css/site.css` | templates and stylesheet of the **current design** |
 | `_new/` | templates (`layouts/`, `includes/`) of the **/new preview** |
-| `new/` | **generated** output of the /new preview, committed on purpose (see below) |
 | `_config.yml`, `_config_new.yml` | settings for the current design / extra settings for the preview |
+| `build-site.sh` | builds both designs and the search index into `_site/` |
 | `_data/` | `characters.yml` (cards), `navigation.yml` (/new menu and which authors belong to which group), `headers.yml` (header images) |
 | `_authors/`, `_stories/` | one small page per author / per group, used by /new only |
 | `suche.html` | the search page of /new (excluded from the main site) |
 | `assets/` | images, fonts, stylesheets and scripts |
-| `.github/` | CI checks and Dependabot settings |
+| `.github/` | CI checks, the deploy workflow and Dependabot settings |
 
-### Why `new/` is committed
+### How the site is built and published
 
-GitHub Pages builds the main site by itself, but it can only run one build. The /new preview is therefore
-built with `./build-new.sh` (`_config_new.yml` on top of `_config.yml`) and the result is committed in `new/`.
-**After changing anything that affects /new** (a post, a character, `_new/`, `_data/`, its CSS), run
-`./build-new.sh` and commit `new/` as well. CI fails with a clear message if `new/` is out of date.
+GitHub's built-in Pages builder can only run one Jekyll build, so the site is built by GitHub Actions instead
+(`.github/workflows/deploy.yml`, Settings > Pages > Source = "GitHub Actions"). `./build-site.sh` builds the current
+design (`_config.yml`) into `_site/`, builds the /new preview on top of it (`_config_new.yml`) into `_site/new/` and
+indexes /new for search. Nothing generated is committed: change the sources, open a pull request, merge, and the
+workflow publishes the result within a couple of minutes. The same script runs in the pull request checks.
 
 ## Search (/new)
 
 `/new/suche/` is a static search ([Pagefind](https://pagefind.app/)): no server, it runs in the visitor's browser. The header
 search box and the menu entry "Suche" lead to it.
 
-- `./build-new.sh` builds the index from the finished pages into `new/pagefind/` (about 1.2 MB) and `new/` is committed like the
-  rest, so the index changes whenever content changes. The Pagefind version is pinned in the script (`PAGEFIND_VERSION`); to upgrade,
-  change it, rebuild and commit. The file names inside `new/pagefind/` differ from machine to machine, so the CI sync check compares only the page count of the index there (rebuild and commit `new/` whenever it complains).
+- `./build-site.sh` builds the index from the finished pages into `_site/new/pagefind/` (about 1.2 MB) on every build; it is not committed.
+  The Pagefind version is pinned in the script (`PAGEFIND_VERSION`); to upgrade, change it there.
 - Only elements marked `data-pagefind-body` are indexed: the stories and the character and group pages (set in their layouts in
   `_new/layouts/`). Add `data-pagefind-ignore` to leave something out of the index.
-- Result titles come from `data-pagefind-meta="title"`. Pagefind filters are not used on purpose: with a filter in the index, two builds of the same content are no longer identical, and `new/` must be reproducible for the CI sync check. (Stories by author are on the author pages.)
+- Result titles come from `data-pagefind-meta="title"`. Pagefind filters are not used; stories by author are on the author pages.
 
 ## Add a story
 
@@ -81,7 +82,7 @@ Every story needs a `title:` line (the check fails without it), because a title 
 2. Portrait in `assets/img/`, plus a 360 × 450 px thumbnail `assets/img/cards/<name>.jpg` for the card.
 3. Entry in `_data/characters.yml` (card) and the name in the `authors` list of its group in `_data/navigation.yml`.
 4. File `_authors/<name>.md` (copy an existing one) for the "Geschichten von …" page.
-5. Add the name to the list on the group page (`mittelgruppe.md`), then run `./build-new.sh` and commit `new/`.
+5. Add the name to the list on the group page (`mittelgruppe.md`). (Nothing to build by hand: the deploy workflow does it.)
 
 ## Checks on every pull request
 
@@ -89,11 +90,12 @@ Every story needs a `title:` line (the check fails without it), because a title 
 
 - **Forbidden files**: `.github/scripts/forbidden-files.sh` fails on `wp-config*`, SQL dumps, archives, keys, `.env`, `*.mp3`, `*.exe` and files over 10 MB, so material from the old WordPress backup cannot be published by accident (this repository is public).
 - **Content** (`ruby .github/scripts/validate-content.rb`): every story has a valid date (matching its file name), a known author and no misspelled front matter keys; character pages, cards, header images and the menu data point to things that exist. `.github/scripts/test-validate-content.sh` proves that each of these mistakes is really caught.
-- **Build** with the same gems as GitHub Pages (`bundle exec jekyll build`).
-- **`new/` in sync**: `.github/scripts/check-new-in-sync.sh`.
-- **Internal links and images** (html-proofer; external links are not checked).
+- **Build** of the complete site with `./build-site.sh`, the same script the deploy workflow uses.
+- **Internal links and images** in the built site, `/new` included (html-proofer; external links are not checked).
 
 CodeQL, secret scanning with push protection and Dependabot (monthly gem and action updates) are enabled as well.
+
+If a deploy fails, open the failed run under *Actions > Deploy*; *Re-run all jobs* publishes again, and the site stays on its last good version until a deploy succeeds.
 
 ## Fonts and licences
 

@@ -1,7 +1,7 @@
 name: Check
 
-# Runs on every pull request and on master. GitHub Pages itself keeps building the live site;
-# these checks only catch problems before they get merged.
+# Runs on every pull request and on master. It builds the site exactly like the deploy workflow does
+# (deploy.yml) but publishes nothing; these checks only catch problems before they get merged.
 on:
   pull_request:
   push:
@@ -33,7 +33,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 22 # for the search indexer run by build-new.sh
+          node-version: 22 # for the search indexer run by build-site.sh
 
       - name: Content (front matter and data files)
         run: ruby .github/scripts/validate-content.rb
@@ -41,11 +41,8 @@ jobs:
       - name: Content checks catch deliberate mistakes
         run: .github/scripts/test-validate-content.sh
 
-      - name: Build the site (same gems as GitHub Pages)
-        run: bundle exec jekyll build
-
-      - name: new/ is in sync with the /new sources
-        run: .github/scripts/check-new-in-sync.sh
+      - name: Build the site (/ and /new, with the search index)
+        run: ./build-site.sh
 
       - name: Internal links and images
         run: |
