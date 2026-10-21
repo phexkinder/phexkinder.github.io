@@ -1,10 +1,9 @@
 # Overlay config for the /new preview (old WordPress look).
 # Build with ./build-new.sh, which writes the result to new/.
-# The root site keeps using _config.yml + the minima theme.
+# The root site keeps using _config.yml with its own layouts in _layouts/ and _includes/.
 baseurl: /new
 description: >-
   Fortes Fortuna Adiuvat
-theme: null
 layouts_dir: _new/layouts
 includes_dir: _new/includes
 plugins:
