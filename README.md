@@ -49,6 +49,7 @@ Create `_posts/YYYY-MM-DD-short-title.md`:
 ```markdown
 ---
 layout: post
+title: Der Titel der Geschichte
 author: Taran        # must match a name in _data/navigation.yml, e.g. Dunkar, Taran, Wolfhart, Yann, Brin
 ---
 
@@ -57,8 +58,9 @@ First paragraph of the story. <!--more-->   (optional: the home page of /new sho
 The rest of the story.
 ```
 
-Give every story a `title:` (without it the title is derived from the file name). Optional front matter for
-nicer link previews when the page is shared: `description:` and `image:` (a path such as `/assets/img/post-Wald.jpg`).
+Every story needs a `title:` line (the check fails without it), because a title cannot be written reliably in a file name
+(capitalization, punctuation, umlauts). Optional front matter for nicer link previews when the page is shared:
+`description:` and `image:` (a path such as `/assets/img/post-Wald.jpg`).
 
 ## Add a character
 

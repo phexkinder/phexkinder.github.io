@@ -129,10 +129,8 @@ Dir["_posts/*.md"].sort.each do |file|
     used_authors[author] += 1
   end
 
-  if data.key?("title")
-    error(file, "title must be a non-empty text") unless data["title"].is_a?(String) && !data["title"].strip.empty?
-  else
-    warning(file, "no title: the page title is derived from the file name")
+  unless data["title"].is_a?(String) && !data["title"].strip.empty?
+    error(file, "title is missing: every story needs a title: line in its front matter")
   end
   error(file, "description must be text") if data.key?("description") && !data["description"].is_a?(String)
   if data["image"] && !file_for_url_path(data["image"].to_s)
