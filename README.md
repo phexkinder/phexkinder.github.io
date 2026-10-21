@@ -50,7 +50,7 @@ search box and the menu entry "Suche" lead to it.
 
 - `./build-new.sh` builds the index from the finished pages into `new/pagefind/` (about 1.2 MB) and `new/` is committed like the
   rest, so the index changes whenever content changes. The Pagefind version is pinned in the script (`PAGEFIND_VERSION`); to upgrade,
-  change it, rebuild and commit.
+  change it, rebuild and commit. The file names inside `new/pagefind/` differ from machine to machine, so the CI sync check compares only the page count of the index there (rebuild and commit `new/` whenever it complains).
 - Only elements marked `data-pagefind-body` are indexed: the stories and the character and group pages (set in their layouts in
   `_new/layouts/`). Add `data-pagefind-ignore` to leave something out of the index.
 - Result titles come from `data-pagefind-meta="title"`. Pagefind filters are not used on purpose: with a filter in the index, two builds of the same content are no longer identical, and `new/` must be reproducible for the CI sync check. (Stories by author are on the author pages.)
