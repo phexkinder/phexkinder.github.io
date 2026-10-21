@@ -1,6 +1,15 @@
+# Jekyll
 _site
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
-.ruby-version
+
+# Ruby / Bundler (CI installs gems into vendor/bundle)
+.bundle/
+vendor/
+
+# Node tooling, if used locally
+node_modules/
+
+# macOS
 .DS_Store
