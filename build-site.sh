@@ -11,8 +11,10 @@ ${JEKYLL:-bundle exec jekyll} build --config _config.yml,_config_new.yml --desti
 
 # Links inside post/page text are written as absolute paths (/mittelgruppe/...);
 # keep them inside the preview. Shared assets (/assets/...) stay untouched.
-find _site/new -name '*.html' -print0 | xargs -0 sed -i -E \
+# "-i.bak" works with GNU sed (CI) and BSD sed (macOS); the backups are removed right after.
+find _site/new -name '*.html' -print0 | xargs -0 sed -i.bak -E \
   's#href="/(mittelgruppe|suedgruppe|impressum|20[0-9]{2}/)#href="/new/\1#g'
+find _site/new -name '*.html.bak' -delete
 
 # Static search: index the finished /new pages (only elements marked data-pagefind-body are indexed).
 # The version is pinned so builds stay reproducible.
