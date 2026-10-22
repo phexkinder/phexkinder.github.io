@@ -15,11 +15,15 @@ Ideas and planned steps are collected in [issue #20](https://github.com/phexkind
 You need Ruby (version in `.ruby-version`) and Bundler; `./build-site.sh` also needs Node.js (it runs the search indexer).
 
 ```sh
-bundle install
-bundle exec jekyll serve      # current design only, at http://localhost:4000/ (quick preview)
-./build-site.sh               # the complete site as published: / and /new plus the search index, in _site/
-(cd _site && python3 -m http.server 4000)   # look at that result
+bundle install                # once
+./serve-site.sh               # builds everything and serves it at http://localhost:4000/ (Ctrl+C to stop)
 ```
+
+Open <http://localhost:4000/> for the current design and <http://localhost:4000/new/> for the /new preview. This is exactly
+what the deploy publishes (both designs plus the search index), so use it to look at a change, also a pull request
+(`git fetch && git checkout <branch>`), before merging. After editing something, stop the script and run it again.
+`./build-site.sh` only builds into `_site/` without serving; `PORT=8080 ./serve-site.sh` uses another port.
+`bundle exec jekyll serve` is a quicker preview of the current design alone, but it does not include /new or the search.
 
 ## How the repository is organized
 
@@ -31,7 +35,7 @@ bundle exec jekyll serve      # current design only, at http://localhost:4000/ (
 | `_layouts/`, `_includes/`, `assets/css/site.css` | templates and stylesheet of the **current design** |
 | `_new/` | templates (`layouts/`, `includes/`) of the **/new preview** |
 | `_config.yml`, `_config_new.yml` | settings for the current design / extra settings for the preview |
-| `build-site.sh` | builds both designs and the search index into `_site/` |
+| `build-site.sh`, `serve-site.sh` | build both designs and the search index into `_site/` / build and serve it locally |
 | `_data/` | `navigation.yml` (/new menu and the groups), `headers.yml` (header images) |
 | `_stories/` | one small page per group with its stories, used by /new only |
 | `_plugins/` | `author_pages.rb` generates the "Geschichten von …" page of every character with stories (/new only) |

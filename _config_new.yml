@@ -28,6 +28,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - build-site.sh
+  - serve-site.sh
   - _config_new.yml
   - CNAME
   - vendor
