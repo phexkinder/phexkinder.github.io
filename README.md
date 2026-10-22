@@ -105,6 +105,7 @@ That is all: the card, the group list on the group page, the menu section, the s
 `.github/workflows/check.yml` runs, and you can run the same scripts locally:
 
 - **Forbidden files**: `.github/scripts/forbidden-files.sh` fails on `wp-config*`, SQL dumps, archives, keys, `.env`, `*.mp3`, `*.exe` and files over 10 MB, so material from the old WordPress backup cannot be published by accident (this repository is public).
+- **Images**: `.github/scripts/check-images.sh` fails on images in `assets/img/` over 500 KB. Scale a big original down first (the script's comment has the ImageMagick command); 900 px wide is plenty for a portrait.
 - **Content** (`ruby .github/scripts/validate-content.rb`): every story has a valid date (matching its file name), a title, a known author and no misspelled front matter keys; every character page has type, group (= its folder), status, tagline, a unique author and existing card image; header images and the menu data point to things that exist. `.github/scripts/test-validate-content.sh` proves that each of these mistakes is really caught.
 - **Build** of the complete site with `./build-site.sh`, the same script the deploy workflow uses.
 - **Internal links and images** in the built site, `/new` included (html-proofer; external links are not checked).
