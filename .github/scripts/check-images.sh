@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Fails if an image in assets/img/ is larger than 500 KB, so a camera original or an unscaled scan cannot
-# slip into the site (every visitor would download it). Shrink it first, e.g. with ImageMagick:
-#   convert original.jpg -auto-orient -resize 900x -strip -interlace Plane -quality 82 assets/img/name.jpg
+# slip into the site (every visitor would download it). Keep the original in _originals/ and make the web
+# version with:  .github/scripts/make-image.sh _originals/name.jpg
 set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
 
