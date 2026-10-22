@@ -2,6 +2,11 @@
 layout: page
 title: Durin
 author: Durin
+type: character
+group: mittelgruppe
+status: active
+tagline: von den Eisenfäusten, ehemaliger Träger der Schwinge mit dem Geisterblatt
+card: /assets/img/cards/durin.jpg
 permalink: /mittelgruppe/durin.html
 ---
 

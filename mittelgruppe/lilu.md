@@ -2,6 +2,11 @@
 layout: page
 title: Lilu
 author: Lilu
+type: character
+group: mittelgruppe
+status: active
+tagline: Tochter der Erde und Traumseherin
+card: /assets/img/cards/lilu.jpg
 permalink: /mittelgruppe/lilu.html
 ---
 

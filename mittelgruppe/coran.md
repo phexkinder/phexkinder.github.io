@@ -2,6 +2,10 @@
 layout: page
 title: Coran
 author: Coran
+type: character
+group: mittelgruppe
+status: former
+tagline: Drachenblut, Rondrageweihter und Anhänger Famerlors
 permalink: /mittelgruppe/coran.html
 ---
 

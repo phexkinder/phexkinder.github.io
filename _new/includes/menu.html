@@ -8,7 +8,8 @@
     {%- for item in site.data.navigation %}
     {%- if item.children %}
     {%- assign section = false %}
-    {%- if item.authors contains page.author or item.authors contains page.name %}{% assign section = true %}{% endif %}
+    {%- assign group_authors = site.pages | where: "type", "character" | where: "group", item.id | map: "author" %}
+    {%- if group_authors contains page.author or group_authors contains page.name %}{% assign section = true %}{% endif %}
     {%- for child in item.children %}{% if page.url == child.url %}{% assign section = true %}{% endif %}{% endfor %}
     <li class="menu-item menu-item-has-children{% if section %} current-menu-ancestor{% endif %}">
       <button type="button" class="submenu-toggle" aria-expanded="false" aria-controls="submenu-{{ forloop.index }}">{{ item.title }}<span class="caret" aria-hidden="true"></span></button>

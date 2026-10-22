@@ -2,6 +2,10 @@
 layout: page
 title: Brin von Andergast
 author: Brin
+type: character
+group: suedgruppe
+status: active
+tagline: "Magister Minor, Absolventus des Andergast'schen Kampfseminars"
 permalink: /suedgruppe/brin.html
 ---
 

@@ -1,14 +1,17 @@
+{%- comment -%} The current members of the group whose overview page this is (/mittelgruppe.html -> mittelgruppe), from the character pages. {%- endcomment -%}
+{%- assign group_id = page.url | remove_first: "/" | remove: ".html" %}
+{%- assign cards = site.pages | where: "type", "character" | where: "group", group_id | where: "status", "active" | sort: "author" %}
 <ul class="character-cards">
-  {%- for c in site.data.characters %}
+  {%- for c in cards %}
   {%- assign n = site.posts | where: "author", c.author | size %}
   <li class="character-card">
-    {%- if c.image %}
-    <img class="character-card-img" src="{{ c.image }}" alt="" width="360" height="450" loading="lazy">
+    {%- if c.card %}
+    <img class="character-card-img" src="{{ c.card }}" alt="" width="360" height="450" loading="lazy">
     {%- else %}
-    <span class="character-card-img character-card-mono" aria-hidden="true">{{ c.name | slice: 0 }}</span>
+    <span class="character-card-img character-card-mono" aria-hidden="true">{{ c.author | slice: 0 }}</span>
     {%- endif %}
     <div class="character-card-body">
-      <h3 class="character-card-name"><a href="{{ c.url | relative_url }}">{{ c.name }}</a></h3>
+      <h3 class="character-card-name"><a href="{{ c.url | relative_url }}">{{ c.author }}</a></h3>
       <p class="character-card-tagline">{{ c.tagline }}</p>
       {%- if n > 0 %}
       <p class="character-card-stories"><a href="{{ '/autor/' | append: c.author | downcase | append: '/' | relative_url }}">{{ n }} {% if n == 1 %}Geschichte{% else %}Geschichten{% endif %}</a></p>

@@ -1,15 +1,16 @@
 # Main menu of the /new preview. Top level = the groups; each has an overview page and a page with the
-# group's stories. `authors` lists the post authors (characters) that belong to the group: it decides
-# which stories appear on the stories page and which menu entry is marked as the current section.
+# group's stories. `id` is the group name used by the character pages (`group:` in their front matter);
+# the characters of a group decide which stories appear on its stories page and which menu entry is
+# marked as the current section.
 - title: Mittelgruppe
-  authors: [Dunkar, Coran, Durin, Lilu, Taran, Wolfhart, Yann]
+  id: mittelgruppe
   children:
     - title: Übersicht
       url: /mittelgruppe.html
     - title: Geschichten
       url: /geschichten/mittelgruppe/
 - title: Südgruppe
-  authors: [Brin]
+  id: suedgruppe
   children:
     - title: Übersicht
       url: /suedgruppe.html

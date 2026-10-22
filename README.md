@@ -26,13 +26,15 @@ bundle exec jekyll serve      # current design only, at http://localhost:4000/ (
 | Path | Purpose |
 |---|---|
 | `_posts/` | the stories (one Markdown file per story) |
-| `mittelgruppe/`, `suedgruppe/`, `*.md` in the root | character pages, group overviews, Impressum |
+| `mittelgruppe/`, `suedgruppe/` | the **character pages**: one file per character, the single place for name, group, tagline and card image |
+| `mittelgruppe.md`, `suedgruppe.md`, `impressum.md` | group overviews, Impressum |
 | `_layouts/`, `_includes/`, `assets/css/site.css` | templates and stylesheet of the **current design** |
 | `_new/` | templates (`layouts/`, `includes/`) of the **/new preview** |
 | `_config.yml`, `_config_new.yml` | settings for the current design / extra settings for the preview |
 | `build-site.sh` | builds both designs and the search index into `_site/` |
-| `_data/` | `characters.yml` (cards), `navigation.yml` (/new menu and which authors belong to which group), `headers.yml` (header images) |
-| `_authors/`, `_stories/` | one small page per author / per group, used by /new only |
+| `_data/` | `navigation.yml` (/new menu and the groups), `headers.yml` (header images) |
+| `_stories/` | one small page per group with its stories, used by /new only |
+| `_plugins/` | `author_pages.rb` generates the "Geschichten von …" page of every character with stories (/new only) |
 | `suche.html` | the search page of /new (excluded from the main site) |
 | `assets/` | images, fonts, stylesheets and scripts |
 | `.github/` | CI checks, the deploy workflow and Dependabot settings |
@@ -64,7 +66,7 @@ Create `_posts/YYYY-MM-DD-short-title.md`:
 ---
 layout: post
 title: Der Titel der Geschichte
-author: Taran        # must match a name in _data/navigation.yml, e.g. Dunkar, Taran, Wolfhart, Yann, Brin
+author: Taran        # must match the author of a character page, e.g. Dunkar, Taran, Wolfhart, Yann, Brin
 ---
 
 First paragraph of the story. <!--more-->   (optional: the home page of /new shows the text up to this marker)
@@ -78,18 +80,32 @@ Every story needs a `title:` line (the check fails without it), because a title 
 
 ## Add a character
 
-1. Page `mittelgruppe/<name>.md` with `layout: page`, `title`, `author` (same name as in the stories) and `permalink: /mittelgruppe/<name>.html`.
+1. Page `mittelgruppe/<name>.md` (or `suedgruppe/<name>.md`; the folder is the group) with this front matter:
+
+   ```yaml
+   ---
+   layout: page
+   type: character
+   title: Taran
+   author: Taran                  # the name used in the stories (author: in the posts)
+   group: mittelgruppe            # same as the folder
+   status: active                 # active = card and group list, former = only on the page
+   tagline: ibn Muhammed …        # one line for the card and the group list
+   card: /assets/img/cards/taran.jpg   # optional; without it the card shows a monogram
+   permalink: /mittelgruppe/taran.html
+   ---
+   ```
 2. Portrait in `assets/img/`, plus a 360 × 450 px thumbnail `assets/img/cards/<name>.jpg` for the card.
-3. Entry in `_data/characters.yml` (card) and the name in the `authors` list of its group in `_data/navigation.yml`.
-4. File `_authors/<name>.md` (copy an existing one) for the "Geschichten von …" page.
-5. Add the name to the list on the group page (`mittelgruppe.md`). (Nothing to build by hand: the deploy workflow does it.)
+
+That is all: the card, the group list on the group page, the menu section, the story lists and the author page
+(`/autor/<name>/`, once the character has a story) are generated from this page. The content check tells you what is missing.
 
 ## Checks on every pull request
 
 `.github/workflows/check.yml` runs, and you can run the same scripts locally:
 
 - **Forbidden files**: `.github/scripts/forbidden-files.sh` fails on `wp-config*`, SQL dumps, archives, keys, `.env`, `*.mp3`, `*.exe` and files over 10 MB, so material from the old WordPress backup cannot be published by accident (this repository is public).
-- **Content** (`ruby .github/scripts/validate-content.rb`): every story has a valid date (matching its file name), a known author and no misspelled front matter keys; character pages, cards, header images and the menu data point to things that exist. `.github/scripts/test-validate-content.sh` proves that each of these mistakes is really caught.
+- **Content** (`ruby .github/scripts/validate-content.rb`): every story has a valid date (matching its file name), a title, a known author and no misspelled front matter keys; every character page has type, group (= its folder), status, tagline, a unique author and existing card image; header images and the menu data point to things that exist. `.github/scripts/test-validate-content.sh` proves that each of these mistakes is really caught.
 - **Build** of the complete site with `./build-site.sh`, the same script the deploy workflow uses.
 - **Internal links and images** in the built site, `/new` included (html-proofer; external links are not checked).
 
