@@ -12,13 +12,10 @@ Hier kannst du mehr erfahren über **DIE GEFÄHRTEN**! - Streiter für die alte 
 
 <!-- characters:start -->
 
-* [Dunkar](/mittelgruppe/dunkar) Aerensen, Drachenjäger aus dem Bornland
-* [Durin](/mittelgruppe/durin) von den Eisenfäusten, ehemaliger Träger der Schwinge mit dem Geisterblatt
-* [Lilu](/mittelgruppe/lilu), Tochter der Erde und Traumseherin
-* [Taran](/mittelgruppe/taran) ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash'Hualay Akademie
-* [Wolfhart](/mittelgruppe/wolfhart) Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
-* [Yann](/mittelgruppe/yann) Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas
-
+{% assign members = site.pages | where: "type", "character" | where: "group", "mittelgruppe" | where: "status", "active" | sort: "author" -%}
+{% for c in members -%}
+* [{{ c.author }}]({{ c.url | remove: ".html" }}) {{ c.tagline }}
+{% endfor %}
 <!-- characters:end -->
 
 

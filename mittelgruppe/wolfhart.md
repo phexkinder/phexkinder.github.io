@@ -2,6 +2,10 @@
 layout: page
 title: Wolfhart
 author: Wolfhart
+type: character
+group: mittelgruppe
+status: active
+tagline: Angbarar aus Wetterfels zu Winhall, Ritter der Schwarzen Distel, Krieger des Reiches und Champion der Albernischen Krone
 permalink: /mittelgruppe/wolfhart.html
 ---
 

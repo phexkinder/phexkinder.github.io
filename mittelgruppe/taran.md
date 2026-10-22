@@ -2,6 +2,11 @@
 layout: page
 title: Taran
 author: Taran
+type: character
+group: mittelgruppe
+status: active
+tagline: "ibn Muhammed ibn Ayabun ai Orkhiander, Magister Magus der Yash'Hualay Akademie"
+card: /assets/img/cards/taran.jpg
 permalink: /mittelgruppe/taran.html
 ---
 

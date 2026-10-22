@@ -52,10 +52,6 @@ rescue Psych::Exception, Errno::ENOENT => e
   nil
 end
 
-def slug(title)
-  title.downcase.gsub("ü", "ue").gsub("ö", "oe").gsub("ä", "ae").gsub("ß", "ss")
-end
-
 def file_for_url_path(path)
   File.exist?(path.sub(%r{\A/}, ""))
 end
@@ -67,10 +63,9 @@ def page_exists?(url)
   candidates.any? { |c| !c.empty? && File.file?(c) }
 end
 
-# ---- navigation: groups, their authors and their pages ------------------------------------------------
+# ---- navigation: groups and their pages ---------------------------------------------------------------
 navigation = load_yaml("_data/navigation.yml") || []
-known_authors = []
-author_group = {}
+group_ids = []
 navigation.each_with_index do |group, i|
   where = "_data/navigation.yml"
   if group.is_a?(Hash) && !group.key?("children")
@@ -82,17 +77,12 @@ navigation.each_with_index do |group, i|
     error(where, "menu entry #{group['title']} points to #{group['url']}, but no such page exists") unless page_exists?(group["url"])
     next
   end
-  unless group.is_a?(Hash) && group["title"].is_a?(String) && group["authors"].is_a?(Array) && group["children"].is_a?(Array)
-    error(where, "entry #{i + 1} needs title, authors (list) and children (list)")
+  unless group.is_a?(Hash) && group["title"].is_a?(String) && group["id"].is_a?(String) && group["children"].is_a?(Array)
+    error(where, "entry #{i + 1} needs title, id (the group name used in the character pages) and children (list)")
     next
   end
-  group["authors"].each do |name|
-    if author_group.key?(name)
-      error(where, "author #{name} is listed in two groups (#{author_group[name]} and #{group['title']})")
-    end
-    author_group[name] = group["title"]
-    known_authors << name
-  end
+  error(where, "group id #{group['id']} is used twice") if group_ids.include?(group["id"])
+  group_ids << group["id"]
   group["children"].each do |child|
     unless child.is_a?(Hash) && child["title"].is_a?(String) && child["url"].is_a?(String)
       error(where, "every child of #{group['title']} needs a title and a url")
@@ -102,17 +92,42 @@ navigation.each_with_index do |group, i|
     exists = url.start_with?("/geschichten/") ? File.exist?("_stories/#{url.split('/')[2]}.md") : page_exists?(url)
     error(where, "menu entry #{group['title']} > #{child['title']} points to #{url}, but no such page exists") unless exists
   end
+  # the stories page of a group is found through its id (see _new/layouts/stories.html)
+  stories = "_stories/#{group['id']}.md"
+  error(where, "group #{group['title']} has no stories page #{stories}") unless File.exist?(stories)
 end
-# the stories page of a group is found through the slug of the group title (see _new/layouts/stories.html)
-navigation.each do |group|
-  next unless group.is_a?(Hash) && group["title"].is_a?(String) && group.key?("children")
 
-  stories = "_stories/#{slug(group['title'])}.md"
-  error("_data/navigation.yml", "group #{group['title']} has no stories page #{stories}") unless File.exist?(stories)
+# ---- character pages: the single place that says who exists, in which group, and what the cards show --------
+CHARACTER_KEYS = %w[layout title author type group status tagline card permalink].freeze
+known_authors = []
+author_group = {}
+Dir["*/*.md"].sort.select { |f| group_ids.include?(File.dirname(f)) }.each do |file|
+  data, = front_matter(file)
+  next unless data
+
+  dir = File.dirname(file)
+  expected = "/#{dir}/#{File.basename(file, '.md')}.html"
+  (data.keys - CHARACTER_KEYS).each { |key| error(file, "unknown front matter key '#{key}' (typo? allowed: #{CHARACTER_KEYS.join(', ')})") }
+  error(file, "layout must be 'page'") unless data["layout"] == "page"
+  error(file, "type must be 'character'") unless data["type"] == "character"
+  error(file, "title is missing") unless data["title"].is_a?(String) && !data["title"].strip.empty?
+  error(file, "permalink must be #{expected}") unless data["permalink"] == expected
+  error(file, "group must be #{dir} (the folder of this page)") unless data["group"] == dir
+  error(file, "status must be 'active' or 'former'") unless %w[active former].include?(data["status"])
+  error(file, "tagline is missing (the one line shown on cards and in the group list)") unless data["tagline"].is_a?(String) && !data["tagline"].strip.empty?
+  error(file, "card image #{data['card']} does not exist") if data["card"] && !file_for_url_path(data["card"].to_s)
+  author = data["author"]
+  if !author.is_a?(String) || author.strip.empty?
+    error(file, "author is missing (the name used in the stories)")
+  elsif known_authors.include?(author)
+    error(file, "author #{author} is used by two character pages (#{author_group[author]} and #{dir})")
+  else
+    known_authors << author
+    author_group[author] = dir
+  end
 end
 
 # ---- posts --------------------------------------------------------------------------------------------
-used_authors = Hash.new(0)
 Dir["_posts/*.md"].sort.each do |file|
   base = File.basename(file)
   name_match = base.match(/\A(\d{4}-\d{2}-\d{2})-([[:alnum:]-]+)\.md\z/)
@@ -136,9 +151,7 @@ Dir["_posts/*.md"].sort.each do |file|
   if author.nil?
     error(file, "author is missing")
   elsif !known_authors.include?(author)
-    error(file, "unknown author '#{author}' (known: #{known_authors.join(', ')}; see _data/navigation.yml)")
-  else
-    used_authors[author] += 1
+    error(file, "unknown author '#{author}' (known: #{known_authors.join(', ')}; see the character pages)")
   end
 
   unless data["title"].is_a?(String) && !data["title"].strip.empty?
@@ -150,47 +163,7 @@ Dir["_posts/*.md"].sort.each do |file|
   end
 end
 
-# ---- author pages -------------------------------------------------------------------------------------
-used_authors.each_key do |author|
-  page = "_authors/#{author.downcase}.md"
-  error(page, "#{author} has stories but no author page #{page}") unless File.exist?(page)
-end
-Dir["_authors/*.md"].sort.each do |file|
-  data, = front_matter(file)
-  next unless data
-
-  error(file, "layout must be 'author'") unless data["layout"] == "author"
-  error(file, "name '#{data['name']}' is not a known author") unless known_authors.include?(data["name"])
-  error(file, "file name must be the lower-case author name (#{data['name'].to_s.downcase}.md)") if File.basename(file, ".md") != data["name"].to_s.downcase
-end
-
-# ---- character pages ----------------------------------------------------------------------------------
-character_urls = []
-Dir["{mittelgruppe,suedgruppe}/*.md"].sort.each do |file|
-  data, = front_matter(file)
-  next unless data
-
-  dir = File.dirname(file)
-  expected = "/#{dir}/#{File.basename(file, '.md')}.html"
-  character_urls << data["permalink"]
-  error(file, "layout must be 'page'") unless data["layout"] == "page"
-  error(file, "title is missing") unless data["title"].is_a?(String) && !data["title"].strip.empty?
-  error(file, "permalink must be #{expected}") unless data["permalink"] == expected
-  if !known_authors.include?(data["author"])
-    error(file, "unknown author '#{data['author']}' (see _data/navigation.yml)")
-  elsif slug(author_group[data["author"]]) != dir
-    error(file, "#{data['author']} belongs to #{author_group[data['author']]} in _data/navigation.yml but this page is in #{dir}/")
-  end
-end
-
-# ---- cards and header images --------------------------------------------------------------------------
-(load_yaml("_data/characters.yml") || []).each_with_index do |card, i|
-  where = "_data/characters.yml"
-  %w[name author url tagline].each { |key| error(where, "entry #{i + 1} (#{card['name']}) has no #{key}") unless card[key].is_a?(String) && !card[key].strip.empty? }
-  error(where, "#{card['name']}: unknown author '#{card['author']}'") unless known_authors.include?(card["author"])
-  error(where, "#{card['name']}: no page with permalink #{card['url']}") unless character_urls.include?(card["url"])
-  error(where, "#{card['name']}: image #{card['image']} does not exist") if card["image"] && !file_for_url_path(card["image"])
-end
+# ---- header images --------------------------------------------------------------------------
 (load_yaml("_data/headers.yml") || []).each do |path|
   error("_data/headers.yml", "header image #{path} does not exist") unless file_for_url_path(path.to_s)
 end

@@ -9,7 +9,7 @@ trap 'rm -rf "$work"' EXIT
 
 fresh_copy() {
   rm -rf "$work/site"; mkdir -p "$work/site/assets"
-  (cd "$root" && cp -R _posts _authors _stories _data mittelgruppe suedgruppe mittelgruppe.md suedgruppe.md suche.html "$work/site/" && cp -R assets/img "$work/site/assets/")
+  (cd "$root" && cp -R _posts _stories _data mittelgruppe suedgruppe mittelgruppe.md suedgruppe.md suche.html "$work/site/" && cp -R assets/img "$work/site/assets/")
 }
 
 failures=0
@@ -35,7 +35,7 @@ fresh_copy; sed -i 's/^layout: post/layout: post\nautor: Taran/' "$post";       
 fresh_copy; sed -i 's/^title: /# title: /' "$post";                                    expect "post without a title"        "title is missing"
 fresh_copy; sed -i '1d' "$post";                                                         expect "front matter removed"        "no front matter block"
 fresh_copy; sed -i 's/^layout: post/layout: page/' "$post";                              expect "wrong layout"                "layout must be 'post'"
-fresh_copy; printf '%s\n' '- name: X' '  author: Taran' '  url: /mittelgruppe/taran.html' '  tagline: t' '  image: /assets/img/cards/gibt-es-nicht.jpg' >> "$work/site/_data/characters.yml"
+fresh_copy; sed -i 's#^card: .*#card: /assets/img/cards/gibt-es-nicht.jpg#' "$work/site/mittelgruppe/taran.md"
                                                                                          expect "card image missing"          "gibt-es-nicht.jpg does not exist"
 fresh_copy; sed -i 's#^permalink: .*#permalink: /mittelgruppe/falsch.html#' "$work/site/mittelgruppe/taran.md"
                                                                                          expect "wrong character permalink"   "permalink must be /mittelgruppe/taran.html"
@@ -43,9 +43,16 @@ fresh_copy; sed -i 's#url: /suedgruppe.html#url: /gibt-es-nicht.html#' "$work/si
                                                                                          expect "menu entry without a page"   "points to /gibt-es-nicht.html"
 fresh_copy; sed -i 's#url: /suche/#url: /gibt-es-nicht/#' "$work/site/_data/navigation.yml"
                                                                                          expect "link entry without a page"   "points to /gibt-es-nicht/"
-fresh_copy; rm "$work/site/_authors/taran.md";                                           expect "author without author page"  "has stories but no author page"
-fresh_copy; sed -i 's/Wolfhart, Yann\]/Wolfhart, Yann, Brin]/' "$work/site/_data/navigation.yml"
-                                                                                         expect "author in two groups"        "is listed in two groups"
+fresh_copy; sed -i 's/^type: character/type: person/' "$work/site/mittelgruppe/taran.md"
+                                                                                         expect "character without type"      "type must be 'character'"
+fresh_copy; sed -i 's/^group: mittelgruppe/group: suedgruppe/' "$work/site/mittelgruppe/taran.md"
+                                                                                         expect "wrong group"                 "group must be mittelgruppe"
+fresh_copy; sed -i 's/^status: active/status: aktiv/' "$work/site/mittelgruppe/taran.md"
+                                                                                         expect "unknown status"              "status must be 'active' or 'former'"
+fresh_copy; sed -i '/^tagline: /d' "$work/site/mittelgruppe/taran.md";                    expect "tagline missing"             "tagline is missing"
+fresh_copy; sed -i 's/^author: Yann/author: Taran/' "$work/site/mittelgruppe/yann.md";    expect "author on two pages"         "is used by two character pages"
+fresh_copy; sed -i 's/^tagline: /tagline_: /' "$work/site/mittelgruppe/taran.md";         expect "typo in a character key"     "unknown front matter key 'tagline_'"
+fresh_copy; sed -i 's/^  id: suedgruppe/  id: sued/' "$work/site/_data/navigation.yml"; expect "group without stories page"  "has no stories page _stories/sued.md"
 fresh_copy; sed -i 's#^permalink: /mittelgruppe/dunkar.html#permalink: /mittelgruppe/dunkar.html\nextra: [#' "$work/site/mittelgruppe/dunkar.md"
                                                                                          expect "broken YAML"                 "not valid YAML"
 

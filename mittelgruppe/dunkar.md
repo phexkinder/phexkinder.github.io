@@ -2,6 +2,11 @@
 layout: page
 title: Dunkar
 author: Dunkar
+type: character
+group: mittelgruppe
+status: active
+tagline: Aerensen, Drachenjäger aus dem Bornland
+card: /assets/img/cards/dunkar.jpg
 permalink: /mittelgruppe/dunkar.html
 ---
 

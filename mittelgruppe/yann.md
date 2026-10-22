@@ -2,6 +2,11 @@
 layout: page
 title: Yann
 author: Yann
+type: character
+group: mittelgruppe
+status: active
+tagline: Fuxfell von Havena, Vogtvikar von Albernia und Erster der Grauröcke Havenas
+card: /assets/img/cards/yann.jpg
 permalink: /mittelgruppe/yann.html
 ---
 

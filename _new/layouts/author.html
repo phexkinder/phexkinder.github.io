@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-{%- assign stories = site.posts | where: "author", page.name %}
-{%- assign char = site.data.characters | where: "author", page.name | first %}
+{%- assign stories = site.posts | where: "author", page.author %}
+{%- assign char = site.pages | where: "type", "character" | where: "author", page.author | first %}
 <article class="page type-page hentry">
   <header class="entry-header">
     <h1 class="entry-title">{{ page.title | escape }}</h1>
     <div class="entry-meta">{{ stories.size }} {% if stories.size == 1 %}Geschichte{% else %}Geschichten{% endif %}
-      {%- if char %} · <a href="{{ char.url | relative_url }}">Charakterseite {{ char.name }}</a>{% endif %}
-      {%- if page.name == "Brin" %} · <a href="{{ '/suedgruppe/brin.html' | relative_url }}">Charakterseite Brin</a>{% endif %}
+      {%- if char %} · <a href="{{ char.url | relative_url }}">Charakterseite {{ char.author }}</a>{% endif %}
     </div>
   </header>
   <div class="entry-content">
