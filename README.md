@@ -37,6 +37,7 @@ bundle exec jekyll serve      # current design only, at http://localhost:4000/ (
 | `_plugins/` | `author_pages.rb` generates the "Geschichten von …" page of every character with stories (/new only) |
 | `suche.html` | the search page of /new (excluded from the main site) |
 | `assets/` | images, fonts, stylesheets and scripts |
+| `_originals/` | full-resolution originals of images; **not published**, the web versions in `assets/img/` are made from them with `.github/scripts/make-image.sh` |
 | `.github/` | CI checks, the deploy workflow and Dependabot settings |
 
 ### How the site is built and published
@@ -105,6 +106,7 @@ That is all: the card, the group list on the group page, the menu section, the s
 `.github/workflows/check.yml` runs, and you can run the same scripts locally:
 
 - **Forbidden files**: `.github/scripts/forbidden-files.sh` fails on `wp-config*`, SQL dumps, archives, keys, `.env`, `*.mp3`, `*.exe` and files over 10 MB, so material from the old WordPress backup cannot be published by accident (this repository is public).
+- **Images**: `.github/scripts/check-images.sh` fails on images in `assets/img/` over 500 KB. Keep the full-resolution original in `_originals/` (not published, Jekyll skips folders starting with `_`) and make the web version with `.github/scripts/make-image.sh _originals/<name>.jpg` (900 px wide by default, needs ImageMagick).
 - **Content** (`ruby .github/scripts/validate-content.rb`): every story has a valid date (matching its file name), a title, a known author and no misspelled front matter keys; every character page has type, group (= its folder), status, tagline, a unique author and existing card image; header images and the menu data point to things that exist. `.github/scripts/test-validate-content.sh` proves that each of these mistakes is really caught.
 - **Build** of the complete site with `./build-site.sh`, the same script the deploy workflow uses.
 - **Internal links and images** in the built site, `/new` included (html-proofer; external links are not checked).

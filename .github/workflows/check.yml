@@ -27,6 +27,9 @@ jobs:
       - name: No forbidden or oversized files
         run: .github/scripts/forbidden-files.sh
 
+      - name: Images are not oversized
+        run: .github/scripts/check-images.sh
+
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true # reads .ruby-version and Gemfile.lock
