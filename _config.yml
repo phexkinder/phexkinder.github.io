@@ -54,6 +54,7 @@ exclude:
   - index.html
   - suche.html
   - build-site.sh
+  - serve-site.sh
   - _config_new.yml
   - Gemfile
   - Gemfile.lock
