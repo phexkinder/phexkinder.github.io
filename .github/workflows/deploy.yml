@@ -26,7 +26,10 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          bundler-cache: true # reads .ruby-version and Gemfile.lock
+          # Newer runner images only carry the latest patch release of each Ruby series, so no exact
+          # version here (.ruby-version stays the local one): "3.3" = the newest 3.3.x.
+          ruby-version: "3.3"
+          bundler-cache: true # installs the gems from Gemfile.lock
 
       - uses: actions/setup-node@v7
         with:
