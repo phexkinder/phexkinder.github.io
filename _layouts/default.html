@@ -1,20 +1,91 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ site.lang | default: 'de' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- comment -%} Author and story pages have no real date; jekyll-seo-tag would print the build time as "published", so they get a plain head. {%- endcomment %}
+  {%- if page.layout == "author" or page.collection == "stories" %}
+  <title>{{ page.title | escape }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description | strip | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  {%- else %}
+  {% seo %}
+  {%- endif %}
+  <link rel="stylesheet" href="/assets/css/twentyeleven.css">
+  <link rel="stylesheet" href="/assets/css/phexkinder-custom.css">
+  <link rel="stylesheet" href="/assets/css/phexkinder-modern.css">
+  <link rel="stylesheet" href="/assets/css/phexkinder-cards.css">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    // Apply a saved light/dark choice before first paint (no flash). Without a choice, the system setting decides.
+    try { var t = localStorage.getItem('theme'); if (t) document.documentElement.setAttribute('data-theme', t); } catch (e) {}
+  </script>
+  {% feed_meta %}
+</head>
+<body class="{% if page.url == '/' %}home blog {% endif %}custom-background {% if layout.sidebar == false %}singular {% else %}two-column right-sidebar{% endif %}">
+<div id="page" class="hfeed">
+  <header id="branding" role="banner">
+    <hgroup>
+      <h1 id="site-title"><span><a href="{{ '/' | relative_url }}" rel="home">{{ site.title | upcase }}</a></span></h1>
+      <h2 id="site-description">{{ site.description | strip }}</h2>
+    </hgroup>
+    <a href="{{ '/' | relative_url }}">
+      <img id="header-image" src="/assets/img/theme/header.jpg" width="1000" height="288" alt="{{ site.title | upcase }}">
+    </a>
+    <script>
+      // Random header image per page load, like the old WordPress "random header" setting.
+      (function () {
+        var list = {{ site.data.headers | jsonify }};
+        if (list.length) document.getElementById('header-image').src = list[Math.floor(Math.random() * list.length)];
+      })();
+    </script>
+    <form method="get" id="searchform" action="{{ '/suche/' | relative_url }}" role="search">
+      <label for="s" class="assistive-text">Suche</label>
+      <input type="search" class="field" name="q" id="s" placeholder="Suche …">
+      <input type="submit" class="submit" id="searchsubmit" value="Suche">
+    </form>
+    <nav id="access" role="navigation" aria-label="Hauptmenü">
+      <h3 class="assistive-text">Hauptmenü</h3>
+      <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
+      <div class="menu-menu-1-container">
+        {%- include menu.html -%}
+      </div>
+      <button type="button" id="theme-toggle" aria-label="Nachtmodus umschalten" title="Nachtmodus umschalten">☾</button>
+    </nav>
+  </header>
 
-  {%- include head.html -%}
-
-  <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+  <div id="main">
+    <div id="primary">
+      <div id="content" role="main">
         {{ content }}
       </div>
-    </main>
+    </div>
+    {% include sidebar.html %}
+  </div>
 
-    {%- include footer.html -%}
-
-  </body>
-
+  <footer id="colophon" role="contentinfo">
+    <div id="site-generator">
+      <a href="{{ '/impressum' | relative_url }}">Impressum</a>
+    </div>
+  </footer>
+</div>
+<script src="/assets/js/menu.js"></script>
+<script>
+  (function () {
+    var btn = document.getElementById('theme-toggle'), root = document.documentElement;
+    function isDark() {
+      var t = root.getAttribute('data-theme');
+      return t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+    }
+    function paint() { btn.textContent = isDark() ? '☀' : '☾'; btn.setAttribute('aria-pressed', isDark()); }
+    btn.addEventListener('click', function () {
+      var next = isDark() ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      paint();
+    });
+    paint();
+  })();
+</script>
+</body>
 </html>

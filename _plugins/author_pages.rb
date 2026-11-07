@@ -2,8 +2,8 @@
 
 # One "Geschichten von <Name>" page per character who has written a story (/autor/taran/ ...),
 # generated from the character pages (type: character) and the posts, so nothing has to be added by hand.
-# Only the /new preview has these pages: it switches the generator on with `author_pages: true`
-# in _config_new.yml.
+# The generator is switched on with `author_pages: true`
+# in _config.yml.
 module Phexkinder
   class AuthorPages < Jekyll::Generator
     safe true

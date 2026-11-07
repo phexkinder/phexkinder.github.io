@@ -1,5 +1,5 @@
-// Search page of the /new preview: Pagefind's default UI (German, detected from <html lang>), result links
-// stay inside /new, and a ?q=... in the address (the header search box) starts the search.
+// Search page: Pagefind's default UI (German, detected from <html lang>), result links
+// stay on the site, and a ?q=... in the address (the header search box) starts the search.
 (function () {
   if (typeof PagefindUI === 'undefined') return;
   var base = document.querySelector('link[href$="pagefind-ui.css"]').getAttribute('href').replace(/pagefind\/pagefind-ui\.css$/, '');

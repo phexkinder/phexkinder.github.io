@@ -1,4 +1,4 @@
-# Main menu of the /new preview. Top level = the groups; each has an overview page and a page with the
+# Main menu of the site. Top level = the groups; each has an overview page and a page with the
 # group's stories. `id` is the group name used by the character pages (`group:` in their front matter);
 # the characters of a group decide which stories appear on its stories page and which menu entry is
 # marked as the current section.

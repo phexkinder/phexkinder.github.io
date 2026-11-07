@@ -92,7 +92,7 @@ navigation.each_with_index do |group, i|
     exists = url.start_with?("/geschichten/") ? File.exist?("_stories/#{url.split('/')[2]}.md") : page_exists?(url)
     error(where, "menu entry #{group['title']} > #{child['title']} points to #{url}, but no such page exists") unless exists
   end
-  # the stories page of a group is found through its id (see _new/layouts/stories.html)
+  # the stories page of a group is found through its id (see _layouts/stories.html)
   stories = "_stories/#{group['id']}.md"
   error(where, "group #{group['title']} has no stories page #{stories}") unless File.exist?(stories)
 end

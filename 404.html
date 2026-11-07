@@ -1,24 +1,23 @@
 ---
 layout: default
+title: Seite nicht gefunden
+sitemap: false
 ---
-
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<script>
+  // Links to the former /new preview (/new/mittelgruppe/taran.html ...) lead here, because only /new/ itself exists:
+  // send them to the same page without the /new prefix.
+  (function () {
+    var p = window.location.pathname;
+    if (p.indexOf('/new/') === 0) {
+      window.location.replace(p.slice(4) + window.location.search + window.location.hash);
+    }
+  })();
+</script>
+<article class="page type-page status-publish hentry">
+  <header class="entry-header">
+    <h1 class="entry-title">Seite nicht gefunden</h1>
+  </header>
+  <div class="entry-content">
+    <p>Diese Seite gibt es nicht (mehr). Zur <a href="{{ '/' | relative_url }}">Startseite</a> oder über die <a href="{{ '/suche/' | relative_url }}">Suche</a> geht es weiter.</p>
+  </div>
+</article>

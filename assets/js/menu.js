@@ -1,4 +1,4 @@
-// Submenus of the /new main menu: buttons open and close them (aria-expanded), Esc and clicks outside close
+// Submenus of the main menu: buttons open and close them (aria-expanded), Esc and clicks outside close
 // them. On small screens the CSS keeps every submenu open, so the buttons just report "expanded".
 (function () {
   var nav = document.getElementById('access');
