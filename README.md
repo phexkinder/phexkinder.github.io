@@ -125,5 +125,5 @@ If a deploy fails, open the failed run under *Actions > Deploy*; *Re-run all job
 
 - **Mason Serif Bold** (titles): commercial typeface by Emigre / Jonathan Barnbrook. A web-font licence still has to be purchased; Playfair Display (SIL OFL, `assets/fonts/playfair-display-OFL.txt`) is the fallback.
 - Droid Serif (Google Fonts) and Playfair Display are self-hosted; the site makes no requests to third parties.
-- `assets/css/twentyeleven.css` comes from the WordPress theme Twenty Eleven (GPLv2 or later).
+- `assets/css/twentyeleven.css` comes from the WordPress theme Twenty Eleven (GPLv2 or later); `assets/css/site.css` (only used by /old) is derived from the minima theme (MIT, notice in the file).
 - *Das Schwarze Auge* names, maps and artwork: see the Impressum page for the fan conditions that apply.
