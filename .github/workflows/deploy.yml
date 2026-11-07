@@ -1,6 +1,6 @@
 name: Deploy
 
-# Builds the site (./build-site.sh: site and search index) and publishes it
+# Builds the site (./build-site.sh: main site, /old copy, search index) and publishes it
 # with GitHub Pages. Needs Settings > Pages > Source = "GitHub Actions". Runs on every push to master.
 on:
   push:

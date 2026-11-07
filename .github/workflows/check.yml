@@ -47,7 +47,7 @@ jobs:
       - name: Content checks catch deliberate mistakes
         run: .github/scripts/test-validate-content.sh
 
-      - name: Build the site (with the search index)
+      - name: Build the site (main site and /old, with the search index)
         run: ./build-site.sh
 
       - name: Internal links and images

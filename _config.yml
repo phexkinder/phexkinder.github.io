@@ -36,6 +36,7 @@ collections:
 
 # Files that are not part of the site.
 exclude:
+  - old-index.md # home page of the /old copy, see _config_old.yml
   - build-site.sh
   - serve-site.sh
   - Gemfile

@@ -1,0 +1,32 @@
+# Overlay config for the /old copy: the former minima-based design, kept as an archive.
+# ./build-site.sh builds it on top of _config.yml into _site/old/.
+# The main site keeps using _config.yml with its own layouts in _layouts/ and _includes/.
+baseurl: /old
+layouts_dir: _old/layouts
+includes_dir: _old/includes
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+noindex: true
+# Not needed in the old design: no pagination, no author pages, no stories pages.
+paginate: false
+author_pages: false
+# The old home page (old-index.md) is only built here; the main site's pages and the shared assets are not.
+exclude:
+  - index.html
+  - suche.html
+  - _stories
+  - 404.html
+  - assets
+  - CNAME
+  - robots.txt
+  - Gemfile
+  - Gemfile.lock
+  - build-site.sh
+  - serve-site.sh
+  - README.md
+  - vendor
+  - node_modules
+header_pages:
+  - mittelgruppe.md
+  - suedgruppe.md

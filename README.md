@@ -3,8 +3,12 @@
 Website of a *Das Schwarze Auge* group: stories, characters and their adventures.
 Built with [Jekyll](https://jekyllrb.com/) and published with GitHub Pages at <https://www.phexkinder.de/>. A GitHub Actions workflow builds and deploys the site on every push to `master`.
 
-The design follows the old WordPress site (Twenty Eleven) with modern additions: night mode, character cards, a new menu and a search.
-It used to be a preview under `/new/`; since it became the main site, `/new/` only redirects to the start page.
+| URL | What it is |
+|---|---|
+| `https://www.phexkinder.de/` | the site: the look of the old WordPress site (Twenty Eleven) with modern additions (night mode, character cards, new menu, search) |
+| `https://www.phexkinder.de/old/` | the former minima-based design, kept as an archive. Not indexed by search engines (`noindex`, `robots.txt`), without search, character cards and menu. |
+
+The main design used to be a preview under `/new/`; that address no longer exists.
 
 Ideas and planned steps are collected in [issue #20](https://github.com/phexkinder/phexkinder.github.io/issues/20).
 
@@ -17,7 +21,7 @@ bundle install                # once
 ./serve-site.sh               # builds everything and serves it at http://localhost:4000/ (Ctrl+C to stop)
 ```
 
-Open <http://localhost:4000/>. This is exactly what the deploy publishes (the site plus the search index), so use it to
+Open <http://localhost:4000/> (the old design is at <http://localhost:4000/old/>). This is exactly what the deploy publishes (the site plus the search index), so use it to
 look at a change, also a pull request
 (`git fetch && git checkout <branch>`), before merging. After editing something, stop the script and run it again.
 `./build-site.sh` only builds into `_site/` without serving; `PORT=8080 ./serve-site.sh` uses another port.
@@ -31,13 +35,13 @@ look at a change, also a pull request
 | `mittelgruppe/`, `suedgruppe/` | the **character pages**: one file per character, the single place for name, group, tagline and card image |
 | `mittelgruppe.md`, `suedgruppe.md`, `impressum.md` | group overviews, Impressum |
 | `_layouts/`, `_includes/` | templates of the site |
-| `_config.yml` | site settings (plugins, pagination, collections) |
-| `build-site.sh`, `serve-site.sh` | build the site and the search index into `_site/` / build and serve it locally |
+| `_old/` | templates (`layouts/`, `includes/`) of the **/old copy**, plus `assets/css/site.css` and `old-index.md` (its home page) |
+| `_config.yml`, `_config_old.yml` | settings of the site / extra settings for the /old copy |
+| `build-site.sh`, `serve-site.sh` | build the site, the /old copy and the search index into `_site/` / build and serve it locally |
 | `_data/` | `navigation.yml` (main menu and the groups), `headers.yml` (header images) |
 | `_stories/` | one small page per group with its stories |
 | `_plugins/` | `author_pages.rb` generates the "Geschichten von …" page of every character with stories |
 | `suche.html` | the search page |
-| `new/index.html`, `404.html` | redirect for old `/new/` links: `new/index.html` for `/new/`, the script in `404.html` for everything below it |
 | `assets/` | images, fonts, stylesheets and scripts |
 | `_originals/` | full-resolution originals of images; **not published**, the web versions in `assets/img/` are made from them with `.github/scripts/make-image.sh` |
 | `.github/` | CI checks, the deploy workflow and Dependabot settings |
@@ -46,7 +50,8 @@ look at a change, also a pull request
 
 GitHub's built-in Pages builder can only run one Jekyll build, so the site is built by GitHub Actions instead
 (`.github/workflows/deploy.yml`, Settings > Pages > Source = "GitHub Actions"). `./build-site.sh` builds the site
-(`_config.yml`) into `_site/` and indexes it for search. Nothing generated is committed: change the sources, open a pull request, merge, and the
+(`_config.yml`) into `_site/`, builds the /old copy on top of it (`_config_old.yml`) into `_site/old/` and
+indexes the main site for search. Nothing generated is committed: change the sources, open a pull request, merge, and the
 workflow publishes the result within a couple of minutes. The same script runs in the pull request checks.
 
 ## Search

@@ -2,7 +2,7 @@
 # Builds the complete site (like the deploy does) and serves it locally, so you can look at a change
 # before it is merged:
 #
-#   ./serve-site.sh            build, then open http://localhost:4000/
+#   ./serve-site.sh            build, then open http://localhost:4000/   (and /old/ for the old design)
 #   ./serve-site.sh --no-build serve the last build again (after editing nothing)
 #   PORT=8080 ./serve-site.sh  another port
 #
@@ -17,6 +17,7 @@ port="${PORT:-4000}"
 
 echo
 echo "Site:  http://localhost:${port}/"
+echo "Old:   http://localhost:${port}/old/"
 echo "(Ctrl+C to stop)"
 echo
 cd _site

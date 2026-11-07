@@ -3,16 +3,6 @@ layout: default
 title: Seite nicht gefunden
 sitemap: false
 ---
-<script>
-  // Links to the former /new preview (/new/mittelgruppe/taran.html ...) lead here, because only /new/ itself exists:
-  // send them to the same page without the /new prefix.
-  (function () {
-    var p = window.location.pathname;
-    if (p.indexOf('/new/') === 0) {
-      window.location.replace(p.slice(4) + window.location.search + window.location.hash);
-    }
-  })();
-</script>
 <article class="page type-page status-publish hentry">
   <header class="entry-header">
     <h1 class="entry-title">Seite nicht gefunden</h1>
