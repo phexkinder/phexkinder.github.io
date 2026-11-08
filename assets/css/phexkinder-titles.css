@@ -1,13 +1,5 @@
-/* Only loaded by the /font-test copy of the site (see _config_font_test.yml): the titles in Uncial Antiqua,
-   set in capitals, instead of Mason Serif Bold. Uncial Antiqua: SIL Open Font License, see ../fonts/uncial-antiqua-OFL.txt. */
-@font-face {
-	font-family: "Uncial Antiqua";
-	font-style: normal;
-	font-weight: 400;
-	font-display: swap;
-	src: url(../fonts/uncial-antiqua-regular.woff2) format("woff2");
-}
-
+/* Title font: Uncial Antiqua in capitals, loaded after the other stylesheets (the @font-face is in phexkinder-custom.css).
+   Uncial Antiqua is wide and heavy, so the sizes are a little smaller than the old titles. */
 #site-title,
 #site-description,
 .entry-title,
@@ -21,7 +13,6 @@
 	letter-spacing: 0.03em;
 }
 
-/* Uncial Antiqua is wide and heavy: a little smaller than Mason Serif so that titles keep their lines. */
 #site-title a {
 	font-size: 40px;
 }
@@ -42,4 +33,12 @@
 
 .author-stories h2 {
 	font-size: 20px;
+}
+
+/* The wide title letters leave no room for the search box next to them on narrow screens (Twenty Eleven only hides it
+   on real phones, by device width); the menu entry "Suche" is there instead. */
+@media (max-width: 560px) {
+	#branding #searchform {
+		display: none;
+	}
 }

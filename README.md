@@ -7,7 +7,6 @@ Built with [Jekyll](https://jekyllrb.com/) and published with GitHub Pages at <h
 |---|---|
 | `https://www.phexkinder.de/` | the site: the look of the old WordPress site (Twenty Eleven) with modern additions (night mode, character cards, new menu, search) |
 | `https://www.phexkinder.de/old/` | the former minima-based design, kept as an archive. Not indexed by search engines (`noindex`, `robots.txt`), without search, character cards and menu. |
-| `https://www.phexkinder.de/font-test/` | the whole site with the titles in Uncial Antiqua (capitals) instead of Mason Serif, to compare the two. Not indexed, without search. Remove it again (see below) once the font is chosen. |
 
 Ideas and planned steps are collected in [issue #20](https://github.com/phexkinder/phexkinder.github.io/issues/20).
 
@@ -122,8 +121,7 @@ If a deploy fails, open the failed run under *Actions > Deploy*; *Re-run all job
 
 ## Fonts and licences
 
-- **Mason Serif Bold** (titles): commercial typeface by Emigre / Jonathan Barnbrook. A web-font licence still has to be purchased; Playfair Display (SIL OFL, `assets/fonts/playfair-display-OFL.txt`) is the fallback.
-- **Uncial Antiqua** (only on /font-test): free (SIL Open Font License, `assets/fonts/uncial-antiqua-OFL.txt`), by Astigmatic; the file is the original from Google Fonts, converted to WOFF2 only. It is a candidate to replace Mason Serif, which would make the licence purchase unnecessary. To adopt it: move the `@font-face` and the title rules of `assets/css/phexkinder-font-test.css` into `phexkinder-custom.css`, delete Mason Serif (`assets/fonts/MasonSerifBold.woff`, its `@font-face` and `font-family` entries), and remove the /font-test copy (`_config_font_test.yml`, the `font_test` conditions in `_layouts/` and `_includes/`, the second `jekyll build` and `font-test` in the loop of `build-site.sh`, the line in `robots.txt`).
+- **Uncial Antiqua** (titles, set in capitals): free, SIL Open Font License (`assets/fonts/uncial-antiqua-OFL.txt`), by Astigmatic. The file is the original from Google Fonts, converted to WOFF2 only (the licence asks for no other change without a new name), self-hosted. Playfair Display (SIL OFL, `assets/fonts/playfair-display-OFL.txt`) covers the few glyphs it lacks, e.g. a capital sharp s. Both fonts being free, there is no web-font licence to buy; an earlier title font (Mason Serif Bold, commercial) was removed and is only left in the git history.
 - Droid Serif (Google Fonts) and Playfair Display are self-hosted; the site makes no requests to third parties.
 - `assets/css/twentyeleven.css` comes from the WordPress theme Twenty Eleven (GPLv2 or later); `assets/css/site.css` (only used by /old) is derived from the minima theme (MIT, notice in the file).
 - *Das Schwarze Auge* names, maps and artwork: see the Impressum page for the fan conditions that apply.
