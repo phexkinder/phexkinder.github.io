@@ -3,9 +3,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- if site.noindex %}
-  <meta name="robots" content="noindex">
-  {%- endif %}
   {%- comment -%} Author and story pages have no real date; jekyll-seo-tag would print the build time as "published", so they get a plain head. {%- endcomment %}
   {%- if page.layout == "author" or page.collection == "stories" %}
   <title>{{ page.title | escape }} | {{ site.title }}</title>
@@ -18,9 +15,7 @@
   <link rel="stylesheet" href="/assets/css/phexkinder-custom.css">
   <link rel="stylesheet" href="/assets/css/phexkinder-modern.css">
   <link rel="stylesheet" href="/assets/css/phexkinder-cards.css">
-  {%- if site.font_test %}
-  <link rel="stylesheet" href="/assets/css/phexkinder-font-test.css">
-  {%- endif %}
+  <link rel="stylesheet" href="/assets/css/phexkinder-titles.css">
   <meta name="color-scheme" content="light dark">
   <script>
     // Apply a saved light/dark choice before first paint (no flash). Without a choice, the system setting decides.
@@ -45,13 +40,11 @@
         if (list.length) document.getElementById('header-image').src = list[Math.floor(Math.random() * list.length)];
       })();
     </script>
-    {%- unless site.font_test %}
     <form method="get" id="searchform" action="{{ '/suche/' | relative_url }}" role="search">
       <label for="s" class="assistive-text">Suche</label>
       <input type="search" class="field" name="q" id="s" placeholder="Suche …">
       <input type="submit" class="submit" id="searchsubmit" value="Suche">
     </form>
-    {%- endunless %}
     <nav id="access" role="navigation" aria-label="Hauptmenü">
       <h3 class="assistive-text">Hauptmenü</h3>
       <div class="skip-link"><a class="assistive-text" href="#content">Zum Inhalt wechseln</a></div>
