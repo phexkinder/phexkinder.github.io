@@ -6,7 +6,7 @@ layout: default
   {%- if page.previous %}<span class="nav-previous"><a href="{{ page.previous.url | relative_url }}"><span class="meta-nav">←</span> Vorheriger</a></span>{% endif %}
   {%- if page.next %}<span class="nav-next"><a href="{{ page.next.url | relative_url }}">Nächster <span class="meta-nav">→</span></a></span>{% endif %}
 </nav>
-<article class="post type-post status-publish format-standard hentry" data-pagefind-body>
+<article class="post type-post status-publish format-standard hentry"{% unless site.font_test %} data-pagefind-body{% endunless %}>
   <header class="entry-header">
     <h1 class="entry-title" data-pagefind-meta="title">{{ page.title | escape }}</h1>
     <div class="entry-meta">

@@ -1,0 +1,45 @@
+/* Only loaded by the /font-test copy of the site (see _config_font_test.yml): the titles in Uncial Antiqua,
+   set in capitals, instead of Mason Serif Bold. Uncial Antiqua: SIL Open Font License, see ../fonts/uncial-antiqua-OFL.txt. */
+@font-face {
+	font-family: "Uncial Antiqua";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(../fonts/uncial-antiqua-regular.woff2) format("woff2");
+}
+
+#site-title,
+#site-description,
+.entry-title,
+.entry-title a,
+.entry-content .character-card-name,
+.character-card-mono,
+.author-stories h2 {
+	font-family: "Uncial Antiqua", "Playfair Display", serif;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+}
+
+/* Uncial Antiqua is wide and heavy: a little smaller than Mason Serif so that titles keep their lines. */
+#site-title a {
+	font-size: 40px;
+}
+
+#site-description {
+	font-size: 17px;
+	letter-spacing: 0.06em;
+}
+
+.entry-title {
+	font-size: 26px;
+	line-height: 1.3;
+}
+
+.entry-content .character-card-name {
+	font-size: 18px;
+}
+
+.author-stories h2 {
+	font-size: 20px;
+}

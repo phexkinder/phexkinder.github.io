@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /old/
+Disallow: /font-test/
 
 Sitemap: https://www.phexkinder.de/sitemap.xml
