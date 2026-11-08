@@ -19,6 +19,8 @@
         {%- endfor %}
       </ul>
     </li>
+    {%- elsif site.font_test and item.url == "/suche/" %}
+    {%- comment %} the /font-test copy has no search {% endcomment %}
     {%- else %}
     <li class="menu-item{% if page.url == item.url %} current-menu-item{% endif %}"><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
     {%- endif %}
