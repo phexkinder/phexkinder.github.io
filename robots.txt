@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /old/
 
 Sitemap: https://www.phexkinder.de/sitemap.xml

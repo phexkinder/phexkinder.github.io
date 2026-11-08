@@ -6,9 +6,9 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.4"
 
 # Plain gems, not `group :jekyll_plugins`: which plugin runs is decided by `plugins:` in
-# _config.yml (whole site) and _config_new.yml (/new preview, which has no sitemap).
+# _config.yml.
 gem "jekyll-feed"
-gem "jekyll-paginate" # blog index of /new
+gem "jekyll-paginate" # blog index
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
 
